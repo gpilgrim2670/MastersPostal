@@ -2,7 +2,6 @@ library(readxl)
 library(dplyr)
 library(stringr)
 #library(purrr)
-setwd("/Users/Greg/Documents/R Programming Course/MastersPostalProject")
 
 Postal_2015 <- read_excel("Postal_2015.xlsx")
 Postal_2016 <- read_excel("Postal_2016.xlsx")
