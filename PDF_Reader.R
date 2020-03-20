@@ -8,17 +8,17 @@ Womens <-
 
 ePostal_Reader <- function(file_path) {
   
-  Year = str_extract(file_path, "\\d{4}")
+  Year = stringr::str_extract(file_path, "\\d{4}")
   
-  file <- pdf_text(file_path)
+  file <- pdftools::pdf_text(file_path)
   
-  as_lines <- str_extract_all(file, "\n.*")
+  as_lines <- stringr::str_extract_all(file, "\n.*")
   as_lines_list_2 <- unlist(as_lines, recursive = TRUE)
   
   row_numbs <- seq(1, length(as_lines_list_2), 1)
   as_lines_list_2 <- paste(as_lines_list_2, row_numbs, sep = "  ")
 
-  Gender = ifelse(any(str_detect(as_lines_list_2, "Men")), "M", "W")
+  Gender = ifelse(any(stringr::str_detect(as_lines_list_2, "Men")), "M", "W")
   
   data_1 <- as_lines_list_2 %>%
     stringr::str_extract_all("\n\\s*\\d{1,3}.*") %>%
@@ -48,7 +48,7 @@ ePostal_Reader <- function(file_path) {
       as.data.frame(t(as.data.frame(data_length_10)),
                     row.names = FALSE,
                     stringsAsFactors = FALSE) %>%
-      select(
+      dplyr::select(
         Age_Group = V1,
         Place = V2,
         First_Name = V3,
@@ -81,7 +81,7 @@ ePostal_Reader <- function(file_path) {
       as.data.frame(t(as.data.frame(data_length_9)),
                     row.names = FALSE,
                     stringsAsFactors = FALSE) %>%
-      select(
+      dplyr::select(
         Age_Group = V1,
         Place = V2,
         First_Name = V3,
@@ -114,7 +114,7 @@ ePostal_Reader <- function(file_path) {
       as.data.frame(t(as.data.frame(data_length_8)),
                     row.names = FALSE,
                     stringsAsFactors = FALSE) %>%
-      select(
+      dplyr::select(
         Place = V1,
         First_Name = V2,
         Last_Name = V3,
@@ -146,9 +146,9 @@ ePostal_Reader <- function(file_path) {
       as.data.frame(t(as.data.frame(data_length_7)),
                     row.names = FALSE,
                     stringsAsFactors = FALSE) %>%
-      mutate(Club = str_split_fixed(V5, " ", n = 2)[, 1],
-             ID = str_split_fixed(V5, " ", n = 2)[, 2]) %>%
-      select(
+      dplyr::mutate(Club = stringr::str_split_fixed(V5, " ", n = 2)[, 1],
+             ID = stringr::str_split_fixed(V5, " ", n = 2)[, 2]) %>%
+      dplyr::select(
         Place = V1,
         First_Name = V2,
         Last_Name = V3,
@@ -180,7 +180,7 @@ ePostal_Reader <- function(file_path) {
       as.data.frame(t(as.data.frame(data_length_2)),
                     row.names = FALSE,
                     stringsAsFactors = FALSE) %>%
-      select(ID_Cut = V1,
+      dplyr::select(ID_Cut = V1,
              Row_Numb = V2)
     
   } else {
@@ -204,20 +204,20 @@ ePostal_Reader <- function(file_path) {
     dplyr::full_join(df_7) %>%
     dplyr::mutate(Row_Numb = as.numeric(Row_Numb)) %>%
     dplyr::arrange(Row_Numb) %>%
-    mutate(ID = case_when(
-      str_detect(ID, "-") == FALSE & str_detect(ID, "[:lower:]") == FALSE ~ paste(df_2$ID_Cut, ID, sep = ""),
+    dplyr::mutate(ID = dplyr::case_when(
+      stringr::str_detect(ID, "-") == FALSE & stringr::str_detect(ID, "[:lower:]") == FALSE ~ paste(df_2$ID_Cut, ID, sep = ""),
       TRUE ~ ID
     )) %>%
-    fill(Age_Group, .direction = "down") %>%
-    mutate(National_Record = case_when(is.na(National_Record) == TRUE ~ "N",
+    tidyr::fill(Age_Group, .direction = "down") %>%
+    dplyr::mutate(National_Record = dplyr::case_when(is.na(National_Record) == TRUE ~ "N",
                                        TRUE ~ National_Record)) %>% 
-    mutate(Place = as.numeric(Place),
+    dplyr::mutate(Place = as.numeric(Place),
            Age = as.numeric(Age),
-           Distance = str_replace(Distance, ",", ""),
+           Distance = stringr::str_replace(Distance, ",", ""),
            Distance = as.numeric(Distance),
            Gender = Gender,
            Year = as.numeric(Year)) %>% 
-    select(-Row_Numb)
+    dplyr::select(-Row_Numb)
   
   return(data)
 }
