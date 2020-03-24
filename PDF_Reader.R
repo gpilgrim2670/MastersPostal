@@ -221,3 +221,8 @@ ePostal_Reader <- function(file_path) {
   
   return(data)
 }
+
+Mens_2020 <- ePostal_Reader("inst/extdata/2020 OHEP Mens Preliminary Results.pdf")
+Womens_2020 <- ePostal_Reader("inst/extdata/2020 OHEP Womens Preliminary Results.pdf")
+
+df_2020 <- bind_rows(Mens_2020, Womens_2020)
