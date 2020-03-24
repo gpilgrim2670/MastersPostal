@@ -1,0 +1,3675 @@
+
+1	Jessica Knapp	22	CONN	5,085	Women	1999
+
+2	Amanda Pagon	23	SPCO	4,960
+
+3	Trina Young	22	NEM	4,940
+
+4	Emily Peters	23	EMP	4,820
+
+5	Emily Butler	22	GCMT	4,810
+
+	Andrea Parenteau	24	GRIN	4,810
+
+7	Jodi Jackson	21	STAN	4,735
+
+8	Jen Myers	22	EMP	4,710
+
+9	Erin Powers	23	NEM	4,700
+
+10	Catherine Fuss	24	EMP	4,640
+
+11	Heather Kohler	24	DAM	4,625
+
+12	Chantal Harrison	24	CRAQ	4,590
+
+13	Andrea Montana	23	EMP	4,580
+
+14	Sasha Moore	21	CRUZ	4,565
+
+15	Maia Young	24	STAN	4,540
+
+16	Leslie Thomas	24	EMP	4,520
+
+17	Leslie Allen	23	NEM	4,500
+
+	Catherine Darst	20	DAM	4,500
+
+19	Angie Zankich	20	DAM	4,475
+
+20	Marissa Wong	20	DAM	4,415
+
+21	Amy Hurst	22	DAM	4,390
+
+	Robyn Jarmer	24	DAM	4,390
+
+23	Laurel Bernini	22	NEM	4,375
+
+24	Holly Castle	21	WILD	4,350
+
+25	Tiffany Hughes	22	DAM	4,295
+
+26	Nicole Freda	22	ORLM	4,285
+
+27	Julie Nielsen	22	DAM	4,260
+
+28	Kendra Garrow	24	NEM	4,250
+
+29	Aimee Pfohl	20	DAM	4,235
+
+30	Carrie Loehr	24	DSTO	4,220
+
+31	Leonie Wynhoven	24	DAM	4,215
+
+32	Lura Hess	22	UCLA	4,200
+
+33	Lia Schraeder	23	DAM	4,190
+
+	Becky Smith	19	DAM	4,190
+
+35	Maia Goodkin	20	CRUZ	4,155
+
+36	Loaiza Ortiz	22	DAM	4,125
+
+37	Christy Thomsen	24	NEM	4,085
+
+38	Ani Hanoian	19	DAM	4,050
+
+	Laura Lederer	24	STAN	4,050
+
+40	Vicki Ashworth	24	DSTO	4,035
+
+41	Kara Jordan	22	DAM	3,985
+
+42	Lenya Hanoian	20	DAM	3,950
+
+43	Emily Larson	21	DAM	3,925
+
+44	Jen Hein	19	MOVY	3,900
+
+45	Aysha Taff	23	DAM	3,875
+
+46	Liz Jurrus	24	DAM	3,870
+
+47	Karissa Holstein	19	DAM	3,850
+
+	Nina Wurzburger	23	DAM	3,850
+
+49	Naomi Otsuka	21	DAM	3,840
+
+	Victoria Webber	24	MICH	3,840
+
+51	Sarah York	22	EMP	3,830
+
+52	Amber Lantz	23	EMP	3,810
+
+53	Kate Pikkarainen	21	DAM	3,805
+
+54	Marlia Braun	23	DAM	3,750
+
+55	Katie Davenport	23	NEM	3,725
+
+56	Melanie Lovrin	21	DAM	3,675
+
+57	Betsy Hagmann	23	EMP	3,670
+
+58	Monica Burns	21	DAM	3,650
+
+	Kaarin Svendsen	23	NEM	3,650
+
+60	Wendy Rash	22	DAM	3,625
+
+	Monica Whent	20	DAM	3,625
+
+62	Emily Fleming	21	DAM	3,605
+
+63	Becky Kupcinskas	24	NEM	3,600
+
+	Grace Tsai	21	DAM	3,600
+
+65	Katie Stewart	19	DAM	3,535
+
+66	Mayumi Rico	20	CRUZ	3,475
+
+67	Karen Shapiro	23	DAM	3,460
+
+68	Kristin Matthews	23	DAM	3,380
+
+69	Mary Briant	24	DAM	3,360
+
+70	Anne Dubinsky	24	DAM	3,330
+
+71	Anne Finkbeiner	21	DAM	3,300
+
+72	Gretchen Bates	24	EMP	3,295
+
+73	Jessica DePrimo	21	DAM	3,185
+
+74	Susan Saleeb	24	EMP	3,165
+
+75	Kathleen Thissen	19	KENT	3,100
+
+76	Rachel Diele	21	DAM	3,065
+
+77	Emily Corwin	19	DAM	3,000
+
+78	Raquel Balderas	23	DAM	2,975
+
+79	Dawn Johnson	22	DAM	2,940
+
+80	Amy Weik	24	GRIN	2,700
+
+81	Corin Greenberg	19	DAM	2,590
+
+82	Linina Job	24	OREG	2,250
+
+1	Alison Zamanian	28	SCAM	5,455
+
+2	Wendy Knox	27	WILD	5,265
+
+	Leslie Ramsey	26	WILD	5,265
+
+4	Jane Cairns	28	OSB	5,025
+
+5	Linda Visser	28	ORLM	4,915
+
+6	Heather Hageman	28	NCMS	4,875
+
+7	Sara Quan	26	OREG	4,840
+
+8	Gina Kehr	29	STAN	4,835
+
+9	Melissa Braisted	26	NEM	4,830
+
+10	Morgan Merrick	26	EMP	4,740
+
+11	Jaimi Doan	27	DAM	4,715
+
+12	Kari Anderson	26	NEM	4,680
+
+13	Christine Lindstrom	29	NEM	4,660
+
+14	Cynthia Hertzer	29	CRUZ	4,650
+
+15	Katie Kelly	29	TAM	4,635
+
+16	Heather Lugassy	28	TAM	4,575
+
+17	Stephanie Wriede	28	NEM	4,570
+
+18	Michele Fox	29	NEM	4,565
+
+19	Robin Hewitt	29	NEM	4,530
+
+20	Corinne Murphy	25	NEM	4,465
+
+21	Lisa Neidrauer	26	EMP	4,450
+
+	Carol Prescott	29	NEM	4,450
+
+23	Karen Neyer	26	EMP	4,440
+
+24	Alice Canwell	26	DAM	4,400
+
+	Leah Jack	25	STAN	4,400
+
+26	Natalie Marcone	25	SANR	4,350
+
+27	Amy Gorton	27	NIAG	4,305
+
+28	Solvei Sullivan	28	IM	4,300
+
+29	Colleen Alderson	27	EMP	4,245
+
+30	Ursula Hester	27	LAM	4,200
+
+31	Kim Walsh	29	STAN	4,190
+
+32	Shelley Farmer	28	EMP	4,150
+
+33	Luz Tansinsin	25	GRIN	4,125
+
+34	Melissa Thompson	28	GRIN	4,110
+
+35	Sandra Lehr	28	IM	4,090
+
+36	Cathi Webber	29	GRIN	4,085
+
+37	Molly Shaffer Van Houweling	25	LAM	4,075
+
+38	Jenn Lansing	29	SDSM	4,030
+
+39	Christine Tobia	27	DAM	4,005
+
+40	Amy Carlson	25	DAM	4,000
+
+
+	Jennifer Clark-Colfer	27	DAM	4,000
+
+	Julie Stelzel	25	GRIN	4,000
+
+43	Ann Marie Kennedy	29	DAM	3,980
+
+44	Jessica Berger	27	NEM	3,960
+
+45	Penny Hauffe	26	GLD	3,950
+
+	Kate Matwychuk	27	FINS	3,950
+
+47	Candy Berwick	25	EMP	3,930
+
+48	Darcey Hostetler	26	DAM	3,920
+
+	Ali Wagner	26	EMP	3,920
+
+50	Erika Kegel	26	DAM	3,915
+
+51	Alexandra Weymouth	28	GRIN	3,900
+
+52	Beth Farrell	25	EMP	3,885
+
+53	Hannah Caldwell	26	NEM	3,860
+
+54	Jennifer Waterman	26	VMST	3,840
+
+55	Heather Hedrick	26	GRIN	3,825
+
+56	Elizabeth Boehm	25	NEM	3,820
+
+57	Kim Hamilton	29	DSSM	3,790
+
+	Amanda Holzhousen	25	GRIN	3,790
+
+59	Tracy Knight	26	GRIN	3,760
+
+60	Liz Fuss	25	EMP	3,735
+
+61	Molly Webb-Brewer	29	DAM	3,720
+
+62	Rosey Daniels	29	VMST	3,695
+
+63	Nicole Watson	26	STAN	3,690
+
+64	Christine O_Connor	26	NEM	3,675
+
+65	Colleen Crossman	25	NEM	3,650
+
+66	Tracy Haffner	29	EMP	3,605
+
+	Betsy Hall	29	WILD	3,605
+
+68	Michelle Allman	27	NEM	3,580
+
+	Ginger Craig	27	NCMS	3,580
+
+	Cindy Greenberg	29	EMP	3,580
+
+71	Laura Braverman	25	GRIN	3,570
+
+72	Suzy Cunnington	26	EMP	3,565
+
+73	Dana Christensen	26	NEM	3,560
+
+74	Heide Paddock	29	AAMS	3,550
+
+	Ana Ziedins	25	DAM	3,550
+
+76	Sylvie Burlot	26	EMP	3,530
+
+77	Lisa Fahey	28	EMP	3,525
+
+78	Karen Charney	29	DAM	3,480
+
+79	Carrie Coit	28	DAM	3,400
+
+80	Gena Daugherty	27	GRIN	3,365
+
+81	Alexandra Ness	28	EMP	3,325
+
+82	Jennifer Rein	27	NEM	3,315
+
+83	Gian-Claudia Sciara	28	UCLA	3,270
+
+84	Flo Anderson	28	NEM	3,205
+
+85	Cara Field	29	DAM	3,100
+
+86	Heather Neumann	25	EMP	3,085
+
+87	Tizana DiTulio	26	EMP	3,025
+
+	Lori Ruck-Morris	28	NIAG	3,025
+
+89	Allis Ghim	25	EMP	3,010
+
+90	Jennifer Wingate	25	GRIN	2,950
+
+91	Mary Pieczko	27	GRIN	2,940
+
+92	Tort Prescott	28	EMP	2,885
+
+93	Glenda Peay	26	MEND	2,815
+
+94	Caroline Handel	25	EMP	2,740
+
+95	Hana Schank	26	EMP	2,730
+
+96	Emily Lo	29	DAM	2,710
+
+97	Kathy Makowski	25	NEM	2,660
+
+98	Andrea Krause	27	DAM	2,495
+
+99	Dafna Kadim	29	DAM	2,450
+
+100	Marina Alcade	26	EMP	2,365
+
+101	Aleisha Kropf	29	GRIN	2,150
+
+102	Nanette Johnson	27	EMP	1,495
+
+1	Martie McKinney	33	STAN	5,140
+
+2	Nancy North	30	SDSM	5,080
+
+3	Becky Heller	34	IM	4,985
+
+4	Marcia Cleveland	34	CONN	4,935
+
+5	Ann Welage	32	GRIN	4,875
+
+6	Patricia Sepulvado	34	ARG	4,850
+
+7	Beth Birnbrich	34	GCMT	4,795
+
+8	Melissa Kerker	33	GRIN	4,775
+
+9	Lorna Cialdella	34	GSM	4,770
+
+10	Jerri Freimuth	34	1776	4,750
+
+11	Kristen Johnston	32	NCMS	4,730
+
+12	Julie Walsh	32	EMP	4,635
+
+13	Jody Planz	33	ADMS	4,535
+
+14	Adrienne Seal	33	SWIM	4,500
+
+15	Kris Urshaw	31	GRIN	4,500
+
+16	Tina Childress-Brown	34	GRIN	4,490
+
+17	Kris Jarecki	33	1776	4,480
+
+18	Lori Terlouw	34	ARKM	4,470
+
+19	Michele Roy	34	NEM	4,455
+
+20	Jessie Toland	30	NEM	4,435
+
+21	Madeline Nagy	31	NEM	4,425
+
+22	Susan Begin	31	UCLA	4,420
+
+23	Jennifer Backer	30	MICH	4,410
+
+24	Sachi Sawamura	32	GRIN	4,405
+
+25	Jennifer Ferree	34	MESC	4,400
+
+26	Elizabeth Nilsen	30	CRUZ	4,350
+
+27	Lynne Czech	31	NEM	4,320
+
+28	Stacey Vargas	33	RCA	4,310
+
+29	Nancy Thomson	34	NEM	4,300
+
+30	Rebecca Helm	32	GRIN	4,280
+
+31	Martha Hoopes	33	DAM	4,270
+
+32	Kathleen Hynes	33	EMP	4,250
+
+33	Nessa Hawkins	34	DSSM	4,230
+
+34	Janet Kaehms	33	SANR	4,200
+
+	Kathryn Winkle	33	OREG	4,200
+
+36	Mary Makley	32	NEM	4,175
+
+	Elina Toskala	31	DAM	4,175
+
+38	Susan Mahler	32	NEM	4,160
+
+	Anne Tilley	33	NEM	4,160
+
+40	Diana Hassel	31	DAM	4,105
+
+41	Tina De Salvo	33	SPCO	4,085
+
+42	Michelle Childress	32	GRIN	4,080
+
+	Virginia Somma-Guido	34	EMP	4,080
+
+44	Christine Vess	34	NCMS	4,075
+
+45	Beth Cooperrider	31	STAN	4,050
+
+	Gertrude Gugliemini	33	OREG	4,050
+
+47	Amy Farmer	34	GRIN	4,035
+
+48	Kacy Magedman	31	UCLA	4,020
+
+49	Holly Messitt	32	EMP	4,005
+
+50	Jacky Carroll	30	HUMU	4,000
+
+	Stephanie L. Gould	33	EMP	4,000
+
+	Jenny Lundmark	32	DAM	4,000
+
+	Mary Elise Sarotte	31	NEM	4,000
+
+54	Andrea Ghez	33	UCLA	3,995
+
+55	Christine Laidlaw	31	EMP	3,975
+
+56	Kristin Juba	33	EMP	3,965
+
+57	Jamie Caplan	31	NEM	3,950
+
+58	Caroline Kirk	30	GRIN	3,940
+
+59	Mindi Brenner	34	CVM	3,925
+
+60	Georgia Wood	34	NEM	3,905
+
+61	Melodee Nugent	31	WMAC	3,900
+
+62	Tanya Fredricks	32	TAM	3,895
+
+63	Carol Irving	32	DAM	3,860
+
+64	Julie Veress	33	DAM	3,810
+
+65	C. Mei-An Tsu	30	NEM	3,775
+
+66	Samantha Hand	31	NEM	3,740
+
+67	Chana Motobu	34	STAN	3,725
+
+68	Diane Robitaille	33	NEM	3,720
+
+69	Birgit Puschner	31	DAM	3,670
+
+70	Leah Turner	31	LAM	3,655
+
+71	Wendy Burge	31	NEM	3,650
+
+	Sharon Theriot	32	NEM	3,650
+
+73	Karin Papes	34	WPM	3,640
+
+74	Sally Kadkhodayan	33	SCAM	3,635
+
+	Leanna Sweha	34	DAM	3,635
+
+76	Ellen Hopmans	32	DAM	3,625
+
+	Janet Silverman	33	EMP	3,625
+
+78	Lauren Hardman	34	SPCO	3,620
+
+79	Sarah Tebbens	33	SPM	3,575
+
+80	Jana Slezak	33	NEM	3,565
+
+81	Wendy Gulley	33	NEM	3,560
+
+82	Lynne Sgarlato	31	SPCO	3,535
+
+83	Laura Finch	31	GRIN	3,480
+
+84	Laurie Jurkiewicz	32	TAM	3,475
+
+85	Joan Heath	34	EMP	3,455
+
+86	Jennifer Lickson	33	EMP	3,450
+
+87	Janel Willette	30	CONN	3,440
+
+88	Sandra McBride	31	STAN	3,425
+
+89	Cheryl Wolfschlag	31	GRIN	3,420
+
+90	Jackie Ryan	32	OREG	3,410
+
+91	Marcy Driver	34	EMP	3,385
+
+92	Kathleen Jaeger	34	EMP	3,370
+
+93	Andrea Nicholas	31	EMP	3,320
+
+94	Julie Sukman	33	EMP	3,310
+
+95	Janet Wiener	32	STAN	3,275
+
+96	Virginia Seery	34	NEM	3,250
+
+97	Andrea Ivan	34	LAM	3,235
+
+98	Heidi Soria	34	CATM	3,230
+
+99	Brooke Petersen	32	SANR	3,225
+
+100	Dorothea Panayoton	32	DAM	3,190
+
+101	Heather Sampson	31	UNAT	3,125
+
+102	Stacy Wright	33	DAM	3,005
+
+103	Bobbie Zinck	32	NEM	2,975
+
+104	Liz Bowen	32	DAM	2,970
+
+	Randi Goulding	32	SMMM	2,970
+
+	Jennifer Neale	31	DAM	2,970
+
+107	Christina Rosado	30	DAM	2,830
+
+108	Lisa Rakes	32	WILD	2,665
+
+1	Jane Worden	35	STAN	5,060
+
+2	Kerry Halsted	35	DAM	5,005
+
+3	Juliana Nievergelt	38	NEM	4,855
+
+4	Judy Nelson	38	RMM	4,850
+
+5	Wendy Pratt	38	DAM	4,750
+
+6	Karen Smyers	37	NEM	4,725
+
+7	Andrea Nauta	39	SPM	4,700
+
+8	Sharon Blaha	38	DAM	4,680
+
+9	Paula Pollard	35	ARIZ	4,665
+
+10	Leslie Henshaw	39	TULS	4,655
+
+11	Sharon Wencel	39	TTEX	4,640
+
+12	Cary Mazzone	35	NEM	4,635
+
+13	Amy Rieger	37	DAM	4,625
+
+14	Patricia Powis	38	VMST	4,610
+
+15	Heike Mansoor	36	FAMS	4,570
+
+16	Maud Orlando	36	SPM	4,545
+
+17	Abigail Falk	37	EMP	4,530
+
+	Connie Hallett	39	NEM	4,530
+
+19	Ann Hemington	36	CRUZ	4,460
+
+20	Marissa Moss	39	SCAM	4,440
+
+21	Julie Langston	36	DAM	4,435
+
+22	Pamela Blaikie	36	EMP	4,350
+
+23	Kathi Joye	35	DAM	4,335
+
+	Anietta Tice	37	DAM	4,335
+
+25	Melissa Dipple	38	SPM	4,320
+
+26	Diane Smith	35	YCRC	4,285
+
+27	Kim Ratcliffe	37	NEM	4,280
+
+28	Irena Sumbera	36	NEM	4,275
+
+29	Kathleen Wilson	35	PALM	4,265
+
+30	Yvonne Gutierrez	36	NEM	4,240
+
+31	Lynn Perzeszty	36	EMP	4,235
+
+32	Nicole Tate	35	GRIN	4,225
+
+33	Izzy Crane	39	SANR	4,200
+
+	Tina Talbot	37	SANR	4,200
+
+	Lynda Yancher	35	DAM	4,200
+
+36	Mary Kay Fitzgerald	38	ARKM	4,185
+
+37	Lynne Anderson	39	SLOM	4,175
+
+38	Barbara Cronin-Stagnan	37	EMP	4,160
+
+39	Sue Free	36	SMMM	4,155
+
+40	Kristine Buckley	38	TAM	4,150
+
+	Kim Larsen	37	GRIN	4,150
+
+42	Laurie Ellis	35	NEM	4,140
+
+43	Gale Berkowitz	39	SCAM	4,130
+
+44	Stacey Mondschein	39	1776	4,100
+
+45	Ann Schnieders	38	GRIN	4,080
+
+46	Michelle Echenique	38	SCAM	4,075
+
+	Mary Kahn	39	DAM	4,075
+
+48	Cynthia Brown	37	DAM	4,070
+
+49	Nancy Hormann	39	GRIN	4,010
+
+50	Elizabeth Bishay	35	DAM	4,000
+
+51	Linda Casillas	36	DAM	3,950
+
+52	Diane Hughes	37	NEM	3,940
+
+53	Beth Flynn	36	RHMS	3,905
+
+54	Kathryn Farrington	39	NEM	3,890
+
+55	Cheryl Atchley	37	GRIN	3,875
+
+	Jocelyn Dunning	39	SANR	3,875
+
+	Anne Kerr	36	NEM	3,875
+
+58	Caitlin McVarish	38	CONN	3,850
+
+59	Bodil Arlander	35	EMP	3,805
+
+60	Martha Freeze	37	NEM	3,800
+
+	Nancy Wright	37	DAM	3,800
+
+62	Michelle Groce	38	NCMS	3,795
+
+63	Denise Mullane	37	NEM	3,790
+
+64	Patricia Tweten	36	TAM	3,785
+
+65	Judith Heher	35	CRUZ	3,775
+
+66	Julie Bickel	37	GRIN	3,750
+
+	Kelley Ryan-Warner	35	Tam	3,750
+
+68	Sally Sackett	39	NIAG	3,735
+
+69	Laura-Anne Sammarco	39	SMMM	3,710
+
+70	Ginger Kiernan	37	MEND	3,700
+
+71	Suzanne Van Cleve	36	SANR	3,665
+
+72	Judy Beckman	39	NEM	3,640
+
+73	Kathy Brown	39	DAM	3,615
+
+74	Eve Oliphant	38	MEND	3,590
+
+75	Sharon McGoff	35	GRIN	3,570
+
+76	Leanne Clark	36	OSB	3,550
+
+77	Eileen Fagan	37	EMP	3,545
+
+78	Elizabeth Rich	37	EMP	3,535
+
+79	Terri Moyer	37	NEM	3,530
+
+80	Denise Driscoll	38	NEM	3,515
+
+81	Diane Sidner	38	GRIN	3,500
+
+82	Liza Dicken	36	WILD	3,455
+
+83	Merrill Hilf	38	FINS	3,450
+
+84	Holly Day	36	GRIN	3,400
+
+85	Patty Quillin	39	CRUZ	3,390
+
+86	Pat Groeger	37	NIAG	3,385
+
+87	Joyce Muzzey	39	NEM	3,365
+
+88	Kim James	35	GRIN	3,340
+
+89	Rita Calden	39	CONN	3,335
+
+90	Ellen Anderson	35	DAM	3,315
+
+91	Madeline Dale	39	EMP	3,285
+
+92	Beth Chittenden	39	WILD	3,270
+
+93	Queta Boese	38	NEM	3,260
+
+	Patti Stetson	38	OSB	3,260
+
+95	Kimberly Kelble	37	RCA	3,210
+
+96	Sonia Chidlress-Hoek	37	GRIN	3,175
+
+97	Bonnie Varney	38	NEM	3,150
+
+98	Cristine Noll	39	IM	3,130
+
+99	Stephanie Koop	35	DAM	3,090
+
+100	Kathy Garrett	36	EMP	3,050
+
+101	Deborah Edin	36	NEM	3,045
+
+	Joan Roche	37	EMP	3,045
+
+103	Manuela Noske	36	DAM	3,010
+
+104	Pam Ronald	38	DAM	3,000
+
+105	Leslie Ayers	37	UNAT	2,950
+
+106	Joy Dvorak	37	GRIN	2,915
+
+107	Tamara Baker	39	UNAT	2,885
+
+108	Isabelle Breton	38	DAM	2,850
+
+109	Karen Wright	39	EMP	2,800
+
+110	Trisha Ruby	36	DAM	2,775
+
+111	Lynn Flink	37	CRUZ	2,770
+
+112	Jean Afzali	38	NEM	2,750
+
+113	Michelle Norvell	35	MEND	2,725
+
+114	Maggie Cuddy	38	CONN	2,700
+
+	Leslie Spieth	38	NEM	2,700
+
+116	Ann Marie Colt	35	WILD	2,695
+
+117	Audrey Sher	35	EMP	2,570
+
+118	Bernadette Grande	35	EMP	2,250
+
+119	Virginia Grande	36	EMP	2,050
+
+1	Suzanne Heim-Bowen	40	TERA	5,230
+
+2	Barbara Crowder	41	NEM	4,880
+
+3	Heidi Christensen	40	DSSM	4,785
+
+4	Karen Einsidler	42	EMP	4,715
+
+5	Julie Hoffman	43	DSSM	4,680
+
+6	Meg May	41	GOLD	4,625
+
+	Cathy Carr West	44	DAM	4,625
+
+8	Judy Heller	43	STAN	4,540
+
+9	Liz Applegate	42	DAM	4,530
+
+10	Tracy Grilli	41	NEM	4,525
+
+	Stephanie Kessler	41	EMP	4,525
+
+12	Mag Bowen	40	GCMT	4,515
+
+13	Jo Ann Harrelson	43	SPM	4,495
+
+14	Phyllis Quinn	43	TOC	4,475
+
+15	Debbie Wilson	44	NCMS	4,430
+
+16	Merry Finch	44	YCRC	4,400
+
+17	Deborah Cain	42	DSTO	4,395
+
+18	Mira Dabrowski	41	LAM	4,350
+
+19	Anita Cristil Dinwiddie	44	GKMS	4,345
+
+20	Martha Seaver	43	LAM	4,335
+
+	Eileen Wall	40	STAN	4,335
+
+22	Beverly Amick	44	NCMS	4,320
+
+	Barbara Wheeler	41	TAM	4,320
+
+24	Jane Zee-Zoufaly	40	NEM	4,300
+
+25	Ann Slavin	44	DAM	4,275
+
+26	Linda Hargreaves	41	NEM	4,260
+
+27	Carol Belva	43	NIAG	4,255
+
+	Wendy Johnson	43	LAM	4,255
+
+29	Cindi Burrows	41	CVM	4,230
+
+30	Karen Goldman	44	TAM	4,225
+
+	Barbara Waganaar	43	SPCO	4,225
+
+32	Gayle Wettach	41	NEM	4,210
+
+33	Debbie Gregoire	44	OREG	4,200
+
+34	Jennifer Luker	42	NEM	4,185
+
+35	Judy Bracken	41	SANR	4,180
+
+36	Kathy Harris	43	NEM	4,165
+
+37	Niki Stokols	41	DSSM	4,145
+
+38	Karla Black	43	NEM	4,135
+
+39	Deborah Roberts	40	ADMS	4,115
+
+40	Anne Clark Claman	41	TAM	4,110
+
+41	Laura Wright	40	GCMT	4,105
+
+42	Laura Schob	40	OREG	4,100
+
+43	Denise Martin	41	MICH	4,075
+
+	Shannon Sullivan	44	OSB	4,075
+
+45	Kathryn Striebel	40	SCAM	4,070
+
+46	Janet Dresch	44	VMST	4,055
+
+47	Brenda Meyer	44	MOVY	4,050
+
+48	Margaret Meehan	41	EMP	4,045
+
+49	Pamela Ogden	42	MINN	4,040
+
+50	Kathy Englar	41	LAM	4,010
+
+51	Kim Goodwin	41	NEM	4,000
+
+52	Theresa Murphey	41	SWM	3,995
+
+53	Nancy Kryka	43	MINN	3,990
+
+54	Teresa Owen	41	TAM	3,925
+
+55	Jane Ellen Higgins	44	DAM	3,900
+
+56	Cheryl Gettelfinger	41	GRIN	3,875
+
+	Linda Isner	44	NEM	3,875
+
+58	Paula Meyer Goedde	40	GRIN	3,850
+
+59	Glenna Ryan	43	NEM	3,825
+
+60	Victoria Poth	43	EMP	3,820
+
+61	Jeanne Sundvik	44	NEM	3,800
+
+	Mimi Wolff	40	SCAM	3,800
+
+63	Carmen Bayer/Jourdain	42	EMP	3,790
+
+64	Jamie Anderson	43	DAM	3,775
+
+65	Laura Bea Albrecht	44	TAM	3,760
+
+66	Mary Jane Coutz	42	GRIN	3,725
+
+67	Thelma Cleland	43	EMP	3,720
+
+	Joan Reilly	44	NEM	3,720
+
+69	Edna Moore	44	DSSM	3,715
+
+70	Kathy Berger	44	GRIN	3,700
+
+	Susan Hammang	41	NEM	3,700
+
+	Shelley Sella	41	SCAM	3,700
+
+73	Karen Schelegle	44	DAM	3,680
+
+74	Karen Jansen	42	LOM	3,675
+
+75	Dianne Edgar	42	NIAG	3,670
+
+	Nancy Lipira	42	EMP	3,670
+
+	Ann Rossi	42	UNAT	3,670
+
+78	Kathleen Hughes	40	GCMT	3,665
+
+79	Esther Solondz	44	NEM	3,660
+
+80	Elizabeth McCarthy	42	DAM	3,640
+
+81	Jessica Jakobi	40	TAM	3,635
+
+	Laurie Perry	40	DAM	3,635
+
+83	Patty Puth	43	DSSM	3,630
+
+84	Darlene Clark	40	GOLD	3,600
+
+	Nancy Ford	41	CONN	3,600
+
+	Barbara Vohryzek	41	DAM	3,600
+
+87	Karen Muenter	43	SANR	3,595
+
+88	Charlene Ellestad	43	RCA	3,590
+
+89	Meg Smath	42	WILD	3,585
+
+90	Amy Waltch	41	NEM	3,575
+
+91	Janice Kregor	42	WILD	3,550
+
+92	Heidi Ball	40	DAM	3,500
+
+	Jeanie Hoffman	41	IAMA	3,500
+
+94	Donna Bush	42	GCMT	3,480
+
+95	Janice Bales	41	VMST	3,460
+
+	Ann Simpson	44	RCA	3,460
+
+	Susan Sullivan	41	INWM	3,460
+
+98	Sue Murray	42	EMP	3,450
+
+99	Debra Rozales	40	GRIN	3,445
+
+100	Mary Weerts	41	GRIN	3,440
+
+101	Jill Markey	43	GCMT	3,435
+
+	Anne Warner	44	NEM	3,435
+
+103	Kathy Childres	40	ARKM	3,420
+
+	Gail Thomas	44	UNAT	3,420
+
+105	Jennifer Enzminger	42	SANR	3,385
+
+	Susan Miller	42	SANR	3,385
+
+107	Valerie Greenough	41	DAM	3,370
+
+108	Sandy Woodcock	42	NEM	3,365
+
+109	Elizabeth Day	40	NEM	3,350
+
+	Pia Sanda	44	WPM	3,350
+
+	Julie Stout	41	GRIN	3,350
+
+112	Allison Alcalay	44	DAM	3,335
+
+113	Polly Davie	44	NEM	3,330
+
+114	Lee Ann Bailey	44	DAM	3,300
+
+	Katherine Vaz	43	DAM	3,300
+
+116	Lorraine Ramsden	43	NML	3,280
+
+117	Sarah Chaney	40	DAM	3,270
+
+118	Allison Taborek	40	LOM	3,210
+
+119	Marianne Henry	43	OSB	3,200
+
+120	Diane Barlett	42	DAM	3,185
+
+121	Rene Barth	42	EMP	3,180
+
+122	Cynthia Dzialo	41	NEM	3,150
+
+123	Wendy Yoder	42	DAM	3,125
+
+124	Kathryn Burks	40	ECYM	3,120
+
+125	Lucia Chapman	40	EMP	3,100
+
+126	Martha Bacon	43	LOM	3,085
+
+127	Mary Jasek	44	LOM	3,060
+
+128	Nancy Russell	43	TAM	3,050
+
+129	Maria Marsilio	43	MVM	3,030
+
+130	Susan Bowman	43	EMP	3,025
+
+	Cheryl Franklin	40	ARG	3,025
+
+132	Beth Clothier	41	NML	3,020
+
+133	Leslie Clawson	43	DAM	3,005
+
+	Michelle Fontaine	44	EMP	3,005
+
+135	Jean Rissman	44	DAM	2,970
+
+136	Sharon Strauss	43	DAM	2,955
+
+137	Kim Coontz	44	DAM	2,930
+
+138	Stephanie Lachtman	41	LOM	2,885
+
+139	Cynthia Hurvitz	44	NEM	2,865
+
+140	Abigail Thompson	40	DAM	2,790
+
+141	Maren Breitwieser	44	GRIN	2,765
+
+142	Anne Rosenberg-Main	44	DAM	2,700
+
+143	Debbie Sardone	42	EMP	2,655
+
+144	Karen Schnittke	42	EMP	2,605
+
+145	Debbie Lee	44	NEM	2,565
+
+146	Michelle Stevens	44	DAM	2,550
+
+147	Susan Hinrichs	40	LOM	2,540
+
+148	Linda Lee Marini	44	EMP	2,495
+
+149	Paula Carr	44	ARKM	2,400
+
+	Karen Spatz	44	DAM	2,400
+
+151	Beverly Ashcraft	44	DCM	2,360
+
+152	Ann Dawson	42	NEM	2,350
+
+153	Lisa Evens	43	CATM	2,325
+
+154	Cyndi Nence	40	ARKM	2,045
+
+155	Pat Dec	42	EMP	1,900
+
+1	Danielle Ogier	46	SMMM	4,960
+
+2	Shirley Loftus	47	VMST	4,555
+
+3	Terry Sue Gault	48	VMST	4,505
+
+4	Priscilla Kawakami	48	UT	4,485
+
+5	Regina Brittingham	47	WCM	4,400
+
+6	Debbie Wilson	45	NCMS	4,375
+
+7	Christie Ciraulo	45	UCLA	4,365
+
+8	Gail Kolbe	45	SWIM	4,325
+
+9	Karen Bierwert	46	NEM	4,315
+
+10	Pam Geiger	46	SPM	4,305
+
+11	Julie Schaplowsky	46	FAMS	4,300
+
+12	Jeannette Bauer	49	DSSM	4,230
+
+13	Ruth Iwano	48	EMP	4,120
+
+14	Nancy Surdoval	45	WPM	4,100
+
+15	Phyllis Springer	49	EMP	4,085
+
+16	Gwen Deely	49	EMP	4,055
+
+17	Darleen Staley	48	OREG	4,045
+
+18	Patricia Robak	49	EMP	4,000
+
+19	Judy Beaston	47	OREG	3,980
+
+20	Jan Pesavento	47	PIMM	3,945
+
+21	Susan Francis	45	GRIN	3,940
+
+22	Mary Sansbury	45	NCMS	3,920
+
+23	Pam O_Neill	48	NEM	3,875
+
+24	Tricia Engineri	47	NIAG	3,830
+
+	Marnelle Gleason	45	DAM	3,830
+
+26	Holly Lambert	45	GRIN	3,825
+
+27	Linda Kaiser	48	OCMT	3,800
+
+28	Barbara Anderson-Tomchin	47	EMP	3,705
+
+29	Sally McGredy	47	SANR	3,680
+
+30	Patricia Newman	47	DAM	3,675
+
+31	Betty Anson	49	EMP	3,670
+
+32	Liz Dobbins	45	MOVY	3,650
+
+33	Jo-Ann Finn	49	NEM	3,645
+
+34	Laura Simmons	47	NEM	3,605
+
+35	Susan Maguire	49	NEM	3,595
+
+36	Susan Collins	46	OREG	3,585
+
+37	Diane Davis	48	DAM	3,560
+
+38	Diane Bradley	46	SPM	3,550
+
+39	Debbie Levens	45	NEM	3,500
+
+40	Pussadee Braly	47	DAM	3,470
+
+41	Eileen Craffey	47	NEM	3,425
+
+42	Susan Meyer	47	DAM	3,400
+
+43	Alison Goulder	47	NEM	3,375
+
+44	Eleta Klene	49	NEM	3,370
+
+45	Betsy Bardo	46	NEM	3,360
+
+	Georgianne Stanzler	46	DAM	3,360
+
+47	Kelly Sherwood	45	NEM	3,340
+
+48	Susan Stanton	46	SANR	3,330
+
+	Marie Vellucci	49	EMP	3,330
+
+50	Tara Dolbee	46	MICH	3,325
+
+51	June Mather	45	OREG	3,320
+
+52	Elizabeth Kane	49	NEM	3,300
+
+53	Jeanine Hartnett	48	EMP	3,275
+
+54	Rose Conroy	45	DAM	3,250
+
+55	Lyra Halprin	47	DAM	3,225
+
+	Kathleen Savolt	47	EMP	3,225
+
+	Joan Smith	46	CRUZ	3,225
+
+58	Janet Piez	46	EMP	3,220
+
+59	Donna Ketchum	47	CATM	3,210
+
+60	Audrey Nelson	46	DAM	3,200
+
+61	Marg Bartosek	47	DAM	3,190
+
+62	Beth Wigden	45	NEM	3,185
+
+63	Ann Fulton	48	OREG	3,180
+
+64	Debbie Wyeth	47	GRIN	3,175
+
+65	Mary Williams	47	DAM	3,165
+
+66	Nancy Littlefield	45	SMMM	3,145
+
+67	Lynne McClure	47	LOM	3,085
+
+68	Sally Chandler	45	NEM	3,075
+
+69	Gitika Noyes	46	EMP	3,075
+
+70	Janet Scheeline	48	WILD	3,030
+
+71	Sue Palmer	48	DAM	3,000
+
+74	Mara Solowiejczijk	46	EMP	3,000
+
+73	Donna Alexander	49	TAM	2,985
+
+74	Jules Harnett	48	NML	2,980
+
+75	Patricia A. McGovern	49	EMP	2,970
+
+	Alexandra Woods	47	EMP	2,970
+
+77	Mary Ann Murray	48	NEM	2,935
+
+78	Linda Larson-Prior	48	SMMM	2,905
+
+79	Elaine Kelly	49	NCMS	2,895
+
+80	Dennise Conners	48	EMP	2,875
+
+	Carol Worral	49	OREG	2,875
+
+82	Nicole Blees	46	MEND	2,855
+
+83	Kathryn Rivers	47	NIAG	2,850
+
+84	Ellen Knudsen	47	NEM	2,760
+
+85	Gail Clarke	45	EMP	2,750
+
+86	Jean Forbes	48	NEM	2,745
+
+87	Nancy Ottum	49	DAM	2,740
+
+88	Maggie Rossiter	48	MICH	2,690
+
+	Carolyn Sedinger	48	GRIN	2,690
+
+90	Maggie Jones	49	EMP	2,565
+
+91	Mumulay Rajan	47	DAM	2,525
+
+92	Barbara Tytell	47	NEM	2,505
+
+93	Donna Billich	48	DAM	2,450
+
+94	Jean Mamakos	46	EMP	2,430
+
+95	Rita Phillips	45	NCMS	2,420
+
+96	Barb Clements	45	GRIN	2,240
+
+97	Beth Robinson	49	NEM	2,050
+
+98	Jane Page-Conway	49	MESC	1,875
+
+99	Deborah Pittman	46	DAM	1,640
+
+1	Carolyn Boak	53	LAM	4,305
+
+2	Joan Diercks	50	GRIN	4,290
+
+3	Kathrine Casey	50	PNA	4,220
+
+4	Anne Page	50	SPM	4,175
+
+5	Vicki Barnes	51	MINN	4,040
+
+6	Geri Mathewson	50	OREG	3,915
+
+7	Susan Yeomans	50	EMP	3,745
+
+8	Lisa Orselli	51	MEND	3,740
+
+9	Lisa Martin	50	EMP	3,730
+
+10	Kay Turner	52	NIAG	3,720
+
+11	Daniela Barnea	54	STAN	3,650
+
+12	Evelyn Hausberger	54	NEM	3,645
+
+13	Kathleen Romano	52	EMP	3,615
+
+14	Marcia Hill	54	EMP	3,550
+
+15	Marji Thomas-Will	51	ODD	3,500
+
+16	Kathleen Kocaba	50	NEM	3,400
+
+17	Gayle BonDurant	51	DAM	3,395
+
+	Rosemary Lillis	53	EMP	3,395
+
+19	Suzy Stockdale	52	CVM	3,315
+
+20	Candace Cross-Drew	52	DAM	3,310
+
+21	Terry Davison	54	DAM	3,300
+
+	Nancy Foster	53	DAM	3,300
+
+23	Christine Boutross	50	EMP	3,260
+
+24	Fredericka Rapp	54	MICH	3,250
+
+	Anne Stoddard	52	EMP	3,250
+
+26	Arlene Weyman	54	NIAG	3,175
+
+27	Barbara Larsen	51	GRIN	3,140
+
+	Mary Stockland	50	ARKM	3,140
+
+29	Sue Cosper	50	GRIN	3,075
+
+	Noreen Mazelis	54	DAM	3,075
+
+31	Ruth Fitzpatrick	50	NML	3,060
+
+32	Edith Collin	53	LOM	3,045
+
+33	Fran Carly	50	KENT	3,000
+
+	Jae Kane	50	NEM	3,000
+
+	Linda McHenry	52	DAM	3,000
+
+36	Jutta Hoellien	52	GRIN	2,990
+
+37	Judith Clark	54	DAM	2,925
+
+38	Darlene Tuggle	52	CATM	2,915
+
+39	Mona Caruso	53	EMP	2,885
+
+40	Suzanne Newcome	51	SMMM	2,880
+
+41	Carol Hall	51	GRIN	2,800
+
+42	Karen Gardner	53	CATM	2,785
+
+43	Jean Marie Olmo	52	DAM	2,740
+
+44	Toni Horton	51	DAM	2,715
+
+45	Sally Wood	54	DAM	2,710
+
+46	Pat Wiehe	54	GRIN	2,680
+
+47	Linda Bessemer	54	SDSM	2,675
+
+48	Susan Paris	52	UNAT	2,670
+
+49	Nancy Levy	51	STAN	2,660
+
+50	Judith Tripp	52	EMP	2,650
+
+51	Martha Koen	50	GRIN	2,636
+
+52	Judy Golden	52	EMP	2,600
+
+53	JoAnn C. Gutin	53	EMP	2,570
+
+54	Susan Rockafellow	50	GRIN	2,500
+
+55	Nancy Beiter	52	NVAQ	2,490
+
+56	Rose Marie Dokus	50	NEM	1,575
+
+57	Sue Widemark	54	ARIZ	1,455
+
+1	Nancy Ridout	56	TAM	4,255
+
+2	Elaine Bromwich	56	SPM	4,165
+
+3	Barbara Frid	56	DCM	3,920
+
+4	Jayne Lambke	59	SPM	3,840
+
+	Claire O_Brien	59	NEM	3,840
+
+6	Pam Himstreet	55	OREG	3,765
+
+7	Jennifer Parks	55	MICH	3,625
+
+8	Beth Schreiner	57	DCM	3,565
+
+9	Kathy Sarg	55	EMP	3,425
+
+10	Elizabeth Johnson	59	BLS	3,415
+
+11	Tita Arnold	57	WILD	3,390
+
+12	Glenda Carroll	55	TAM	3,330
+
+13	Barbara Paulson	55	DAM	3,310
+
+14	Ingrid Stine	59	WMAC	3,300
+
+15	Carolyn Haefner	59	ARKM	3,260
+
+16	Peggy Whiter	55	OREG	3,220
+
+17	Leslie Westergaard	55	DAM	3,150
+
+18	Joyce Kowalski	56	MICH	3,135
+
+19	Noreen Mazelis	55	DAM	3,120
+
+20	Jan Dresser	58	STAN	3,100
+
+21	Maureen Hall	58	NML	3,085
+
+22	Betty Dugan	57	DAM	3,070
+
+23	Mary Ann Buxton	56	TAM	3,060
+
+24	Susan Hall	56	DAM	3,015
+
+	Amy Johnson	56	NIAG	3,015
+
+26	Alice Siedel	57	NEM	2,985
+
+27	Isabel Lyndon	59	NEM	2,980
+
+28	Cindy Todd	56	WILD	2,975
+
+29	Emily Trueblood	56	EMP	2,965
+
+30	Sharon Blount	58	WILD	2,940
+
+31	Ellen Watkins	59	DAM	2,925
+
+32	Karen Hannam	58	DCM	2,910
+
+33	Sharon Koontz	56	NCMS	2,895
+
+34	Patricia Saunders	55	EMP	2,890
+
+	Patricia Strickland	58	MICH	2,890
+
+36	Edythe Schwartz	59	DAM	2,875
+
+37	Nicole D_Amore	55	DSSM	2,800
+
+38	Ann Noble	55	DAM	2,730
+
+39	Judy Sarna	59	SCAM	2,710
+
+40	Lynne Taft	56	SMMM	2,570
+
+41	Judith Gerrard	56	EMP	2,560
+
+42	Glenda Kennelly	55	GRIN	2,550
+
+43	Jewel Payne	59	DAM	2,460
+
+44	Edith Blair	58	DCM	2,375
+
+45	Annabelle Hart	55	GRIN	2,350
+
+46	Dorothy Buchhagen	56	ANCM	2,335
+
+47	Marian Davidson	57	LOM	2,285
+
+48	Margie Hutinger	59	FMM	2,265
+
+49	Orie McMillan	58	EMP	2,200
+
+50	Gaile Harden	59	ARIZ	2,135
+
+1	Susan Munn	60	DAM	3,980
+
+2	Susan Bradley-Cox	61	WILD	3,890
+
+3	Betsy Jordan	61	SDSM	3,770
+
+4	Ronnie Kamphausen	64	CONN	3,765
+
+5	Joann Leilich	60	DCM	3,670
+
+6	Susan Livingston	60	NEM	3,645
+
+7	Beverly Myers	63	MICH	3,570
+
+8	Patricia Bond	60	FMM	3,525
+
+	Sandra Kingdon	60	NIAG	3,525
+
+	Katie Knight-Perry	63	SPM	3,525
+
+11	Susan Springer	60	STAN	3,495
+
+12	Mary Ann McCombs	63	MEND	3,310
+
+13	Carlita Durand	60	SDSM	3,275
+
+	Jean Garbus	64	SWIM	3,275
+
+15	Dottie Banta	61	YCRC	3,260
+
+16	Helen Geoffrion	60	UCLA	3,200
+
+17	Susan Bond	62	MICH	3,000
+
+18	Patricia Durham	60	SMMM	2,995
+
+19	Lynn Schroeder	60	DAM	2,925
+
+20	Doris Prokopi	63	FMM	2,900
+
+21	Miek McCubbin	63	SMMM	2,895
+
+22	Ann Owings	60	MEND	2,860
+
+23	Penny Weaver	64	NCMS	2,845
+
+24	Joanne Berven	63	SANR	2,680
+
+25	Grace Ciocca	60	NEM	2,635
+
+26	Judy Davis	63	WMAC	2,600
+
+27	Mary Vass	62	NCMS	2,515
+
+28	Diane Gilmer	60	DAM	2,465
+
+29	Denise Froelich	60	EMP	2,275
+
+30	Ilona Horvath	62	RMM	2,050
+
+31	JoAnne Kambur	64	TAM	1,955
+
+1	Lavelle Stoinoff	66	MACO	4,135
+
+2	Lida Gaschke	66	EMP	3,490
+
+3	Joan Campbell	68	CATM	3,430
+
+4	Barbara Callison	66	UNAT	3,330
+
+5	Nancy Durstein	69	CATM	3,265
+
+6	Dolly Hinckley	68	NIAG	3,145
+
+7	Marty Barry	66	TAM	3,130
+
+8	Mary Lou Mitchell	68	SPM	3,070
+
+9	Ann Shenck Dallam	68	SDSM	3,065
+
+10	Barbara Owens	69	GNOM	3,055
+
+11	Sylvia Eisele	69	SWIM	3,035
+
+12	Barbara Atwood	65	SPM	2,970
+
+13	Betty Griffin	68	DCM	2,950
+
+14	Sylvia Idelson	69	ADMS	2,880
+
+15	Pat Donato	65	AAM	2,785
+
+16	Val Green	67	NML	2,775
+
+17	Barbara Schamel	68	EMP	2,730
+
+18	Ann Lambertson	68	SMMM	2,680
+
+19	Marilynn Sisco	65	UNAT	2,665
+
+20	Mary Williams	67	MICH	2,645
+
+21	Angie Sinacore	68	SPCO	2,620
+
+22	Barbara Glancy	67	ANCM	2,590
+
+23	Jane Wright	66	LOM	2,475
+
+24	Yoshie Kyhos	65	DAM	2,340
+
+25	Kathleen Penn	69	NCMS	2,245
+
+26	Penny Kronengold	66	EMP	2,180
+
+27	Lucy Brown	68	DCM	2,040
+
+28	Nong Chancellor	67	DAM	1,930
+
+29	Gerry Efremoff	67	MICH	1,525
+
+1	Clara Walker	72	NEM	3,565
+
+2	Suzanne Graham	72	CONN	3,210
+
+3	Lois Kivi Nochman	74	MICH	3,180
+
+4	Peggy Sanborn	71	OSB	2,890
+
+5	Joan McIntyre	70	NEM	2,860
+
+6	Clara Sotak	74	IM	2,795
+
+7	Hedy Esposito	71	EMP	2,755
+
+8	Marie Brown	74	NEM	2,650
+
+9	Loys Green	72	EMP	2,640
+
+10	Ruthanne Long	73	TAM	2,620
+
+11	Bea Heim	73	TAM	2,585
+
+12	Ruth Sadler	72	EMP	2,445
+
+13	Gladys Olsen	72	FMM	2,440
+
+14	Barbara Knox	74	DAM	2,430
+
+15	Mary Ann Williams	73	DAM	2,425
+
+16	Kathleen Penn	70	NCMS	2,330
+
+17	Daisy Trivette	72	NCMS	2,285
+
+18	Muriel Dykema	72	GRIN	2,200
+
+19	Corinne Bressler	73	DAM	2,175
+
+20	Fran Zeman	73	DAM	2,160
+
+21	Nyla Crain	70	DAM	2,135
+
+22	Mary Boaz	70	SPM	2,110
+
+23	Betty Billings	73	NCMS	2,010
+
+24	Jean Fritzen	74	DAM	1,975
+
+25	Doris Deimer	73	DAM	1,640
+
+1	Grace Altus	75	OSB	3,260
+
+2	Sue Marvel	79	NIAG	2,945
+
+3	Ruth Manfredi	75	KONA	2,940
+
+4	Dorothy Donnelly	77	CONN	2,770
+
+5	Mary Stadig	77	NEM	2,760
+
+6	Regan Kenner	75	FMM	2,675
+
+7	Ruth Billard-Morrill	75	CONN	2,665
+
+8	Marjorie Newman	75	IRCC	2,605
+
+9	Priscilla Bergethon	76	CONN	2,600
+
+10	Patricia Lax	78	DAM	2,465
+
+11	Nancy Phillips	77	CONN	2,260
+
+12	Annie Szuis	79	NIAG	2,230
+
+13	June Reynolds	76	SPM	2,075
+
+14	Mary Cone	75	TAM	2,070
+
+15	Phyllis Mathiot	76	UNAT	2,060
+
+16	Charlotte Sanddal	76	MM	2,015
+
+17	Ruth Thorsen	78	DCM	2,000
+
+18	Zada Taft	79	SMMM	1,875
+
+19	Regina Purvis	79	NIAG	1,800
+
+1	Rita Simonton	80	GWSC	3,225
+
+2	Marjorie Sharpe	81	STAN	3,015
+
+3	Mardie Brown	81	NEM	2,605
+
+4	Kay Schimpf	81	SPM	2,365
+
+5	Margaret Nagle	82	ARIZ	2,350
+
+6	Anne Walker	82	DCM	2,325
+
+7	Gertrud Zint	81	IRCC	2,310
+
+8	Mary Lathram	83	DCM	2,105
+
+9	Dorothea Schultz	80	TAM	1,990
+
+10	Leola Baumgartner	81	OREG	1,885
+
+11	Hilda Buel	84	SMMM	1,530
+
+12	Marijane Torjesen	81	IAMA	1,430
+
+1	Lucielle Barry	89	DAM	1,435
+
+2	Margot Lenigk	87	SMMM	1,145
+
+1	Jonathan Lischke	23	STAN	5,890	Men	1999
+
+2	Adam Dawkins	23	GRIN	5,440
+
+3	Grant Comer	24	GRIN	5,200
+
+4	Lee Wanie	24	SCAM	5,000
+
+5	Richard Simmons	24	DAM	4,835
+
+6	Vince Visco	21	DAM	4,820
+
+7	Christopher O'Donnell	20	NEM	4,625
+
+8	Ryan Davenport	24	NEM	4,565
+
+9	Marco Marienberg	22	STAN	4,535
+
+10	Jim Liguori	24	NEM	4,510
+
+11	T.C. Hosna	23	GRIN	4,405
+
+12	Andrew Bozdech	21	DAM	4,390
+
+13	Jeremy Vander Kam	23	DAM	4,150
+
+14	Jay Kumar	24	DAM	4,100
+
+15	William Fortier, Jr.	20	MICH	4,075
+
+16	Matt Russell	20	DAM	4,045
+
+17	David Donovan	23	DAM	4,025
+
+18	David Funston	24	DAM	4,005
+
+19	Eric Moore	22	DAM	3,875
+
+20	Jeff Donovan	23	DAM	3,790
+
+21	Eli Hamlin	21	DAM	3,725
+
+22	Don Galine	24	SMMM	3,690
+
+23	Chris Heinnen	22	DAM	3,605
+
+24	Mark Benson	22	DAM	3,305
+
+25	Stephen Markert	24	ARKM	2,895
+
+26	Gunther Weber	24	DAM	2,520
+
+1	Joshua Woodruff	27	STAN	5,640
+
+2	Jeff Murray	29	NCMS	5,350
+
+	Jon Sakovich	28	CATM	5,350
+
+4	Ralph Sawyer	25	MMSC	5,165
+
+5	Sextus Tansinsin	26	GRIN	5,125
+
+6	Benjamin Morse	26	MESC	5,110
+
+7	Brian Johnson	26	DAM	5,055
+
+8	Eric Mahler	28	UNAT	5,040
+
+9	Brad Winsor	27	DAM	5,035
+
+10	Ernie Hoftyzer	29	DAM	5,030
+
+11	Brandon Carter	28	DAM	5,020
+
+	Alex Hall	27	EMP	5,020
+
+	Steven Smith	27	NIAG	5,020
+
+14	Jeremy Houchens	28	GRIN	4,980
+
+15	David Pyles	29	DAM	4,950
+
+16	Ric Seaver	26	GRIN	4,945
+
+17	Karl Dauphinais	28	CATM	4,925
+
+18	Keoki Jackson	29	STAN	4,900
+
+19	Justin Brownhill	27	EMP	4,855
+
+20	Bob Parenteau	26	GRIN	4,850
+
+21	Paul Navabpour	28	STAN	4,840
+
+22	Travis Keane	25	NEM	4,795
+
+23	Josh Gordon	25	GCMT	4,710
+
+24	Rob Sczopak	29	NEM	4,700
+
+25	Mark Goldman	27	NEM	4,660
+
+26	Kevin Scott	28	UNAT	4,650
+
+27	Brian Cunningham	26	IM	4,640
+
+	Randy Van Wynsberghe	29	GRIN	4,640
+
+29	Jeff Powrie	26	WPM	4,550
+
+30	Robert Irving	29	SWIM	4,545
+
+31	Tim McGoldrick	25	DAM	4,510
+
+	Andrew Willett	28	EMP	4,510
+
+33	Bob Villacres	29	SPM	4,500
+
+34	Richard Borry	28	SCAM	4,495
+
+35	Mark Perutz	28	NEM	4,460
+
+36	Doug Irgang	29	EMP	4,415
+
+37	Robert Gifford	29	EMP	4,375
+
+38	David Forsee	29	GRIN	4,350
+
+	Simone Musco	27	FINS	4,350
+
+40	Antonio Sanchez	28	EMP	4,310
+
+41	Jonathan Banville	28	NEM	4,175
+
+	Nathan Brant	26	1776	4,175
+
+43	Mark Piacentini	27	ARG	4,125
+
+44	Mark Pingree	27	DAM	4,075
+
+45	Dave Andeen	25	LAM	4,050
+
+	Ross McMahan	29	WILD	4,050
+
+47	Scott Powell	28	GRIN	4,040
+
+48	Joe Gravier	29	EMP	4,030
+
+49	Tim Lynch	28	DAM	4,025
+
+	Doug Trumpey	27	GRIN	4,025
+
+51	Michael Negoescu	26	DAM	4,020
+
+52	Matt Garcia	29	ARKM	3,960
+
+	Gabriel Speyer	25	EMP	3,960
+
+54	Steve Tansey	29	MESC	3,950
+
+55	James Barnes	27	DAM	3,820
+
+56	Tim Martin	28	EMP	3,810
+
+57	Brian Krisler	27	NEM	3,800
+
+58	Tiago Rezende	26	EMP	3,790
+
+59	John Margiotta	28	EMP	3,700
+
+60	Alex Martinez	27	EMP	3,680
+
+61	Greg Mayeur	28	DAM	3,670
+
+62	John Pierce	29	GRIN	3,530
+
+63	Jon-Paul Rorech	28	EMP	3,495
+
+64	Paul Kasper	26	EMP	3,480
+
+65	Brian Sauls	26	DAM	3,475
+
+66	Thomas Roszko	27	EMP	3,400
+
+67	Eric Vess	28	NCMS	3,385
+
+68	Jaime Cascio	25	DSSM	3,360
+
+69	Norbert Wilson	27	DAM	3,325
+
+70	Nick Butler	28	GRIN	3,320
+
+71	Chris Olson	26	LAM	3,280
+
+72	Chris Parrish	28	NCMS	3,235
+
+73	Rich Folsom	28	ARKM	3,130
+
+74	Warren Saft	25	EMP	3,005
+
+75	Greg Pasternak	27	DAM	3,000
+
+76	Robert Van Houweling	27	LAM	2,900
+
+77	Doug Morris	26	ARKM	2,685
+
+78	Pramod Singh	29	ARKM	1,500
+
+1	Greg Jablonski	32	OREG	5,420
+
+2	Michael Collins	32	UCLA	5,390
+
+3	Stuart Cromarty	34	NEM	5,350
+
+4	Jim Webber	30	GRIN	5,100
+
+5	Max Hanson	31	DAM	5,080
+
+6	Sean Gillam	34	SPM	5,055
+
+7	Kevin Destrampe	31	GRIN	5,050
+
+8	Bob Abbott	34	STAN	4,975
+
+9	Matthew Gilson	31	NEM	4,960
+
+10	Masayuki Moriya	31	SC	4,945
+
+11	Phil Andrews	31	MOVY	4,915
+
+12	Stanley Kroder	33	EMP	4,910
+
+13	Will Riddell	30	NEM	4,905
+
+14	David Hovland	30	UCLA	4,860
+
+	Henry Baker	31	NEM	4,860
+
+16	C. Michael Halfast	33	SPM	4,850
+
+17	Chris Byers	34	NCMS	4,845
+
+18	Rob Berry	30	NEM	4,800
+
+19	Lee O'Connor	31	OREG	4,775
+
+20	James Bledsoe	34	NEM	4,765
+
+21	Kevin Sherman	33	GRIN	4,735
+
+22	Will Neafsey	31	MICH	4,720
+
+23	Ken Koppenhaver	30	NIAG	4,675
+
+24	Thomas Rawls	31	TBAC	4,655
+
+25	Rich Desideri	34	DAM	4,610
+
+	Mike Rossner	34	EMP	4,610
+
+27	D.J. Fabozzi	33	HUMU	4,600
+
+	Charles Heiser, Jr.	33	GRIN	4,600
+
+29	Bill Volckening	32	OREG	4,575
+
+30	Dennis Hogan	32	GCMT	4,550
+
+31	Loren Anderson	32	GRIN	4,540
+
+32	John Blaum	33	ADMS	4,535
+
+33	Sal Romanello	32	EMP	4,530
+
+34	Spencer Neyland	33	EMP	4,525
+
+35	Tim Liesching	32	NEM	4,505
+
+36	Rob Carr	33	NEM	4,500
+
+	Scott Van Kuilenburg	34	NEM	4,500
+
+38	Erling Hoie	30	NIAG	4,485
+
+39	Kiko Bracker	30	DAM	4,420
+
+	Mark MacNaughton	33	GCMT	4,420
+
+	Max Ochoa	31	STAN	4,420
+
+	Steve Walker	31	MAM	4,420
+
+43	William Murray	34	NIAG	4,415
+
+44	Paul Goudreau	32	NEM	4,385
+
+45	Tom Kline	34	GRIN	4,375
+
+46	Chris Wood	30	NEM	4,370
+
+47	Angus Kent	32	EMP	4,255
+
+	William Kent	32	EMP	4,255
+
+49	Eric Albright	33	GRIN	4,250
+
+50	Robert Fary	34	NCMS	4,235
+
+51	Chris Phalen	34	NEM	4,180
+
+52	Scott Pronesti	30	NIAG	4,170
+
+53	Jim Phelan	34	UNAT	4,150
+
+54	Rick Vavul	33	GRIN	4,105
+
+55	Mark Hober	31	SANR	4,100
+
+	Daniel Levy	33	WPM	4,100
+
+57	Steven Arcangeli	32	RCA	4,095
+
+58	Ted Mack	30	NEM	4,075
+
+59	Richard Barkan	34	EMP	4,050
+
+60	Robert Horton	32	EMP	4,010
+
+61	Vincent Fong	32	DAM	4,005
+
+	Pete Tobia	32	DAM	4,005
+
+63	Christopher Glover	31	DSSM	3,985
+
+64	Gil Santaliz	32	EMP	3,980
+
+65	Edward Yordan	34	EMP	3,975
+
+66	Bryant Sih	31	DAM	3,965
+
+67	Ron Pritchard	31	DAM	3,960
+
+68	Jeremy Southgate	30	SCAM	3,955
+
+69	Chris Cook	34	OREG	3,950
+
+	Tom Witmer	32	WPM	3,950
+
+71	D. Tracy Fromm	32	OREG	3,925
+
+72	Stefan Schwartz	32	DAM	3,860
+
+73	Xavier Roux	33	EMP	3,830
+
+74	Sinisa Novakovic	31	DAM	3,820
+
+75	Bob Fernald	31	STAN	3,810
+
+76	JP Cheuvront	34	EMP	3,805
+
+77	Mark Murphy	33	NEM	3,800
+
+78	Ken Roark	34	CRAQ	3,740
+
+79	Evan Drutman	34	EMP	3,725
+
+80	Richard Van Buskirk	33	DAM	3,720
+
+81	John Azelvandre	32	EMP	3,700
+
+82	Bradley Arens	33	SLAM	3,675
+
+83	Michael McCarthy	32	NEM	3,670
+
+84	Chuck Wagner	34	GRIN	3,585
+
+85	Erik Vink	34	DAM	3,565
+
+86	Julianno Sambatti	32	DAM	3,550
+
+87	Steven Tanz	31	EMP	3,535
+
+88	George Oakes	34	NEM	3,525
+
+89	Hammer Gharavi	30	DAM	3,520
+
+90	Skip Delclos	32	NEM	3,505
+
+91	Edward Liao	30	EMP	3,485
+
+92	Guy Willey	33	EMP	3,465
+
+93	Ronald Seely	33	EMP	3,380
+
+94	William Ahlenius	32	DAM	3,325
+
+	Steve Snyder	34	CATM	3,325
+
+96	Eric Dolgins	31	EMP	3,310
+
+97	Layne Flowe	30	NCMS	3,265
+
+98	Rodney Bland	33	ARKM	3,250
+
+99	Barry Hasson	32	MVM	3,150
+
+100	Brett Warner	33	GCMT	3,080
+
+101	Rick Brown	34	EMP	3,000
+
+	Larry Guenther	34	DAM	3,000
+
+	Craig Halliday	32	GCMT	3,000
+
+104	Howard Huberty	32	DAM	2,990
+
+105	Albert Vargas	32	RCA	2,955
+
+1	Jim Barber	39	GRIN	5,470
+
+2	Gerry Rodrigues	36	UCLA	5,340
+
+3	Ed Gendreau	36	NEM	5,210
+
+4	Randy Cox	36	STAN	5,200
+
+5	John Morgan	36	EMP	5,195
+
+6	Steven Fisher	36	EMP	5,170
+
+7	Tom LaTourrette	35	UCLA	5,140
+
+8	Steve Atkins	35	STAN	5,070
+
+9	Peter MacDonald	36	STAN	5,060
+
+10	Chris Birnbrich	35	GCMT	5,000
+
+	George Butterfield	38	GRIN	5,000
+
+12	Dan Knauer	38	MACO	4,940
+
+13	Jim Matysek	39	NIAG	4,905
+
+14	Mike Lewis	38	GRIN	4,900
+
+15	Ron Collins	36	CATM	4,875
+
+16	Chris French	37	NEM	4,835
+
+17	David Cote	38	NEM	4,815
+
+18	Doug Bosley	36	NEM	4,810
+
+19	Todd Cooper	36	EMP	4,770
+
+20	Cameron Lawrence	39	LAM	4,760
+
+21	Sherwin Gormly	37	CVM	4,725
+
+22	Joe Bakel	37	RMM	4,700
+
+23	Brad Roby	37	GRIN	4,685
+
+24	James Silk	39	SANR	4,680
+
+25	Kelley Allen	35	CATM	4,675
+
+	Rich Desideri	35	DAM	4,675
+
+	Michael Dignan	39	CONN	4,675
+
+28	Willing Biddle	37	CONN	4,660
+
+29	Kurt Nelson	39	RMM	4,650
+
+	Chris Rock	39	DAM	4,650
+
+	Peter Schubert	38	GRIN	4,650
+
+32	Eric Nordlund	35	MICH	4,645
+
+33	Ron Gillooly	38	NEM	4,625
+
+	Peter Peguero	37	NIAG	4,625
+
+35	Vince Digneo	35	STAN	4,605
+
+36	Clifford Dimond	38	DAM	4,600
+
+37	Tim Kirk	36	SANR	4,575
+
+38	Eric Wolff	38	MVM	4,570
+
+39	Michael Peterson	35	NEM	4,560
+
+40	Gregg Recanzone	36	DAM	4,535
+
+41	Larry Richardson	39	NEM	4,520
+
+	Michael Smith	37	GRIN	4,520
+
+43	John Mulvaney	38	NEM	4,515
+
+44	Thomas Anderson	37	LOM	4,510
+
+	Daniel Swensen	36	NEM	4,510
+
+46	Stephen Fuselier	39	STAN	4,500
+
+	Jeff Smith	35	NCMS	4,500
+
+48	Brian Bortell	35	VMST	4,495
+
+	Brian Cummings	39	GRIN	4,455
+
+50	Jeff Callas	38	NEM	4,450
+
+51	Dave Rader	37	STAN	4,435
+
+52	Simon Buckingham	36	SMMM	4,430
+
+	Chris Schrader	38	GRIN	4,430
+
+54	Jay Cole	36	ARKM	4,425
+
+55	Bill Polson	38	TAM	4,375
+
+56	Bruce Ledbetter	37	EMP	4,370
+
+57	Matt Hausmann	35	NEM	4,360
+
+	Jim McGoff	35	GRIN	4,360
+
+59	Mike Ryno	37	RMM	4,350
+
+60	Michael Busby	38	NEM	4,345
+
+	Rob Torgerson	36	NEM	4,345
+
+62	John Pizzuto	36	NEM	4,340
+
+63	Edward Powers	37	GCMT	4,340
+
+64	John Albanese	37	EMP	4,300
+
+	Alan Romaner	36	WPM	4,300
+
+66	Mike Hirst	38	NEM	4,290
+
+67	Chris Beliveau	39	WPM	4,250
+
+	Tim Foxen	38	EMP	4,250
+
+	Kenneth Waite	37	NEM	4,250
+
+70	Robb Ripp	36	EMP	4,225
+
+	Kozo Suzuki	35	EMP	4,225
+
+72	Wadi Farach	37	DSSM	4,220
+
+73	Leon Shelton	36	GRIN	4,195
+
+74	William Bielat	36	NEM	4,175
+
+	Robert McDaniel	36	GRIN	4,175
+
+	Robert Melson	38	SPM	4,175
+
+	Doug Scott	39	NEM	4,175
+
+78	Robert Guilmain	35	EMP	4,170
+
+79	Rod Woodhead	36	EMP	4,165
+
+80	David Riley	36	NEM	4,160
+
+81	Dean Przymus	38	DAM	4,130
+
+	Peter Turner	39	SPCO	4,130
+
+83	Michael Bailey	35	NEM	4,120
+
+84	John Collins	36	MICH	4,110
+
+85	Tim Miles	37	GRIN	4,105
+
+86	Daniel Nardozzi	39	SPM	4,100
+
+87	James Bielaczyc	39	EMP	4,095
+
+88	Edwin Grosholz	39	DAM	4,070
+
+	Cedric Tuck-Sherman	37	EMP	4,070
+
+90	Michael Sullivan	36	GRIN	4,050
+
+91	Steve Riback	39	EMP	4,030
+
+92	Steve Leath	38	GRIN	4,025
+
+93	Daniel Truesdale	35	NEM	4,010
+
+94	Larry Brown	39	GRIN	3,990
+
+95	Steven Culberson	36	DAM	3,965
+
+96	Jim Lewis	39	GRIN	3,925
+
+	Michael Maier	36	CONN	3,925
+
+98	Tom Becker	39	LAM	3,900
+
+	Jim Delisle	39	NEM	3,900
+
+	Tom Mrowka	37	NEM	3,900
+
+101	Eric Kulleseid	35	EMP	3,845
+
+102	Tom Fields	38	DSSM	3,835
+
+103	Mark Milligan	39	NEM	3,825
+
+104	James E. Schall	37	UNAT	3,800
+
+105	Chuck Creel	37	WPM	3,775
+
+106	Roger Levin	38	EMP	3,770
+
+107	Jeffrey Leath	37	GRIN	3,735
+
+108	Mark Schaffer	36	EMP	3,715
+
+109	Wesley Hein	39	UCLA	3,685
+
+	Jim Sherbrooke	38	GRIN	3,685
+
+111	Tom Sturmer	38	GRIN	3,650
+
+	Blake Temple	37	DAM	3,650
+
+	John Wagner	37	NEM	3,650
+
+114	James Busby	36	EMP	3,615
+
+115	Mitch Roob	35	GRIN	3,610
+
+116	Andy Jirak	39	NEM	3,605
+
+117	Randy Bircher	38	GRIN	3,600
+
+	Mike Harrill	39	GRIN	3,600
+
+	Russ Jones	39	STAN	3,600
+
+	Mike McAfee	37	NEM	3,600
+
+121	Mark Hiskes	36	GRIN	3,585
+
+122	William Schleifman	39	GRIN	3,575
+
+123	Hutchins Foster	36	EMP	3,555
+
+124	Ken Gandy	36	GRIN	3,500
+
+125	Murali Krishna	39	OREG	3,480
+
+126	Jim Giblin	39	SANR	3,460
+
+127	Philip Hess	36	EMP	3,450
+
+128	Conrad Riggs	35	UCLA	3,425
+
+129	Edward Yanisch	37	EMP	3,390
+
+130	Richard Nichols	39	DAM	3,340
+
+	Brian O'Shea	39	NEM	3,340
+
+132	Jesse Womack	36	SANR	3,310
+
+133	Barry Roby	35	GRIN	3,210
+
+	Randy Sanders	39	GRIN	3,210
+
+135	Clint Ebert	39	OREG	3,200
+
+136	Ido Kadim	35	DAM	3,175
+
+137	Barrett Powers	36	GRIN	3,155
+
+138	Dirk Holstege	39	DAM	3,095
+
+139	George Pavana	38	DAM	3,075
+
+140	Chris Beyer	35	EMP	3,055
+
+141	Mike Elam	37	ARKM	3,020
+
+142	Dan Bowen	35	OREG	3,000
+
+143	John Sigmun	38	NCMS	2,870
+
+144	John Simpson	37	GRIN	2,785
+
+145	Marty Green	37	UCLA	2,745
+
+146	Gregory White	36	BLS	2,650
+
+147	Javier Linares	35	DAM	2,585
+
+148	Kevin Dicken	37	WILD	2,395
+
+149	Gary Hunter	36	EMP	2,050
+
+150	John Reale	35	NEM	1,625
+
+1	Sandy MacDonald	43	SAC	5,510
+
+2	Joe Rhyne	40	NCMS	5,455
+
+3	Matthew Clark	42	EMP	5,305
+
+4	James Stewart	42	MINN	5,240
+
+5	Scott Begin	41	UCLA	5,170
+
+6	David Burleson	41	MACO	5,155
+
+7	Thomas Mack	40	NEM	5,100
+
+8	Robert Webb	43	SMMM	5,080
+
+9	Rick Wiese	42	GRIN	5,005
+
+10	John Bishop	43	SANR	4,990
+
+11	Bill Rosenberg	41	STAN	4,985
+
+12	Paul Fallot	40	EMP	4,940
+
+13	Timothy Kennedy	42	SPM	4,925
+
+14	Tim Malach	40	NIAG	4,860
+
+15	Bill Adkinson	43	RHMS	4,840
+
+16	Dean Fochios	44	EMP	4,815
+
+17	Jefferson Spencer	40	ARKM	4,810
+
+18	Russell Frazier	44	SPM	4,750
+
+19	Darrell Jett	40	SDSM	4,740
+
+20	Alan Rowland	42	DAM	4,680
+
+21	Ron Emhoff	43	SANR	4,670
+
+22	Bruce Wencel	43	TTEX	4,650
+
+23	Jon Tice, Jr.	40	DAM	4,640
+
+24	Greg Johnson	41	DAM	4,625
+
+25	Bernie Hand	41	OKMS	4,620
+
+26	Rich Lacampagne	44	LAM	4,600
+
+	Dave Oplinger	40	GRIN	4,600
+
+	David Welch	42	NEM	4,600
+
+29	Bill Ahlert	40	UNAT	4,590
+
+	Donald Lutkart	42	CVM	4,590
+
+31	Chris Hauty	42	UCLA	4,575
+
+32	Mark Spratt	43	GRIN	4,565
+
+33	John Nixon	43	NEM	4,560
+
+34	Peter Worland	40	NEM	4,545
+
+35	Buck Broker	43	EMP	4,540
+
+36	James Wright	41	DAM	4,525
+
+37	Joel Swartz	40	SMMM	4,510
+
+38	John Constantine	41	DAM	4,505
+
+39	Brooks Nelson	44	STAN	4,500
+
+40	Tom Bliss	44	SPCO	4,495
+
+	Conrad Johnson	44	EMP	4,495
+
+42	Fred Bartlett	42	NEM	4,490
+
+43	Dave Maehr	43	WILD	4,485
+
+44	Dennis Prosen	42	SMMM	4,475
+
+	Bruce Spoelman	41	MICH	4,475
+
+46	David Judelson	42	NEM	4,460
+
+47	Warren Wise	43	NEM	4,455
+
+48	Bruce Bockus	43	OKMS	4,440
+
+49	Tom Mather	41	PALM	4,430
+
+50	Mark Quigley	40	EMP	4,405
+
+	Gary Wheeler	43	NEM	4,405
+
+52	Stephen Colbert	41	NEM	4,370
+
+	Dale Long	43	GRIN	4,370
+
+54	Ion Beza	40	EMP	4,355
+
+55	Bob Dickson	43	GRIN	4,315
+
+56	Peter Dwyer	41	WPM	4,300
+
+	Tom Garrity	40	NEM	4,300
+
+	Ed Ramsey	42	OREG	4,300
+
+59	Dave Koontz	41	NCMS	4,280
+
+60	Joe Otto	40	DAM	4,275
+
+61	Scott Adams	41	SCAM	4,270
+
+62	Robert Mitchell	40	UNAT	4,265
+
+63	Curtis Brown	43	EMP	4,260
+
+64	Stephen Heller	43	IM	4,255
+
+65	Rod Cook	40	OREG	4,250
+
+66	David Grilli	44	NEM	4,225
+
+	Scott Tuttle	40	GRIN	4,225
+
+68	George Dinwiddie	40	GKMS	4,215
+
+69	Steve Justice	41	GAJA	4,205
+
+70	John Eaton	44	STAN	4,200
+
+	Mitchell Netburn	42	EMP	4,200
+
+	Scott Tuttle	41	NMMS	4,200
+
+73	George Horan	44	FINS	4,175
+
+74	Tom Meehan	42	EMP	4,155
+
+75	Patrick Long	42	DAM	4,150
+
+76	Albert Masland	42	1776	4,145
+
+77	Richard Roberts	42	GRIN	4,140
+
+78	Raul Piedrahita	44	DAM	4,125
+
+79	Paul Ridgway	44	SCAM	4,115
+
+80	Dennis Cruff	40	NEM	4,110
+
+	Tom Gelinne	41	EMP	4,110
+
+82	Randy Crutchfield	40	GRIN	4,100
+
+	Tom Fusco	41	ORLM	4,100
+
+	David Schloerb	43	NEM	4,100
+
+85	John Dolan	41	NEM	4,085
+
+86	Peter Lehner	40	EMP	4,070
+
+87	Paul Fortoul	40	EMP	4,065
+
+88	Steve Baker	40	RMM	4,045
+
+	Mike Peyton	43	MACO	4,045
+
+	Dave Roach	43	DSTO	4,045
+
+91	Dave DeYoung	44	DAM	4,040
+
+92	Sergio Silva	43	TAM	4,025
+
+93	Jeff Citron	43	YCRC	4,020
+
+	Mark Schwartz	40	DAM	4,020
+
+95	Bob Liss	43	TPIT	4,010
+
+96	Richard Mack	44	NEM	4,000
+
+97	Mark Schwartz	43	GCMT	3,940
+
+98	Eric Winn	44	NEM	3,925
+
+99	Jim Weyand	41	MICH	3,915
+
+100	Jeffrey Cougler	42	EMP	3,910
+
+101	Steve Smith	44	DAM	3,880
+
+102	Kenneth Johnson	41	NCMS	3,820
+
+103	Edward Branam	44	DAM	3,800
+
+104	Chris Landry	43	NEM	3,795
+
+105	Neil Pelkey	40	DAM	3,785
+
+106	David Cross	44	DAM	3,780
+
+107	Glen Howard	42	LOM	3,760
+
+108	Ed Gleason	42	NEM	3,750
+
+	Ted Liu	43	LAM	3,750
+
+	Guy Marchione	41	OREG	3,750
+
+111	John Racanelli	43	TAM	3,745
+
+112	Steven Schwanke	43	LOM	3,730
+
+113	Ken Skulina	40	SANR	3,715
+
+114	John O'Dea	40	GRIN	3,700
+
+	Greg Petty	43	MICH	3,700
+
+116	Steven Erickson	41	MICH	3,690
+
+117	Franck Battelli	41	TAM	3,680
+
+118	Steve DiForte	42	UNAT	3,675
+
+119	James Harmon	41	EMP	3,645
+
+	Mitsushige Ohba	40	SC	3,645
+
+121	Carl Finney	41	SPCO	3,640
+
+122	Mike Bernstein	42	GRIN	3,625
+
+	Cal Pearce	43	ARKM	3,625
+
+124	Bruce Fraser	42	GCMT	3,610
+
+125	Dave Dolkas	42	STAN	3,600
+
+	William Peirce	40	NEM	3,600
+
+	Thierry Wilbrandt	42	GRIN	3,600
+
+128	Bob Knick	44	RCA	3,590
+
+	Kenneth Rudman	44	NEM	3,590
+
+130	Tom Malcolm	44	EMP	3,585
+
+131	Scott Gould	40	STAN	3,565
+
+132	Mark Officer	40	NEM	3,560
+
+133	Charles Ryther	41	EMP	3,550
+
+134	John Knettle	43	DAM	3,545
+
+135	Don Bond	42	EMP	3,520
+
+136	Al Wright	41	DAM	3,470
+
+137	Baochi Zhang	42	DAM	3,400
+
+138	Robert Ruth	42	NEM	3,385
+
+139	Robert Guddahl	42	EMP	3,375
+
+	Doug Oppman	40	GRIN	3,375
+
+141	Stephen Cambridge	44	GRIN	3,370
+
+142	Robert Delgadillo	43	SCAM	3,365
+
+143	Patrick Howe	40	EMP	3,245
+
+144	Paul Beck	44	LAM	3,235
+
+145	Larry Lewis	41	EMP	3,230
+
+146	Geoffrey Chandler	41	GRIN	3,200
+
+	Paul Eisenberg	43	GRIN	3,200
+
+148	Kurt Stafflinger	41	SPCO	3,170
+
+149	Jim Kennedy	43	DSSM	3,165
+
+150	Tim Burke	44	NEM	3,105
+
+151	Thomas Horan	44	EMP	3,050
+
+152	Troy Juzeler	40	ARKM	3,020
+
+153	Martin Leamon	42	DAM	3,000
+
+154	Peter Henry	41	EMP	2,925
+
+155	Doug Mechaber	44	UCLA	2,890
+
+156	Edmund O'Donnell	44	EMP	2,855
+
+157	Joe Nagler	40	EMP	2,850
+
+158	George Head	44	SANR	2,790
+
+159	Nicholas Calabria	44	EMP	2,700
+
+160	Steven Goran	40	EMP	2,500
+
+161	Gary Murtagh	41	EMP	2,370
+
+162	Dan Collins	44	DAM	2,300
+
+163	Bruno Henry-DeFrahan	44	DAM	2,090
+
+164	James Koss	44	NEM	1,900
+
+1	Larry Wood	45	TTEX	5,260
+
+2	Lee Mench	46	SDSM	5,140
+
+3	Scott Harris	45	DAM	5,030
+
+4	Phil Dodson	45	IM	5,000
+
+5	John Needham	45	EMP	4,975
+
+6	Tom Perrin	48	GRIN	4,910
+
+7	Brian Lee	48	NIAG	4,820
+
+8	Ted Deacon	49	DAM	4,805
+
+9	Roy Kline	46	ADMS	4,800
+
+	David Sander	45	SANR	4,800
+
+	Dick Worrel	45	TTEX	4,800
+
+12	Ed Samuels	47	STAN	4,760
+
+13	Gary Bastie	48	SPM	4,755
+
+14	Frank Thompson	47	MICH	4,725
+
+15	Sean Kelly	47	STAN	4,720
+
+16	Stephen Small	46	SANR	4,680
+
+17	Dennis Wilson	49	DAM	4,665
+
+18	Homer Lane, Jr.	49	NEM	4,650
+
+19	Stan Gardiner	45	AMS	4,635
+
+20	Rob Bastien	46	CVM	4,560
+
+	Paul Engineri	47	NIAG	4,560
+
+22	David Bright	45	NEM	4,550
+
+23	Kevin Lemley	45	STAN	4,540
+
+24	Michael Trudeau	48	DAM	4,500
+
+25	Kent McDonald	46	MOVY	4,450
+
+26	Frank Elliott	45	SMMM	4,430
+
+27	Jim Isaac	48	OSB	4,425
+
+28	Todd Connelly	47	CVM	4,420
+
+29	Steve Figueroa	47	CVM	4,410
+
+30	Michael Schell	47	SLAM	4,405
+
+31	Philip Jonckheer	46	TAM	4,395
+
+32	Kevin McVerry	46	DSSM	4,385
+
+33	John Crane	47	SANR	4,375
+
+34	Lloyd Serra	46	UNAT	4,370
+
+35	Jim Teisher	49	OREG	4,340
+
+36	Dick Pahle	49	NCMS	4,315
+
+37	John McNellis	46	STAN	4,275
+
+	Bill Olds	49	GRIN	4,275
+
+39	Jonathan Harnett	45	CONN	4,260
+
+40	Stuart Kahn	45	DAM	4,250
+
+	Dick Sidner	49	GRIN	4,250
+
+42	Jon Einsidler	48	EMP	4,225
+
+	Jim Fox	46	GRIN	4,225
+
+44	Bob Lawton	47	NEM	4,220
+
+	Bob Seltzer	47	NEM	4,220
+
+46	Mark Begert	46	MOVY	4,190
+
+47	Ken Walsh	47	NEM	4,180
+
+48	Fred Nerlinger	49	CATM	4,175
+
+49	John Schmidt	45	EMP	4,165
+
+50	Fred Dalby	49	NEM	4,125
+
+51	Pat Gallagher	45	EMP	4,110
+
+52	Craig Leidersdorf	48	DSSM	4,100
+
+53	Bruce Ballard	45	EMP	4,095
+
+	Tom Wolfe	47	NEM	4,095
+
+55	Jonathan Silver	45	EMP	4,075
+
+56	Curt Miller	49	DAM	4,060
+
+57	Jonathan Steiner	48	TAM	4,030
+
+58	Dennis Flavin	49	EMP	4,015
+
+	Brian Worthington	46	SWIM	4,015
+
+60	Edwin Maeda	49	DAM	4,000
+
+	Craig Mather	47	OREG	4,000
+
+62	Patrick Stevens	45	NEM	3,995
+
+63	Robert Rodriguez	45	MEND	3,990
+
+64	Roger McDonald	45	DAM	3,975
+
+	Stan Robinson	46	DAM	3,975
+
+66	Bob Kieckhefer	46	SANR	3,925
+
+	Christopher Toole	47	OREG	3,925
+
+68	Craig Bauer	46	GRIN	3,920
+
+69	John Flannigan	48	SMMM	3,910
+
+70	Mike Cuckovich	49	DAM	3,900
+
+	Larry Olsen	45	DAM	3,900
+
+72	Kevin Simmons	47	EMP	3,890
+
+73	Bruce Day	48	SPM	3,875
+
+74	Dennis Frank	49	SMMM	3,855
+
+75	Katsuyuki Sensui	49	SC	3,850
+
+76	Alan Kren	47	SCAM	3,830
+
+77	Bob Miller	49	EMP	3,800
+
+78	Mark Mills	45	CVM	3,790
+
+79	Cliff Jennings	45	NEM	3,780
+
+80	Paul Harter	46	NEM	3,770
+
+81	Allen Kossoy	45	MOVY	3,715
+
+82	Michael Katz	48	NEM	3,705
+
+83	Jack Curry	46	EMP	3,695
+
+84	Joe Harris	47	NEM	3,690
+
+	Donald Veress	45	DAM	3,690
+
+86	Bruce Alpert	46	EMP	3,675
+
+	Bruce Braly	49	DAM	3,675
+
+	Tom Neff	46	GRIN	3,675
+
+89	Jerry Rutigliano	47	CATM	3,650
+
+90	Michael Cullen	46	NEM	3,640
+
+	David Schlegel	49	GCMT	3,640
+
+92	Mike Cunningham	47	RCA	3,575
+
+93	John Carrick	46	NEM	3,570
+
+94	Albert Schinazi	46	GRIN	3,545
+
+95	James Borghino	46	ARG	3,525
+
+96	Will Davis	47	DAM	3,515
+
+97	Ralph Karpinos	48	NCMS	3,510
+
+98	Gary Dorfman	47	NEM	3,500
+
+	Maurice Regan	49	NEM	3,500
+
+100	Morris Finnelstein	48	CONN	3,435
+
+	Tariq Kadir	48	DAM	3,435
+
+	Masao Miyasaka	48	SC	3,435
+
+103	Tom Peck	48	UNAT	3,420
+
+104	Michael Sundvik	45	NEM	3,375
+
+	Michael Webb	45	DAM	3,375
+
+106	Fred Paddock	48	GCMT	3,365
+
+107	Bob Nelson	45	EMP	3,285
+
+108	David Baltozer	47	NEM	3,275
+
+109	Ken Kesler	45	GRIN	3,250
+
+110	George Sands	47	EMP	3,190
+
+111	Richard Benson	46	EMP	3,185
+
+112	Richard Minter	46	OREG	3,170
+
+113	Marty Pasquali	45	NEM	3,150
+
+114	Bill Nealon	45	EMP	3,065
+
+115	Gary Ungerleider	46	NEM	3,050
+
+116	Jeff Cooper	47	NEM	3,030
+
+117	James Evans	49	GRIN	3,025
+
+118	Jeff Rubinstein	45	GOST	3,000
+
+119	James Gichner	48	1776	2,950
+
+120	Ken Chertoff	48	EMP	2,905
+
+121	Thomas Bidwell	45	NIAG	2,400
+
+1	R. Tod Spieker	50	TOC	5,385
+
+2	Keith Bell	50	TTEX	5,175
+
+3	Steve Johnson	50	OREG	5,020
+
+4	Andrew McPherson	51	DAM	4,950
+
+5	Fred Schlicher	50	NEM	4,905
+
+6	Charles Dorato	52	EMP	4,900
+
+7	Joel Wilson	50	CRUZ	4,890
+
+8	Jorge Gonzalez	50	GOLD	4,845
+
+9	Jim Merchant	52	STAN	4,830
+
+NA	Jorge Gonzalez	50	GOLD	4,775
+
+10	Jim McCleery	53	PNA	4,715
+
+11	Dick Smith	52	GRIN	4,700
+
+12	Frank McQuiggan	50	NEM	4,645
+
+13	Hugh Wilder	51	DAM	4,610
+
+14	Don Davis	54	WCM	4,600
+
+15	Roger Von Oech	50	STAN	4,565
+
+16	Jack Mills	51	DAM	4,535
+
+17	David Kelley	51	DAM	4,525
+
+18	Gary Parlapiano	52	TAM	4,440
+
+19	John Shrum	50	VMST	4,410
+
+20	Bob Kolonkowski	50	EMP	4,370
+
+21	Kenneth Frost, Jr.	54	TAM	4,355
+
+22	Jeremy Cohen	50	SCAM	4,335
+
+23	Richard Arluck	53	EMP	4,315
+
+24	Jed Cronin	50	OREG	4,285
+
+25	Mark Ebel	50	ECM	4,245
+
+26	Mike Ross	50	EMP	4,240
+
+27	Richard Allen	54	MM	4,215
+
+	Richie Martin	50	NEM	4,215
+
+	David Prior	53	NEM	4,215
+
+30	Kirk Chiapella	51	CVM	4,190
+
+31	Henry Eckstein	50	EMP	4,180
+
+32	Ethan Berry	51	NEM	4,175
+
+33	Bob Bruce	50	OREG	4,170
+
+34	Dick Sidner	52	GRIN	4,150
+
+35	Paul Steven Sangren	52	NIAG	4,110
+
+36	Thomas Moyer	51	MICH	4,100
+
+37	Neil Salkind	52	MOVY	4,075
+
+38	George Sibley	53	DAM	4,065
+
+39	Alan Garfunkel	51	EMP	4,025
+
+40	Don Alexander	51	TAM	4,015
+
+41	Howard Brown	54	SPM	3,995
+
+42	Marc Scheele	52	NEM	3,990
+
+43	John Foraste	53	NEM	3,985
+
+	Mike Rushtun	52	DAM	3,985
+
+45	John Stedila	52	EMP	3,975
+
+46	Paul Shane	52	DSSM	3,935
+
+47	Robert Alspaugh	51	PCM	3,925
+
+	Kent Fugazi	51	DAM	3,925
+
+49	Steve Cleary	53	EMP	3,920
+
+	Jon Van Scoyk	53	DSSM	3,920
+
+51	Paul Griffin	52	DAM	3,895
+
+52	Pat Marzulli	50	SPM	3,875
+
+53	Christopher Jones	52	EMP	3,860
+
+54	Andrew Richelson	50	NEM	3,850
+
+55	Dennis Brockmann	50	ADMS	3,825
+
+56	Jeff Ruda	51	DAM	3,820
+
+57	Ernie Schaefer	53	NEM	3,800
+
+58	Howard Rutenburg	51	ARKM	3,765
+
+59	Tony Christo	52	DAM	3,750
+
+	Doug Church	54	GRIN	3,750
+
+	Pieter Stroeve	53	DAM	3,750
+
+62	John Klimp	53	STAN	3,745
+
+63	Steve Holmstrom	51	SMMM	3,715
+
+64	Richard Mamelok	50	LOM	3,710
+
+65	Ray Cottom	51	GPAC	3,700
+
+66	Jay Ryno	52	MICH	3,690
+
+67	John Pelli	50	NEM	3,680
+
+68	Vance Eaddy	50	SPM	3,675
+
+69	Fred Stein	52	ECYM	3,665
+
+70	John Richards	51	DAM	3,645
+
+71	Charlie Plopper	54	DAM	3,630
+
+72	Robert Klawuhn	54	LAM	3,625
+
+73	James Carey	51	DAM	3,615
+
+74	Jim Frampton	52	DAM	3,600
+
+	Joseph Hibbard	51	NEM	3,600
+
+76	Henry McHenry	54	DAM	3,590
+
+	Doug Sheaffer	52	LAM	3,590
+
+78	Charles Couper	52	EMP	3,575
+
+79	Tim Konfal	51	GCMT	3,540
+
+80	James Dorsey	54	NEM	3,470
+
+81	Randy Offutt	54	WILD	3,470
+
+82	Will Hamill	54	LOM	3,460
+
+83	Byron Siegal	51	NEM	3,450
+
+84	Alan Laster	51	EMP	3,430
+
+	Dave Lindsay	51	NEM	3,430
+
+86	Mark Formica	50	NEM	3,425
+
+87	Jim McFadzean	51	LAM	3,420
+
+88	Jiro Takahashi	54	SC	3,400
+
+89	Darrell Martin	52	NEM	3,350
+
+90	Ronald Bank	51	ARKM	3,295
+
+91	Eric Hertenstein	50	EMP	3,275
+
+92	Woof Kurtzman	52	STAN	3,255
+
+93	Michael Miller	52	LOM	3,235
+
+94	George Cyphers	51	O*H*	3,225
+
+95	J. Barry Mahoney	54	NEM	3,190
+
+96	Richard Kixmiller	52	EMP	3,120
+
+97	Robert Ginns	51	EMP	3,115
+
+98	Bob Calverley	53	DSSM	3,055
+
+99	Glenn Cheek	52	SANR	3,025
+
+100	Tom Piper	53	NEM	3,000
+
+101	Rob Broderick	53	SANR	2,980
+
+102	Ted Mendelson	51	SANR	2,975
+
+103	Charlie DuFour	50	NEM	2,950
+
+104	Alex Kaganowicz	52	EMP	2,905
+
+105	John Mooney	50	EMP	2,890
+
+106	Victor Sedinger	51	GRIN	2,800
+
+107	Benjamin Burton	54	EMP	2,775
+
+108	Armand D'Amato	54	EMP	2,730
+
+1	Richard Woodrow	55	LOM	4,620
+
+2	Robert Williams	56	SDSM	4,605
+
+3	Richard Burns	55	TAM	4,320
+
+4	Mike Freshley	57	SDSM	4,300
+
+5	Paul Chaffee	56	MICH	4,265
+
+	David Gildea	55	STAN	4,265
+
+	Vince Herring	55	MINN	4,265
+
+8	Bob Coale	59	DSSM	4,250
+
+9	David Gifford	58	CATM	4,190
+
+10	Donald Kroeger	55	MICH	4,175
+
+11	Peter Betzer	56	SPM	4,165
+
+12	Gordon DeMeester	56	O*H*	4,125
+
+13	Matt Chrostowski	57	NEM	4,105
+
+	Thomas Manfredi	55	NEM	4,105
+
+15	Hugh Dunseath	55	ADMS	4,065
+
+16	Philip Darst	55	DAM	3,950
+
+17	Jim Conlin	55	NEM	3,910
+
+18	Dave Casebolt	57	IM	3,895
+
+	Roland Crotts	56	TAM	3,895
+
+20	Stoddart Smith	55	OREG	3,800
+
+21	Tom Haack	59	EMP	3,795
+
+22	Ben Bump	56	NEM	3,765
+
+23	Ralph Mohr	57	OREG	3,750
+
+24	Brian Buzby	55	UNAT	3,660
+
+25	Thomas Barthold	55	TAM	3,640
+
+26	Peter Staecker	56	NEM	3,620
+
+27	Janos Vajda	57	NEM	3,600
+
+28	Thomas Dooley	55	GRIN	3,575
+
+29	Donald MacLaren	56	DAM	3,565
+
+30	Dick Bourne	55	DAM	3,535
+
+31	Dennis Blake	56	UNAT	3,460
+
+32	Mario Gerla	55	UCLA	3,455
+
+33	Paul Carrick	56	SMMM	3,360
+
+	Gerald Vance	55	1776	3,360
+
+35	Joseph Bolze	59	EMP	3,355
+
+36	Paul Teller	55	DAM	3,325
+
+37	Alex Ardans	57	DAM	3,300
+
+	Joe Santry	58	MACO	3,300
+
+39	Tom Blatt	56	EMP	3,275
+
+	Mark Powell	55	SPM	3,275
+
+41	Pyser Edelsack	55	EMP	3,260
+
+42	Philip Weinstein	56	NEM	3,240
+
+43	Pete Arnold	59	SPM	3,195
+
+44	Donald Hannam	58	DCM	3,010
+
+45	Bob Jaunich	58	LOM	2,995
+
+46	Russ Desserich	55	GRIN	2,975
+
+47	Phil Banda	58	SMMM	2,970
+
+48	Tom Jones	57	NEM	2,830
+
+49	Neil Topliffe	58	GRIN	2,815
+
+50	Daniel McCright	57	SANR	2,775
+
+51	Donald Glantz	56	EMP	2,715
+
+	Ross Shoemaker	56	SMMM	2,715
+
+53	Lloyd Kearns	58	UNAT	2,450
+
+54	Joe Sullivan	57	NEM	1,650
+
+1	Mel Goldstein	60	GRIN	4,385
+
+2	E. Lee Fitzhugh	60	DAM	4,365
+
+3	Tim Thornton	61	MHM	4,325
+
+4	George Brunstad	64	CONN	4,305
+
+5	Kent Price	60	LAM	4,300
+
+6	Barry Fasbender	61	STAN	4,055
+
+7	Buddy Belshe	64	HBSC	4,050
+
+8	H. Kent Atkins	60	CONN	4,025
+
+9	Bill Earley	62	SDSM	4,020
+
+10	Robert Norris	60	DAM	3,980
+
+11	Peter Crumbine	60	CONN	3,925
+
+12	Dick Peterson	61	SMMM	3,915
+
+13	Jim Bigler	63	MACO	3,900
+
+14	Dr. Konrad Euler	63	SPM	3,845
+
+15	Albert Morley	61	MICH	3,815
+
+16	David Radcliff	64	OREG	3,780
+
+17	William Murray	61	NEM	3,760
+
+18	Richard Cooke	62	SAWS	3,700
+
+19	George Thayer	62	OREG	3,600
+
+20	Edward Sorel	63	NEM	3,555
+
+21	Carl Russ	63	VMST	3,550
+
+22	Milton Gee	61	NCMS	3,540
+
+23	Bill Appelbaum	63	NCMS	3,465
+
+24	Ronald Beams	60	GRIN	3,375
+
+25	Robert Benson	63	TERR	3,365
+
+26	Peter Yaw	61	GRIN	3,325
+
+27	Jack Hicks	60	DAM	3,315
+
+28	Dave Gilmer	61	DAM	3,200
+
+29	Jon Nelson	60	CRUZ	3,190
+
+30	John Rapp	64	MICH	3,160
+
+31	Everett Lewis, Jr.	60	NEM	3,100
+
+32	Jon Schieltz	60	OREG	3,090
+
+33	Hugh O'Haire	60	OREG	3,050
+
+34	David Coons	62	NIAG	3,000
+
+35	Bob Mosbrook	61	NCMS	2,950
+
+36	Roger Brockenbrough	64	WILD	2,900
+
+37	Thomas Hetzel	62	TTEX	2,785
+
+38	Eldon Marshall	64	GRIN	2,710
+
+39	Richard Clapp	61	VERM	2,670
+
+40	Rick McMillen	61	MEND	2,545
+
+41	Gerald O'Hara	62	DAM	2,400
+
+42	Geroge Fellion	61	NEM	2,395
+
+43	David Dobkin	60	SCAM	2,275
+
+44	Mauro Pittaro, Jr.	63	EMP	1,790
+
+45	William Weihrouch	64	OREG	1,250
+
+1	Elmer Egelkraut	65	MICH	3,950
+
+2	Frank Reynolds	66	HBSC	3,875
+
+3	Arnie Green	66	MESC	3,860
+
+4	Fred Lehman	68	IM	3,835
+
+5	John Cooper	65	TAM	3,810
+
+6	Robert Beach	68	SPM	3,700
+
+	Ted Webster	65	NEM	3,700
+
+8	Charles Kohnken	67	SPM	3,670
+
+9	John Kortheuer	67	NCMS	3,620
+
+10	Russell Judd	66	GRIN	3,525
+
+11	Phil Lindsley	65	SPCO	3,470
+
+12	Harold Ferris	68	SPM	3,425
+
+13	Paul Brady	67	DAM	3,400
+
+14	Art Tebbens	69	SPM	3,355
+
+15	William Cannon	68	SLAM	3,300
+
+	Francis McAree	68	GRIN	3,300
+
+17	Itamar Kutai	65	NEM	3,120
+
+18	Donald Cassidy	69	NEM	3,100
+
+19	David Edwards	66	NML	3,070
+
+	Captane Thomson	68	DAM	3,070
+
+21	Bill Treguboff	65	DAM	3,045
+
+22	Dixon Long	65	TAM	3,025
+
+	Robert Segbarth	65	LOM	3,025
+
+24	Seymour Boorstein	67	TAM	3,015
+
+	Tom Lyndon	67	NEM	3,015
+
+26	Peter Packard	66	MESC	2,980
+
+27	Alan Maloney	69	FMM	2,965
+
+28	Richard Robecki	69	SPCO	2,960
+
+29	Ralph Perry	66	SPM	2,910
+
+30	Peter Lansbury	65	NIAG	2,820
+
+31	Ned Allen	68	SPM	2,700
+
+32	George Gulevich	66	STAN	2,670
+
+33	Thomas Weber	68	NIAG	2,615
+
+34	Charles Houser	67	NEM	2,575
+
+35	Roy Sachs	68	DAM	2,530
+
+36	Bill Watkins	65	DAM	2,400
+
+37	Jim Mehl	67	DAM	2,280
+
+38	Dave Alkire	65	NCMS	2,085
+
+39	Murray Gardner	69	DAM	2,000
+
+40	David Hajek	65	UNAT	1,860
+
+1	Frank Piemme	74	OSB	4,055
+
+2	W. Morgan Byers	71	WMAC	3,650
+
+3	Harvey Prosser	70	PNA	3,460
+
+4	Roy Hoch	71	CRUZ	3,450
+
+	Robert MacDonald	70	FMM	3,450
+
+	George McVey	71	NIAG	3,450
+
+7	Robert Blake	74	SLAM	3,405
+
+8	Fred Wadsworth	70	SDSM	3,250
+
+9	Dwight Brown	74	NEM	3,060
+
+10	Al Rogerson	73	SPCO	2,935
+
+11	Robert Sigersmith	74	SPCO	2,900
+
+12	Norman March	72	NEM	2,875
+
+	Alex Ramirez-Miller	74	CATM	2,875
+
+14	Raymond Allen	72	OREG	2,830
+
+15	Doug Perkins	74	WKGG	2,720
+
+16	Verne Scott	74	DAM	2,685
+
+17	Arthur Cross	72	GRIN	2,650
+
+18	Xingskang Cao	74	EMP	2,450
+
+19	Keith Burbridge	70	BLUE	2,420
+
+20	Robert Williams	71	FMM	2,365
+
+21	Edwin McCarthy	73	NCMS	2,295
+
+22	Richard Hirshberg	74	DAM	2,185
+
+23	James Christopher	71	NEM	2,125
+
+24	Eddie Colon	72	SWSM	1,850
+
+1	Jurgen Schmidt	75	OSB	3,510
+
+2	Dick Margerum	78	CVM	3,325
+
+3	Ray Taft	79	SMMM	3,125
+
+4	Tom McCall	76	SCAM	3,020
+
+5	Jack Huber	76	SLAM	2,905
+
+6	Robert Lavanture	77	CATM	2,775
+
+7	Elliott Schofield	76	CATM	2,760
+
+8	Walter Lynch	77	EMP	2,735
+
+9	John Cranch	76	NIAG	2,690
+
+10	Fred Rogers	75	USF	2,600
+
+11	Dore Schwab, Jr.	76	TAM	2,570
+
+12	Lester Bell	77	SPCO	2,470
+
+13	Boris Ruebner	75	DAM	2,420
+
+14	Robert Atwood	78	SPM	2,395
+
+15	Harry Colvin	77	DAM	2,370
+
+16	Albert Chipman	76	SPCO	2,270
+
+17	Richard Hirshberg	75	DAM	2,135
+
+18	David Bressler	75	DAM	2,055
+
+19	Ray Coppock	76	DAM	1,830
+
+1	Aldo da Rosa	81	RINC	3,480
+
+2	Robert Johnston	81	NIAG	3,215
+
+3	Jim Pendergrass	80	GSM	3,130
+
+4	John Woods	80	MESC	2,955
+
+5	Gus Clemens	81	TTEX	2,695
+
+6	Brud Cleaveland	81	FMM	2,650
+
+7	George Hale	82	AKMS	2,385
+
+8	Frank Tillotson	84	FMM	2,255
+
+1	Gary Weisenthal	85	LAKE	2,970
+
+2	Dave Malbrough	85	FMM	2,600
+
+3	Fred Walbolt	86	SPM	2,360
+
+4	Everett Cassell	85	PNA	1,930
