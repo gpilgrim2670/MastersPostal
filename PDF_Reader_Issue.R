@@ -1,24 +1,25 @@
 library(pdftools)
 library(tidyverse)
 
-Mens <-
-  pdf_text("inst/extdata/2020 OHEP Mens Preliminary Results.pdf")
-Womens <-
-  pdf_text("inst/extdata/2020 OHEP Womens Preliminary Results.pdf")
+#### In progress w/ year 2011, df_8
 
+Mens <-
+  pdf_text("inst/extdata/2011 OHEP Mens Results.pdf")
+Womens <-
+  pdf_text("inst/extdata/2011 OHEP Womens Results.pdf")
 
 ePostal_Reader <- function(file_path) {
   
-  Year = stringr::str_extract(file_path, "\\d{4}")
+  Year = stringr::str_extract("inst/extdata/2011 OHEP Mens Results.pdf", "\\d{4}")
   
-  file <- pdftools::pdf_text(file_path)
+  file <- pdftools::pdf_text("inst/extdata/2011 OHEP Mens Results.pdf")
   
   as_lines <- stringr::str_extract_all(file, "\n.*")
   as_lines_list_2 <- unlist(as_lines, recursive = TRUE)
   
   row_numbs <- seq(1, length(as_lines_list_2), 1)
   as_lines_list_2 <- paste(as_lines_list_2, row_numbs, sep = "  ")
-
+  
   Gender = ifelse(any(stringr::str_detect(as_lines_list_2, "Men")), "M", "W")
   
   data_1 <- as_lines_list_2 %>%
@@ -56,11 +57,12 @@ ePostal_Reader <- function(file_path) {
         Place = V2,
         First_Name = V3,
         Last_Name = V4,
-        Age = V5,
-        Club = V6,
-        ID = V7,
-        Distance = V8,
-        National_Record = V9,
+        Middle_Name = V5,
+        Age = V6,
+        Club = V7,
+        ID = V8,
+        Distance = V9,
+        # National_Record = V10,
         Row_Numb = V10
       )
   } else {
@@ -111,16 +113,19 @@ ePostal_Reader <- function(file_path) {
       stringsAsFactors = FALSE
     )
   }
-  
+########### Issue here ##########  
   if (length(data_length_8) > 0) {
     df_8 <-
       as.data.frame(t(as.data.frame(data_length_8)),
                     row.names = FALSE,
                     stringsAsFactors = FALSE) %>%
+      mutate(First_Name = str_split_fixed(V2, " ", n = 2)[,2],
+             Last_Name = str_split_fixed(V2, " ", n = 2)[,1]) %>% 
       dplyr::select(
         Place = V1,
-        First_Name = V2,
-        Last_Name = V3,
+        First_Name,
+        Last_Name,
+        Middle_Name = V3,
         Age = V4,
         Club = V5,
         ID = V6,
@@ -150,7 +155,7 @@ ePostal_Reader <- function(file_path) {
                     row.names = FALSE,
                     stringsAsFactors = FALSE) %>%
       dplyr::mutate(Club = stringr::str_split_fixed(V5, " ", n = 2)[, 1],
-             ID = stringr::str_split_fixed(V5, " ", n = 2)[, 2]) %>%
+                    ID = stringr::str_split_fixed(V5, " ", n = 2)[, 2]) %>%
       dplyr::select(
         Place = V1,
         First_Name = V2,
@@ -184,7 +189,7 @@ ePostal_Reader <- function(file_path) {
                     row.names = FALSE,
                     stringsAsFactors = FALSE) %>%
       dplyr::select(ID_Cut = V1,
-             Row_Numb = V2)
+                    Row_Numb = V2)
     
   } else {
     df_2 <- data.frame(
@@ -213,19 +218,14 @@ ePostal_Reader <- function(file_path) {
     )) %>%
     tidyr::fill(Age_Group, .direction = "down") %>%
     dplyr::mutate(National_Record = dplyr::case_when(is.na(National_Record) == TRUE ~ "N",
-                                       TRUE ~ National_Record)) %>% 
+                                                     TRUE ~ National_Record)) %>% 
     dplyr::mutate(Place = as.numeric(Place),
-           Age = as.numeric(Age),
-           Distance = stringr::str_replace(Distance, ",", ""),
-           Distance = as.numeric(Distance),
-           Gender = Gender,
-           Year = as.numeric(Year)) %>% 
+                  Age = as.numeric(Age),
+                  Distance = stringr::str_replace(Distance, ",", ""),
+                  Distance = as.numeric(Distance),
+                  Gender = Gender,
+                  Year = as.numeric(Year)) %>% 
     dplyr::select(-Row_Numb)
   
   return(data)
 }
-
-Mens_2020 <- ePostal_Reader("inst/extdata/2020 OHEP Mens Preliminary Results.pdf")
-Womens_2020 <- ePostal_Reader("inst/extdata/2020 OHEP Womens Preliminary Results.pdf")
-
-df_2020 <- bind_rows(Mens_2020, Womens_2020)

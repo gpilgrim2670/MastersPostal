@@ -31,7 +31,10 @@ df <- X1998_2 %>%
                 Year) %>% 
   dplyr::na_if("") %>% 
   tidyr::fill(Year, .direction = "down") %>% 
-  tidyr::fill(Gender, .direction = "down")
+  tidyr::fill(Gender, .direction = "down") %>% 
+  tidyr::fill(Place, .direction = "down")
+
+write.csv(df, file = "inst/extdata/cleaned_data/Postal_1998.csv", row.names = FALSE)
 
 X1999 <- readr::read_delim("inst/extdata/1999 OHEP Results.txt",
                              "\t", escape_double = FALSE, col_names = FALSE,
@@ -62,4 +65,7 @@ df_1999 <- X1999 %>%
                 Year) %>% 
   dplyr::na_if("") %>% 
   tidyr::fill(Year, .direction = "down") %>% 
-  tidyr::fill(Gender, .direction = "down")
+  tidyr::fill(Gender, .direction = "down") %>% 
+  tidyr::fill(Place, .direction = "down")
+
+write.csv(X1999, file = "inst/extdata/cleaned_data/Postal_1999.csv", row.names = FALSE)

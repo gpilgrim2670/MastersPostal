@@ -1,4 +1,4 @@
-1 Gin Morgan LOM 23 5005	Women	2004
+1 Gin Morgan LOM 23 5005  Women  2004
 2 Caroline A Kilian ISF 23 5000
 3 Erin Abbey METR 22 4940
 4 Jamie L Davidson ISF 22 4850
@@ -1006,7 +1006,7 @@
 47 Lynn Sacks OREG 58 3145
 48 Anne Stoddard METR 57 3090
 49 Frances Carly O*H* 55 3050
-49 Martha S.A. Koen ISF 55 3050
+49 Martha Koen ISF 55 3050
 51 Susan S Rockafellow ISF 55 3005
 52 JoAnn Gutin METR 58 2995
 53 Carole Torreano FACT 55 2970
@@ -1155,7 +1155,7 @@
 3 Mary Lathram DCM 88 2030
 4 Gertrud Zint FMM 86 2000
 5 Hilda G Buel OREG 89 1000
-1 Andy Nonaka DAM 24 5500	Men	2004
+1 Andy Nonaka DAM 24 5500  Men  2004
 2 Jim Nash UCLA 24 5200
 3 Craig R. Charley VMST 20 5160
 4 Eric Black NEM 22 5050

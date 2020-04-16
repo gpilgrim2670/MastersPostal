@@ -1,4 +1,4 @@
-1 Emily Wang 24 5075 NEM  	Women	2003
+1 Emily Wang 24 5075 NEM  Women  2003
 2 Rebekah Lorenz 22 5005 NEM
 3 Gin Morgan 22 4895 LOM
 4 Michelle Pizzo 22 4820 1776
@@ -1119,7 +1119,7 @@
 2 Gertrud Zint 85 2095 FMM
 3 Mary Lathram 87 2050 DCM
 4 Hilda Buel 88 1015 SMMM
-1 Andy Nonaka 23 5475 WCM	Men	2003
+1 Andy Nonaka 23 5475 WCM  Men  2003
 2 Craig Charley 19 5240 VMST
 3 Christoph O'Donnell 24 5210 NEM
 4 Jim Nash 23 4930 UCLA

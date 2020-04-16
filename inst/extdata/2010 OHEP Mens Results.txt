@@ -1,4 +1,4 @@
-1 John K Koehler DRM 23 5825	Men	2010
+1 John K Koehler DRM 23 5825  Men  2010
 2 Michael W Smit AGUA 24 5375
 3 Christian Witzke AGUA 22 5310
 4 Nathan C Freeman AGUA 23 5300

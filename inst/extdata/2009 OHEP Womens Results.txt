@@ -1,4 +1,4 @@
-1 Elizabeth A Mancuso NEM 23 5115	Women	2009
+1 Elizabeth A Mancuso NEM 23 5115  Women  2009
 2 Jessie L Bardin SPM 20 5015
 3 Clarissa Wentworth DRM 23 4900
 3 Breanna Sheldon UCLA 18 4900
@@ -1218,8 +1218,7 @@
 48 Julie Lockhart NEM 67 1875
 49 Barbara Walters Morris SKY 68 1700
 50 Judi A Williams DAM 66 1550
-51 Constance A Dumas-Coleman ISF 66 1340
-
+51 Constance A Dumas‐Coleman ISF 66 1340
 1 Susan L Munn DAM 70 3590
 2 Ronnie Kamphausen MESC 74 3585
 3 Patricia M Bond FMM 70 3560

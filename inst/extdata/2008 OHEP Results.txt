@@ -1,4 +1,4 @@
-1 Cori Raffaelli P 24 VCM 5270	Women	2008
+1 Cori Raffaelli P 24 VCM 5270  Women  2008
 2 Rachel Ripley M 23 ISF 5015
 3 Clarissa Wentworth L 22 DRM 5000
 4 Allison Dorko J 20 MESC 4710
@@ -16,10 +16,6 @@
 16 Alexandra Jensen C 18 UCLA 4250
 16 Elizabeth Reasoner C 23 1776 4250
 18 Maire Casey E 23 METR 4190
-
-
-
-
 19 Megan Bustin L 24 NAVY 4160
 20 Genevieve Jomantas M 23 DRM 4110
 21 Sarah Swoch R 22 SPM 4045
@@ -52,10 +48,6 @@
 10 Rachel Hughey C 29 MINN 4535
 10 Lauren Kafin B 26 FLAQ 4535
 12 Kristina Peterson 26 IAMP 4515
-
-
-
-
 13 Carolyn Harris S 29 SKY 4500
 14 Lian Tay M 26 REDT 4475
 15 Laura Ingoldsby K 28 FLAQ 4445
@@ -89,10 +81,6 @@
 43 Terese Schurger M 28 ISF 3995
 44 Robyn Clark D 29 NOVA 3970
 45 Olivia Lemen A 29 SCAM 3950
-
-
-
-
 46 Diane Orf L 26 DUTC 3850
 47 Elizabeth Fandell A 27 VACA 3820
 48 Jenni Clarke L 28 ISF 3785
@@ -125,10 +113,6 @@
 4 Laura Ganim E 30 COMS 4850
 5 Kelly Couch 30 MELO 4800
 6 Erin Ford A 32 OREG 4695
-
-
-
-
 7 Jennifer Mayman R 31 REDT 4680
 8 Marisa Lemorande A 30 UCLA 4665
 9 Jill Guerrera S 34 MICH 4555
@@ -162,10 +146,6 @@
 37 Virginia Justus N 32 MELO 4100
 37 Krystal Deets N 32 NOVA 4100
 39 Sarah Nation A 30 UNAT 4080
-
-
-
-
 40 Valerie Thompson 33 NOVA 4050
 41 Elise Vonhousen 34 NEM 4040
 42 Lindsey Hillesheim N 30 ARMS 4035
@@ -199,9 +179,6 @@
 70 Jennifer Hodges A 33 PMST 3350
 71 Kameron Holmes L 33 NIAG 3325
 72 Mandy Spitznagle H 33 ISF 3315
-
-
-
 73 Meg Zachwieja M 34 ISF 3300
 73 Melissa Rawsky L 32 CMS 3300
 75 Christine Block A 33 WMAC 3250
@@ -234,10 +211,6 @@
 8 Shannon Wolford D 35 TAM 4900
 9 Heather Westerman 35 NEM 4825
 10 Amy Whitesides 35 CRUZ 4750
-
-
-
-
 11 Meredith Gilson P 36 NEM 4740
 11 Jeanne Kellachan C 36 WM 4740
 13 Anna Armentrout S 36 REDT 4670
@@ -271,10 +244,6 @@
 41 Lindi Marco 38 MELO 4160
 42 Carrie Kirk B 39 ISF 4140
 43 Kendra McDowell 36 NEM 4125
-
-
-
-
 44 Junko Bryant 35 TAM 4115
 45 Elke Hofmann A 35 FINS 4110
 46 Heidi Veldman S 39 NOVA 4100
@@ -308,10 +277,6 @@
 73 Suzy Cavanagh 38 SAWS 3740
 74 Jami Andrews J 38 MVM 3730
 75 Claudia Fox I 39 UCLA 3710
-
-
-
-
 76 Cassie Nobbs A 36 OREG 3690
 76 Jennifer Hulett A 39 FLAQ 3690
 78 Carolyn Ruppel S 38 CMYM 3650
@@ -345,10 +310,6 @@
 105 Susan Petersen 39 LOM 3325
 107 Terry Foytek L 37 OREG 3305
 108 Christine Masterman M 37 NOVA 3300
-
-
-
-
 109 Jane Fitzgerald V 35 TNYA 3280
 110 Angie Weinberger 36 MELO 3275
 110 Melissa Cabot 36 UCLA 3275
@@ -382,10 +343,6 @@
 139 Anne Stark M 38 TVM 2815
 140 Kathi Mueller A 37 PMST 2800
 141 Shawn Fry M 36 DRM 2750
-
-
-
-
 142 Maaike Visser 39 CRUZ 2725
 143 Jeanie Votava M 38 PMST 2600
 144 Laura Flory J 39 ISF 2530
@@ -418,10 +375,6 @@
 22 Christine Frederic 43 SMS 4385
 22 Stephanie Couch D 43 PCAM 4385
 24 Anne Tilley L 42 NEM 4330
-
-
-
-
 25 Pam Kimmel 43 SKY 4320
 25 Elaine Debitetto J 44 NEM 4320
 25 Lori Terlouw T 43 ARKM 4320
@@ -455,10 +408,6 @@
 55 Robin Segnitz P 40 SKY 3940
 56 Elaine Smith 40 PCAT 3925
 57 Maria Tereza Paiva 42 FLAQ 3905
-
-
-
-
 58 Kathy Marsh B 40 OREG 3880
 58 Kim Larson L 44 SCAM 3880
 60 Heidi Troutner J 44 CRUZ 3875
@@ -492,10 +441,6 @@
 88 Karin Riley K 40 MELO 3585
 89 Amy Cole E 42 METR 3565
 89 Rosie Hillmeyer C 44 SKY 3565
-
-
-
-
 91 Karen Mackin 43 NEM 3560
 92 Catherine Boyle M 41 LOM 3550
 92 Linda Meyer 44 PNA 3550
@@ -529,10 +474,6 @@
 121 Agnes Wagner P 42 LBG 3335
 122 Laurie Stern L 40 UCLA 3330
 123 Joan Glubczynski 43 ARKM 3325
-
-
-
-
 124 Suzanne Grizzelle R 40 CSAM 3315
 125 Jan Hastings E 41 CPAC 3300
 126 Julie Goertemiller A 42 DRM 3290
@@ -566,10 +507,6 @@
 154 Lana Lambert M 40 PMST 2925
 154 Betsy Brown A 42 NOVA 2925
 156 Jaime Mack K 40 OREG 2910
-
-
-
-
 157 Emma Kipp A 44 DRM 2875
 158 Kris Kearns M 40 DRM 2850
 159 Diane Griffin G 43 PNA 2850
@@ -602,10 +539,6 @@
 7 Heidi Christensen L 49 CSAM 4680
 8 Ahelee Sue Osborn M 49 NOVA 4675
 8 Jenny Cook L 49 UNAT 4675
-
-
-
-
 8 Pamela Bennett A 48 BAM 4675
 11 Sally Dykstra D 48 TXLA 4650
 12 Pamela Torrey P 46 MESC 4635
@@ -639,10 +572,6 @@
 40 Carol Gassen E 47 ISF 4090
 41 Mary Phillips E 49 OREG 4085
 42 Melanie Dullea J 46 CMS 4075
-
-
-
-
 43 Gale Berkowitz 48 ECAM 4065
 43 Ann Goodman R 48 OREG 4065
 45 Susan Kirk 47 BERK 4060
@@ -1171,7 +1100,7 @@
 2 Frances Cichanski E 90 FMM 1600
 3 Kay Schimpf M 90 FMM 1525
 
-1 Edward (Ted) Bradley J 24 SPM 5220	Men	2008
+1 Edward (Ted) Bradley J 24 SPM 5220  Men  2008
 2 Chris Siebert 23 IAMP 5050
 3 Tony White 23 SKY 4910
 4 John Kelleher P 24 NEM 4900
@@ -1225,7 +1154,6 @@
 21 Kerry Sullivan 25 SPM 4570
 22 John Graass 25 NOVA 4550
 23 Larry Baeder D 26 CRUZ 4480
-
 24 Raffi Moughamian J 28 SCAM 4375
 25 Jeremy Ploessel S 28 ART 4240
 26 Jerome Byam 28 SKY 4170
@@ -1261,7 +1189,6 @@
 8 Will Simmons 32 ISF 5050
 9 Brad Zoller 30 IM 4935
 10 Nathan Boal 30 OREG 4890
-
 11 Ed Stoner 34 ADMS 4880
 12 Bas Overbosch J 30 NEM 4875
 13 Jeffrey Maydak M 34 NAST 4870
@@ -1298,7 +1225,6 @@
 44 Robert Awe 33 ISF 4115
 45 Linwood Antrim T 33 METR 4060
 46 Roy Silver 34 UCLA 4035
-
 46 Eleazar Eskin 32 UCLA 4035
 48 Jeremy White 32 SKY 4000
 49 Brian Amende C 30 NOVA 3950
@@ -1334,7 +1260,6 @@
 3 Benjamin Morse 35 MESC 5290
 4 Jeremy Houchens 37 ISF 5140
 5 Stephen Arvedson P 39 DSSM 5125
-
 6 Brian Miller 35 RIDG 5070
 7 Brad Shenfeld M 36 UCLA 5055
 8 Lawrence Lee B 39 NCMS 5050

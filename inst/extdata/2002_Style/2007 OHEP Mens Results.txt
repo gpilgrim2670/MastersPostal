@@ -1,4 +1,4 @@
-1 Robert J Margalis 24 6,135 SPM	Men	2007
+1 Robert J Margalis 24 6,135 SPM  Men  2007
 2 Jarrod R Shoemaker 24 5,235 NEM
 3 Edward (Ted) J Bradley 23 5,125 SPM
 4 Corey L Welch 23 5,110 FINS

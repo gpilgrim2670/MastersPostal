@@ -1,4 +1,4 @@
-1 Emily Wang 23 5,230 NEM	Women	2002
+1 Emily Wang 23 5,230 NEM  Women  2002
 2 Christina Cairns 23 5,015 SCAM
 3 Jenni Watts 22 4,995 ISF
 4 Miriam Carlson 24 4,945 MICH
@@ -982,7 +982,7 @@
 3 Hilda Buel 87 1,405 SMMM
 Luella Tyra 975 IHAC 1983
 1 Margot Lenigk 90 855 SMMM
-1 Christoph O'Donnell 23 5,180 NEM	Men	2002
+1 Christoph O'Donnell 23 5,180 NEM  Men  2002
 2 Bas Overbosch 24 5,025 NEM
 3 James Major 20 4,820 NOVA
 4 Luke Sagur 24 4,750 ISF

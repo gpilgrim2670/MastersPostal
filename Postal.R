@@ -8,6 +8,10 @@ Postal_2016 <- read_excel("Postal_2016.xlsx")
 Postal_2017 <- read_excel("Postal_2017.xlsx")
 Postal_2018 <- read_excel("Postal_2018.xlsx")
 Postal_2019 <- read_excel("Postal_2019.xlsx")
+Postal_2020 <- read_excel("Postal_2020.xlsx")
+
+df_2011 %>% 
+write.csv(file = "inst/extdata/cleaned_data/Postal_2020.csv", row.names = FALSE)
 
 Postals <- list(Postal_2015, Postal_2016, Postal_2017, Postal_2018, Postal_2019)
 

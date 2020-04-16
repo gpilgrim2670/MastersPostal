@@ -1,4 +1,4 @@
-1. Stephanie Miller CRUZ 22 5175	Women	2005
+1. Stephanie Miller CRUZ 22 5175  Women  2005
 2. Gin Morgan LOM 24 5070
 3. Gina Battaglia UCLA 20 4915
 4. Holly C Detra FACT 20 4910
@@ -486,7 +486,7 @@
 69. Kim Donovan NEM 41 3865
 70. Cheryl Atchley ISF 43 3830
 71. Kathleen Jaeger MET 41 3810
-72. Mary Susan Turner 41 3795
+72. Mary Susan Turner UNAT 41 3795
 73. Laura L Evans NEM 40 3795
 74. Jacqueline Klaus CRUZ 43 3775
 75. Carol K Martin FINM 42 3750
@@ -553,8 +553,6 @@
 136. Arin R Passmore ARK 41 2870
 137. Kathy Balles NEM 41 2870
 138. Anne W Nicolay ES 44 2845
-Page 5 of 10
-ONE HOUR POSTAL SWIM, 28TH NATIONAL CHAMPIONSHIP
 139. Cheryl O'dore ISF 40 2835
 140. Andrea G Heim TAM 40 2830
 141. Karen O Hickham ES 42 2790
@@ -769,7 +767,7 @@ ONE HOUR POSTAL SWIM, 28TH NATIONAL CHAMPIONSHIP
 53. Jill Wright SAW 53 3450
 54. Alison Goulder NEM 53 3425
 55. Debbie Utz SKY 51 3390
-56. Linda West 52 3365
+56. Linda West UNAT 52 3365
 57. Linda Couto TVM 50 3350
 58. Jane Hook TAM 50 3340
 59. Eileen Davis ISF 51 3305
@@ -861,7 +859,7 @@ ONE HOUR POSTAL SWIM, 28TH NATIONAL CHAMPIONSHIP
 21. Barbara H Larsen ISF 57 3535
 22. Maggie Tevis RHM 57 3475
 23. Tam K Jenkins ORE 56 3465
-24. Jo B May 56 3460
+24. Jo B May UNAT 56 3460
 25. Suzanne N Horsley DAM 56 3460
 26. Kirsten Beeler ISF 58 3455
 27. Ann W Buchel WMA 55 3445
@@ -894,7 +892,7 @@ ONE HOUR POSTAL SWIM, 28TH NATIONAL CHAMPIONSHIP
 54. Carol A Hall ISF 57 2300
 55. Judith A Burns ISF 56 2200
 56. Virginia Bitzer MET 55 2130
-57. Carolyn S Ross 59 2120
+57. Carolyn S Ross UNAT 59 2120
 58. Sandra T Haynie ORE 59 2095
 59. Rosemarie N Dokus NEM 56 1850
 1. Nancy J Ridout TAM 62 3965

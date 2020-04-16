@@ -1,1412 +1,1286 @@
-1 John K Koehler DRM 23 5825	Men	2009
-2 Michael W Smit AGUA 24 5375
-3 Christian Witzke AGUA 22 5310
-4 Nathan C Freeman AGUA 23 5300
-5 Thomas E Maires VCM 18 5225
-6 Brendan T Higgins DAM 24 5030
-7 Luis F Galvan-Sarabia FLAQ 24 4950
-8 Mark E Higgins CMAM 18 4920
-9 Richard L Jordan FLAQ 23 4910
-10 Grant Wieczorek ISF 23 4800
-11 Jack B Naylor LVAM 24 4670
-12 David M Bednar ARKM 22 4665
-13 Kyle J Ryan DAM 21 4650
-14 Brad Jacobs UCLA 20 4640
-15 Todd M Fahlstrom CMAM 22 4625
-16 Jeffrey M Kurth DAM 24 4580
-17 John Geissinger AGUA 23 4520
-18 Christopher A Lee DAM 23 4490
-19 Jacob K Sellers SSMS 23 4325
-20 Jesse Maupin PNA 23 4250
-21 Patrick A Sims SKY 21 4175
-22 Alexander K Unruh CMAM 20 3990
-23 Cody D Chase SPM 18 3985
-24 Robert W Manke NEM 22 3950
-25 Aaron R Meles NCMJ 23 3805
-26 Andrey Ulyanenko AGUA 24 3760
-27 Tim Lloyd AGUA 23 3750
-28 Ryan C Petrillo SPM 18 3725
-29 Adel A Jabbar DAM 22 3635
-30 Ian R Baker SKY 23 3625
-30 Andrew S Mount OREG 20 3625
-32 Alexis Fernandez AGUA 18 3600
-32 Hamber Pablo PNA 23 3600
-34 Leonardo Melendez AGUA 22 3325
-35 Victor Romero AGUA 18 3250
-36 Kevin M Brady DAM 24 3230
-37 Matthew B DeGennaro MOST 19 3225
-37 Daniel Hernandez PNA 22 3225
-39 Colin T Thornburg ISF 24 3000
-39 Josh I Stukelman AGUA 18 3000
-41 Barry O Morgan AGUA 19 2725
-42 Carlos Valdez AGUA 21 2150
-1 Josh Kercheval IM 28 5580
-2 Eric S Limkemann DRM 28 5475
-3 Erik Soria AGUA 28 5425
-4 Win Chesson TNYA 26 5410
-5 Michael H Day IM 26 5355
-6 Marko Turcinov AGUA 26 5300
-7 Adam S Barley VMST 28 5290
-8 Edward (Ted) J Bradley SPM 26 5285
-9 Evan Morrison CSMT 29 5265
-10 Andrew Steenrod WMAC 25 5225
-11 Brent Poulsen RIDG 27 5140
-12 Stephen A Hooper TNYA 25 5110
-13 Eric M Clarkson CRUZ 27 5060
-14 Tony A White SKY 25 4955
-15 Pablo Fuentenebro UCLA 27 4905
-16 Zachary A Gray MESC 26 4865
-17 David E Kuendig SKY 29 4850
-18 Henry L Hagenbuch UCLA 25 4810
-19 Eric K Zwemer NEM 25 4785
-20 Derek E Jansen GAJA 26 4775
-21 Rykk J Bracamonte MVN 29 4750
-22 George H Crocker DAM 26 4740
-23 Daniel Paglio IM 27 4735
-24 James J Montante SPM 27 4670
-25 Adrian Figueroa 1776 29 4645
-26 Craig R Charley RCA 26 4640
-27 Sergey Ulyanenko AGUA 26 4635
-28 John R Royer REDT 27 4550
-29 Ivan R Gomez DAM 25 4540
-30 Kelvin Li CMYM 26 4505
-31 Andrew P Darcey NEM 25 4500
-31 Craig M Keller AGUA 25 4500
-33 Benjamin Fell DAM 28 4470
-33 Luca D'Alessio NEM 26 4470
-35 Brett Crandall OREG 27 4425
-36 Joseph E Caruth NCMS 28 4415
-37 Tim A Creazzo 1776 27 4405
-38 Chip Jetton NCMS 28 4300
-39 Rob Dumouchel CVMM 28 4275
-40 Grant W Gensheimer SKY 27 4195
-41 Michael L Kalk OREG 29 4160
-42 Daniel A Liebowitz SCMC 25 4150
-43 Nat J Glackin SPM 27 4145
-44 Charles Schneider AGUA 29 4020
-45 Ryan M Dalton OREG 27 3950
-46 David A Wellman UTAH 27 3925
-47 Allen M Young DAM 25 3860
-48 Ziv R Lang DAM 27 3855
-49 Jiro Kusunose DAM 28 3840
-50 Bryan T Beary AGUA 28 3825
-51 Christopher G McGinley 1776 25 3805
-52 Edward F Hagerty AGUA 25 3800
-53 Omri Navot TNYA 29 3770
-54 Daniel P O’Kane UNAT 29 3765
-55 Douglas C Hubbard TNYA 25 3605
-56 Michael S Mayer 1776 29 3600
-57 Justin P Morejohn DAM 28 3575
-57 Doug Bristow ZILA 27 3575
-59 Ken Sutha GAJA 28 3550
-60 Greg Davis OREG 29 3525
-61 Ignacio Castano-Aguado DAM 29 3305
-62 Ivan Aguilar AGUA 26 3295
-63 Mark E Cullison DAM 29 3265
-64 Connor G Murphy AGUA 26 3225
-65 David Henry UNAT 25 3200
-66 Olivier Navarro ART 26 3185
-67 Joseph S Lim TNYA 27 3155
-68 Matthew T Zaro DAM 27 3150
-68 Arman Kayupov AGUA 25 3150
-70 Daniel Garalde CRUZ 28 3140
-71 Matt Richardson TNYA 28 3085
-72 Dustin P Borg ART 28 2900
-73 Matt G Reich PMST 27 2880
-74 Camilo Martinez AGUA 29 2850
-75 Peter G Dempster DAM 27 2710
-76 Simon J Crownshaw DAM 29 2280
-77 Ian Cervone AGUA 26 2250
-78 Anthony Flagiello AGUA 26 1375
-1 Kevin R Everett SAWS 34 5575
-2 Jason H Eaddy NEM 33 5530
-3 Mark B Callaghan DAM 30 5415
-4 Chad E Cron FLAQ 34 5170
-5 Kevin P Herlihy NCMS 30 5145
-6 William B Simmons ISF 34 5100
-7 Mark L Amott TAM 30 5085
-8 Benjamin L Price UNAT 31 5075
-9 Thomas J Patterson 1776 32 5050
-10 Jonathan D Churins FISH 34 5035
-11 David P Roosa AKMS 30 5015
-12 John P Humenik AGUA 34 4975
-12 Nicholas A Graham UCLA 30 4975
-14 Sean M Carter MESC 34 4970
-15 Nathan J Boal OREG 32 4925
-16 Peter Achberger CVMM 30 4920
-17 Ben D Rosen DAM 32 4870
-18 David Denrich TNYA 30 4815
-18 Michael J Cox CMS 32 4815
-20 Brent A Wasser FISH 31 4800
-21 Hugh M McGowan TNYA 32 4730
-22 Paul K Bizzarro DRM 30 4720
-23 Mike Offner FCST 33 4705
-24 Tatsuma Wada DAM 32 4700
-25 Bryan A Mueller SAWS 32 4650
-26 Braden Larmon NEM 32 4570
-27 Michael A Thiry IM 34 4525
-28 Alexandre Tremeau-Bravard DAM 34 4500
-29 Tim Cutler DAM 33 4490
-30 Mark Gallagher 1776 33 4485
-31 Peter Chaivre TNYA 30 4480
-32 John B Feeney IM 31 4415
-33 Sydney J Bowcott MILS 32 4410
-34 Tom Haushalter NEM 30 4400
-35 Chris G Ganter UNAT 31 4390
-36 Randy Stotler MOVY 31 4370
-37 Jonathan Wagher PNA 31 4355
-38 Robert Soldat CVMM 33 4350
-39 Gordon R Kennard UNAT 34 4310
-40 Cameron H Black DAM 33 4300
-41 Bryan S Palmer FLAQ 30 4275
-41 Jarrett R Johnson DAM 32 4275
-43 Chris R Castelli AGUA 31 4225
-44 Son Nguyen MESC 30 4215
-45 Bill Orendorf AGUA 31 4200
-46 Bertrand Dehouck TNYA 31 4190
-47 Todd Lantry OREG 34 4175
-48 Brian T Hemphill OREG 34 4165
-49 Ryan T Davis TAM 32 4150
-49 Frank G McCartney UNAT 34 4150
-51 Curtis A Dozier FISH 32 4125
-52 Jeff Buhr SKY 30 4115
-53 Jonathan S Curtis DAM 33 4105
-54 Rodrigo A Corcho FLAQ 30 4075
-54 Steven T Helfrich ZILA 30 4075
-56 Kent F Morales TAM 33 4050
-57 Nick Willis DAM 32 4040
-58 Jacob W Brickman ARKM 33 4025
-59 Matthew Larsen DAM 31 4000
-60 Ryan A Aiken AGUA 30 3970
-61 Chris N Gonzales AGUA 30 3950
-62 Erin M Stapleton CVMM 31 3885
-63 Rich E LeDuc CMS 34 3880
-63 K C Kasberg SWMS 34 3880
-65 Marc M Mohr SCA 30 3840
-66 Dan Scott MOST 33 3830
-67 Chris McKee MOST 30 3790
-68 Lennard Hachmann MELO 33 3750
-68 Adrian Baule AGUA 31 3750
-70 Kevin A Cullison DAM 31 3740
-71 Matthew T Jouppi ISF 33 3700
-71 Jeff W Hodges PMST 34 3700
-71 Robert Tyminski SCMC 34 3700
-74 Travis P Overley OREG 31 3640
-75 Peter V Prengaman GAJA 34 3530
-76 Andrew J Gersh CRUZ 30 3525
-77 Robert R Hunt DRM 31 3515
-78 Mike Galvan AGUA 34 3500
-79 Philip C Mazzella AQNT 33 3495
-80 Kjell N Stava LBG 32 3490
-81 Jeremy Groesz OREG 33 3475
-82 Kyle G Mc Intosh SCA 34 3450
-83 Jesse K Lansner TNYA 33 3440
-84 Mike Holland CVMM 31 3425
-85 Patrick DeLisle ISF 30 3400
-86 Chia-Han (Henry) Hsieh UCLA 34 3335
-87 Joel C Hart OREG 33 3255
-88 Mike A Rush ARKM 33 3150
-89 Martin A Held OREG 30 3120
-90 Peter Groves AGUA 32 3100
-91 Bradley T Pope ARKM 32 2905
-92 Alexander P Sicular AGUA 30 2900
-93 William R Stallings UNAT 32 2855
-94 Daniel Cataquet AGUA 30 2775
-95 Sam Saeigh AGUA 31 2650
-96 Mark D Knott NEM 33 2250
-97 Shawn Hawkins AGUA 31 2125
-98 Sean A Krause DAM 31 2000
-1 Tyler J Blessing TXLA 37 5575
-2 Brandon Marsh TXLA 35 5350
-3 Kirk E Nelson PNA 39 5330
-4 Shane M Ely DYSM 38 5325
-5 Jeffrey B Halbert ISF 35 5280
-6 Paul C Laustsen MELO 35 5125
-7 John W Chung VCM 39 5115
-8 Brian A Miller RIDG 37 5095
-9 Jeffrey J Jotz GSM 39 5045
-10 Ruben Figueres IM 35 5025
-10 Kevin Joubert MERR 37 5025
-12 Martin A Armstrong VCM 39 4990
-12 Taylor A Spangler DAM 38 4990
-14 Mike Broglio NEM 38 4950
-15 Sean T O'Shea OREG 35 4945
-16 Keith Benson TAM 37 4835
-17 Jeremy Houchens ISF 39 4800
-18 Greg M Dittmar 1776 36 4790
-19 Brian P Delisle SKY 35 4780
-19 James B Anderson TNYA 38 4780
-21 Ed Stoner ADMS 36 4775
-22 James A Fox AGUA 38 4730
-23 Todd M Dawkins ISF 36 4700
-24 Noah A Birmelin MICH 35 4685
-25 David D Lawson 1776 39 4675
-26 Derrick N Hansen MELO 39 4640
-27 Christopher M Roat SPAS 35 4625
-27 Peter D Hepburn IM 39 4625
-29 Bob Parenteau ISF 37 4600
-30 John Morrison IM 37 4590
-30 Erich Manser NEM 37 4590
-32 David Brand TNYA 36 4585
-33 Onesimo C Demira TNYA 36 4580
-33 Ken A Frost TAM 37 4580
-35 David Sexton ARKM 36 4575
-35 Carl M Warren CVMM 36 4575
-37 Kaan Duru NEM 39 4550
-38 Paul Navabpour CRUZ 39 4545
-39 Patrick Van Meter NCMS 38 4500
-39 Christian F Tujo OREG 38 4500
-41 Georgios Theofilidis AGUA 37 4480
-42 Alan Diamond ARKM 36 4475
-42 Mark Braun OREG 38 4475
-42 Keenan R Hauke ISF 38 4475
-45 Robert J Valentin AGUA 39 4450
-45 Jan Jindra MELO 39 4450
-47 Jun Maruta TNYA 39 4435
-48 Josh M Weinstein AGUA 36 4420
-49 Jim Jacobsen UCLA 38 4400
-49 Timothy E Zimmer ISF 39 4400
-51 Rob Butcher SYSM 37 4350
-52 Michael J Mayer NIAG 39 4345
-53 Mark S Goldman DAM 38 4340
-54 Guillermo A Locht MESC 36 4320
-55 Mark Cronin CMYM 36 4315
-56 Earl Walton AGUA 36 4300
-57 James J Fick MERR 36 4285
-58 Bruce E Schwartz AGUA 39 4225
-59 Linwood T Antrim TNYA 35 4210
-60 Simone Musco MM 38 4200
-60 Jeffrey K Berridge ISF 39 4200
-62 John P Margiotta AGUA 38 4175
-63 Jason B Braun CVMM 35 4150
-63 Todd E Zornik TNYA 37 4150
-65 Braemon M Hanes CVMM 35 4105
-66 Doug Hume SCA 38 4100
-66 Jeff Solomon MELO 39 4100
-68 Benjamin J Lloyd AGUA 38 4075
-69 Matthew D Peck 1776 39 4060
-70 Tom E BonDurant HPX 38 4030
-71 Peter J McGrane TNYA 35 4020
-72 Ryan J Stille UNAT 36 4010
-73 Scott D Bishop ISF 37 4000
-73 Michael R Beauregard UCLA 35 4000
-73 Andreas Ladas NEM 39 4000
-73 Robert D Simon ISF 39 4000
-77 Edgar D Rogge SWMS 36 3950
-78 Brad Hickerson DAMM 39 3935
-79 Reid S Brewer AKMS 35 3900
-80 David Barron NTEX 36 3850
-80 Brian Vegter OREG 38 3850
-82 Dustin M Baker NEM 38 3815
-83 Michael Ajouz AGUA 36 3800
-83 Drew A Porter UCLA 36 3800
-83 Yuta Tsuboi AGUA 36 3800
-86 Gabe Crowner MICH 37 3770
-87 Bo A Shirey ATMS 37 3730
-88 Neil Hatler OREG 39 3700
-89 Matt D Browning OREG 37 3675
-90 Tobin J Booth DAM 36 3650
-91 Greg Regier SCA 39 3635
-92 Jason E Bundy DAM 39 3615
-93 John A Ruby ISF 37 3600
-93 Jack P Chen DAM 38 3600
-93 Kristofer D Schlachter AGUA 37 3600
-96 Michael K Farrell AGUA 37 3575
-97 David J Finlay MVM 38 3560
-97 Jason D Lassen OREG 37 3560
-99 Mark D Wholey NEM 39 3485
-100 Michael D Kaplan SCA 39 3475
-101 Richard E Thompson METR 35 3465
-102 Sean George NCMS 38 3460
-103 Bruce B Chang DAM 37 3450
-104 Aaron L Smith OREG 38 3440
-105 Mark Bednorz OREG 38 3435
-106 Mark A Janus ISF 37 3415
-107 Scott A Istas NTEX 38 3410
-108 Roderrick R Umali DAM 39 3400
-109 Paul D Cupo NIAG 39 3390
-109 Wojciech B Sobocinski UCLA 37 3390
-111 Sean K O'Shea TNYA 38 3380
-112 Mike R King WAVA 36 3370
-112 Tom G Meese OREG 38 3370
-114 David H Cook AGUA 38 3350
-114 Scott Hamilton OREG 38 3350
-114 Scott R Linnborn NITR 39 3350
-117 Charles L Smith AGUA 38 3320
-118 Jeff J Sahli PMST 38 3235
-119 Russell McGranahan AGUA 39 3175
-120 Alex Wright DAM 37 3160
-121 Robert E Rostron AGUA 37 3150
-121 Ash Forrester AGUA 35 3150
-123 Philip Donnelly AGUA 35 3125
-124 Todd Goergen AGUA 37 3100
-125 Jason J Combs SWMS 38 3050
-126 Chris Flugmacher ADMS 39 3000
-126 Dennis De Leon SAWS 36 3000
-128 Mark D Chappell ISF 39 2875
-129 Nelson Rivera AGUA 37 2825
-130 Thomas G Mullane AGUA 36 2800
-130 Jason Taormino DAM 39 2800
-132 Anand Krishnan METR 39 2795
-133 John M Raleigh PMST 37 2725
-134 Michael J Guirl MOST 38 2580
-135 Gunnar Pritsch AGUA 39 2540
-136 Philip Donnelly AGUA 35 2500
-137 Linc Jepson MVM 35 2405
-138 Josh C Davis MOST 37 2400
-138 Assaf Kedem AGUA 36 2400
-140 Assaf Kedem AGUA 36 2250
-1 Mike G Shaffer VCM 44 5830
-2 Roque J Santos WCM 42 5635
-3 Randy M Eickhoff SCA 44 5550
-4 Kurt F Dickson ARIZ 42 5515
-5 David E Kays PNA 42 5350
-6 Todd E Arris TOC 44 5240
-7 Simon A Millar UCLA 43 5225
-8 Sam H Manhart MESC 41 5205
-9 Chris A Clarke ISF 41 5200
-10 Stephen P Arvedson CVMM 41 5180
-11 Norbert F Hoehne SCA 40 5100
-12 Brian S Rimel SPM 43 5095
-13 Matthew R Gilson NEM 42 5085
-14 David J Barra SMSA 44 5045
-15 James L Proffitt OREG 44 5040
-16 William C Sax GMUP 40 5035
-17 David A Cloninger OREG 40 5020
-18 Jon D Millett MESC 44 5010
-19 William A Davis NCMS 42 5005
-20 Adam G Engelskirchen TAM 41 4995
-21 Bill Ragatz CONN 41 4980
-22 Rob Higley OREG 44 4975
-23 Greg L Edmondson DRM 43 4935
-24 Stirling H Thomas NEM 42 4900
-25 Timothy P Waud OREG 42 4880
-26 Chris E Kovacs NEM 40 4865
-27 Scott May NEM 40 4835
-27 Karl R Gundersen SLAM 40 4835
-29 William M Huibregtse ISF 44 4800
-30 Daniel B Moore BERK 44 4790
-31 Douglas A Kabel SWMS 44 4785
-32 John P O'Donnell TNYA 44 4780
-33 Bruce E Hopson SLAM 43 4760
-34 Duke S Rohlen MELO 42 4750
-34 David M Edwards SCA 40 4750
-36 Thomas L Brown DAM 42 4725
-36 William Cordero IM 42 4725
-38 Douglas J Sayles NEM 42 4680
-39 Rob Barringer CMS 44 4675
-39 Mark J Schactman TERR 43 4675
-41 Ted Krovetz DAM 43 4650
-41 Peter J Letendre NEM 40 4650
-43 Will C Neafsey MICH 42 4640
-44 Tom Meier UNAT 42 4625
-45 Matthew S Mair TNYA 43 4590
-45 Daniel S Zimmerman IM 42 4590
-47 Jonathan D Weiss 1776 42 4575
-48 Jeffrey E Wood NEM 40 4535
-49 Bruce A Maxwell MESC 40 4515
-50 Stephen J Bosic NEM 41 4510
-51 Ernie Hoftyzer DAM 40 4500
-52 Mike VanQuickenborne PNA 40 4480
-53 Teck Choo CMYM 42 4475
-53 Jonathan Farber AGUA 42 4475
-55 Theodore A Casterline OREG 44 4450
-55 Roger Wright IMSC 44 4450
-57 Mark A Dajnowicz SCA 44 4445
-57 Dean R Ellis SCA 40 4445
-59 Matt M Kowta DAM 43 4435
-60 Robert Clayton SAWS 42 4425
-61 Jeffrey L Hewitt MELO 41 4385
-62 William (B J) E Lyman NCMS 43 4375
-63 Fred W West AKMS 41 4365
-64 Jason W Timmons ISF 42 4350
-64 Joshua C Smith SPM 41 4350
-64 Scott G Woolley FISH 44 4350
-67 Chip G Beard ARKM 41 4345
-68 Michael Jacobson CMYM 41 4335
-69 Greg Webb ISF 44 4330
-70 Andrew C Bryan OREG 44 4325
-70 Keith A Fritz 1776 42 4325
-72 Howard L Jacobs SCA 43 4320
-73 Andrew A Duenow AKMS 44 4315
-74 Al Prescott NEM 41 4300
-75 David E Uprichard REDT 43 4275
-75 Jaime R Balboa UCLA 41 4275
-77 Paul M Kelly NEM 42 4265
-78 David S Rice OREG 42 4250
-79 Dan E Larson PNA 42 4240
-80 Tom W Caprio SCSF 44 4235
-81 Edward A Merkling ISF 41 4225
-81 Daniel J Sperka DAM 44 4225
-83 Juan Pablo Perez AGUA 43 4200
-84 Scott Moffet CMYM 42 4185
-85 Carl E Jaynes AKMS 41 4180
-86 Steve Lisle ARKM 43 4155
-86 Jonathan J Jensen DAM 44 4155
-86 Paul Novaes SMMM 44 4155
-89 Thomas F Puccio SCA 43 4150
-90 Nathan W Sanford OREG 40 4125
-91 Jerry T Kurtz NCMS 43 4085
-92 Robert L Horton AGUA 43 4075
-92 Peter Collins PNA 44 4075
-94 Mike Isaacs PMST 43 4070
-94 Robert C Hilton NIAG 41 4070
-96 Michael D Lessin SRM 44 4060
-97 Kevin Schroth AGUA 40 4050
-98 David M Craig ISF 44 4030
-99 Brad Lawrence ARKM 41 4025
-100 Michael J Hannibal O*H* 43 4020
-101 Randall A Chamberlain TNYA 40 4015
-102 Gen Watanabe TNYA 41 4005
-103 Rutger R Engbersen OREG 44 3990
-104 Jerry Sweetland MICH 42 3985
-105 George Freeman SCSF 44 3975
-106 Kola Romano AGUA 42 3950
-107 Adrian Rishworth NEM 40 3940
-108 Russell Berg CVMM 42 3930
-109 Jon M Clausen CSI 40 3900
-110 Philippe Homassel CMYM 43 3875
-111 Paul Weiss AGUA 42 3870
-112 Charles Anstadt FACT 43 3860
-113 Eduardo Cruz CMS 40 3850
-113 Jondavid Klipp FISH 43 3850
-115 Nils Kenaston FISH 42 3825
-116 Brian D Young OREG 42 3820
-117 Kristopher E Kordana DAM 44 3810
-118 Joseph X Phillips 1776 44 3800
-118 Kevin J Mylod GAJA 41 3800
-118 Adriano M Caixeta AGUA 44 3800
-121 Steven E Sloop OREG 44 3785
-122 William R Carr TNYA 40 3775
-123 Ashley E Miller UCLA 44 3770
-124 Raymond Toy CMYM 42 3760
-125 J Scott Burton AGUA 40 3750
-126 Richard A Keller DAM 42 3740
-127 Bruce R Cox ART 44 3700
-127 Stephen D Julien ART 42 3700
-129 Scott W Moyer TNYA 44 3680
-130 Randall Carver MOST 44 3675
-131 Bill Donnelly UNAT 42 3660
-132 Franklin W Duck ISF 43 3650
-133 Christopher E Tapper LBG 43 3640
-134 Ray Konishi 43 3635
-134 Robert A Lounsbury OREG 41 3635
-136 David C Blair MOVY 43 3615
-137 Greg H Tchejeyan CVMM 42 3610
-138 Harris D Liu DAM 41 3600
-138 Randy J Irwin ISF 42 3600
-140 Cliff Miller GAJA 43 3565
-141 Gary C Albrecht OREG 40 3550
-141 Mark A Gill SYSM 41 3550
-143 James A Jamison ISF 41 3525
-144 Eric Peterson OREG 44 3515
-145 William H Finch CSI 44 3510
-146 Dave A Thibodeau ISF 44 3500
-147 Gautam Makani MELO 43 3485
-148 Dudley C Goar NEM 40 3475
-148 Steven E Kotin CVMM 41 3475
-150 Ty Hoffine ARKM 41 3450
-151 Ronald E Lee DAM 42 3440
-152 David B Carmack MESC 44 3425
-153 Steven Olson OREG 42 3405
-154 Michael A Dotlich ISF 42 3400
-155 Watson F Potter MACA 40 3380
-156 Barry Paul OREG 44 3360
-157 Douglas S Buck WMAC 42 3350
-157 James P Hull NEM 41 3350
-157 Bill Salo AGUA 42 3350
-160 Luke T Henderson UCLA 40 3330
-161 Tim Stachowski MICH 41 3325
-162 Mike D Nims UNAT 41 3300
-163 Jeff S Simons DAM 41 3265
-164 Randall B Turner PMST 44 3250
-165 Noritoshi Tokumasu AGUA 43 3200
-166 Matthew J Svirida SRPM 40 3165
-167 Dennis Kim CVMM 41 3160
-168 David C Stark TVM 41 3150
-169 Andrew Qiu ART 43 3125
-170 Thomas J Scanlon NEM 43 3110
-170 Gary Hartmann CMYM 44 3110
-172 Joe Garcia SCA 42 3100
-172 Neal Mesnick AGUA 40 3100
-174 Chris Mix CVMM 43 3080
-175 Steve Allgood ART 41 3050
-176 Eric D Shain CVMM 42 3035
-177 Jonathan P Doherty MOST 40 3000
-178 Ray Montague SCA 41 2980
-178 Raul E Castro DAM 40 2980
-178 Thomas T Tucker DAM 42 2980
-181 Paul M Del Bene DAM 40 2975
-182 Andrew E Platek AGUA 41 2950
-183 Shawn P Hughes MOST 43 2940
-184 Greg J Collier DAM 43 2840
-185 Bo Trainor RIDG 40 2825
-186 Rick K Blackmon ART 42 2700
-187 Szilard V Gyalay CSAM 42 2500
-188 Joel Mann PMST 42 2480
-189 Chuck Winrich NEM 40 2440
-190 Michael E Schulhof SCA 43 2435
-191 Alister Ramirez-Marquez AGUA 44 2430
-192 Eddy Lentz AGUA 41 2300
-193 John E Neff PMST 42 2075
-194 Christopher A Dobens AGUA 44 2025
-1 Jeff T Erwin SAWS 45 5755
-2 Neil J Brophy NIAG 48 5575
-3 Michael J Schmidt MESC 47 5405
-4 James B Biles WMAC 48 5220
-4 Frank C Wuest NEM 49 5220
-6 Bill Mc Cracken TVM 48 5145
-7 Mark Hontas SCA 46 5140
-8 David Sebastian IM 48 5090
-9 Joe Delaney TAM 48 5065
-10 Bart Schneider 1776 49 5020
-11 Douglas M Bosley NEM 47 5005
-12 David Hathaway OREG 49 4985
-13 James M Byers NIAG 48 4925
-14 Ron L Collins SPM 47 4880
-15 Kevin S Sherman ISF 45 4800
-15 Tim K Sheeper MELO 46 4800
-17 Kurtis C Baron VCM 45 4795
-18 Kris Calvin OREG 47 4750
-18 Michael Johmann SKY 48 4750
-20 Paul M Kryska MVM 46 4745
-21 Chuck F Allen WCM 45 4700
-22 Jim Avrea YCAM 49 4685
-23 Robert M Tullman SPM 45 4650
-23 Bart Lally TOC 47 4650
-25 Scott P Halliburton SLAM 47 4635
-26 Keith E Wilson MELO 45 4625
-27 Andrew J Nussbaum AGUA 46 4615
-28 Rick Ferrero PNA 45 4600
-28 Donald E Stafford VCM 47 4600
-30 Rob Mulqueen RIDG 49 4595
-31 Bill H Sumerfield OREG 49 4575
-32 Todd E Irmas SCA 46 4555
-33 Jimmy Plair PALM 47 4550
-33 Michael J Williams AGUA 46 4550
-35 Christopher House UNAT 46 4525
-36 Fritz Bedford NEM 46 4500
-37 Robert A Bonsall 1776 46 4480
-38 Bradley S Stolshek CVMM 48 4475
-38 Scott F Marshall MELO 48 4475
-40 Larry E Caldwell GOLD 45 4470
-40 David A Schubert NEM 48 4470
-42 Michael Parry CONN 45 4455
-43 Jim Waterman NTEX 45 4450
-44 Gerald E Anderson SCA 45 4410
-45 Paul A Silka UCLA 48 4400
-45 Michael N Stresemann PALM 49 4400
-47 Lee Francis IM 48 4365
-48 Steve Schiemann IMSC 47 4350
-48 Donald Macdonald IM 47 4350
-50 David A Williamson 1776 45 4335
-51 Greg J Pottie UCLA 48 4325
-51 Eric E Grubel SCA 47 4325
-53 Brent M Tininenko ARKM 48 4310
-54 Chris Campbell MVM 48 4300
-55 Darin N Salk DAM 48 4295
-55 John H Adair FLAQ 48 4295
-57 Mitchell Johnson MELO 45 4290
-57 John F Fleming UNAT 47 4290
-57 David J Swain ARKM 48 4290
-60 Arthur P Marnane DCAC 46 4285
-61 Anthony Renshaw AGUA 46 4275
-62 Charles R Herrick CONN 49 4265
-63 Randy L Mertes ARKM 47 4255
-64 Stephen P Roush CMS 47 4250
-65 Laszlo C Bardos NEM 46 4245
-66 Stephen R Flanagan OREG 47 4230
-67 Michael R Wright ISF 47 4220
-67 Philip J Schoepke NEM 48 4220
-69 Bruce Bower MELO 48 4210
-70 David R Warren MELO 47 4200
-70 Steve R Ruch MICH 47 4200
-72 David McKeon IM 46 4195
-73 Dave C Mason SCA 45 4190
-74 Kozo Suzuki TNYA 46 4185
-75 Alan N Berro UCLA 49 4180
-76 Marty C Kube UNAT 46 4170
-77 Paul L Lalor NEM 49 4160
-78 Richard A Knipe SPM 46 4145
-78 John Grant SKY 46 4145
-80 Robert I Ballou NEM 49 4140
-81 Harold R Sachs CMYM 45 4135
-81 Gregory B Cook NCMS 47 4135
-83 Miles V Smith SRM 45 4125
-83 Robert Z Bliss AGUA 49 4125
-83 Robert M Matson METR 45 4125
-86 Ed O'Malley CMYM 47 4115
-87 Howard A Lloyd PNA 49 4110
-87 Jeff L Wilson ARKM 48 4110
-87 Kenneth A Barbee 1776 45 4110
-90 Mike Lenz IMSC 46 4100
-91 Anthony F Reen TNYA 48 4090
-92 Tom G Roberts OREG 48 4085
-93 Patrick J Hamilton ARKM 48 4075
-93 Scott W Matthews PNA 48 4075
-95 Sacha L Marcroft CVMM 47 4060
-95 David P Riley NEM 47 4060
-97 Daniel R Head NEM 49 4050
-98 Jim A Ivelich OREG 47 4045
-98 Tom W Fields CVMM 49 4045
-100 Ray Kobs NEM 45 4040
-101 Mark L Farman SKY 45 4035
-102 Konrad Fritz UNAT 49 4025
-102 Lou Boone OREG 48 4025
-102 Gregg H Recanzone DAM 47 4025
-102 Jordan H Waxman AGUA 45 4025
-106 Patrick C Heuveline UCLA 47 4015
-107 Philip Cullen SKY 49 4000
-107 Utley Noble UNAT 46 4000
-109 Bill R Meier SRPM 48 3970
-110 Lyle H Mc Carty DAM 49 3950
-110 Akiharu Miyagi 46 3950
-112 Don Anderson SSMS 45 3935
-113 Eric Schauwecker CVMM 46 3925
-113 Darcy B Dahl AGUA 45 3925
-113 Geoffrey Anderson UCLA 48 3925
-116 David L Livengood OREG 46 3900
-116 Paul K Johnson PNA 47 3900
-118 Matt Handel NCMJ 48 3880
-119 Richard M Noritake AGUA 49 3850
-120 Lawrence L Golusinski GAJA 45 3830
-121 James M Massey TNYA 48 3825
-121 Dave Schneider 1776 49 3825
-121 John E Ortiz SPAS 49 3825
-124 Robert D Adams NCMS 49 3820
-124 Daniel J Kolean MICH 49 3820
-126 Patrick Mayer DAM 47 3810
-126 William P Kline SWMS 48 3810
-128 Patrick M Dodd UCLA 45 3805
-129 Mario M Mauro AGUA 49 3775
-129 Robert T Ramos SCA 46 3775
-131 Konstantin Y Petrov AGUA 46 3750
-131 Joseph B Wiegand MILS 46 3750
-133 Scott R Christian OREG 47 3735
-134 Jon D Haveman TAM 45 3725
-134 Christian C Scheuring DAM 45 3725
-136 Neff K Hudson MOST 45 3715
-137 Frankie Ayres CVMM 46 3685
-137 Craig A Kercher MOST 48 3685
-137 Ernest E Beauvais NCMS 48 3685
-140 Chris Bobo SSMS 47 3675
-141 Jeff S Watern DRM 48 3665
-142 Richard B Rader ISF 47 3655
-143 Erik Vink DAM 45 3650
-143 Christopher J Shrader ISF 49 3650
-143 Todd W Franke ARKM 46 3650
-146 Charles C Ellis CMS 47 3615
-147 Thomas (Tom) K Merrell ISF 49 3600
-148 Brian Brown AGUA 46 3575
-148 William C Birnbaum CMM 49 3575
-150 Thomas R Sturmer ISF 49 3565
-150 Dan A Turner DRM 47 3565
-150 Michael R Peck ISF 49 3565
-153 Iddo Kadim OREG 46 3560
-153 Chris J Loberg OREG 49 3560
-155 Rick Vavul ISF 45 3550
-155 Magnus Nirell OREG 45 3550
-157 Denis R Pelletier NEM 45 3545
-158 Andreas Kaubisch UNAT 45 3525
-159 Eric T Dybdahl PNA 49 3520
-159 Kenneth P Brown NEM 49 3520
-161 Jim Silver SPAS 45 3500
-162 Anthony F Carillo AGUA 46 3475
-162 Guy L Merchant UCLA 46 3475
-164 Matt Lefkowitz BERK 49 3460
-165 Paul Arsenault NEM 48 3440
-166 Dan Honious UNAT 49 3415
-166 Michael J Kearns DRM 48 3415
-168 Daniel C Joyner ISF 47 3400
-168 Barrett Powers ISF 47 3400
-170 Andrew W Keen UNAT 46 3385
-171 John C Werner LBG 46 3360
-172 Gregory D Rusch ART 49 3325
-173 Joseph N Burzynski TNYA 47 3320
-173 Heriberto J Delgado FACT 46 3320
-175 Andrew J Jackson FBMS 45 3315
-176 Shawn P Kinney DAM 46 3310
-177 David W Stewart MOST 46 3300
-178 Mark A Schaffer TNYA 47 3285
-179 Craig E Blomberg DAM 49 3280
-180 Lee Axelrad DAM 46 3225
-181 Richard Iazzetta SCA 46 3175
-182 Michael Brinster OREG 46 3150
-183 Derek R Fromson UCLA 45 3135
-184 Elvis L Ruiz MOST 46 3075
-185 Mark Loehr ART 49 3020
-186 Mark D Ladd NMMS 48 3015
-187 Kevin Perkins CMYM 49 3010
-188 Vince J Mattera CVMM 49 3005
-189 Dewey Gilbert NTEX 48 2980
-190 Chris P Branigan VMST 48 2950
-190 Kyle D Kersey OREG 45 2950
-192 David P Champagne TAM 49 2900
-192 Jeff T Hinely HUNT 46 2900
-194 Don W Yee DAM 47 2875
-195 Chris Maloney AGUA 46 2850
-196 Rodney R Pyle LBG 49 2820
-196 Mark L Cecconi MOST 47 2820
-198 Jon Brusherd ARKM 48 2800
-199 John M Marks AGUA 45 2765
-200 Steven M Salverson PMST 49 2705
-201 James M Donahue ZILA 48 2700
-202 John Weiss ISF 48 2685
-203 John D Visser SWMS 47 2645
-204 Keith W Nelson SPM 45 2640
-205 Andrew S Pomerantz UCLA 49 2600
-206 Michelle D Hardy SCA 45 2570
-207 John S Vigilante BERK 48 2500
-208 Peter M Halloran AGUA 47 2450
-209 Cesar Tomasino MOST 46 2405
-210 Paul D Vega DAM 47 2175
-211 Tony G Arampatzis PMST 48 2170
-212 Charles J Oswald MOST 49 2145
-213 Jeff D Webster ARKM 48 2050
-1 Robert C Placak TOC 50 5430
-1 Sandy M Mac Donald SMST 54 5430
-3 Karl G Tallman CRUZ 51 5125
-4 Michael DeGroat 1776 50 5090
-5 Mike Keck TOC 50 5020
-6 Tim Erickson FLAQ 53 4970
-7 James A Stewart MINN 53 4915
-7 Jeffrey S Kline MELO 51 4915
-9 Stephen M Davis SCA 51 4900
-10 Jamie Hemmerle 1776 54 4895
-10 Mark E Alexander NEM 51 4895
-12 Peter M Guadagni WCM 54 4875
-12 Bryan T Richardson 1776 53 4875
-14 Gilles A Chalandon AGUA 53 4870
-15 Lance E Halsted DAM 50 4865
-16 Jeffrey A Klemes UCLA 50 4835
-16 Thomas A Grandine PNA 51 4835
-18 Patrick Allender OREG 51 4830
-19 Ronald W Niedrich SMS 50 4785
-20 Bill Fenner PNA 54 4765
-21 Mark E Evans DAM 51 4755
-22 Ron J Emhoff TVM 54 4745
-23 Geoff Spellberg TAM 53 4740
-23 Fred R Bartlett NEM 53 4740
-25 Chris Layton IM 51 4705
-26 Thomas W Emison MINN 51 4690
-26 Joel M Meltz NEM 53 4690
-28 Bill Geary NEM 52 4680
-29 Gary M Oliver OREG 52 4675
-29 Doug Goodman OREG 53 4675
-29 Douglas E Otto OREG 50 4675
-32 G Mark Doyle NCMS 50 4635
-33 Joshua W Scott PNA 54 4630
-34 Dave Welch NEM 53 4625
-35 Thomas H Ball VCM 50 4600
-36 Gregory S Johnson DAM 52 4575
-36 Jeff D Spencer ARKM 51 4575
-38 David L Woodruff DAM 53 4560
-39 Mark S Conrad SCAM 52 4555
-40 Timothy C Kennedy SPM 53 4550
-41 Chris Hauty UCLA 53 4545
-42 Marty Hendrick FLAQ 51 4535
-43 Scott Wieking DAM 50 4530
-44 Ed J Barth NEM 51 4525
-45 Tim M Cespedes OREG 50 4520
-46 Dag L Seymour CMS 51 4515
-46 Brian A Cummings ISF 50 4515
-48 Joe F Aumiller MICH 52 4500
-49 William K Roy 53 4490
-50 Tim McGough MERR 52 4485
-51 Phil Sidenberg SWM 53 4480
-52 Luke Claus SCA 51 4470
-53 Jeff Moxie CVMM 51 4460
-54 Mike Phillips UNAT 53 4395
-55 Ron J Thompson OREG 50 4385
-56 Bill Reidinger 1776 53 4380
-57 Christopher J Rock DAM 50 4375
-58 Dave Wells MILS 50 4350
-58 Michael J Fero MELO 51 4350
-58 Lars R Durban PNA 52 4350
-61 Keith Ortiz NMMS 53 4340
-62 Ray Palmer NEM 50 4330
-63 Craig S Jourdonnais MM 50 4320
-64 Dan Underbrink PNA 53 4315
-65 James D Hayashi SLAM 52 4310
-65 Gregory H Blaine LOM 51 4310
-67 Mark B Wren OREG 51 4300
-67 Scott H Christie VCM 54 4300
-69 Ed Ramsey OREG 53 4295
-70 Tom Barton PCAT 53 4275
-70 Chuck Burr RIDG 52 4275
-72 Bob J Dickson ISF 54 4225
-73 Bob Sege NEM 51 4210
-74 John V Dolan NEM 52 4205
-75 Paul Miller 1776 50 4200
-75 Richard S Wiese ISF 52 4200
-77 Keith Henthorne SPM 52 4185
-77 Steven Hubbard NEM 52 4185
-79 Steve Miller GAJA 53 4175
-80 Neil W Shepherd OREG 50 4170
-80 Jeff M Citron YCMS 54 4170
-82 Richard J Risso CRUZ 50 4165
-83 Robert C McKee MVM 50 4150
-84 George Van Meter SKY 54 4130
-84 Alan D Rowland DAM 53 4130
-86 John H Constantine DAM 52 4125
-86 Jay Stemmler PNA 52 4125
-88 Bob W Blattner DAM 54 4120
-89 Rick Heimann 1776 50 4110
-90 Matthew P Gill GOLD 53 4100
-91 Donald S Slovenkai NEM 53 4085
-92 Jon Tice DAM 51 4075
-93 Andy Mascheroni TAM 52 4065
-93 Scot Phinney IM 53 4065
-95 Scott E Ebke TAM 51 4050
-95 Steven P Sokolow METR 53 4050
-95 Mike N Malony ARKM 50 4050
-98 Gabriel Salazar CVMM 53 4045
-99 Thomas G Gelinne TNYA 52 4035
-100 David A Oliver AGUA 50 4025
-100 Stephen C Riback TNYA 50 4025
-100 Patrick R Long DAM 53 4025
-103 Thomas L Gessner 1776 50 4015
-104 Geoffrey F Mc Cavitt MELO 54 4010
-105 Tim M Murphy AGUA 51 3990
-106 David Douglass CMYM 53 3985
-107 Ash Lloyd Welke 50 3960
-107 Tom N Pani CSAM 53 3960
-109 John E Sylvester PNA 53 3950
-110 Stephan J Freeman SPM 53 3945
-110 Mark Tribe OREG 50 3945
-110 Mark W Schwartz DAM 51 3945
-113 Keith F Sellers SSMS 52 3925
-114 Kyle Murray GBM 51 3920
-115 Thomas S Wright CMS 51 3905
-115 Jon A Mac Claren SRPM 51 3905
-117 Paul T Edelman NEM 53 3900
-118 Mike B Dowd OREG 51 3880
-119 Ron K Kaufmann OREG 51 3855
-120 William K Jenkins CMS 52 3850
-120 Craig A Zais DAM 52 3850
-120 Michael Agar IMSC 52 3850
-120 John P Davis ISF 51 3850
-124 Steve M Garrett DAM 52 3835
-124 Mark B Berger H2O 53 3835
-126 Tom A Barnes ISF 52 3825
-127 Mark R Neubert OREG 52 3815
-128 Mike N Van Dooren OREG 51 3800
-128 Robert J Moon OREG 54 3800
-130 Ed H Pritchard NCMJ 53 3755
-131 Christopher S Landry NEM 54 3750
-131 Stephan S Jones CSI 53 3750
-133 Nigel Beaman 50
-134 Craig D Harrison PMST 50 3705
-135 Douglas Shemin NEM 54 3685
-135 Michael McCarthy FACT 54 3685
-137 Brandon F Forest DAM 53 3680
-138 William A Schulz DAM 51 3670
-139 Jeffrey E Bush 1776 51 3665
-140 Perry W Makris NEM 52 3625
-141 Steven R Erickson MICH 52 3615
-142 Gregory M Stuart SCA 51 3600
-142 Joshua G Gold AGUA 52 3600
-142 Mike Topp AGUA 51 3600
-142 Aaron C Setran DAM 50 3600
-146 S Michael Harrill ISF 50 3580
-147 Adam M Sandler SWM 50 3575
-148 Jack J Frackleton NEM 50 3570
-149 Sergio B Silva TAM 54 3565
-150 Michael E Wright RIDG 52 3560
-150 Buzz Loftus CMYM 52 3560
-152 Jerry McHugh CMS 52 3550
-152 Rick Sands NEM 52 3550
-154 Douglas C Kinkle DAM 51 3540
-155 Anthony McGinty ADMS 51 3520
-156 Alistair Price CMYM 52 3515
-157 Michael T Dilts ISF 53 3500
-158 Hugh Duffy CMS 54 3490
-159 James J Cherry SPAS 53 3480
-160 Peter C Spahr DAM 54 3475
-161 Charles R Taylor OREG 53 3460
-162 Chuck R Ojeda TAM 50 3455
-163 Daniel S Greenblatt OREG 54 3450
-163 Samuel J Jemal AGUA 50 3450
-163 Art A Torpy RIDG 53 3450
-166 James E Kearns NEM 53 3445
-167 Robert K Dyer NEM 53 3425
-168 James G Logue UNAT 53 3420
-169 Keith J Stelzer OREG 50 3405
-170 Kyle E Lanham ISF 53 3400
-171 Marc J Ross DAM 54 3390
-172 Paul H Rekoff UCLA 51 3385
-173 Paul Deits AKMS 53 3380
-174 Ed Bisno AGUA 53 3350
-174 Thomas A Delia NEM 53 3350
-174 Robert H Jaeske 1776 50 3350
-177 Anker Lerret NEM 51 3325
-178 Walter R Carter OREG 54 3315
-178 Jon R Wiley CSI 51 3315
-180 Simon Thornton WAVA 50 3305
-180 Fred J Casissa MTRC 53 3305
-182 Charles B Cole SKY 50 3300
-183 Richard A Friedman AGUA 53 3275
-184 Allen D Sykora OREG 52 3265
-185 John J Valvano CMS 52 3225
-185 Robert D Smith UNAT 51 3225
-187 Robert Bushey CVMM 51 3215
-188 Timothy M Horty ISF 52 3200
-189 Tim Zuelke SSMS 51 3190
-190 Mark G Lutkenhouse DAM 51 3175
-191 Lou Hill 51 3170
-192 Michael Leon MELO 52 3105
-193 Edwin D Grosholz DAM 50 3100
-193 Leo P Arnaboldi AGUA 50 3100
-195 Thom Stein NMMS 54 3075
-196 Jonathan C Dunford SPM 50 3050
-197 Joe Wickline NTEX 52 3020
-198 Paul Baker ISF 52 3000
-199 Pete Raby ART 52 2995
-200 David M Faulkner ART 52 2965
-201 Timothy E Terry SKY 53 2950
-201 John Kim UNAT 53 2950
-203 James T Lima AKMS 54 2930
-204 John E Youmans DAM 52 2875
-205 Barton Parnes LBG 53 2815
-206 Frank L Krach CMYM 50 2810
-207 Carl Knutsson FACT 51 2790
-208 Edward Hickey 1776 50 2750
-209 Paul R Eisenberg CSAM 54 2730
-210 Glenn A Herrera ART 50 2725
-211 Donald B Derbyshire LBG 52 2720
-212 Robert B Gammon UNAT 51 2670
-213 Mark W Joseph NCMJ 52 2620
-214 Abe Borenstein AGUA 52 2615
-215 Karl C Menke ISF 50 2600
-216 Robert C Feenstra DAM 54 2595
-217 David L Gude MOST 54 2575
-218 Jeff Schechter MOST 52 2485
-219 James E Bruckart UNAT 53 2445
-220 Kenneth M Leclerc MOST 53 2415
-221 Steven Z Goran TNYA 51 2395
-222 Mark C Woodbury UTAH 53 2360
-223 Itzhak Reichman MOST 52 2285
-224 Kirk Frambes MOST 50 2265
-225 Michael S Wall DAM 50 2250
-226 Douglas Haugan PMST 53 2225
-226 David S Bunch DAM 54 2225
-228 Blane A Armstrong NMMS 53 2170
-229 Lee A Porisch MOST 54 2050
-230 Harden A Carter LBG 54 2030
-231 Richard Bernstein COLU 51 2000
-232 Thomas O'Connor AGUA 50 1350
-233 Mike Q Bailey AGUA 53 1100
-1 Jim Mc Conica VCM 59 5445
-2 Larry W Wood TXLA 56 5225
-3 Alan Bell PNA 59 5140
-4 Kern M Davis SPM 55 5040
-5 Mike J Ryder SNM 55 4960
-6 Frank L Thompson MICH 58 4950
-7 William W Reeves SALT 56 4920
-8 James Thornton TPIT 57 4850
-9 Fred Ferroggiaro TOC 56 4820
-10 Bruce Gianniny NIAG 58 4815
-11 James Ryan GSM 57 4805
-12 Jack R Martin 1776 58 4780
-13 Thomas C Perrin ISF 59 4775
-14 Robert C Supple NMMS 55 4755
-15 Trenholm Walker SMRT 57 4685
-16 Jack M Fritts IAMA 59 4670
-17 Reg Hahne COLU 56 4575
-18 Charlie E Swanson OREG 58 4490
-19 Jeff Gunderson SERC 56 4485
-20 Barney Heller 1776 55 4470
-21 Stephen P Dougherty 1776 58 4450
-21 Jack R Tuholske MM 55 4450
-23 Dave George WMAC 55 4435
-24 Mark Wright MERR 56 4425
-25 Mark A Block METR 58 4395
-26 Wes Edwards SWMS 56 4360
-27 Peter R O'Keeffe UCLA 59 4345
-28 David R Carchedi NEM 55 4335
-29 James C Tull TAM 56 4315
-29 Michael Fanelli BERK 55 4315
-31 Stanley A Freerks CSPM 58 4305
-32 Geoffrey A Meyer 1776 58 4300
-33 Michael R Stephenson OREG 57 4280
-34 Mark L Becker OREG 55 4270
-34 Mike Marks UCLA 58 4270
-36 Richard R Mack NEM 55 4265
-37 Doug Brockbank OREG 56 4250
-37 Allen J Larson OREG 56 4250
-39 Alan M Johnston MESC 56 4225
-40 Frederick J Lewis SPM 59 4210
-40 Kent C Mc Donald MOVY 57 4210
-42 James L Nelson CSAM 55 4200
-43 Raul H Piedrahita DAM 55 4195
-44 Brad D Susterka MICH 55 4150
-45 Thomas Neill SCAM 57 4140
-46 Dan Beisel CMYM 57 4135
-47 John R Olander SRPM 59 4095
-48 David W Lewis ISF 58 4090
-48 Jim Wallace OREG 56 4090
-50 James J Logan GAJA 56 4075
-50 Paul H Landes DAM 59 4075
-52 John T Vranesh PNA 55 4065
-53 David A Steenrod UNAT 55 4050
-53 Tripp Blair NEM 55 4050
-53 Mark Woerner DAM 58 4050
-56 Reggie Sherwood OREG 58 4025
-57 Kermit D Yensen OREG 56 4010
-57 Mark Begert MOVY 57 4010
-59 Richard D Carlson GSM 56 4000
-59 Douglas A Brewer RAMS 56 4000
-59 Craig J Bauer ISF 57 4000
-59 Phillip M Bly ISF 56 4000
-63 Louis F Fabrizio CONN 56 3995
-64 Charles F Holum CMS 58 3990
-65 Richard Nuttall YCAM 55 3975
-66 David F Anderson FISH 55 3965
-67 Jody Inglefield NCMS 55 3960
-67 Scott J Harris DAM 56 3960
-69 Alan Pfeiffer-Traum UHMS 56 3935
-70 Erik A Sterne SRM 57 3910
-71 Peter G Borden SMMM 59 3890
-71 Duncan Hare PCAT 55 3890
-73 Jeffrey W Morrison PNA 55 3880
-74 Eric J Winn NEM 55 3875
-75 Paul A McCaffrey NEM 55 3870
-76 James B Kennedy CMAM 58 3865
-77 Paul L Dow NEM 56 3860
-77 Michael T Garr NEM 56 3860
-79 Rick Sam NEM 55 3845
-80 Doug Cort CMAM 59 3840
-80 Chris L Toole OREG 58 3840
-82 Nick Furman OREG 56 3820
-83 Craig S Mather OREG 58 3800
-84 Tom Malcolm TNYA 55 3780
-85 Steven R Weiss UCLA 56 3775
-86 Howard A Jess PNA 58 3770
-87 Harvey Hill IMSC 55 3750
-87 Steven J Smith DAM 55 3750
-89 Scott A Bruss WMAC 56 3730
-90 Jefferson W Thomas ARIZ 57 3725
-91 Phillip M Harter SPAS 55 3715
-92 Philip W Jonckheer TAM 57 3705
-93 John Flannigan SMMM 59 3690
-94 David A Burford AKMS 58 3685
-95 Pete P Covey MOST 55 3660
-96 David K Madison LOM 56 3650
-96 Barry L Ridings ARKM 55 3650
-96 Michael J Forbes NEM 59 3650
-99 Kip Bohachek UNAT 55 3635
-99 Thom Drozd NMMS 59 3635
-99 David D Cross DAM 55 3635
-102 Curtis M Finley DAM 56 3625
-102 Carlton A Arnold SKY 57 3625
-104 Silverio Bracaglia METR 58 3600
-104 Bryan G Johnson ISF 55 3600
-104 Michael De Seguin CMS 56 3600
-107 Gregory R Stoner DAM 57 3580
-108 Larry Knight UNAT 56 3560
-109 Denis J Desaulniers NEM 59 3555
-110 Orin McCluskey AGUA 58 3550
-111 Richard W Griffith AGUA 56 3540
-111 Paul Moke UNAT 56 3540
-113 Craig A MacPherson PCAT 55 3525
-114 Curt Taylor LOM 56 3520
-115 Perry C Heath ISF 59 3500
-115 Jim Cunning ISF 57 3500
-117 Bill D Reeder PNA 57 3495
-118 William J Wheeler DAM 59 3480
-119 Allen F Kossoy MOVY 56 3460
-120 Michael P Cullen NEM 57 3435
-121 Will E Davis DAM 58 3415
-121 Masao Miyasaka 59 3415
-123 Eugene D Gallagher NEM 55 3375
-124 Bob Patterson SLAM 59 3365
-124 Dallas G Figley OREG 57 3365
-126 Bob H Lantz DAM 58 3350
-127 Larry K Smith TNYA 55 3345
-128 Stuart L Kahn DAM 56 3340
-129 Thomas C Shuman OREG 56 3320
-129 Patrick A Cecil OREG 55 3320
-131 Michael Goldring TNYA 57 3310
-132 Craig R Swartz NIAG 57 3300
-132 Elliott Lauderdale JBMS 59 3300
-134 Stephen Grimes DAM 58 3285
-135 Buz R Kroner MOST 56 3255
-136 Larry M Beck OREG 58 3250
-137 John Pfeifer AKMS 58 3230
-137 Gregory S Rotole FMM 55 3230
-139 Abraham Shacham SPAS 57 3200
-140 John C Kersten PMST 57 3160
-141 Adrian Legaspi FLAQ 57 3130
-142 Ofer Nisman MOST 57 3115
-143 Edward Mierjeski OREG 59 3100
-144 Don T Morley MOST 59 3075
-145 Michael S Crowe CUBU 57 3070
-146 Brian Tomikawa ROSE 56 3060
-146 Marc Binenfeld UCLA 59 3060
-148 Thomas A Medeiros NEM 57 3050
-149 Douglas Lozano UHMS 56 3045
-150 Michael Muma MICH 58 3040
-151 Larry D Baskin SSMS 58 3015
-152 Rolly D Kleeman CGCC 59 2990
-153 Armando D Garbero NEM 55 2985
-153 Rodney E Swanigan FMM 58 2985
-155 Stephen Darnell SWMS 55 2980
-156 Howard Burkons UCLA 55 2970
-157 Amin Chisti OREG 59 2940
-157 Edward Newill NIAG 56 2940
-159 Kenneth C Winterberger AKMS 56 2905
-160 Jean A Fankhauser PNA 55 2895
-161 Michael G Hauty OREG 59 2825
-162 Keven Wentworth DRM 56 2800
-163 Tom Comstock CVMM 55 2750
-163 Bob J Nelson TNYA 56 2750
-165 Michael Healy MOST 58 2565
-166 Stanley L Mushaw VMST 59 2550
-167 Nick J Testa LAM 56 2405
-168 Paul M Lim UCLA 55 2375
-169 Craig F Duffy ARKM 58 2270
-170 Scott M Mortensen MOST 56 2255
-171 Norman E Riley DAM 56 2100
-172 Byron Philleo DAM 55 1900
-172 Steve Bergen AGUA 58 1900
-174 Robert J Hard MOST 56 1280
-175 Jeffrey Dorn AGUA 56 1250
-1 Joel R Wilson CRUZ 61 4910
-2 Steve M Johnson OREG 61 4885
-3 James T McCleery PNA 64 4875
-4 Glenn A Gruber VCM 60 4680
-5 Hugh Wilder SMRT 62 4550
-6 Bob A Bruce OREG 61 4525
-7 Carl H Selles SPM 63 4485
-8 Roger E Menard NEM 60 4465
-9 Jed P Cronin OREG 61 4460
-10 Jack S Mills DAM 62 4375
-11 Dennis W Wilson DAM 60 4310
-12 Glenn Partelow DYSM 62 4300
-13 Craig Anderson NCMS 60 4295
-14 Jeremy M Cohen SCAM 61 4275
-15 Richard F Bernstein AGUA 63 4250
-15 Douglas K Miller ISF 63 4250
-17 Steven B Peterson PNA 63 4220
-18 Bob Kolonkowski AGUA 61 4150
-19 Robert E Aldrich SPM 60 4130
-20 Neil J Salkind MOVY 62 4115
-21 Ted S Deacon DAM 60 4100
-21 Donn Livoni MM 63 4100
-23 Tim E Kute NCMS 64 4085
-24 Donald A Pierce RHMS 64 4075
-25 Pat Marzulli SPM 61 4060
-26 William M Montgomery UCLA 60 4035
-27 Roman Karbownik MVN 63 4025
-28 Paul R Kelly DAM 62 4005
-29 Bruce N Diel MOVY 61 4000
-30 Andrew M McPherson DAM 62 3980
-31 Jeff S Conrad COTO 60 3970
-32 Bob Sinsheimer O*H* 60 3950
-33 James N Stambolis TAM 62 3920
-34 Roy Lee UCLA 63 3895
-35 Brett Stone DAM 61 3850
-35 Ken R Beier GOLD 60 3850
-37 Henry Greenberg NOVA 61 3835
-38 John D Goldman MELO 60 3820
-39 Mingjie Song NEM 62 3800
-39 Curtis M Miller DAM 60 3800
-41 Max M Maust CGCC 63 3775
-41 Emilio A Sovero SCA 61 3775
-43 John M Graham SKY 64 3730
-44 Michael P Carew OREG 60 3690
-45 Daniel B Gelfand ADMS 62 3685
-46 John L Ellis SWMS 63 3680
-47 Robert Singer ADMS 60 3650
-47 Allan L Thorpe PNA 60 3650
-49 John C Vail CRAB 61 3645
-50 Edwin Y Maeda DAM 60 3635
-51 Jerry R Meyer CMYM 60 3625
-51 Bill Reichle BERK 62 3625
-53 Paul A Griffin DAM 63 3600
-53 Arthur R Russo PMST 60 3600
-55 Gary J Parlapiano TAM 63 3550
-56 Roger Benney PNA 62 3540
-56 Bren Hirschberg OREG 64 3540
-58 W Monte Mc Cormick MOST 63 3535
-59 Jeffrey Ruda DAM 62 3530
-60 Francis J Dann UCLA 63 3510
-60 Richard K Sutton UMSN 61 3510
-62 Ron P Hansen PNA 60 3485
-63 Bruce J Braly DAM 60 3465
-63 Pieter Stroeve DAM 64 3465
-65 Joe P Gohl MICH 63 3450
-65 Mike Byrne UNAT 64 3450
-67 Steve Sugar UNAT 64 3445
-68 Anthony E Christo DAM 63 3440
-68 Vance M Eaddy SPM 61 3440
-70 Gerry Chojnowski FACT 60 3400
-71 Wally Morse UNAT 62 3395
-72 Rick Meyerhoff TAM 62 3340
-73 Lee S Lovitz NEM 64 3310
-74 Mikos S Fabersunne DAM 63 3295
-75 Kelsey Williams UTAH 61 3290
-76 Steve L Hoberg CRUZ 63 3245
-77 Jim Becker ADMS 64 3210
-78 Robert H Calverley SCA 64 3150
-79 Tom A Martens DAM 64 3125
-80 Joseph F Curtis UCLA 62 3100
-80 Stephen M Everhart FMM 63 3100
-80 Robert G McDonald O*H* 60 3100
-80 Anthony V Labozzetta AGUA 60 3100
-84 Bruce Heiberg MACA 60 3095
-85 Victor Tabbush UCLA 64 3075
-86 Michael J Beeks ISF 63 3000
-87 Richard A Jenkins OREG 61 2975
-88 Peter A Flanagan NEM 60 2965
-89 Malcolm Bond DAM 62 2940
-90 Ian Dargin NEM 63 2925
-91 James M Dickson AKMS 61 2910
-92 Larry H Gillham OREG 60 2900
-93 Douglas E Kopp SMS 60 2850
-93 John J Guze FMM 64 2850
-95 Mike Harris OREG 64 2755
-96 Harrison Phipps DAM 60 2650
-97 Jay C Davison DAM 62 2410
-98 Stephen E Westling FMM 62 2345
-99 William E Marvel SKY 64 2325
-100 David M Rocke DAM 63 1970
-101 Randy H Fields MOST 61 1305
-1 Richard Burns TAM 66 4565
-2 Don M Davis RHMS 65 4520
-3 Kenneth A Frost TAM 65 4495
-4 Larry L Raffaelli VCM 66 4395
-5 Tom Landis OREG 67 4360
-6 Bill Dawson MELO 67 4280
-7 Paul T Boggs TVM 65 4125
-8 Stuart Thomson SCA 66 4100
-9 Tom Tulenko 1776 67 4095
-10 Barry Dooley NCMS 65 4080
-11 Michael B Wood VCM 67 4045
-12 Bart S Bleuel VCM 68 4005
-13 Ralph W Mohr OREG 68 3910
-14 Jim Keane 1776 65 3895
-15 Martin D Michael MELO 66 3765
-16 Keith Meiklereid SKY 65 3715
-17 Dave Casebolt IM 68 3710
-18 Frank J Philipps OREG 67 3670
-18 Mike Burke WSSC 66 3670
-20 Frederic T Wilson 1776 69 3620
-21 Mario Gerla UCLA 66 3565
-22 John W Hunt 1776 67 3555
-23 Bronly S Boyd SRPM 65 3540
-24 Tony J Fingleton AGUA 69 3475
-25 Dennis L Sawyer PNA 66 3450
-26 Jeff J Jacobsen PNA 65 3440
-27 Melvin H Smith PNA 66 3435
-27 Walter T Pheeney MICH 67 3435
-29 Hans P Van Meeteren NCMS 65 3425
-30 Peter R Betzer SPM 67 3410
-30 Glenn E Wangdahl MARY 67 3410
-32 Roland Crotts TAM 67 3385
-33 Roger A Rudolph OREG 66 3370
-34 Brian Buzby UNAT 66 3355
-35 Thomas H Frankel DAM 68 3310
-36 George J Quigley ISF 69 3300
-36 John L Spence OREG 68 3300
-38 James P Meier AGUA 65 3275
-39 Stephen C Cross SDSM 68 3250
-40 David Pringle UNAT 67 3230
-41 Les S Cutler NEM 67 3220
-42 Paul R Teller DAM 66 3215
-43 Brad Tomlinson NEM 65 3125
-43 John Y Jackson NCMS 67 3125
-43 David L Gifford FACT 69 3125
-46 Fred Wood UNAT 69 3110
-47 Henry M Mc Henry DAM 65 3100
-48 Burt Strom NEM 67 3060
-49 Peter P Berghaus CONN 69 3035
-50 Duncan S Plasman YCMS 67 3000
-51 George W Orning ARIZ 67 2970
-52 Russ W Desserich ISF 66 2900
-53 Bill Mellow OREG 68 2890
-54 John W Penberthy SCAM 65 2880
-55 Bernard T Ehrhardt METR 66 2810
-56 Neil E Topliffe MICH 69 2735
-57 Steven K McDanal CMS 66 2685
-58 James E Perkins PNA 65 2655
-59 Alex A Ardans DAM 68 2590
-60 John T Shepherd SKY 68 2575
-61 Henry M Halff MOST 67 2570
-62 Mervyn H Hough MINN 65 2550
-63 Warren G Roberts DAM 68 2520
-64 Gerhard E Borst VMST 68 2445
-65 David Ciraulo UCLA 68 2440
-66 Ben Wright TAM 67 2400
-67 Jack Fife ISF 69 2335
-68 Jim P Scheller MTRC 69 2265
-69 Neil L Cook AGUA 65 2150
-70 Russell M Davis IMSC 65 1400
-71 Max A Gors PMST 65 1275
-1 Barry A Fasbender STAN 72 3730
-2 Donald J Puchalski FACT 70 3610
-3 Robert F Norris DAM 71 3510
-4 Mel E Goldstein ISF 71 3450
-5 Richard H Sylva OREG 71 3375
-6 Tim Plummer 1776 73 3290
-7 James F Browne FMM 71 3275
-8 William T Murray NEM 72 3270
-9 William H Crowley PCAT 70 3220
-9 Robert F Benson ANCM 74 3220
-11 Jim Chivers NIAG 71 3080
-12 George D Thayer OREG 73 3060
-13 Jon D Schieltz OREG 71 3000
-14 Bruce H Bernstein SRPM 73 2985
-15 David S Gilmer DAM 72 2940
-16 Norman S Macartney NCMS 71 2925
-17 Gary Dielman OREG 70 2900
-18 Randy H Ott NMMS 73 2780
-19 Paul N Otter UNAT 73 2650
-20 Fred Kawabata OREG 70 2495
-21 Clifford F Konitz FISH 74 2450
-22 Robert T Rubin UCLA 73 2400
-23 Robert O Crummey DAM 73 2200
-23 Jerry L Marchbanks MOST 74 2200
-25 Owen R Christie FMM 73 1950
-26 Wendell Peters MOST 71 820
-1 David A Radcliff OREG 75 4520
-2 Stan F Morner WCM 75 3610
-2 Robert W Mayo WCM 76 3610
-4 John F Sulzbach MELO 75 3525
-5 Robert E Beach SPM 79 3470
-6 Dick Weick OREG 75 3405
-7 Charles E Weatherbee FMM 77 3325
-8 Paul J Kiell GSM 79 3250
-9 Daniel E Grabenstein CPAC 75 3050
-10 Charles H Schlegel FMM 79 2925
-11 Stanley J Shechter AGUA 77 2850
-12 Roger L Brockenbrough SKY 75 2755
-13 William E Grohe USF 76 2720
-14 Gerald J Kraus SRPM 78 2635
-15 Harold Ferris SPM 79 2595
-16 Jack S Akamine PNA 77 2580
-17 Frank B Nieman WCM 77 2445
-18 Herbert Stone LOM 75 2375
-18 Thomas W Weber NIAG 79 2375
-20 Alister R Murray CMS 76 2370
-21 Rick Gee FMM 75 2365
-22 Joseph W Wilson SKY 75 2290
-23 Seymour Boorstein TAM 78 2260
-24 Joseph N O'Flaherty DAM 75 2050
-1 Harvey W Prosser PNA 81 3195
-2 Roy C Hoch CRUZ 82 3025
-3 Robert C MacDonald FMM 81 3000
-4 Fred Goldner CONN 83 2640
-5 Richard H Robecki SPCO 80 2565
-6 Robert M Williams FMM 82 2475
-7 Harrison Homans FMM 82 2400
-8 Robert L Sears UTAH 82 2195
-9 Raymond G Allen OREG 83 2175
-10 George A Lustig FLAQ 80 2125
-11 Keith Burbridge FMM 81 1725
-12 Murray B Gardner DAM 80 1440
-1 Charles L Bushey OREG 88 2115
-2 Vladimir I Ouchakof CONN 86 1530
-3 David W Bressler DAM 86 1435
-1 Brud Cleaveland FMM 92 1775
-2 Allen R Fardie NEM 91 1475
+1 Andrew Steenrod WMAC 24 5055  Men  2009
+2 Raymond A White SKY 24 5000
+3 Grant Wieczorek ISF 22 4800
+4 Stephen A Hooper TNYA 24 4765
+5 Chris J Rodman UCLA 18 4700
+6 Travis Askham UCLA 21 4670
+7 Carlos Pena UCLA 19 4550
+8 Kyle J Ryan DAM 20 4500
+9 Alexander A Shakibnia UCLA 22 4440
+10 Thomas J Alne GSM 20 4435
+10 Billy J Morris UCLA 23 4435
+12 Thomas T Wong UCLA 21 4385
+13 Christopher A Lee DAM 22 4340
+14 Travis L Williams DAM 22 4245
+15 Ben A Bly ISF 23 4175
+16 Sean A Mcnulty SKY 19 4125
+17 William P Thompson UCLA 21 4120
+18 Daniel A Cashman UCLA 21 4040
+19 Henry Hagenbuch UCLA 24 4000
+19 Zachary A Papas TNYA 24 4000
+21 Craig M Keller DAM 24 3970
+22 Nicholas I Normandin NEM 23 3950
+23 Ryan Walsh MOST 22 3800
+24 Matthew B DeGennaro MOST 18 3710
+25 Bob Peck IM 24 3550
+26 Hamber Pablo PNA 22 3455
+27 Adel A Jabbar DAM 21 3335
+27 Nathan L Gallegos LBG 18 3335
+29 Benjamin Perez LBG 24 3285
+30 Kevin M Brady DAM 23 3245
+31 Joseph M Stallings VMST 19 3095
+32 Brett D Fontaine DAM 21 2555
+1 Edward (Ted) J Bradley SPM 25 5375
+2 Mark B Callaghan DAM 29 5290
+3 Matthew G Davie TOC 27 5280
+4 Chris Tremonte PNA 28 5250
+5 David E Kuendig SKY 28 5225
+6 Ian A Neubauer ROSE 28 5200
+7 Jose Manuel Nieto SKY 28 5185
+7 Paul K Bizzarro DRM 29 5185
+9 Chris McKee MOST 29 5140
+10 Win Chesson TNYA 25 5075
+11 Nicholas A Graham UCLA 29 5050
+12 Andrew Lockton UCLA 26 4995
+13 Peter Achberger CSAM 29 4895
+14 Jeffery C Swisher SPM 28 4740
+15 George H Crocker DAM 25 4695
+16 Joseph E McBride MOST 29 4675
+17 Mike D Ash UCLA 28 4650
+18 Evan Shute T Shute OREG 29 4645
+19 Craig R Charley SMAM 25 4640
+20 Timothy L Wera SPM 27 4635
+21 Travis Earley NIAG 26 4630
+22 Su‐Yang Liu UCLA 26 4575
+23 Derek E Jansen ART 25 4545
+24 Bentley R Walker ISF 27 4525
+25 James J Montante SPM 26 4450
+26 Martin J Walker WACM 29 4425
+27 Nathaniel T Leachman DAM 29 4335
+28 Pablo Fuentenebro UCLA 26 4330
+29 Michael L Kalk OREG 28 4325
+30 Matthew A Graf UCLA 25 4270
+31 Alexander T Barclay TNYA 27 4255
+32 Eric D Love ART 26 4245
+32 Matt J Carnal SKY 29 4245
+34 Chip Jetton NCMS 27 4225
+35 Stuart Sievers UCLA 28 4205
+36 Tyler J Imoto TNYA 27 4120
+37 Jeffrey Buhr SKY 29 4100
+37 Russell E Porter ART 25 4100
+39 Blair L Martin TAM 29 4060
+40 Mark L Amott UCLA 29 4025
+41 Jason D Wulff NEM 29 4000
+42 Ziv R Lang DAM 26 3940
+43 Olivier Francois TNYA 29 3925
+44 Matt Gurry TNYA 27 3900
+45 Brian D Klein TAM 29 3875
+46 Jiro Kusunose DAM 27 3835
+47 John C Lulay LBG 25 3825
+48 Lucas W Moore NEM 29 3810
+49 Ryan J Plantz ART 25 3545
+50 Daniel J Borcherding DAM 25 3530
+51 Chad B Ashmore SWOM 27 3500
+52 Michael J Vanvalkenburgh UCLA 27 3355
+53 Ha Young Park UCLA 27 3350
+54 Andrew J Gersh CRUZ 29 3300
+55 Daniel P O'Kane UNAT 28 3250
+56 Thomas C Clancy TERR 28 3220
+57 Wade W Schaming TNYA 25 3215
+58 Martin Scovacricchi NEM 25 3180
+59 Somang H Kim UNAT 27 3125
+60 Ken Sutha ART 27 3050
+61 Adam J Hartwick CSAM 29 2920
+1 Jason H Eaddy NEM 32 5585
+2 Jeffrey B Halbert ISF 34 5450
+3 William B Simmons ISF 33 5385
+4 Gary A Simon NMMS 33 5145
+5 Nathan J Boal OREG 31 5010
+6 Ben D Rosen DAM 31 4925
+7 Thomas J Patterson 1776 31 4920
+8 Brian P Delisle SKY 34 4865
+9 Adam F Barrios DAM 30 4855
+10 Christopher A Thelen SWOM 31 4805
+11 Adam B Parker IM 32 4765
+12 Jeff R Pickett UCLA 34 4745
+13 Paul C Laustsen MELO 34 4725
+14 John H Reich SPM 32 4695
+15 Thayer H Thompson REDT 34 4685
+16 Mike Offner FCST 32 4625
+17 John D Barbie SCA 33 4600
+18 Mark E Ellis UCLA 31 4590
+19 Matt Chambers MERR 33 4555
+20 Michael R Beauregard UCLA 34 4520
+21 Tim Cutler DAM 32 4480
+21 John J Hart MICH 33 4480
+23 Bryan A Mueller SAWS 31 4475
+24 Hugh M McGowan TNYA 31 4465
+25 Taylor C Boas SCAM 32 4425
+26 Peter A Outzen DAM 34 4415
+27 Christopher R Feaster SPM 34 4400
+27 Peter C Bigler WMST 33 4400
+29 Daniel G Gettings TNYA 30 4350
+30 Mark V O'Malley ISF 32 4300
+31 Kyle M Penshorn MOST 33 4235
+32 Todd M Burgette NTEX 34 4170
+33 Paris T Chong UCLA 34 4150
+33 Peter J McGrane TNYA 34 4150
+35 Jonathan Wagher PNA 30 4065
+36 John F Crowe MESC 30 4050
+37 James M Cronin TNYA 30 4005
+38 Jeremy M White SKY 33 4000
+39 Eleazar Eskin UCLA 33 3970
+40 Jacob W Brickman ARKM 32 3925
+41 Nick G Bateman OREG 31 3880
+42 Braemon M Hanes CSAM 34 3750
+43 Nathan R Menard NEM 30 3745
+44 Eric S Samek UCLA 33 3735
+45 Kjell N Stava LBG 31 3700
+46 Kaveh Maghsoudi NEM 33 3650
+47 Lennard Hachmann MELO 32 3625
+48 Jeff W Hodges PMST 33 3565
+49 Michael J Keppler ISF 32 3555
+50 Brian Meehan NEM 32 3465
+51 Nick Willis DAM 31 3425
+52 Richard E Thompson METR 34 3420
+53 Francois A Martin METR 32 3360
+54 Dan Scott UNAT 32 3325
+55 Chia‐Han (Henry) Hsieh UCLA 33 3295
+56 Jeffrey J Torborg MVM 34 3285
+57 Adwait Sathe NEM 33 3275
+58 Jochen Hoppert NIAG 31 3250
+59 Chris Camburn UNAT 34 3040
+59 David Moser NTEX 34 3040
+61 Jason A Rivers WMST 33 3015
+62 Clint G Gayle PNA 34 2860
+63 Luis A Ortiz ARIZ 33 2760
+64 Eduardo Avelar DAM 31 2660
+65 Christopher F Staples TNYA 34 2400
+1 Tyler J Blessing TXLA 36 5540
+2 Josh C Davis MOST 36 5290
+3 Brad M Shenfeld UCLA 37 5250
+4 Michael A Ingardia MELO 38 5140
+5 Benjamin M Morse MESC 36 5125
+6 Jeffrey J Jotz GSM 38 5075
+7 David A Cloninger OREG 39 5045
+8 Jeremy Houchens ISF 38 5030
+9 Taylor A Spangler DAM 37 5020
+10 Ernie Hoftyzer DAM 39 4920
+11 Mike Broglio NEM 37 4900
+12 Chris E Kovacs NEM 39 4875
+13 David M Edwards SCA 39 4840
+14 Peter D Hepburn IM 38 4825
+14 Martin A Armstrong VCM 38 4825
+14 Ed Stoner ADMS 35 4825
+17 Rob W McDonnell SCA 36 4795
+18 Don C Rambadt WMAC 38 4785
+19 Kenneth A Frost TAM 36 4770
+19 Vince Dietsch TXLA 38 4770
+21 Christian C Honeker NEM 38 4740
+22 Aric L Gregson UCLA 38 4735
+23 Kevin Joubert BATC 36 4720
+23 Karl R Gundersen SLAM 39 4720
+25 John W Chung VCM 38 4710
+26 Brad L Winsor DAM 37 4650
+27 Peter J Letendre NEM 39 4640
+28 Onesimo C Demira TNYA 35 4630
+29 Stephen M Le Sieur MELO 35 4625
+30 Keith Benson TAM 36 4620
+31 John W Doolittle SPM 39 4600
+32 Erich Manser NEM 36 4590
+33 Chris C Kellerman MELO 38 4575
+34 Kevin W Morgan OREG 38 4560
+35 Jaime P Comstock PNA 39 4530
+36 Michael J Guirl MOST 37 4485
+37 Sean P Mc Kinley ART 35 4450
+37 Jason C Bonander UNAT 39 4450
+39 David C Forsee ISF 39 4425
+40 Aaron L Frame MICH 39 4415
+41 Jeffrey K Berridge ISF 38 4400
+41 C.J. Rushman SKY 37 4400
+43 Jeffrey E Wood NEM 39 4390
+44 Mark Cronin CMYM 35 4385
+45 Matthew D Blood METR 35 4320
+46 Douglas S Trumpey ISF 38 4255
+47 Phillip T Dawkins ISF 35 4235
+48 Roy Silver UCLA 35 4225
+49 Drew Y Sanders TOC 38 4190
+50 Scott A Bieker CTRI 38 4170
+51 Claudio Meneses DAM 37 4165
+51 Mark S Goldman DAM 37 4165
+53 David Redinger SKY 35 4160
+54 Joel Laino NEM 39 4125
+55 Jonathan P Doherty MOST 39 4120
+56 Tom Schulz PNA 38 4105
+57 Matthew D Peck UNAT 38 4070
+58 Michael A Behrens UCLA 39 4065
+59 David Dreith SWOM 39 4060
+60 John P Margiotta AGUA 37 4055
+61 Eduardo Olid DAM 36 4050
+62 Randall A Chamberlain TNYA 39 4010
+63 Paul Widman SKY 35 4000
+63 Rob Butcher NCMS 36 4000
+63 Bill Duffield UNAT 38 4000
+66 James J Fick BATC 35 3990
+67 Leroy J Thomas YCAM 36 3975
+68 Harry P Teichman SPM 38 3940
+69 Paul F Plaisance SMS 38 3925
+70 Adrian Rishworth NEM 39 3920
+71 Thomas J Bisel KNIG 37 3910
+72 William R Carr TNYA 39 3870
+73 Christian F Tujo OREG 37 3860
+74 Chris Rudolph UNAT 39 3855
+75 Shannon D Schwartz MVM 38 3835
+76 Bill Rencher ART 38 3825
+76 Jeff Liu LBG 35 3825
+78 Brent A Shannon CSAM 38 3800
+79 Merrick Cohn SCA 39 3750
+80 Bryan Williams NTEX 36 3740
+81 Michael R Asam GAJA 37 3730
+82 Dustin M Baker NEM 37 3720
+83 Srikant R Ayyar UCLA 37 3670
+84 Christian Herrera UCLA 35 3655
+85 Troy A Youngblood SSMS 35 3640
+86 David Barron NTEX 35 3625
+87 Michael S Courson ISF 39 3620
+88 Kevin B Capp UNAT 38 3600
+89 Mark D Wholey NEM 38 3590
+90 Ben R Owen ARKM 35 3570
+91 Shane Anthony PNA 39 3525
+91 Sean George NCMS 37 3525
+91 Jim D Duncan SKY 38 3525
+94 Shachar Malka DAM 37 3520
+95 Khalid A El‐Awady MVM 38 3490
+96 David J Finlay MVM 37 3480
+97 Chapin P Hunt UCLA 38 3475
+98 Paul M Majors UNAT 37 3460
+99 Paul F Foronda MVM 37 3450
+100 Marc Ishisaka‐Nolfi DAM 39 3430
+101 Hugh L McClendon ARKM 35 3420
+102 Brett K Johnston NEM 36 3400
+103 Jack P Chen DAM 37 3385
+104 Scott W Pfeifer DAM 36 3360
+105 Robert A Lee NEM 35 3350
+106 Roderrick R Umali DAM 38 3320
+107 Joseph C Lim TNYA 36 3265
+108 Mike J Bitzer ARKM 37 3225
+109 Mark D Chappell ISF 38 3200
+110 Alex Wright DAM 36 3170
+110 Wojciech B Sobocinski UCLA 36 3170
+112 Marcos R Otazo CMYM 38 3140
+113 Martin G Prego GOLD 35 3125
+113 Jason E Bundy DAM 38 3125
+115 Whitney A Campbell WMST 35 3110
+116 Brent Stratton UCLA 38 3050
+117 Mike R King WAVA 35 3000
+118 Tim R LaRocca UCLA 37 2975
+119 Jason M Fisk DAM 36 2970
+120 Raul E Castro DAM 39 2875
+121 Greg G Levine ART 39 2825
+122 Chuck Winrich NEM 39 2605
+123 Rob M Dalbesio CRUZ 36 2550
+124 Bo Trainor RIDG 39 2150
+125 Aaron F Thomas ARKM 39 2000
+125 David Sexton ARKM 35 2000
+127 Lance B Garvin ISF 37 1500
+1 Mike G Shaffer VCM 43 5910
+2 Randy M Eickhoff SCA 43 5500
+3 Jeff T Erwin SAWS 44 5485
+4 Kurt F Dickson ARIZ 41 5465
+5 David E Kays PNA 41 5365
+6 Stephen P Arvedson DSSM 40 5190
+7 Matthew R Gilson NEM 41 5150
+8 Kurtis C Baron VCM 44 5115
+9 Simon A Millar UCLA 42 5100
+10 Todd E Arris TOC 43 4975
+11 Sam H Manhart MESC 40 5060
+12 Brian S Rimel SPM 42 5055
+13 Robert E Breitel ROSE 41 5035
+14 Rob Jones UNAT 43 5025
+15 Eric J Heil ARKM 41 5020
+16 Chris A Clarke ISF 40 4975
+17 William M Huibregtse ISF 43 4950
+18 William A Davis NCMS 41 4875
+18 Timothy P Bielek NMMS 43 4875
+20 Andy D Gramley OREG 41 4860
+21 Robert E Higley OREG 43 4845
+22 Kevin S Sherman ISF 44 4825
+22 Howard L Jacobs SCA 42 4825
+24 Todd J Walter IAMA 41 4820
+25 David W LeClair GOLD 41 4790
+26 Rick Stecher SKY 43 4785
+27 Dirk A Ten Grotenhuis TOC 42 4780
+28 Scott F Gundling SWOM 44 4750
+29 Thomas L Brown DAM 41 4735
+30 John N Nelson FBMS 41 4725
+31 Michael A Bell MICH 40 4710
+32 Michael E Landa UCLA 42 4700
+33 Bruce E Hopson SLAM 42 4695
+34 Doug Clark BERK 40 4680
+35 William S Rodon‐Hornof IM 44 4675
+36 Jon D Haveman TAM 44 4660
+37 Will C Neafsey MICH 41 4640
+38 Michael T Rossner AGUA 44 4635
+39 Mark J Schactman MARY 42 4625
+39 David Dammerman ADMS 40 4625
+41 Ed M Coates TXLA 42 4600
+41 Richard J Seibert PNA 44 4600
+43 James L Proffitt OREG 43 4590
+43 Timothy P Waud OREG 41 4590
+45 Robert M Tullman SPM 44 4575
+46 Daniel S Zimmerman IM 41 4565
+47 Adam G Engelskirchen TAM 40 4545
+48 Douglas Sayles UNAT 41 4510
+49 Stephen J Bosic NEM 40 4500
+49 Ted D Krovetz DAM 42 4500
+51 Jonathan D Weiss 1776 41 4495
+52 Andrew J Kennedy MICH 41 4475
+53 Douglas A Kabel OREG 43 4425
+54 Michael Parry CONN 44 4400
+54 Michael J Hennessey MOST 42 4400
+56 Marc A Inderhees NTEX 41 4375
+56 Joshua C Smith SPM 40 4375
+58 Teck Choo CMYM 41 4370
+59 David A Williamson 1776 44 4360
+60 Robert E Fernald GBM 41 4355
+61 Keith A Fritz 1776 41 4350
+62 Greg Webb ISF 43 4345
+63 Mark A Gill SKY 40 4325
+64 Shane Hawes ISF 43 4300
+64 Matt M Kowta DAM 42 4300
+66 Daniel J Sperka DAM 43 4275
+67 Steve Lisle ARKM 42 4270
+68 Jonathan Ennis TOC 42 4265
+69 Jaime R Balboa UCLA 40 4245
+70 Chip G Beard ARKM 40 4240
+71 Douglas J Robinson ISF 41 4215
+72 Paul R Nichols MESC 43 4210
+73 Matt Le Jeune ART 43 4200
+74 Evan M Drutman METR 44 4185
+75 Steven Nettles REDT 44 4180
+76 Jim Waterman NTEX 44 4175
+77 Juan C Somoza SPM 41 4140
+78 Jonathan J Jensen DAM 43 4125
+78 Eric D Hawkins ISF 44 4125
+80 Michael Jacobson CMYM 40 4110
+81 Randall Carver MOST 43 4090
+82 Robert C Krall SPM 44 4050
+82 Todd D Nelson PNA 42 4050
+84 Kenneth A Barbee 1776 44 4045
+85 Michael J Tomlin ISF 40 4035
+86 Mark A Savoldi NCMS 42 4030
+86 Douglas J Thompson ADMS 42 4030
+88 Miles Smith SRM 44 4020
+89 Stephen Gray QTW 42 4015
+90 Matt Millar ISF 41 4000
+90 Charles E Ogren MELO 42 4000
+90 Mike J Fairbairn PALM 41 4000
+93 Karl Schuler FCST 42 3990
+94 Paul D Allan UNAT 42 3955
+95 Alan C Burton GSM 42 3950
+95 Hal Sachs CMYM 44 3950
+95 Don Anderson SSMS 44 3950
+98 Patrick M Dodd UCLA 44 3935
+99 Peter Collins PNA 43 3925
+100 Carter M Evans FCST 43 3920
+101 Brent W Forrester UCLA 41 3915
+102 Edward A Hamilton PNA 43 3900
+102 Matthew S Mair TNYA 42 3900
+102 Daniel S Levin UNAT 41 3900
+105 David M Craig ISF 43 3890
+106 Andrew M Perry GAJA 40 3875
+106 Kelly Green NCMS 43 3875
+108 Rutger Engbersen OREG 43 3865
+109 Kristopher E Kordana DAM 43 3825
+110 Mark L Farman SKY 44 3810
+111 Daniel J Walther BHCY 43 3800
+112 Denis R Pelletier NEM 44 3785
+112 John W Rivett TNYA 44 3785
+114 Bill Donnelly UNAT 41 3765
+115 Mike Chen SPM 44 3750
+116 Joseph J Laukaitis NEM 44 3725
+116 Reisuke Konishi SC 42 3725
+118 Christian C Scheuring DAM 44 3720
+119 Kenneth M Fine MELO 40 3700
+119 Kevin J Mylod ART 40 3700
+121 David Holan ART 40 3690
+122 Michael F Garceau PNA 42 3685
+123 Thomas B Witmer NIAG 42 3670
+124 Richard A Keller DAM 41 3650
+124 David B Carmack MESC 43 3650
+124 Craig A Cooper UCLA 42 3650
+127 Franklin W Duck ISF 42 3635
+128 Shawn P Hughes MOST 42 3600
+128 Sinisa Novakovic DAM 41 3600
+128 Mike D Nims UNAT 40 3600
+131 Shawn Cardwell SKY 42 3595
+132 Eric K Engelhard DAM 42 3575
+132 John E Clough DRM 42 3575
+132 Steven F Pressman UCLA 42 3575
+135 Gerardo Herrera SCA 41 3550
+135 Andrew J Weber CSAM 41 3550
+137 Philippe Homassel CMYM 42 3535
+138 Jonathan Karron ART 42 3525
+139 Kevin M McIntyre NEM 43 3520
+139 Robert A Norris MOST 42 3520
+141 Cliff Miller ART 42 3500
+141 Kevin G Eichorn MM 42 3500
+143 Michael G Dirlam LBG 41 3495
+144 Chris M Soucie NEM 42 3490
+145 Erik Vink DAM 44 3475
+145 Greg J Collier DAM 42 3475
+147 George Triant FLAQ 42 3450
+148 David M Redfield ARKM 41 3420
+149 John H Mayo OREG 40 3400
+150 Curt Lawson IVY 42 3350
+151 Nick Gardner UCLA 43 3340
+152 Michael A Ansel 1776 43 3330
+153 Gary Hartmann CMYM 43 3325
+154 Glenn M Garcia MOST 43 3320
+155 Robbie Wright CSAM 42 3290
+156 William H Finch CSI 43 3285
+157 Chris Gaarder OREG 44 3280
+158 Ronald E Lee DAM 41 3235
+158 James P Hull NEM 40 3235
+160 Barry Paul OREG 43 3225
+161 Eric Peterson OREG 43 3185
+162 Raymond Toy CMYM 41 3170
+163 Bob R Cochrane ISF 44 3125
+163 Keith W Nelson SPM 44 3125
+163 Erik O Nielson LBG 41 3125
+166 Herman Arrivillaga ISF 43 3060
+167 Derek R Fromson UCLA 44 3040
+167 Daniel Davila MOST 41 3040
+169 Pat M Powers CRUZ 43 2965
+170 John D Haefner ARKM 44 2950
+171 Jack Defandorf NEM 44 2910
+172 Thomas T Tucker DAM 41 2840
+173 Seth Irwin ARKM 42 2825
+173 Brad A Hinrichs MELO 44 2825
+175 Robert J Neis ART 44 2800
+176 David C Stark TVM 40 2725
+177 Rafael J Grossmann UNAT 43 2650
+178 Kyle D Kersey OREG 44 2490
+179 Arnold B Starnes FINS 44 2410
+180 Szilard V Gyalay CSAM 41 2400
+181 Ian H Burt ART 43 2350
+182 Vinay K Chaudhri MELO 43 2305
+183 Paul M Henry ARKM 43 2000
+1 Robert C Placak TOC 49 5510
+2 Anders M Rasmussen TXLA 45 5385
+3 Frank C Wuest NEM 48 5215
+4 James B Biles WMAC 47 5125
+5 Robert C Holmes SKY 46 5100
+6 Michael R Stokes UCLA 46 5050
+7 Douglas M Bosley NEM 46 5035
+8 Mike Keck TOC 49 5015
+9 Chris J Tainty CRUZ 48 5010
+10 Michael Degroat 1776 49 4925
+11 Chris A French NEM 46 4910
+11 Michael Johmann SKY 47 4910
+13 Brent Bunnell RIDG 45 4870
+14 Chris Osburn RIDG 45 4860
+14 Ron L Collins SPM 46 4860
+16 Scott J Richards WMAC 48 4850
+16 Daniel J Newhaller SPM 49 4850
+18 Bryan E Boggs ISF 47 4835
+19 Lance E Halsted DAM 49 4815
+20 Joe Delaney TAM 47 4805
+21 Greg R Doyas SPAS 46 4790
+21 Rob Long NCMS 48 4790
+23 David Spitzler WACM 45 4785
+24 Kyle R Treadway QUAC 48 4750
+25 Kris Calvin OREG 46 4735
+26 Tom McGuill NEM 45 4715
+27 Timothy M Zadalis UNAT 49 4705
+28 Stewart L Murray DAM 46 4700
+29 Eric Steinhauff OREG 49 4695
+30 Scott F Marshall MELO 47 4670
+31 G. Mark Doyle NCMS 49 4640
+32 Scott Jurs DRM 45 4625
+33 Wadi N Farach CSAM 47 4595
+34 Todd E Irmas SCA 45 4565
+35 Michael Bean WMAC 49 4550
+36 James F Jonsson UTAH 46 4545
+37 Alexander H Schilling TOC 48 4525
+37 Joseph P Riordan ADMS 49 4525
+37 Scott P Halliburton SLAM 46 4525
+40 Chris Campbell MVM 47 4505
+41 Tom LaTourrette UCLA 45 4500
+41 Michael N Stresemann PALM 48 4500
+41 Brad L Roby ISF 47 4500
+44 Eric E Grubel SCA 46 4490
+45 Paul A Silka UCLA 47 4475
+46 Scott Wieking DAM 49 4470
+47 Brent M Tininenko ARKM 47 4465
+47 Bill H Sumerfield OREG 48 4465
+49 Jimmy Plair PALM 46 4450
+50 Cesar Tomasino MOST 45 4445
+51 Craig A Kercher MOST 47 4410
+51 Larry Richardson NEM 49 4410
+53 Jim Avrea YCAM 48 4400
+53 Greg J Pottie UCLA 47 4400
+53 David A Schubert NEM 47 4400
+53 Keith Shepherd SKY 49 4400
+57 Don MacLane PNA 47 4385
+58 Christopher J Rock DAM 49 4375
+59 David Sebastian IM 47 4370
+59 T Dale Jackson MVM 47 4370
+61 James R Aamoth CSAM 47 4365
+61 David J Swain ARKM 47 4365
+61 Brian A Cummings ISF 49 4365
+61 Sean Fitzgerald ART 45 4365
+65 John L Muhich NORT 46 4335
+66 Richard L Starace ADMS 45 4325
+67 Elvis L Ruiz MOST 45 4315
+68 Michael R Wright ISF 46 4300
+68 Paul Bonin MOST 45 4300
+68 Randy L Mertes ARKM 46 4300
+68 Jeffrey A Brown NORT 47 4300
+72 Richard J Risso CRUZ 49 4295
+73 Robert I Ballou NEM 48 4290
+74 Steven C Richey MOST 48 4275
+74 Konrad Fritz UNAT 48 4275
+74 Andy Marker VCM 45 4275
+74 Michael D Hardin ART 45 4275
+78 Charles M Dewitt NEM 45 4265
+79 Alan Tober ARMS 47 4255
+80 David S Herman SPM 47 4220
+81 Glen A Zimmermann 1776 45 4205
+82 Michael S Gruber UCLA 46 4200
+83 Bob D Stenz MVM 47 4195
+84 William R Salisbury LOM 49 4170
+85 Jonathan Lenchner WM 49 4165
+86 Michael D Orosz UCLA 48 4155
+87 Brant Jones WMST 45 4150
+87 Israel Robles MOST 47 4150
+89 Aaron R Kelson NORT 48 4145
+90 Ed O'Malley CMYM 46 4125
+90 Eric N Deam SCAM 49 4125
+90 Rich Heimann 1776 49 4125
+90 Gregory B Cook NCMS 46 4125
+94 Tom W Fields DSSM 48 4120
+94 Stephen R Flanagan OREG 46 4120
+96 Mark Conway PMST 46 4110
+97 Woods Wannamaker NEM 48 4080
+98 Dwight Dickerman NCMS 47 4075
+99 Alan N Berro UCLA 48 4065
+100 Glenn A Cunha NEM 46 4060
+100 Kozo Suzuki TNYA 45 4060
+102 James K Vankirk MESC 46 4050
+102 Utley Noble UNAT 45 4050
+102 Thomas L Gessner 1776 49 4050
+102 Scott W Weiler NIAG 46 4050
+106 Peter M Driscoll NCMS 47 4045
+106 Joseph J Ferrero TOC 46 4045
+108 Wesley Hein UCLA 49 4035
+109 Thomas S Drummond NEM 49 4025
+110 Daniel D Nardozzi SPM 49 4015
+110 Ashley Welke QTW 49 4015
+112 Gregg H Recanzone DAM 46 4010
+112 Stephen C Riback TNYA 49 4010
+114 James F Kohnke PNA 46 4000
+115 William S Marshall COM 45 3990
+115 Kenneth W Margrey NIAG 47 3990
+117 John B Cornish FACT 48 3955
+118 Geoffrey Anderson UCLA 47 3945
+119 Richard A Knipe SPM 46 3940
+120 Michael N Hirst NEM 48 3930
+121 Eric Schauwecker CSAM 45 3915
+122 Akiharu Miyagi SC 45 3905
+123 Wesley D Hale NOVA 45 3885
+124 Patrick C Heuveline UCLA 46 3875
+125 David O Nobles COM 48 3870
+126 S Michael Harrill ISF 49 3865
+127 Robert D Adams NCMS 48 3860
+128 David J Czerwonka SCA 45 3855
+129 Jim Greenleaf OREG 45 3835
+129 Bryant H Davies SPM 46 3835
+131 Richard McNally ADMS 47 3800
+131 Steffan B Sarkin ARKM 48 3800
+133 Nick Steinauer CGCC 46 3780
+134 David L Livengood OREG 45 3775
+135 Jeff S Watern DRM 47 3770
+136 Brian D Henkel MINN 46 3750
+136 Edwin D Grosholz DAM 49 3750
+138 Ernest E Beauvais NCMS 47 3740
+138 Marc J Lacrampe PNA 47 3740
+140 Yuji Utsumi LBG 49 3700
+141 Chris Bobo SSMS 46 3690
+141 Chic D Clark ISF 48 3690
+141 Charles J Oswald MOST 48 3690
+144 John E Ortiz SPAS 48 3650
+145 Stephen Sagarin NEM 47 3615
+146 Aaron C Setran DAM 49 3600
+146 Frankie Ayres CSAM 45 3600
+148 Richard B Rader ISF 46 3590
+149 Lynn Astalos MHSC 46 3580
+150 Stephen Smith NEM 46 3565
+151 Guy L Merchant UCLA 45 3540
+152 Shawn P Kinney DAM 45 3535
+153 Robert H Jaeske 1776 49 3525
+153 Michael Moran MELO 45 3525
+155 Mark A Ribkoff OREG 48 3510
+156 Mark A Schaffer TNYA 46 3500
+156 Mark O Oakes COLU 46 3500
+156 Keith J Stelzer OREG 49 3500
+156 Andrew D Cline PNA 45 3500
+160 Paul Moylan DAM 46 3490
+160 David D Ginn NCMS 49 3490
+162 Jean‐Claude A Dulac FCST 46 3455
+163 Simon Thornton WAVA 49 3420
+164 Michael K Pilgrim WMST 45 3400
+164 John Weiss ISF 47 3400
+166 Paul Arsenault NEM 47 3360
+167 Thomas J Fedorka SKY 46 3350
+167 Robin Bragg OREG 48 3350
+167 David G Coddington MESC 46 3350
+170 Matt Lefkowitz BERK 48 3325
+171 Bart R Hess TVM 47 3300
+172 Mike R Miranda LBG 46 3290
+172 Hans P Koesser WMAC 46 3290
+174 Mike Kearns DRM 47 3280
+175 Andrew S Pomerantz UCLA 48 3275
+176 Carl J Hefflefinger NEM 48 3265
+177 Joseph N Burzynski TNYA 46 3240
+178 Craig E Blomberg DAM 48 3210
+179 Mitch Roob ISF 47 3200
+180 John C Werner LBG 45 3175
+181 Craig Greenough DAM 49 3160
+182 Christopher A Lilienkamp ISF 46 3150
+183 Brad L Applegate ISF 46 3140
+183 Gregory A Stephenson ISF 46 3140
+185 John R McKissick CMYM 46 3110
+186 John E Myers TAM 47 3105
+187 Jerry R Hraban CGCC 45 3075
+188 Heriberto J Delgado FACT 45 3060
+189 Thad Butcher ARKM 49 3050
+190 Dewey Gilbert NTEX 47 3040
+191 Don W Yee DAM 46 3025
+192 Dirk M Holstege DAM 49 3000
+192 Marc Pearl NEM 49 3000
+194 Michael Brinster OREG 45 2980
+195 Christopher J Olsen DAM 47 2900
+196 Jamie Courtney CMYM 47 2875
+197 Joseph F Bertain TOC 49 2860
+198 Mark D Ladd NMMS 47 2845
+199 David L Presley COM 49 2800
+200 Bernie Keene SKY 48 2785
+201 Glenn A Herrera ART 49 2675
+202 Henry J Calanchini DAM 46 2600
+202 Gregory J Tanner DAM 47 2600
+204 Oren T Bergfald OREG 45 2255
+205 Greg T Schumacher O*H* 45 2200
+206 Edward Wiles RGSC 49 2020
+1 Sandy M Mac Donald SMST 53 5450
+2 James A Stewart MINN 52 5080
+3 Kern M Davis SPM 54 5060
+4 Timothy C Kennedy SPM 52 4985
+5 Doug Goodman OREG 52 4925
+6 Louis J Caron ROSE 51 4860
+7 Stephen M Davis SCA 50 4840
+8 Jeffrey S Kline MELO 50 4825
+9 Geoff Spellberg TAM 52 4815
+10 Thomas A Grandine PNA 50 4810
+11 Robert C Supple NMMS 54 4805
+12 Stephen T Washburn SCAM 50 4795
+13 Phil Sidenberg SWM 52 4790
+14 Chris Layton IM 50 4770
+15 Brad Bini UNAT 53 4750
+15 Bill Fenner PNA 53 4750
+17 Ron J Emhoff TVM 53 4740
+18 Thomas W Emison MINN 50 4735
+19 Eric J Jernberg WMAC 50 4725
+20 Jeff D Spencer ARKM 50 4710
+21 Ian R Bullock ARKM 50 4700
+22 Mark E Alexander NEM 50 4670
+23 Fred R Bartlett NEM 52 4645
+24 Joe F Aumiller MICH 51 4600
+25 David L Woodruff DAM 52 4575
+26 Tim McGough MERR 51 4550
+27 Gregory S Johnson DAM 51 4540
+27 Chris Hauty UCLA 52 4540
+27 Jan C Huneke SKY 54 4540
+30 Lars R Durban PNA 51 4495
+31 Alex Boutov IM 52 4485
+32 John B Dickey DAM 53 4470
+33 Mike Phillips EXCL 52 4445
+34 Paul Adamson ECAM 50 4425
+35 Michael R Heather MVN 54 4420
+36 Joseph J Grafton DAM 51 4410
+36 Dennis E Prosen SMMM52 4410
+38 Bradley Vear NEM 53 4405
+39 Dag L Seymour CMS 50 4400
+39 William C Falkenborg SCMC 51 4400
+39 James D Hayashi SLAM 51 4400
+42 Barry F Symonds NIAG 51 4380
+43 Stephan J Freeman SPM 52 4375
+43 Kent W Small UCLA 52 4375
+45 David R Carchedi NEM 54 4360
+46 Brian P Balfour CSPM 52 4355
+47 Mark Gutowski SWOM 52 4325
+47 Keith Ortiz NMMS 52 4325
+47 Luke Claus SCA 50 4325
+50 Jim R Gross PNA 54 4295
+50 Bob W Blattner DAM 53 4295
+52 Michael J Fero MELO 50 4285
+53 Chuck Burr RIDG 51 4250
+54 David G Eng AWJ 50 4245
+54 Mark Stone CRUZ 51 4245
+56 Gregory H Blaine LOM 50 4235
+57 Scott Adams SCAM 51 4215
+57 Daniel B Mullett FACT 51 4215
+59 John V Dolan NEM 51 4210
+59 Richard R Mack NEM 54 4210
+61 Ron Rhinehart PNA 50 4200
+61 Todd L Erickson MOST 54 4200
+63 Donald S Slovenkai NEM 52 4185
+64 James R Wright DAM 51 4180
+65 George T Horan FINS 54 4175
+65 John H Constantine DAM 51 4175
+65 Bruce E Morey MICH 51 4175
+68 Steven C Glassman SPAS 53 4170
+69 Keith C Dow OREG 53 4165
+70 George Van Meter Jr SKY 53 4155
+71 James L Nelson DSSM 54 4150
+72 George W Vieth DAM 53 4145
+73 Dave H Van Mouwerik SLOM 51 4135
+74 Bob Stickney EXCL 53 4125
+74 Bob J Dickson ISF 53 4125
+76 Rory Gumina NIAG 50 4100
+76 Tom Barton DAMM 52 4100
+76 John T Vranesh PNA 54 4100
+76 Tom A Barnes ISF 51 4100
+80 Brian Smallwood YCAM 53 4095
+81 Paul T Edelman NEM 52 4090
+82 Bob Sege NEM 50 4080
+83 Patrick R Long DAM 52 4075
+83 Steve Miller GAJA 52 4075
+85 John W Dauser NOVA 52 4060
+86 Keith Henthorne SPM 51 4050
+87 Richard F Butz ABM 51 4040
+88 Steven R Erickson MICH 51 4035
+88 Andy Mascheroni TAM 51 4035
+90 Howard A Ferguson LBG 54 4020
+90 Tom N Pani CSAM 52 4020
+92 Hugh C Moore PNA 54 4010
+93 John Voorhees SKY 50 4000
+93 Mark W Schwartz DAM 50 4000
+93 Alan D Rowland DAM 52 4000
+96 Nicholas F Lang SPM 53 3990
+97 Scott E Ebke TAM 50 3960
+98 Paul A McCaffrey NEM 54 3955
+99 Sergio B Silva TAM 53 3940
+100 Thomas S Wright CMS 50 3935
+101 Gabriel Salazar CSAM 52 3925
+102 Christopher S Landry NEM 53 3920
+103 Raul H Piedrahita DAM 54 3915
+104 Douglas S Taylor DAM 50 3910
+105 Mark Tribe OREG 50 3900
+105 Andy B Gladstone WACM 50 3900
+107 Nick Winer SRM 50 3890
+108 Bryan G Johnson ISF 54 3875
+109 Kenneth M Leclerc MOST 52 3865
+110 Kyle Murray GBM 50 3850
+110 Geoffrey F Mc Cavitt MELO 53 3850
+110 Kevin T Brady ART 54 3850
+113 Scott Whittemore SKY 54 3815
+114 Richard Nuttall YCAM 54 3805
+114 David L Gude MOST 53 3805
+116 Stephan S Jones CSI 52 3800
+116 William C Elliott ART 52 3800
+118 Mark A Stone TGM 52 3780
+119 Michael R McCarthy SCSF 53 3775
+120 Daniel F Ryan ROSE 54 3750
+121 Michael Velasco MOST 52 3715
+122 Mike L Baron LBG 50 3700
+123 William A Schulz DAM 50 3685
+124 Peter Lee OMM 50 3670
+124 David Dres NTEX 50 3670
+126 Steven J Smith DAM 54 3665
+127 Cliff J Millemann DAM 50 3625
+127 Edward Branam DAM 54 3625
+129 David A Rockwell O*H* 50 3620
+130 Christopher S Hagler SMMM51 3605
+131 Daniel S Greenblatt OREG 53 3600
+132 Sam S Dick SKY 52 3590
+133 James J Cherry UNAT 52 3585
+134 Lawrence E McCue ADMS 54 3575
+134 Kevin L Menninger LOM 54 3575
+134 Marc J Ross DAM 53 3575
+137 Michael S Bernstein ISF 52 3555
+138 Mark G Lutkenhouse DAM 50 3550
+139 Ken R Brelsford NEM 50 3525
+139 John P Klein CMS 54 3525
+141 Jeffrey E Bush 1776 50 3520
+142 Charles R Taylor OREG 53 3515
+142 Hugh Duffy CMS 53 3515
+144 David D Cross DAM 54 3510
+145 Craig A MacPherson PCAT 54 3500
+145 Mark Barron IVY 52 3500
+147 Paul Deits DAM 52 3475
+148 Paul H Rekoff UCLA 50 3470
+148 Craig A Zais DAM 51 3470
+150 Lee A Porisch MOST 53 3455
+150 Rick Sands NEM 51 3455
+150 Richard W Peterson TNYA 52 3455
+153 Timothy M Horty ISF 51 3450
+154 Pete P Covey MOST 54 3430
+155 Michael J Sopher UCLA 50 3425
+155 Peter C Spahr DAM 53 3425
+157 Marshall G Morgan NEM 54 3415
+158 Robert K Dyer NEM 52 3410
+158 Jon R Wiley CSI 50 3410
+160 Brandon F Forest DAM 52 3400
+161 Lou Hill QTW 50 3390
+162 Edward C Schiavoni VMST 53 3370
+163 Anthony McGinty ADMS 50 3350
+163 John M Harry EXCL 50 3350
+165 Edmund E O'Donnell REDT 54 3345
+166 Paul E Cleary UNAT 52 3335
+167 Jerry McHugh CMS 51 3325
+167 Michael J Kelischek UNAT 52 3325
+167 Matthew L Merchant ADMS 50 3325
+167 Douglas C Kinkle DAM 50 3325
+171 Art A Torpy UNAT 52 3315
+172 David J Boothby NEM 50 3305
+173 Larry K Smith TNYA 54 3300
+174 James M Wetzel NEM 51 3295
+175 William K Jenkins CMS 51 3280
+176 Daniel B Roitman MELO 54 3275
+177 Chris D Foster CRUZ 50 3270
+178 Bob Ericson CSPM 51 3265
+179 Peter J Iannone SCA 50 3230
+180 Leonard E Gerlowski WMST 51 3200
+181 Walter R Carter OREG 53 3185
+182 Roland H Bartl NEM 52 3125
+183 Jeff Schechter MOST 51 3115
+183 William Waterhouse QTW 52 3115
+185 Jim Davis NIAG 53 3085
+186 Armando D Garbero NEM 54 3075
+187 Howard Burkons UCLA 54 3070
+187 Larry M Fangman CGCC 50 3070
+187 Michael O Boorstein TAM 52 3070
+187 Richard N Roberts ISF 52 3070
+191 James T Lima AKMS 53 3060
+192 Brandon M Kavrell DAM 50 3040
+193 Donald L Hewlett ISF 53 3010
+193 Joel A Larsen DAM 52 3010
+195 Stephen Darnell OREG 54 3005
+195 Barton Parnes LBG 52 3005
+197 Mike Minett NCMS 54 2990
+198 David M Faulkner ART 51 2935
+199 William J Smith NEM 52 2925
+200 Paul R Eisenberg CSAM 53 2875
+201 Steven J Wegert MOST 52 2825
+202 Paul A Cajka SYSM 51 2750
+203 Donald B Derbyshire LBG 50 2715
+204 Jonathan L Schwartz UCLA 52 2700
+205 Kevin Mooren SPM 53 2660
+206 Robert C Feenstra DAM 53 2620
+207 James E Bruckart UNAT 52 2560
+208 Barry L Ridings ARKM 54 2400
+209 Steven Z Goran FISH 50 2275
+210 Paul M Lim UCLA 54 2250
+211 Blane A Armstrong NMMS 52 2160
+212 Harden A Carter LBG 53 1900
+1 Larry W Wood TXLA 55 5240
+2 Jim Mc Conica VCM 58 5175
+3 Alan Bell PNA 58 5090
+4 Fred Ferroggiaro TOC 55 5000
+5 George W Keenan IM 55 4960
+6 Phil L Dodson IM 55 4935
+7 Thomas C Perrin ISF 58 4775
+8 Bruce Gianniny NIAG 57 4770
+9 Frank L Thompson MICH 57 4720
+10 Jack M Fritts IAMA 58 4705
+11 Trenholm Walker SMRT 56 4690
+12 Jack R Martin 1776 57 4670
+13 William W Reeves UTAH 55 4650
+14 Peter R O'Keeffe UCLA 58 4595
+15 Reg Hahne COLU 55 4560
+16 Philip W Jonckheer TAM 56 4555
+17 John K Crane TVM 57 4550
+18 James S Sweeney SMMM55 4525
+19 Mark Wright MERR 55 4500
+20 Mike Marks UCLA 57 4465
+21 Dell Upton UCLA 59 4425
+22 Jim C Tull TAM 55 4395
+23 Craig J Franz DCAC 55 4390
+24 Michael R Stephenson OREG 56 4380
+25 Ronald G Koch SMRT 59 4375
+25 Geoffrey A Meyer 1776 57 4375
+27 Frank C Elliott SMMM55 4370
+28 Roger E Menard NEM 59 4360
+29 John Dewit PNA 56 4345
+30 Scott J Harris DAM 55 4325
+31 Frederick J Lewis SPM 58 4310
+31 Dennis W Wilson DAM 59 4310
+33 Glenn E Wharton TNYA 55 4305
+34 Jim M Thompson ISF 57 4300
+35 John M Derr VCM 59 4290
+36 Mike J Tennant OREG 55 4280
+37 Ted S Deacon DAM 59 4275
+38 Larry R Lemaire IRM 56 4265
+39 Gary A Bastie SPM 58 4230
+40 David W Lewis ISF 57 4205
+41 Kent C Mc Donald MOVY 56 4195
+42 Wes Edwards OREG 55 4190
+42 Ofer Nisman MOST 57 4190
+44 Bob Sinsheimer O*H* 59 4185
+45 Kenneth A Plough MELO 55 4170
+45 William M Montgomery UCLA 59 4170
+47 Craig B Leidersdorf DSSM 58 4165
+48 Jim Wallace OREG 55 4140
+49 Mark Woerner DAM 57 4125
+50 Ken W Phillips NEM 59 4120
+51 Robert A Orrizzi CRUZ 57 4110
+52 John R Olander NEM 58 4105
+53 Jim Lunt SCAM 59 4045
+53 Charles F Holum CMS 57 4045
+55 Albert Miller GOLD 58 4025
+56 Robert E Aldrich SPM 59 4020
+57 Buz R Kroner MOST 55 4010
+58 Richie A Martin NEM 59 4000
+58 William H Olds ISF 59 4000
+60 Mark Begert MOVY 56 3990
+61 Michael T Garr NEM 55 3985
+62 William L Bell ARKM 57 3965
+63 David Young NTEX 59 3955
+63 Reggie Sherwood OREG 57 3955
+65 Erik A Sterne TAM 56 3935
+66 Richard D Carlson GSM 55 3900
+66 James Keller SKY 55 3900
+66 Curtis M Miller DAM 59 3900
+69 Phillip M Bly ISF 56 3895
+70 Howard A Jess PNA 57 3890
+71 Michael J Forbes NEM 58 3885
+72 Scott M Mortensen MOST 55 3875
+72 John D Goldman MELO 59 3875
+72 Clive G Edwards SWM 55 3875
+75 Craig S Mather OREG 57 3865
+76 Allen J Larson OREG 55 3850
+76 Donald P Verlenden FINS 55 3850
+76 Thomas Mester SKY 57 3850
+76 Bob T Shepler SCMC 56 3850
+80 Peter G Borden SMMM58 3840
+81 Dan Beisel CMYM 56 3815
+82 Paul H Landes DAM 58 3810
+83 Steven R Weiss UCLA 55 3800
+83 Phillip M Bly ISF 55 3800
+85 Skip Montanaro IM 55 3775
+85 Fred Dalby NEM 59 3775
+87 Paul L Dow NEM 55 3770
+87 Mark Spitz UCLA 58 3770
+89 Edwin Y Maeda DAM 59 3725
+90 David E Pernell WFLY 56 3700
+90 Mario Soto PCAT 59 3700
+90 Steven P Owen NOVA 57 3700
+93 Carlton A Arnold SKY 56 3685
+94 Roger B Mc Donald DAM 55 3675
+95 Arthur R Russo PMST 59 3600
+96 David K Madison LOM 55 3595
+97 Ron P Hansen PNA 59 3590
+98 Masao Miyasaka SC 58 3580
+99 Silverio Bracaglia METR 57 3575
+100 Jefferson W Thomas ARIZ 56 3565
+101 Paul Moke UNAT 55 3540
+102 William J Wheeler DAM 58 3535
+102 Michael G Cuckovich DAM 59 3535
+104 Richard R Wheeler TAM 58 3525
+105 Curt Taylor LOM 55 3515
+105 Don Carroum SMS 57 3515
+105 Denis J Desaulniers NEM 58 3515
+108 Gregory R Stoner DAM 56 3500
+108 Michael De Seguin CMS 55 3500
+108 Stuart L Kahn DAM 55 3500
+111 Thomas C Shuman OREG 55 3495
+112 Perry C Heath ISF 58 3490
+112 David S Bogden UNAT 58 3490
+114 Jerry R Meyer CMYM 59 3475
+115 Bob H Lantz DAM 57 3465
+116 Michael P Cullen NEM 56 3460
+117 James Hanken NEM 56 3440
+118 Daniel McClenathan SPM 57 3425
+118 Rodney E Swanigan FMM 57 3425
+118 Will E Davis DAM 57 3425
+121 Timothy J Meyer ISF 56 3405
+122 Charlie Young TOC 58 3390
+123 Dallas G Figley OREG 56 3385
+124 Roger A Bockrath DAM 59 3350
+125 Bob Patterson SLAM 58 3310
+126 Michael P Carew OREG 59 3300
+126 Brian Tomikawa ROSE 55 3300
+128 John C Ladky ART 57 3275
+128 Bruce J Braly DAM 59 3275
+130 Dave C Campbell ISF 59 3250
+131 David A Schwartz ARIZ 58 3225
+131 Marc L Binenfeld UCLA 58 3225
+133 Abraham Shacham SPAS 56 3175
+133 Lynn D Apelgren ISF 57 3175
+135 Thomas C Bidwell NIAG 55 3160
+136 Stephen Grimes DAM 57 3125
+137 Tim J Graham CSPM 55 3115
+137 Douglas E Kopp SMS 59 3115
+139 Roderick B Newport ARIZ 58 3075
+139 Robert O Chamberlin SPM 55 3075
+139 Curtis M Finley DAM 55 3075
+142 Kenneth C Winterberger AKMS 55 3040
+143 Robert G McDonald O*H* 59 3030
+144 Raymond C Funkhouser VMST 58 3020
+145 Michael S Crowe UNAT 56 3015
+146 Anthony J Santangelo NEM 55 3010
+147 Larry M Beck OREG 57 3005
+148 Mario J Chiodetti H2O 59 2980
+149 Louis W Desi NEM 56 2960
+150 Robert J Hard MOST 55 2935
+151 Harrison Phipps DAM 59 2850
+151 Peter A Flanagan NEM 59 2850
+153 Dave Mattens PNA 58 2840
+154 John Pfeifer AKMS 57 2810
+155 Larry H Gillham OREG 59 2795
+156 Michael Muma MICH 57 2765
+157 Edward Newill SPM 55 2750
+158 John Verity SCA 58 2705
+159 Charlie Ochoa MOST 59 2660
+160 Rolly D Kleeman CGCC 58 2650
+161 Larry Buthmann NEM 59 2500
+161 Stanley L Mushaw VMST 58 2500
+163 Michael Healy MOST 57 2445
+164 Craig F Duffy ARKM 57 2285
+165 Anthony Squire METR 58 2220
+1 Fred J Schlicher NEM 60 5075
+2 Joel R Wilson CRUZ 60 4990
+3 Steve M Johnson OREG 60 4935
+4 James T McCleery PNA 63 4910
+5 William Cerny UTAH 61 4815
+6 Don M Davis UNAT 64 4650
+7 Jed P Cronin OREG 60 4550
+8 Bob A Bruce OREG 60 4535
+9 Willis C Braswell DCM 64 4500
+10 Douglas K Miller ISF 62 4490
+11 John R Shrum VMST 60 4475
+12 Kenneth A Frost TAM 64 4400
+13 Daniel J Rogacki NEM 61 4390
+14 Andrew M McPherson DAM 61 4285
+15 Pat Marzulli SPM 60 4250
+16 Gary J Parlapiano TAM 62 4245
+17 Donn Livoni MM 62 4240
+18 Jack S Mills DAM 62 4230
+19 David P Prior NEM 63 4210
+20 Richie A Martin NEM 60 4130
+21 Neil J Salkind MOVY 61 4075
+22 Steven B Peterson PNA 62 4060
+22 Bill T Mount DSSM 62 4060
+24 Thomas H Knopf TOC 61 4045
+25 Gary R Brenner SMMM61 4035
+26 Roy Lee UCLA 62 4025
+27 Donald A Pierce RHMS 63 3985
+28 Larry Riley BEAR 60 3975
+29 Eric J Winn NEM 64 3960
+30 Tim E Kute NCMS 63 3950
+31 Mingjie Song NEM 61 3940
+32 Brett Stone DAM 60 3890
+33 Bob Husson NCMS 63 3885
+34 Rick D Meyerhoff TAM 61 3840
+35 Thomas Mismash ARIZ 62 3820
+36 Henry Greenberg NOVA 60 3815
+37 Chuck Zeese MICH 61 3810
+37 Eytan Brandes UCLA 60 3810
+39 Bruce N Diel MOVY 60 3800
+40 Daniel B Gelfand ADMS 61 3770
+40 Greg Collins PNA 60 3770
+42 John L Ellis OREG 62 3755
+43 Kent R Fugazi DAM 62 3750
+43 Emilio A Sovero DSSM 60 3750
+45 Thomas M Tobin SMMM60 3745
+46 Craig C Carlson PNA 61 3740
+47 Max M Maust CGCC 62 3690
+48 John M Graham SKY 63 3680
+48 James N Stambolis TAM 61 3680
+50 Russ Goodwin SKY 63 3650
+51 John V Zeigler GAJA 63 3645
+52 M J Huszcz NOVA 61 3640
+52 Keith Meiklereid SKY 64 3640
+54 Bronly S Boyd NEM 64 3635
+55 Paul A Griffin DAM 62 3625
+56 Richard K Sutton NE 60 3610
+57 Jeff J Jacobsen PNA 64 3590
+58 Thomas M Allan NEM 61 3585
+59 Thomas E Spence O*H* 64 3550
+59 Carl E Mortensen MELO 64 3550
+61 Bruce C Allen O*H* 61 3540
+62 Anthony E Christo DAM 62 3535
+63 Jeffrey Ruda DAM 61 3475
+64 James A Frampton DAM 62 3465
+65 David P Phillips NEM 60 3460
+66 Charles A Weitz 1776 64 3450
+67 Francis J Dann UCLA 62 3445
+68 John K Dahlgren ARIZ 64 3375
+69 Vance M Eaddy SPM 60 3365
+70 Raymond W Smith ADMS 63 3350
+71 John W Richards DAM 61 3320
+71 Lee S Lovitz NEM 63 3320
+73 Daniel R Gray OREG 63 3300
+74 Joe P Gohl MICH 62 3290
+75 Jim Becker ADMS 63 3275
+76 Roger Benney PNA 61 3225
+77 Pieter Stroeve DAM 63 3215
+78 Bob Walker SKY 61 3190
+79 Joseph F Curtis UCLA 61 3185
+80 John Zachary HSNM 64 3180
+81 Hans P Van Meeteren NCMS 64 3150
+81 Victor Tabbush UCLA 63 3150
+83 Tomus Enclade SMS 64 3125
+83 Tom A Martens DAM 63 3125
+83 Thomas F Canale CRUZ 62 3125
+83 Peter F Blume CSI 62 3125
+87 Phillip C Dibner MVM 60 3100
+87 Howard B Goldman UNAT 61 3100
+87 Jim Dehner UNAT 61 3100
+90 Henry M Mc Henry DAM 64 3085
+91 John H Marzulli FACT 60 3075
+92 John Yaeger PNA 60 3065
+93 Edward H Cornell OREG 63 3035
+94 John W Penberthy SCAM 64 3005
+95 Brad Tomlinson NEM 64 3000
+96 Mikos S Fabersunne DAM 62 2985
+97 Robert H Calverley DSSM 63 2975
+97 Earl R Gertz HMSC 60 2975
+99 Robert E Shelfer OREG 63 2910
+100 William M Heerdt OREG 61 2900
+101 Randy H Fields MOST 60 2835
+102 Richard A Jenkins OREG 60 2830
+103 Ernest L Moye UNAT 61 2805
+104 Ken G Piepgras ARIZ 64 2700
+105 Jim O'Donnell NEM 64 2625
+106 Stephen E Westling FMM 61 2575
+107 Michael J Marovich TAM 63 2525
+108 Jerry L Little SPM 60 2500
+109 Jay C Davison DAM 61 2450
+110 Max A Gors PMST 64 1325
+1 Tom Landis OREG 66 4535
+2 Richard Burns TAM 65 4500
+3 Larry L Raffaelli VCM 65 4455
+4 Bill Dawson MELO 66 4325
+5 Stuart Thomson SCA 65 4080
+6 Michael B Wood VCM 66 4050
+7 Tom N Tulenko 1776 66 4035
+8 Bob Leuten SMMM65 4025
+9 Henry M Halff MOST 66 3925
+10 Ralph W Mohr OREG 67 3875
+11 Don Rhett SCAM 65 3870
+12 Bart S Bleuel VCM 67 3860
+13 Frank J Philipps OREG 66 3835
+14 Thomas A Loss ECAM 68 3825
+15 Martin J Healy WM 65 3810
+16 Martin D Michael MELO 65 3775
+17 Edward J O'Connor UCLA 65 3750
+18 Dave Casebolt IM 67 3725
+19 Robert W Bergstrom FMT 67 3700
+20 Mike Burke WSSC 65 3625
+21 Bill Sturm SKY 65 3600
+22 Brian Buzby UNAT 65 3580
+23 Tom Robertson PNA 66 3565
+24 Matt Chrostowski NEM 67 3555
+25 William H Crowley PCAT 69 3450
+26 Joseph S Hulings FXCM 67 3410
+27 David M Davies DAM 68 3400
+27 Mario Gerla UCLA 65 3400
+29 Dean J Moser UNAT 66 3390
+30 Frederic T Wilson 1776 68 3375
+31 Ben Wright TAM 66 3325
+32 Richard C Bourne DAM 65 3260
+32 Frank Brandt FACT 68 3260
+34 Roland Crotts TAM 66 3240
+35 Hap Palmer UCLA 66 3225
+36 Les S Cutler NEM 66 3220
+37 Bill Mellow OREG 67 3125
+38 Peter P Berghaus CONN 68 3105
+39 Thomas H Frankel DAM 67 3100
+40 Kenton H Pattie CUBU 69 3085
+41 Stephen C Cross SDSM 67 3025
+42 Carl E Grimm NIAG 69 3010
+43 David Pringle WH2O 66 3000
+44 David Burgio SKY 65 2945
+45 David Ciraulo UCLA 67 2755
+46 Bernard T Ehrhardt METR 65 2695
+47 George W Orning ARIZ 66 2685
+48 Kenneth H Cohen IM 68 2605
+49 John T Shepherd SKY 67 2550
+50 Nick J Leonis HSNM 67 2475
+50 Russ W Desserich ISF 65 2475
+52 Warren G Roberts DAM 67 2380
+53 James A Sebben CUBU 68 2300
+54 Jack Fife ISF 68 2285
+54 Walter D Leen GAJA 66 2285
+1 David A Radcliff OREG 74 4495
+2 David L Costill ISF 72 4085
+3 Mel E Goldstein ISF 70 3900
+4 Barry A Fasbender STAN 71 3775
+5 Dick A Peterson SMMM71 3740
+6 Konrad P Euler SPM 73 3685
+7 Robert F Norris DAM 70 3650
+8 George E Brunstad NEM 74 3540
+9 Brent L Lake OREG 70 3525
+10 John F Sulzbach MELO 74 3345
+11 Bert L Petersen OREG 70 3310
+12 William T Murray NEM 71 3295
+13 George D Thayer OREG 72 3250
+14 Dean L Kavanagh NEM 74 3205
+15 Jerry L Marchbanks MOST 73 3200
+16 Jon D Schieltz OREG 70 3175
+17 Robert F Benson TERR 73 3150
+18 Robert J Bracken ARIZ 73 3030
+19 Jon E Nelson CRUZ 70 3025
+20 Nick Norton OREG 74 3000
+21 Norman S Macartney NCMS 70 2985
+22 David S Gilmer DAM 71 2945
+23 Alfred C Newbury VMST 74 2865
+24 Richard E Cooke SAWS 72 2860
+25 Dennis D James TNYA 70 2845
+26 Randy H Ott NMMS 72 2810
+27 Peter C Wood SCCS 70 2460
+28 Robert T Rubin UCLA 72 2440
+29 Roger L Brockenbrough SKY 74 2435
+30 Robert O Crummey DAM 72 2415
+31 Joseph W Wilson SKY 74 2290
+32 Richard L Clapp ISF 71 2090
+33 Wendell R Peters MOST 70 1990
+34 Joseph N O'Flaherty DAM 74 1950
+1 Robert E Beach SPM 78 3585
+2 Paul J Kiell GSM 78 3320
+3 Charles E Weatherbee FMM 76 3300
+4 Robert J Cook TAM 76 3285
+5 Russell L Judd ISF 76 3180
+6 Charles H Schlegel FMM 78 3150
+7 Charles H Kohnken SPM 77 2995
+8 Lou Brown CUBU 76 2925
+9 William E Grohe USF 75 2900
+10 Joseph R Kraus UCLA 75 2870
+11 Gerald J Kraus NEM 77 2675
+12 Thomas W Weber NIAG 78 2570
+13 Ralph H Johnsen FMM 77 2510
+14 Alister R Murray CMS 75 2485
+15 Don Ellingson PNA 76 2300
+16 David L Present MOST 77 2105
+1 Roy C Hoch CRUZ 81 3175
+2 Harvey W Prosser PNA 80 3165
+3 Mo Mathews HIMA 81 2845
+4 Fred Goldner CONN 82 2635
+5 Robert M Williams FMM 81 2500
+5 Warren A Foster O*H* 83 2500
+7 Robert E Sigersmith FACT 84 2490
+8 Harrison Homans FMM 81 2445
+9 Eugene A Paul NOVA 80 2400
+10 Raymond G Allen OREG 82 2035
+11 Baker L Shannon WMST 83 1800
+12 Keith Burbridge FMM 80 1650
+1 E Ole Larson NCMS 87 2575
+2 Charles L Bushey OREG 87 2260
+3 Vladimir I Ouchakof CONN 85 1925
+4 Abrasha Brainin SPM 86 1770
+5 Lester O Bell SPCO 87 1630
+6 David W Bressler DAM 85 1465
+7 Boris H Ruebner DAM 85 500
+1 Allen R Fardie NEM 90 1540

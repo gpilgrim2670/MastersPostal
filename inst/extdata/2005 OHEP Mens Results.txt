@@ -1,4 +1,4 @@
-1. Matthew J Seymour TVM 20 5445	Men	2005
+1. Matthew J Seymour TVM 20 5445  Men  2005
 2. Matthew Wheeler SBM 23 5375
 3. Craig R Charley VMST 21 5205
 4. Todd R Schwendinger TVM 24 5100
@@ -44,7 +44,7 @@
 19. Stephen Henry UCLA 26 4665
 20. Marshall E Atnip SKY 28 4575
 21. Theodore A Pasquali UCLA 26 4525
-22. R. J.  Talyor ISF 26 4475
+22. RJ Talyor ISF 26 4475
 23. Robert Hagan NEM 28 4410
 24. Charles Bookwalter ISF 28 4335
 25. Kyle Penshorn MOS 29 4330
@@ -559,7 +559,7 @@
 83. Edward P Alonso NOV 46 4025
 84. Jeff Stein NEM 46 4020
 85. Thomas Gelinne MET 47 4015
-86. Rick Heimann 45 4000
+86. Rick Heimann UNAT 45 4000
 87. Tom A Barnes ISF 47 4000
 88. Todd Yonizmura TVM 45 4000
 89. Kurt A Stoll TVM 45 4000
@@ -591,7 +591,7 @@
 115. Gregg A Amber NOV 48 3780
 116. John Dudley ISF 49 3775
 117. Christian M Nelson SCA 47 3775
-118. Steohen W Reed NEM 46 3770
+118. Stephen W Reed NEM 46 3770
 119. Paul J Ikeda PNA 45 3765
 120. Dan Meek ISF 48 3750
 121. Michael S Bernstein ISF 48 3740
@@ -599,7 +599,7 @@
 123. Paul T Edelman NEM 48 3705
 124. William K Jenkins DAC 47 3665
 125. Jerry McHugh CMS 47 3660
-126. J. B.  Brinkman VMST 46 3650
+126. JB Brinkman VMST 46 3650
 127. Joe M Guzay SSM 45 3645
 128. Bob C Johnson NEM 48 3640
 129. John Litchmann UCLA 48 3625
@@ -686,7 +686,7 @@
 29. Michael Marks UCLA 53 4375
 30. George T Horan FINS 50 4350
 31. Craig J Bauer ISF 52 4350
-32. J.  Scott McAllister ORE 50 4340
+32. Scott McAllister ORE 50 4340
 33. David W Lewis ISF 53 4325
 34. Jim M Fox ISF 52 4325
 35. Robert C Newman NVM 50 4300
@@ -900,7 +900,7 @@
 102. John Goldman MEL 55 2600
 103. Allen Beebe NEM 55 2245
 1. Larry L Raffaelli VCM 61 4680
-2. Robert III R Williams DCM 62 4665
+2. Robert R Williams DCM 62 4665
 3. Richard Burns TAM 61 4505
 4. Tom Landis ORE 62 4475
 5. Kenneth A Frost, Jr.  TAM 60 4450
@@ -1041,7 +1041,7 @@
 29. David Present MOS 73 2255
 30. George H Weber ORE 74 2215
 31. Joseph Wilson SKY 70 2060
-32. J. H.  Madden TAM 74 2050
+32. JH Madden TAM 74 2050
 33. Ivan Chalfie ISF 73 500
 1. Bob K Miller PNA 75 3875
 2. Harvey W Prosser PNA 76 3460
