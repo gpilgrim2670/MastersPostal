@@ -45,8 +45,11 @@ df_2000 <- data.table::rbindlist(df_1, idcol = "Source")
 df_2000 %>% 
   mutate(Year = "2000",
          Gender = case_when(str_detect(Source, "1hrm") == TRUE ~ "Men",
-                            str_detect(Source, "1hrf") == TRUE ~ "Women"),
-         Source = NULL) %>% 
+                            str_detect(Source, "1hrf") == TRUE ~ "Women")) %>% 
+  group_by(Source) %>% 
+  mutate(Place = row_number()) %>% 
+  ungroup() %>% 
+  mutate(Source = NULL) %>% 
   write.csv(file = "inst/extdata/cleaned_data/Postal_2000.csv", row.names = FALSE)
 
 # webpage <- read_html(links_good[5])

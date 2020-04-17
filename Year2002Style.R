@@ -146,6 +146,38 @@ X2005 %>%
   mutate(Gender = trimws(Gender)) %>% 
   write.csv(file = "inst/extdata/cleaned_data/Postal_2005.csv", row.names = FALSE)
 
+### 2006 ###
+X2006 <- readr::read_delim("inst/extdata/2006 OHEP Results.txt", "\t", escape_double = FALSE, col_names = FALSE,
+                            trim_ws = TRUE)
+
+
+X2006 %>% 
+  mutate(X1 = str_replace_all(X1, "\\.", ""),
+         X1 = str_replace_all(X1, "- ", ""),
+         X1 = str_replace_all(X1, "(\\d) ", "\\1  "),
+         X1 = str_replace_all(X1, "([:lower:]) ([A-Z|\\d\\*]{2,})", "\\1  \\2"),
+         X1 = str_replace_all(X1, "([:alpha:]) (\\d)", "\\1  \\2"),
+         X1 = str_replace_all(X1, "([:punct:]) (\\d)", "\\1  \\2"),
+         X1 = str_replace_all(X1, "SMMM(\\d)", "SMMM  \\1"),
+         X1 = str_replace_all(X1, ",", "")) %>% 
+  mutate(X1 = str_replace_all(X1, "  ", ",")) %>%
+  write_delim(path = "inst/extdata/2002_Style/2006 OHEP Results.csv", col_names = FALSE)
+
+X2006 <- readr::read_csv("inst/extdata/2002_Style/2006 OHEP Results.csv", col_names = FALSE,
+                         trim_ws = TRUE)
+
+X2006 %>% 
+  separate(X1, into = , c("Place", "Name", "Age", "Club", "Distance", "Gender", "Year"), sep = ",", remove = TRUE) %>% 
+  tidyr::fill(Year, .direction = "down") %>%
+  mutate(Gender = case_when(str_detect(Gender, "NR") ~ "",
+                            TRUE ~ Gender)) %>% 
+  na_if("") %>% 
+  tidyr::fill(Gender, .direction = "down") %>% 
+  tidyr::fill(Place, .direction = "down") %>% 
+  mutate(Gender = trimws(Gender)) %>% 
+  write.csv(file = "inst/extdata/cleaned_data/Postal_2006.csv", row.names = FALSE)
+
+
 
 ### 2007 ###
 X2007m <- readr::read_delim("inst/extdata/2002_Style/2007 OHEP Mens Results.txt", "\t", escape_double = FALSE, col_names = FALSE,
