@@ -42,6 +42,55 @@ library(tidyverse)
 # data_dir <- "inst/extdata/2002_Style"
 # files <- fs::dir_ls(data_dir, regexp = "\\.txt$")
 
+### 2001 ###
+
+X2001 <- readr::read_delim("inst/extdata/2001 OHEP Results.txt", "\t", escape_double = FALSE, col_names = FALSE,
+                           trim_ws = TRUE)
+
+X2001 %>% 
+  mutate(X1 = str_replace_all(X1, "(\\d) ", "\\1  "),
+         X1 = str_replace_all(X1, "([:lower:]) (\\d)", "\\1  \\2"),
+         X1 = str_replace_all(X1, ",", "")) %>% 
+  mutate(X1 = str_replace_all(X1, "  ", ",")) %>%
+  write_delim(path = "inst/extdata/2002_Style/2001 OHEP Results.csv", col_names = FALSE)
+
+X2001 <- readr::read_csv("inst/extdata/2002_Style/2001 OHEP Results.csv", col_names = FALSE,
+                         trim_ws = TRUE)
+
+X2001 %>% 
+  separate(X1, into = , c("Name", "Age", "Distance", "Club", "Gender", "Year"), sep = ",", remove = TRUE) %>% 
+  tidyr::fill(Year, .direction = "down") %>%
+  tidyr::fill(Gender, .direction = "down") %>% 
+  # tidyr::fill(Place, .direction = "down") %>% 
+  mutate(Age_Group = case_when(
+    Age <= 24 ~ "18-24",
+    Age > 24 & Age < 30 ~ "25-29",
+    Age > 29 & Age < 35 ~ "30-34",
+    Age > 34 & Age < 40 ~ "35-39",
+    Age > 39 & Age < 45 ~ "40-44",
+    Age > 44 & Age < 50 ~ "45-49",
+    Age > 49 & Age < 55 ~ "50-54",
+    Age > 54 & Age < 60 ~ "55-59",
+    Age > 59 & Age < 65 ~ "60-64",
+    Age > 64 & Age < 70 ~ "65-69",
+    Age > 69 & Age < 75 ~ "70-74",
+    Age > 74 & Age < 80 ~ "75-79",
+    Age > 79 & Age < 85 ~ "80-84",
+    Age > 84 & Age < 90 ~ "85-89",
+    Age > 89 & Age < 95 ~ "90-94",
+    Age > 94 & Age < 100 ~ "95-99",
+    Age > 99 & Age < 105 ~ "100-104"
+  )) %>% 
+  group_by(Age_Group, Gender) %>% 
+  arrange(desc(Distance)) %>% 
+  mutate(Place = row_number()) %>% 
+  ungroup() %>% 
+  mutate(Age_Group = NULL) %>% 
+  select(Place, Name, Age, Distance, Club, Gender, Year) %>% 
+  write.csv(file = "inst/extdata/cleaned_data/Postal_2001.csv", row.names = FALSE)
+
+### 2002 ###
+
 X2002 <- readr::read_delim("inst/extdata/2002_Style/2002 OHEP Results.txt", "\t", escape_double = FALSE, col_names = FALSE,
                            trim_ws = TRUE)
 
@@ -61,6 +110,8 @@ X2002 %>%
   tidyr::fill(Gender, .direction = "down") %>% 
   tidyr::fill(Place, .direction = "down") %>% 
   write.csv(file = "inst/extdata/cleaned_data/Postal_2002.csv", row.names = FALSE)
+
+### 2003 ###
 
 X2003 <- readr::read_delim("inst/extdata/2002_Style/2003 OHEP Results.txt", "\t", escape_double = FALSE, col_names = FALSE,
                            trim_ws = TRUE)
