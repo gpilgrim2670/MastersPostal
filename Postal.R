@@ -1,6 +1,24 @@
 library(readxl)
 library(tidyverse)
 
+data_dir <- "inst/extdata/cleaned_data"
+postal_files <- fs::dir_ls(data_dir, regexp = "\\.csv$")
+
+Postals <- map(postal_files, read_csv)
+
+Postal_1998 <- read_csv("inst/extdata/cleaned_data/Postal_1998.csv")
+Postal_1999 <- read_csv("inst/extdata/cleaned_data/Postal_1999.csv")
+Postal_2000 <- read_csv("inst/extdata/cleaned_data/Postal_2000.csv")
+Postal_2001 <- read_csv("inst/extdata/cleaned_data/Postal_2001.csv")
+Postal_2002 <- read_csv("inst/extdata/cleaned_data/Postal_2002.csv")
+Postal_2003 <- read_csv("inst/extdata/cleaned_data/Postal_2003.csv")
+Postal_2004 <- read_csv("inst/extdata/cleaned_data/Postal_2004.csv")
+Postal_2005 <- read_csv("inst/extdata/cleaned_data/Postal_2005.csv")
+Postal_2006 <- read_csv("inst/extdata/cleaned_data/Postal_2006.csv")
+Postal_2007 <- read_csv("inst/extdata/cleaned_data/Postal_2007.csv")
+Postal_2008 <- read_csv("inst/extdata/cleaned_data/Postal_2008.csv")
+Postal_2009 <- read_csv("inst/extdata/cleaned_data/Postal_2009.csv")
+Postal_2010 <- read_csv("inst/extdata/cleaned_data/Postal_2010.csv")
 Postal_2011 <- read_csv("inst/extdata/cleaned_data/Postal_2011.csv")
 Postal_2012 <- read_csv("inst/extdata/cleaned_data/Postal_2012.csv")
 Postal_2013 <- read_csv("inst/extdata/cleaned_data/Postal_2013.csv")
@@ -32,8 +50,8 @@ Postalize <- function(x){
   # # x <- x %>% 
   # #  mutate(Year = DFName)
   
-  x <- x %>%
-    mutate(Perm_ID = str_sub(USMS_ID, -5))
+  # x <- x %>%
+  #   mutate(Perm_ID = str_sub(USMS_ID, -5))
   
   # x <- x %>% 
   #   mutate(Name = paste(Last_Name, First_Name, sep = ", "))
@@ -196,5 +214,5 @@ Postalize <- function(x){
 
 Postals_Processed <- map(Postals, Postalize)
 Postals_Processed <- data.table::rbindlist(Postals_Processed, fill = TRUE)
-write.csv(Postals_Processed, file = "Postal_2.csv")
+write.csv(Postals_Processed, file = "Postal_All.csv")
 

@@ -33,7 +33,8 @@
 # Postal_2001 <- read_csv("inst/extdata/cleaned_data/Postal_2001.csv")
 # Postal_2001 %>%
 #   mutate(Gender = case_when(Gender == "M" ~ "M",
-#                             Gender == "F" ~ "W")) %>% 
+#                             Gender == "F" ~ "W",
+#                             is.na(Gender) ~ "W")) %>%
 #   write.csv(file = "inst/extdata/cleaned_data/Postal_2001.csv", row.names = FALSE)
 # 
 # Postal_2002 <- read_csv("inst/extdata/cleaned_data/Postal_2002.csv")
@@ -74,7 +75,8 @@
 # Postal_2007 <- read_csv("inst/extdata/cleaned_data/Postal_2007.csv")
 # Postal_2007 %>%
 #   mutate(Gender = case_when(Gender == "M" ~ "M",
-#                             Gender == "F" ~ "W")) %>% 
+#                             Gender == "F" ~ "W",
+#                             is.na(Gender) ~ "W")) %>%
 #   write.csv(file = "inst/extdata/cleaned_data/Postal_2007.csv", row.names = FALSE)
 # 
 # Postal_2008 <- read_csv("inst/extdata/cleaned_data/Postal_2008.csv")
