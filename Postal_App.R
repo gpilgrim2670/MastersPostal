@@ -5,7 +5,7 @@ library(DT)
 library(ggrepel)
 library(shinycssloaders)
 
-Postal <- read.csv("Postal.csv")
+Postal <- read.csv("Postal_2.csv")
 
 BreakScale <- function(x) sprintf("%.0f", x)
 BreakScaleTwo <- function(x) sprintf("%.2f", x)
@@ -60,8 +60,8 @@ ui <- fluidPage(
                                                      # Select which Gender(s) to plot
                                                      checkboxGroupInput(inputId = "Gender",
                                                                         label = "Select Gender(s):",
-                                                                        choices = c("Female" = "F", "Male" = "M"),
-                                                                        selected = "F")
+                                                                        choices = c("Female" = "W", "Male" = "M"),
+                                                                        selected = "W")
                                                      # selectizeInput(inputId = "Club",
                                                      #                label = "Select Club",
                                                      #                choices = levels(Postal$Club),
@@ -90,7 +90,7 @@ ui <- fluidPage(
                                                            label = "Select Year:",
                                                            choices = levels(as.factor(Postal$Year)),
                                                            multiple = FALSE,    
-                                                           selected = "2019"),
+                                                           selected = "2020"),
                       hr(),
 
                                     
@@ -107,13 +107,13 @@ ui <- fluidPage(
                                       # Select which Gender(s) to plot
                                       radioButtons(inputId = "GenderClub",
                                                          label = "Select Gender(s):",
-                                                         choices = c("Female" = "F", "Male" = "M", "Combined"),
-                                                         selected = "F"),
+                                                         choices = c("Female" = "W", "Male" = "M", "Combined"),
+                                                         selected = "W"),
                                       selectizeInput(inputId = "YearClub",
                                                      label = "Select Year:",
                                                      choices = levels(as.factor(Postal$Year)),
                                                      multiple = FALSE,    
-                                                     selected = "2019")
+                                                     selected = "2020")
                       ),
                       
                       column(6, offset = 2,
@@ -146,15 +146,15 @@ ui <- fluidPage(
                         
                       
                       ),
-             tabPanel("National Records", fluid = TRUE,
-                      selectizeInput(inputId = "YearRecord",
-                                     label = "Select Year:",
-                                     choices = levels(as.factor(Postal$Year)),
-                                     multiple = FALSE,    
-                                     selected = "2019"),
-                      h4("The following athletes broke National Records for their age group in the USMS 1 Hour ePostal.  Congratualtions to them all!"),
-                      dataTableOutput("RecordTable")
-                      ),
+             # tabPanel("National Records", fluid = TRUE,
+             #          selectizeInput(inputId = "YearRecord",
+             #                         label = "Select Year:",
+             #                         choices = levels(as.factor(Postal$Year)),
+             #                         multiple = FALSE,    
+             #                         selected = "2019"),
+             #          h4("The following athletes broke National Records for their age group in the USMS 1 Hour ePostal.  Congratualtions to them all!"),
+             #          dataTableOutput("RecordTable")
+             #          ),
              tabPanel("About", fluid = TRUE,
                       fluidRow(
                         column(6,
@@ -210,8 +210,8 @@ server <- function(input, output) {
   
   Postal_Club <- reactive({
     req(input$GenderClub)
-    if(input$GenderClub == "F"){
-    filter(Postal, Gender == "F",
+    if(input$GenderClub == "W"){
+    filter(Postal, Gender == "W",
            Club_Count_Female >= input$SizesMin,
            Club_Count_Female <= input$SizesMax, 
            Year %in% input$YearClub)
@@ -254,7 +254,7 @@ server <- function(input, output) {
       theme_minimal() +
       labs(x = NULL, y = NULL) +
       guides(color = FALSE) +
-      scale_x_continuous(breaks = c(2015, 2016, 2017, 2018, 2019)) +
+      scale_x_continuous(breaks = c(2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020)) +
       if (length(Postal_Athlete()) == 1) {
         scale_y_continuous(labels = BreakScaleTwo)
       } else {
@@ -272,12 +272,12 @@ server <- function(input, output) {
        theme_minimal() +
        labs(x = NULL, y = NULL) +
        theme(legend.title=element_blank(), panel.grid.major = element_line(color = "white"), panel.grid.minor = element_line(color = "white")) +
-       theme(plot.title = element_text(hjust=0.5, face = "bold")) +
+       theme(plot.title = element_text(hjust = 0.5, face = "bold")) +
        theme(legend.position="top", legend.key.size = unit(3, "line"),
-             axis.text.x  = element_text(angle=45, size=14),
-             axis.text.y  = element_text(size=14)) +
-       scale_fill_manual(values = c("F" = "maroon", "M" = "seagreen"), labels = c("F" = "Female", "M" = "Male")) +
-       scale_color_manual(values = c("F" = "maroon", "M" = "seagreen")) +
+             axis.text.x  = element_text(angle = 45, size = 14),
+             axis.text.y  = element_text(size = 14)) +
+       scale_fill_manual(values = c("W" = "maroon", "M" = "seagreen"), labels = c("W" = "Female", "M" = "Male")) +
+       scale_color_manual(values = c("W" = "maroon", "M" = "seagreen")) +
        guides(color = FALSE, alpha = FALSE)
        #labs(x = "Age Group", y = "Distace (y)")
    })
@@ -293,7 +293,7 @@ server <- function(input, output) {
    })
    
    output$ClubTable<-DT::renderDataTable({
-     if(input$GenderClub == "F"){
+     if(input$GenderClub == "W"){
      DT::datatable(unique(Postal_Club()[,c("Female_Rank", "Club", "Total_Distance_Female", "Club_Count_Female", "Avg_Distance_Female", "Avg_Speed_50_Club_Female", "Avg_Age_Club_Female", "Club_Size_Female")]), 
                    colnames = c("Ranking"= "Female_Rank", "Total Distance" = "Total_Distance_Female", "No. of Athletes" = "Club_Count_Female", "Average Distance Per Athlete" = "Avg_Distance_Female", "Club Average 50 Pace" = "Avg_Speed_50_Club_Female", "Club Average Age" = "Avg_Age_Club_Female", "Club Size" = "Club_Size_Female"),
                    rownames = FALSE,

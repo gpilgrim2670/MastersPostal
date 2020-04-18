@@ -254,23 +254,24 @@
 # 
 # Postal_2020 <- read_csv("inst/extdata/cleaned_data/Postal_2020.csv")
 # Postal_2020 %>%
-#   mutate(Name = paste(First_Name, Last_Name, sep = " "),
-#          First_Name = NULL,
-#          Last_Name = NULL) %>%
+#   # mutate(Name = paste(First_Name, Last_Name, sep = " "),
+#   #        First_Name = NULL,
+#   #        Last_Name = NULL) %>%
 #   mutate(Gender = case_when(Gender == "M" ~ "M",
-#                             Gender == "F" ~ "W"),
-#          Year = 2020) %>% 
+#                             Gender == "F" ~ "W",
+#                             is.na(Gender) ~ "W"),
+#          Year = 2020) %>%
 #   select(Place,
 #          Name,
 #          Age,
 #          Club,
 #          Distance,
-#          USMS_ID = ID,
+#          USMS_ID,
 #          Gender,
 #          Year,
-#          National_Record) %>% 
+#          National_Record) %>%
 #   write.csv(file = "inst/extdata/cleaned_data/Postal_2020.csv", row.names = FALSE)
-# 
+
 # ### 2011 ###
 # 
 # Postal_2011 <- read_excel("inst/extdata/raw_data/2011_Men_x2.xlsx", col_names = FALSE) %>% 

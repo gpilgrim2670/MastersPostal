@@ -38,5 +38,5 @@ Postal %>%
     labels = c("F" = "Female", "M" = "Male")
   ) +
   scale_color_manual(values = c("F" = "maroon", "M" = "seagreen")) +
-  guides(color = FALSE, alpha = FALSE, fill = FALSE)
-  # facet_wrap(.~Gender, labeller =  labeller(Gender = facet_labs))
+  guides(color = FALSE, alpha = FALSE, fill = FALSE) +
+  facet_wrap(.~Gender, labeller =  labeller(Gender = facet_labs))
