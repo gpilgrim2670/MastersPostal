@@ -1,1364 +1,1364 @@
-"Place","First_Name","Last_Name","Age","Club","USMS","Distance","National_Record","Gender"
-1,"Dan","Kirkland",70,"PSM","368R-069B3",4765,"Y","M"
-2,"Fred","Schlicher",70,"NEM","028G-033W5",4565,"Y","M"
-1,"Suzanne","Heim Bowen",60,"WCM","388Y-03F3T",4955,"Y","F"
-1,"Christie","Hayes",70,"NEM","028U-01S5E",4145,"Y","F"
-1,"Patricia","Bond",80,"SYSM","1483-02RDM",3275,"Y","F"
-1,"Kyle","Hendricks",22,"PACK","258J-0AVGT",5250,NA,"M"
-2,"Andrew","Brower",24,"DKTA","528C-0A8BF",5050,NA,"M"
-3,"Jonathan","Jones",22,"MOST","4385-09SC1",4775,NA,"M"
-4,"Daniel","Pearson",23,"DDSA","488K-0A8S2",4765,NA,"M"
-5,"Alexander","Claman",23,"TAM","388Z-09BZE",4730,NA,"M"
-6,"Gregory","Willett",21,"SKY","418N-0B0T8",3995,NA,"M"
-7,"William","Kolb",23,"SKY","4181-089R8",3880,NA,"M"
-1,"Bruce","Deakyne",29,"UC32","3289-BRUCE",5745,NA,"M"
-2,"John","Sarikas",25,"DDSA","488D-0APBG",5470,NA,"M"
-3,"Andrew","Wrist",26,"MVM","388K-0AGWJ",5465,NA,"M"
-4,"James","Lamb",25,"CRUZ","388V-08D6P",5180,NA,"M"
-5,"Andrew","Jensen",25,"UC25","258C-09BJG",5150,NA,"M"
-6,"Michael","Heavilon",25,"INDY","168U-0A4PE",5050,NA,"M"
-7,"Adam","Walker",28,"CMYM","0982-09AAA",5010,NA,"M"
-8,"Alex","Snyder",29,"INDY","168U-07Y0A",5005,NA,"M"
-9,"Eric","Burtchell",27,"NEM","028Y-097JG",4595,NA,"M"
-10,"Andrew","Magazine",28,"PBM","508F-0A0JW",4540,NA,"M"
-11,"Michael","Fehser",28,"DDSA","488S-0B6V3",4505,NA,"M"
-12,"Cameron","Wasko",25,"PBM","508K-0A7W2",4455,NA,"M"
-13,"Patrick","Mccloskey",28,"MOST","438P-09SBX",4425,NA,"M"
-14,"Michael","Thomas",26,"TAM","388S-07X03",4405,NA,"M"
-15,"Samuel","Crowley",26,"OREG","378D-0B98C",4370,NA,"M"
-16,"David","Stiles",28,"SPM","148X-06GFT",4330,NA,"M"
-17,"Michael","Pratt",25,"UC25","258R-0B9DK",4100,NA,"M"
-18,"Joe","Tarasevich",27,"NEM","0285-0ASJB",4000,NA,"M"
-19,"Sean","Maynard",27,"NCMS","1385-0729X",3840,NA,"M"
-20,"Jacob","Bubalo",25,"KAC","158Y-0B8GA",3775,NA,"M"
-21,"Alan","Hsieh",25,"NEM","028R-0A43C",3750,NA,"M"
-22,"Clayton","Ellis",26,"INDY","168K-0AMU9",3700,NA,"M"
-1,"Adam","Ritter",33,"CSMT","178U-07B49",5490,NA,"M"
-2,"Anthony","Wallace",31,"UC45","458J-0AUSE",5100,NA,"M"
-3,"James","Hoke",32,"DMST","408M-09X8Z",4785,NA,"M"
-4,"Satori","Iwamoto",32,"DAM","388C-071VM",4775,NA,"M"
-5,"Connor","Wallace",32,"NEM","028D-09KV0",4610,NA,"M"
-6,"Lawrence","Bonzer",33,"DKTA","528W-0B1X6",4575,NA,"M"
-7,"Sebastian","Cuellar",34,"SFTL","5086-09K5H",4490,NA,"M"
-8,"Dan","Perkey",32,"IM","218B-09NP2",4400,NA,"M"
-9,"Todd","Wilson",33,"PBM","508Z-04PPW",4350,NA,"M"
-10,"Luis","Galvan Sarabia",33,"INDY","168B-04PM1",4000,NA,"M"
-11,"Nicholas","Normandin",33,"NEM","028K-0471R",3925,NA,"M"
-12,"Matland","Peterson",34,"PMST","5482-07JN6",3770,NA,"M"
-13,"Ryan","Armpriester",33,"PAQM","5087-0A3P2",3750,NA,"M"
-14,"Michael","Cowen",33,"IM","2182-064YZ",3625,NA,"M"
-15,"Ryan","Brogan",30,"INDY","168G-05VX1",3585,NA,"M"
-16,"Alexander","Sennhenn",33,"TAM","388T-0B4T5",3340,NA,"M"
-1,"Stephen","Rouch",38,"INDY","168S-R0UCH",5480,NA,"M"
-2,"Zebron","Lemke",38,"AAM","388S-03S8A",5280,NA,"M"
-3,"John","Batchelder",37,"CMS","328F-086NY",5240,NA,"M"
-4,"Andrew","Schaefer",35,"BUMS","0488-06Z6S",5025,NA,"M"
-5,"Matthew","Hanlon",38,"CTS","438D-0ASC8",4980,NA,"M"
-6,"Matt","Roper",37,"DAM","388X-03TFC",4895,NA,"M"
-7,"Johnny","Van Velthuyzen",39,"PSM","368B-06TTA",4740,NA,"M"
-8,"Brian","Glenn",39,"SCYM","0780-05Z0J",4700,NA,"M"
-9,"Scott","Loder",37,"PBM","508H-0A4E9",4555,NA,"M"
-10,"Daniel","Wion",39,"NAM","178U-0B8US",4525,NA,"M"
-11,"Patrick","Billingsley",38,"PBM","5082-06G1T",4520,NA,"M"
-12,"Michael","Oxendine",36,"OREG","378C-0AZHZ",4400,NA,"M"
-13,"Daniel","Judd",36,"DAM","388M-0B4AX",4215,NA,"M"
-14,"Blair","Martin",39,"TAM","388F-03XP2",4040,NA,"M"
-15,"David","Houck",36,"GTX","4384-07SBW",4025,NA,"M"
-15,"Matthew","Leonard",39,"UC04","048X-0AR8P",4025,NA,"M"
-17,"Kevin","Waterson",39,"DAM","388W-08CRR",4010,NA,"M"
-18,"Daniel","O'Kane",38,"MINN","3087-05TNN",4005,NA,"M"
-19,"David","Schacht",39,"INDY","168J-09NCA",4000,NA,"M"
-19,"Bentley","Walker",37,"INDY","168K-01WWU",4000,NA,"M"
-21,"Christopher","Veilleux",38,"NEM","028J-0AXEM",3970,NA,"M"
-22,"Seann","Mulcahy",36,"NEM","0285-0922H",3925,NA,"M"
-23,"Jason","Marietta",38,"DDSA","4889-099AS",3895,NA,"M"
-24,"Jonathan","Smith",36,"TNYA","068A-08CVR",3795,NA,"M"
-25,"David","Doucett",37,"NEM","028S-07MUD",3410,NA,"M"
-26,"Daniel","Rasch",37,"INDY","168J-0B62J",3250,NA,"M"
-27,"Juan","Gomez",35,"GSC","148Y-0AYKJ",3215,NA,"M"
-28,"Mehdi","Nourbakhsh",35,"RPM","388U-0AUHR",3155,NA,"M"
-29,"Paul","Philley",36,"DAM","388S-08FAV",3050,NA,"M"
-30,"Hai","Wang",39,"ALB","388R-0B7N2",2040,NA,"M"
-1,"Matt","Miller",41,"OREG","3787-1500F",5260,NA,"M"
-2,"Ryan","Warren",44,"INDY","168F-002DE",5050,NA,"M"
-3,"Jim","Svoboda",40,"CFSC","258M-06M0U",4920,NA,"M"
-4,"Christopher","Scharver",42,"VMST","128X-001F1",4720,NA,"M"
-5,"Robert","Starkey",44,"NEM","0288-028UE",4670,NA,"M"
-6,"Brian","Delisle",44,"SKY","418S-05WGW",4665,NA,"M"
-7,"Eric","Hatch",44,"SNM","388W-02WHA",4635,NA,"M"
-8,"Will","Clark",41,"OREG","378V-04225",4620,NA,"M"
-9,"Brian","Bibler",41,"NICK","048Z-01X42",4575,NA,"M"
-10,"Joseph","Gardner",43,"WLOO","438Z-AHPA1",4500,NA,"M"
-10,"Andrew","Deck",40,"WMSP","0882-DAD04",4500,NA,"M"
-12,"Chris","Donnermeyer",42,"OREG","3786-06UPX",4475,NA,"M"
-12,"Neil","Cowan",41,"MICH","198H-SWT24",4475,NA,"M"
-14,"Rob","Hathaway",43,"ROCH","0482-06X52",4450,NA,"M"
-15,"Todd","Lantry",43,"OREG","3789-02619",4290,NA,"M"
-16,"Harry","Alexander",41,"SAWS","5982-0B423",4260,NA,"M"
-17,"Aaron","Jasper",41,"SCA","338D-09WY0",4255,NA,"M"
-18,"Eric","Tucker",43,"RIPT","3388-0B6MU",4250,NA,"M"
-19,"Ryan","Rager",44,"SPM","148U-07PNC",4225,NA,"M"
-20,"David","Dovell",43,"PBM","508D-0289F",4175,NA,"M"
-21,"Edward","Parsons",44,"NEM","028R-06DD8",4085,NA,"M"
-22,"Jason","Murray",43,"SKY","4182-084ND",4075,NA,"M"
-23,"Andrew","Anderson",41,"PBM","5089-094US",4010,NA,"M"
-24,"Jeremy","Forst",40,"INDY","168D-08B6M",4000,NA,"M"
-24,"Michael","Leake",40,"NEM","0285-SAVED",4000,NA,"M"
-26,"Colin","Goldsmith",41,"PBM","508R-09MSZ",3960,NA,"M"
-27,"Richard","Sweetman",40,"NEM","028B-0AAM2",3950,NA,"M"
-28,"Joseph","Lassen",40,"NASH","1585-0AGT4",3925,NA,"M"
-29,"Daniel","Spurling",41,"NBPB","0280-09J0A",3915,NA,"M"
-30,"Kyle","McIntosh",43,"SCA","338R-068Z6",3890,NA,"M"
-31,"Brendan","Banovic",44,"NBPB","028Y-0A323",3875,NA,"M"
-32,"Martin","Paukert",44,"MOST","438M-0AA7U",3785,NA,"M"
-33,"Matthew","Pattterson",43,"CFSC","258C-0B4A0",3770,NA,"M"
-34,"Rhett","Paul",41,"AQST","5280-09RT2",3750,NA,"M"
-34,"Edmund","Hipp",42,"LOCO","558V-08D80",3750,NA,"M"
-36,"Josh","Nelson",42,"MLAM","1983-0ARZK",3715,NA,"M"
-37,"Stefano","Profumo",40,"CRUZ","388B-08627",3695,NA,"M"
-38,"Graham","Balch",44,"TAM","3880-09KFD",3650,NA,"M"
-39,"Brett","Johnson",43,"OREG","378K-06BDH",3555,NA,"M"
-41,"Jeff","Berebitsky",43,"SBRM","168Y-026XN",3400,NA,"M"
-42,"Daniel","Seibert",40,"MICH","198F-0ATFZ",3395,NA,"M"
-43,"Jose Miguel","Ponciano",43,"GSC","148W-09P08",3215,NA,"M"
-44,"Thomas","Diemar",40,"SCYM","0784-0B7DJ",3170,NA,"M"
-45,"Ido","Zukerman",42,"DAM","388Z-0B45B",3100,NA,"M"
-46,"Bill","Pine",43,"GSC","1481-0A0Y1",3000,NA,"M"
-46,"Doug","Kast",42,"TAOS","428X-0AYF6",3000,NA,"M"
-48,"Domenick","Macri",42,"PBM","508S-0B6D0",2725,NA,"M"
-49,"Charles","Schmitt",43,"MERR","098D-093M4",2550,NA,"M"
-1,"David","Mikels",49,"TFAM","268K-07TXC",5040,NA,"M"
-2,"Christopher","Beach",49,"PBM","508K-049NK",4930,NA,"M"
-3,"Mark","Rubacky",49,"NCMS","1381-070MN",4925,NA,"M"
-4,"Sergei","Nemirovsky",46,"NEM","028Y-06MTR",4820,NA,"M"
-5,"Sean","Gerrard",45,"SPM","148G-0A4TF",4805,NA,"M"
-6,"Phillip","Luebke",47,"BOZE","318S-07P4M",4775,NA,"M"
-6,"Albert","Garcia",48,"NEM","028W-0738T",4775,NA,"M"
-8,"Ernie","Hoftyzer",49,"DAM","388N-03HAR",4685,NA,"M"
-9,"Sean","Bateman",49,"MINN","308H-0B47K",4675,NA,"M"
-10,"Kaan","Duru",48,"NEM","0282-06GNG",4590,NA,"M"
-11,"Kit","Koenig",49,"SFTL","508C-027FM",4585,NA,"M"
-12,"George","Lathrop",45,"INDY","168V-005BS",4575,NA,"M"
-13,"Eric","King",47,"NCMS","138R-0AUP0",4550,NA,"M"
-14,"Erik","Hanssen",47,"PBM","508J-003ZH",4535,NA,"M"
-15,"Peter","Kiss",49,"SCYM","078V-0B5JH",4525,NA,"M"
-16,"Eric","Herman",47,"SPM","148M-02TPA",4520,NA,"M"
-17,"Andrew","Shaar",46,"INDY","168F-02674",4500,NA,"M"
-18,"Thomas","Bell",49,"WMSP","088U-07Y6W",4495,NA,"M"
-19,"Michael","Guirl",47,"MOST","4388-02PWZ",4475,NA,"M"
-20,"Douglas","Gawriljuk",46,"PBM","508X-0A421",4450,NA,"M"
-20,"Kevin","Joubert",46,"MERR","098G-01VD7",4450,NA,"M"
-22,"Adam","Laats",49,"BUMS","048Z-08EXG",4435,NA,"M"
-23,"Lennart","Lindahl",48,"PBM","5087-0A42Z",4400,NA,"M"
-24,"Victor","Seeley",45,"SFGG","3886-09JM9",4375,NA,"M"
-25,"John","Leonard",48,"MOST","438T-02NWN",4325,NA,"M"
-26,"Henry","Pelish",45,"UC02","028S-0B8CJ",4315,NA,"M"
-27,"Eddie","Ames",49,"PBM","5080-027CN",4310,NA,"M"
-28,"Macy","Foree",47,"SKY","418V-084XH",4300,NA,"M"
-29,"Brian","Steighner",47,"PBM","508E-0A6WX",4290,NA,"M"
-30,"David","Dreith",49,"UC17","178S-05UXJ",4235,NA,"M"
-31,"Geoffrey","Hammond",49,"RIPT","3381-0962Z",4210,NA,"M"
-32,"Jeffrey","Rose",49,"INDY","168Z-09MUX",4150,NA,"M"
-33,"Kenneth","Frost",46,"TAM","388D-03JK9",4115,NA,"M"
-34,"Andreas","Ladas",48,"NEM","028A-06M66",4095,NA,"M"
-35,"Joseph","Graham",47,"BSMS","248W-0B4Z4",4050,NA,"M"
-36,"Douglas","Webb",48,"O*H*","188X-01PG5",4030,NA,"M"
-37,"Steve","Hartsock",45,"INDY","1686-02ASA",4000,NA,"M"
-37,"David","Forsee",49,"INDY","1686-02AN7",4000,NA,"M"
-37,"John","Mulloy",47,"INDY","1682-082DT",4000,NA,"M"
-40,"Antonio","Navarro",48,"INDY","168F-06J1A",3975,NA,"M"
-41,"James","Chicoski",45,"NEM","028B-0AP78",3950,NA,"M"
-41,"Lucas","Pantaleon",45,"SKY","418R-080ZU",3950,NA,"M"
-41,"Geoffrey","Bartlett",48,"NICK","048C-0AHPB",3950,NA,"M"
-44,"Jim","Porter",49,"NEM","028D-07PK2",3930,NA,"M"
-45,"Ryan","Huddlestun",46,"IM","218D-0A532",3805,NA,"M"
-46,"Matthew","Burrell",46,"INDY","1687-06ZNT",3800,NA,"M"
-47,"Drew","Alexander",47,"INDY","168M-0923K",3775,NA,"M"
-48,"Randall","Chamberlain",49,"TNYA","0688-02ZPS",3550,NA,"M"
-49,"Dennis","Quelch",46,"NEM","0286-0B6CA",3480,NA,"M"
-50,"Timothy","Downs",45,"NBPB","028X-0A7VA",3400,NA,"M"
-50,"Matthew","Wilhoit",47,"DAM","3886-0AXN0",3400,NA,"M"
-50,"Douglas","Berebitsky",49,"SBRM","1684-02BDC",3400,NA,"M"
-53,"Jason","Movsessian",48,"NEM","028N-0ATTZ",3300,NA,"M"
-54,"Sean","McClean",49,"YCFM","148D-05VZX",3250,NA,"M"
-55,"Caesar","Bernardo",47,"OREG","378P-0A0J2",3200,NA,"M"
-56,"Michael","Moon",47,"INDY","1682-0AWNA",3100,NA,"M"
-57,"Tyler","Bergmeier",47,"NEM","028V-09NTC",3010,NA,"M"
-58,"Craig","Siepser",46,"NEM","0288-098BR",3000,NA,"M"
-59,"Hirbod","Khalaj Hedayati",48,"GWSC","338V-09FYX",2990,NA,"M"
-60,"Alex","Guo",45,"FREM","388K-0AURM",2850,NA,"M"
-61,"Scott","Linnborn",48,"WLOO","4386-06M29",2800,NA,"M"
-62,"Milind","Mahajan",45,"SCA","3386-076N5",2670,NA,"M"
-1,"Jeff","Erwin",54,"SAWS","5983-01J0A",5460,NA,"M"
-2,"Kurt","Dickson",51,"GRA","3387-02EM5",5370,NA,"M"
-3,"Mike","Shaffer",53,"VCM","3386-03B3B",5300,NA,"M"
-4,"Eilhard","Lussier",53,"OREG","3782-025VX",5265,NA,"M"
-5,"Robbie","Allen",53,"NEM","028G-01W9S",5180,NA,"M"
-6,"Randy","Eickhoff",53,"SCA","3386-03BC3",5165,NA,"M"
-7,"Todd","Arris",53,"TOC","388Z-03H46",5100,NA,"M"
-8,"Robert","Perkins",52,"SCYM","078K-0AA34",4870,NA,"M"
-9,"Kurt","Baron",54,"SAWS","598S-03BBC",4855,NA,"M"
-10,"Matthew","Gilson",51,"NEM","028J-033F6",4740,NA,"M"
-11,"Joshua","Smith",50,"SPM","148B-064F4",4725,NA,"M"
-12,"Mark","Frost",51,"OREG","3781-07KU4",4665,NA,"M"
-13,"Hudson","Slay",51,"UHM","3989-04SYS",4655,NA,"M"
-14,"David","Loeffler",54,"ARIZ","488J-02FYU",4620,NA,"M"
-15,"Vaughn","Mansmann",52,"MOST","438G-07RZK",4560,NA,"M"
-16,"Thomas","MacNabb",53,"SCYM","0783-033N3",4500,NA,"M"
-17,"Trent","Theroux",51,"NEM","028B-05J76",4490,NA,"M"
-18,"Matt","Kowta",52,"DAM","388N-03SC1",4450,NA,"M"
-19,"Andy","Fischer",51,"SFTL","508E-0356H",4425,NA,"M"
-20,"Michael","Jacobson",50,"CMYM","098A-01V74",4395,NA,"M"
-21,"Keith","McCain",53,"DAMM","268U-01TD1",4370,NA,"M"
-22,"Christopher","Spearing",53,"UC05","058C-085HN",4350,NA,"M"
-23,"Pete","Champlin",50,"TAM","3883-031ZU",4330,NA,"M"
-24,"Jess","Dillavou",51,"PMST","548P-01HXP",4260,NA,"M"
-25,"John","Mull",54,"ARIZ","488H-0AWZ8",4250,NA,"M"
-25,"Bruce","Novis",53,"NEM","028N-076DK",4250,NA,"M"
-27,"Jonathan","Ruckdeschel",50,"CMYM","098A-087TG",4225,NA,"M"
-28,"William","Finch",53,"CSI","168E-02BFS",4200,NA,"M"
-29,"Tim","Polack",50,"INDY","1685-006UE",4150,NA,"M"
-30,"Jon","Haveman",54,"TAM","3884-03SAG",4145,NA,"M"
-31,"Chris","Doppke",52,"NEM","028F-090V5",4120,NA,"M"
-32,"Gary","McClellan",51,"PBM","508A-08496",4100,NA,"M"
-33,"Thomas","Jones",54,"PBM","508S-02JJH",4085,NA,"M"
-34,"Stephen","Imbusch",50,"NEM","0288-07HJ3",4080,NA,"M"
-35,"Thomas","Spino",51,"PBM","508W-008AD",4070,NA,"M"
-36,"Roger","Drury",51,"NEM","028W-093SX",3965,NA,"M"
-37,"David","Martin",51,"INDY","168S-0A1KG",3950,NA,"M"
-38,"Daniel","Messinger",54,"GRSC","508D-0281S",3905,NA,"M"
-39,"Clint","Bogard",51,"OREG","378G-07KMP",3825,NA,"M"
-40,"Ray","Bruce",53,"MOST","438S-0AF1A",3780,NA,"M"
-41,"Christopher","Molnar",53,"UC14","1482-0AN77",3775,NA,"M"
-42,"Fredrik","Wallenberg",51,"OREG","3788-06ZX2",3770,NA,"M"
-43,"Brian","Sweenor",52,"NEM","0280-097ZM",3765,NA,"M"
-44,"Mark","Heuchert",50,"TFAM","268B-0AHBY",3700,NA,"M"
-44,"Marc","Mansour",54,"NEM","028K-03504",3700,NA,"M"
-46,"Jonathan","Jensen",53,"DAM","3883-041T4",3665,NA,"M"
-47,"Brian","Schmitt",50,"NICK","0484-0B7NY",3660,NA,"M"
-48,"Chris","Rhim",53,"UC02","028S-0A8CH",3645,NA,"M"
-49,"Paul","Seymour",52,"TAM","388F-0AV6C",3640,NA,"M"
-50,"Robert","Carr",53,"NEM","028N-02YER",3600,NA,"M"
-50,"William","Haddock",52,"UC02","0287-070DD",3600,NA,"M"
-52,"Douglas","Everett",54,"ARIZ","488H-02EWU",3580,NA,"M"
-53,"Jerry","Rivera",54,"BSMS","248Z-0AR10",3550,NA,"M"
-54,"Konrad","Juethner",50,"NEM","028Z-09RA9",3535,NA,"M"
-55,"Mark","Perrecone",50,"PALM","558A-0B5VX",3525,NA,"M"
-56,"Al","Prescott",50,"NEM","028Z-033JX",3515,NA,"M"
-57,"Dan","Wheeler",53,"PBM","508A-0818S",3500,NA,"M"
-57,"Jaime","Bahamon",53,"SRVM","388E-0AYF2",3500,NA,"M"
-59,"Franklin","Duck",52,"INDY","1680-04PXF",3375,NA,"M"
-60,"Donald","Sorterup",51,"NEM","0284-06ZGF",3350,NA,"M"
-61,"Denis","Pelletier",54,"NEM","028F-035M3",3300,NA,"M"
-61,"Steve","Mentz",52,"UC05","0588-07DT0",3300,NA,"M"
-63,"Bruce","Levine",51,"NICK","048X-06EXZ",3250,NA,"M"
-63,"Mark","Gramelspacher",54,"INDY","168B-0B3UH",3250,NA,"M"
-65,"Stefano","Mignardi",54,"NCMS","138X-070RH",3145,NA,"M"
-66,"Michael","Ansel",53,"1776","0880-042H2",3125,NA,"M"
-67,"Vance","Stillman",52,"NCMS","138K-07368",3075,NA,"M"
-68,"Ernie","Friend",51,"UC02","0288-0ATYU",3070,NA,"M"
-69,"Jack","Defandorf",54,"NEM","028R-034WX",3045,NA,"M"
-70,"Herman","Arrivillaga",53,"NAST","168A-04R1Y",3035,NA,"M"
-71,"John","Dickson",54,"PALM","558G-09J2J",3030,NA,"M"
-72,"Troy","Frisz",51,"UC16","1682-02B31",3000,NA,"M"
-72,"Greg","Hillman",54,"INDY","1684-0AB0T",3000,NA,"M"
-72,"Erik","Stukenberg",52,"INDY","168F-0AMJC",3000,NA,"M"
-75,"Patrick","McDermot",53,"NEM","028Z-07MXT",2950,NA,"M"
-76,"Brandon","Luce",51,"ALB","388M-0B7UU",2875,NA,"M"
-77,"William","Buttriss",53,"NASH","158U-0B8GZ",2750,NA,"M"
-1,"Kirk","Richards",57,"SMM","3881-0AYKT",5125,NA,"M"
-2,"Chris","Tainty",58,"CRUZ","388N-03JCS",4925,NA,"M"
-3,"James","Biles",57,"WMAC","208M-SWMMR",4850,NA,"M"
-4,"David","Hathaway",58,"OREG","378X-0270T",4730,NA,"M"
-5,"Chris","French",56,"NEM","028H-034EP",4725,NA,"M"
-6,"James","Byers",57,"ROCH","048M-01X2V",4720,NA,"M"
-7,"Daniel","Newhaller",59,"SPM","148Z-02TD6",4650,NA,"M"
-7,"Chuck","Beatty",59,"O*H*","188V-085KM",4650,NA,"M"
-9,"William","Sullivan",57,"BERK","078Z-01Y18",4600,NA,"M"
-10,"Chip","Green",58,"PBM","5088-06SX1",4595,NA,"M"
-11,"Robert","McAdam",56,"GS","558F-007PG",4575,NA,"M"
-12,"Robert","Cole",57,"NCMS","138Z-053KS",4555,NA,"M"
-13,"Christopher","Burke",56,"SPM","1482-02RPB",4500,NA,"M"
-14,"Fritz","Bedford",55,"NEM","028G-06131",4470,NA,"M"
-15,"John","Dickmann",59,"NEM","028K-05W22",4410,NA,"M"
-16,"Vincent","Brockman",55,"SPM","148M-08DHS",4390,NA,"M"
-16,"Richard","Risso",59,"CRUZ","388D-03NN7",4390,NA,"M"
-18,"Robert","Bonsall",55,"1776","088A-042GW",4375,NA,"M"
-19,"Ken","Filar",59,"BAC","3889-03M9V",4360,NA,"M"
-20,"Steven","Gruenwald",57,"MINN","3080-07RTR",4350,NA,"M"
-21,"Christopher","Stevens",57,"MARY","0984-01VWK",4225,NA,"M"
-22,"Todd","Estabrook",59,"NEM","028P-046HM",4200,NA,"M"
-23,"Lyle","McCarty",58,"DAM","388P-04183",4170,NA,"M"
-24,"David","Winkler",56,"NEM","0288-075XT",4155,NA,"M"
-25,"Samuel","Seletas",56,"UC15","158Z-0B90T",4150,NA,"M"
-25,"William","Ritter",58,"NEM","028U-06N3N",4150,NA,"M"
-27,"Paul","McNamara",55,"OREG","378H-0601J",4100,NA,"M"
-28,"Russell","Forman",57,"NEM","0286-033X3",4095,NA,"M"
-29,"Clark","Robinson",57,"UC43","438K-0ARPA",4065,NA,"M"
-30,"Tom","Toomey",57,"CMS","328U-080B5",4050,NA,"M"
-31,"Daniel","Force",57,"NEM","0281-0AU15",4035,NA,"M"
-32,"Utley","Noble",55,"UC15","158N-02100",4025,NA,"M"
-33,"Patrice","Calmels",58,"OREG","378N-07SWJ",4020,NA,"M"
-34,"Matthew","Ezell",59,"AKMS","5687-0ASYC",4010,NA,"M"
-35,"Michael","Dignan",59,"NEM","0281-046VW",4000,NA,"M"
-35,"Jonathan","Chatinover",57,"NEM","028T-07MX0",4000,NA,"M"
-35,"Brian","Cummings",59,"INDY","1681-02AN2",4000,NA,"M"
-38,"Robert","Ballou",58,"NEM","0281-035MP",3965,NA,"M"
-39,"Chris","Paolini",55,"CSMT","178S-01UGK",3950,NA,"M"
-40,"Alan","Rook",56,"SPM","1487-07KB0",3830,NA,"M"
-41,"Rob","Torgerson",56,"NEM","028B-034NJ",3815,NA,"M"
-42,"Timothy","Rodden",57,"SFGG","388Z-0928F",3795,NA,"M"
-43,"Chris","Layton",59,"IM","2181-02VAE",3750,NA,"M"
-43,"Charles","Grant",59,"NEM","028S-07HCP",3750,NA,"M"
-45,"Brent","Anderson",56,"MOST","4384-02PXA",3735,NA,"M"
-46,"Matt","Freeman",58,"O*H*","188S-01PY9",3685,NA,"M"
-47,"Karl","Lincoln",55,"MOST","438K-0A8RV",3665,NA,"M"
-48,"Richard","Lucio",59,"DDSA","4880-0B5V4",3645,NA,"M"
-49,"Timothy","Gore",56,"NEM","028Y-035ME",3605,NA,"M"
-50,"John","Weiss",57,"INDY","168A-02BBH",3600,NA,"M"
-50,"Chris","Jensen",56,"UC29","2982-0AE5A",3600,NA,"M"
-50,"Russell","Roberts",55,"NASH","158U-09MFY",3600,NA,"M"
-53,"Timothy","Hall",56,"OREG","3782-0B7SJ",3590,NA,"M"
-54,"Craig","Lucker",56,"PBM","508T-0B0W3",3540,NA,"M"
-55,"Simon","Thornton",59,"MOST","438P-WST24",3500,NA,"M"
-56,"Ken","Gersbach",58,"SPM","148X-065N7",3450,NA,"M"
-56,"Paul","Arsenault",57,"NEM","028D-05HAY",3450,NA,"M"
-58,"Robin","Bragg",58,"OREG","378U-0269R",3440,NA,"M"
-59,"Alon","Harris",59,"INDY","1680-0B5WR",3400,NA,"M"
-60,"Carl","Hefflefinger",58,"NEM","028D-035ZB",3385,NA,"M"
-61,"Thomas","Ryde",59,"NEM","028A-0B8BV",3375,NA,"M"
-62,"Paul","Wilmer",56,"CTS","4388-0B80U",3350,NA,"M"
-62,"Terrence","Keller",59,"UC38","388E-0ASB1",3350,NA,"M"
-64,"Matt","Marshall",57,"GTX","438V-0AF2R",3345,NA,"M"
-65,"William","Benko",59,"SAWS","598K-01J1Y",3300,NA,"M"
-66,"Mark","Kiely",55,"UC02","0285-4MK2S",3280,NA,"M"
-67,"Dave","Shula",59,"SFTL","508H-08826",3200,NA,"M"
-68,"John","Myers",57,"TAM","388G-05FWF",3185,NA,"M"
-69,"Scott","Allison",55,"DAM","388E-08BTA",3170,NA,"M"
-70,"Mark","Williamson",55,"UC02","0281-0AR9F",3090,NA,"M"
-70,"Rex","Noble",58,"PBM","508J-07UM6",3090,NA,"M"
-72,"Carl","Hinebaugh",58,"NEM","028T-01S5F",3000,NA,"M"
-73,"David","Champagne",58,"TAM","3885-03JUT",2905,NA,"M"
-74,"David","Riese",56,"NEM","028E-09PN9",2865,NA,"M"
-75,"Brian","DeCamp",55,"COLE","168D-0B6XK",2825,NA,"M"
-76,"Bob","Olson",58,"NBPB","028A-072SS",2700,NA,"M"
-76,"Mark","Stewart",57,"O*H*","188U-01R3B",2700,NA,"M"
-78,"James","Piper",58,"NEM","028W-082Y1",2525,NA,"M"
-79,"Brian","Van Skyock",58,"INDY","1684-082GY",2400,NA,"M"
-80,"Michael","Cook",57,"DDSA","4886-0B6FF",2380,NA,"M"
-81,"Warren","Angell",55,"NEM","028B-0A7R8",2240,NA,"M"
-82,"Michael","Scott",58,"NEM","0282-0A5DP",2200,NA,"M"
-83,"Peter","Zhang",55,"SCYM","0783-0B7FJ",2175,NA,"M"
-84,"Mark","King",55,"INDY","1685-0A0M7",2100,NA,"M"
-85,"John","Brosius",59,"PBM","508B-007N8",1450,NA,"M"
-1,"Sandy","MacDonald",63,"SMST","388E-03H4C",5205,NA,"M"
-2,"James","Ritter",62,"CSMT","178N-01UB1",5020,NA,"M"
-3,"Kern","Davis",64,"SPM","1486-02RET",5010,NA,"M"
-4,"Rick","Heltzel",61,"UHM","398B-02001",4925,NA,"M"
-5,"Neil","Wasserman",63,"PCY","178N-01UG5",4680,NA,"M"
-6,"Mark","Evans",60,"DAM","388C-03J7X",4675,NA,"M"
-7,"Jamie","Hemmerle",63,"1776","0888-0227Z",4670,NA,"M"
-8,"Michael","Fitzgerald",60,"PSM","368E-0084N",4655,NA,"M"
-9,"Timothy","Kennedy",62,"SPM","148D-02RF0",4530,NA,"M"
-10,"Peter","Oliver",60,"TCAM","3888-06AGX",4495,NA,"M"
-11,"Stefan","Reinke",60,"UHM","3983-02082",4455,NA,"M"
-12,"Phil","Sidenberg",62,"SCA","338M-03AYK",4440,NA,"M"
-13,"Fred","Bartlett",62,"NEM","0282-033J5",4370,NA,"M"
-14,"Robert","Voll",61,"OREG","378Z-003WP",4365,NA,"M"
-15,"Jefferson","Vaughan",63,"DKTA","528C-01HUA",4350,NA,"M"
-16,"Donald","Uhlir",61,"OREG","378U-0059P",4315,NA,"M"
-17,"Bradley","Vear",63,"NEM","028D-03441",4275,NA,"M"
-18,"Joe","Aumiller",61,"MICH","198S-029JT",4225,NA,"M"
-19,"Donald","Cooper",60,"NASH","158H-021NT",4150,NA,"M"
-20,"Mark","Schwartz",60,"DAM","3886-03GDY",4125,NA,"M"
-20,"Marc","Israel",60,"SCYM","0780-06Y5B",4125,NA,"M"
-22,"David","Woodruff",62,"DAM","388R-03HFT",4115,NA,"M"
-23,"Edward","Goracy",62,"SCYM","0786-01Y5V",4095,NA,"M"
-23,"Kenneth","Nichols",60,"PBM","5088-01YE8",4095,NA,"M"
-23,"Bob","Blattner",63,"DAM","388S-03YTP",4095,NA,"M"
-26,"David","Carchedi",64,"NEM","028Z-0354D",4030,NA,"M"
-27,"Daniel","Moore",63,"DDSA","488W-06ECK",4020,NA,"M"
-27,"David","Schloerb",63,"NEM","028Z-033HV",4020,NA,"M"
-29,"Bruce","Young",61,"INDY","168Y-07ZNU",4000,NA,"M"
-30,"Uwe","Britsch",62,"OREG","378K-02735",3980,NA,"M"
-31,"Brian","Franco",60,"NEM","0289-0B2DG",3950,NA,"M"
-32,"Thomas","Riegelman",64,"UC32","328W-02UKD",3945,NA,"M"
-33,"Douglas","Shemin",63,"NEM","028H-06J6M",3915,NA,"M"
-34,"Jim","Supple",60,"NEM","028F-JDSJR",3850,NA,"M"
-35,"Thomas","Gelinne",61,"TNYA","0686-02XR9",3770,NA,"M"
-35,"Mark","Randall",61,"ARIZ","488G-0B5Z0",3770,NA,"M"
-37,"Christopher","Long",60,"INDY","1685-077U4",3750,NA,"M"
-38,"Scott","Eichhorn",64,"SCYM","0787-0AK3Z",3725,NA,"M"
-39,"Chuck","Burr",61,"RIDG","2682-02G66",3680,NA,"M"
-40,"Andy","Mascheroni",61,"TAM","388U-03SM3",3650,NA,"M"
-41,"Franklin","Johnson",62,"NEM","028H-FDJJR",3605,NA,"M"
-42,"Michael","Dilts",62,"INDY","168M-05GHY",3600,NA,"M"
-43,"Steven","Erickson",61,"MICH","1984-028VP",3585,NA,"M"
-44,"Spencer","Purinton",61,"NEM","0286-07M0Y",3575,NA,"M"
-45,"Thomas","Kinnier",63,"MAAC","388K-0679N",3560,NA,"M"
-46,"Steve","Reynolds",60,"DAM","3881-07KEV",3550,NA,"M"
-46,"Nicholas","Solomon",61,"IM","218G-09PB4",3550,NA,"M"
-48,"Steve","Kolis",63,"NEM","0283-01M7A",3545,NA,"M"
-49,"Carlos","Glender",64,"NCMS","138E-083KG",3540,NA,"M"
-49,"Donald","Tucker",64,"NICK","048G-01X74",3540,NA,"M"
-51,"Don","Slovenkai",62,"NEM","028A-0346G",3525,NA,"M"
-52,"Bill","Sweeney",61,"SFGG","388W-03VAR",3505,NA,"M"
-53,"Michael","Quinn",62,"PVMA","388N-03G0X",3500,NA,"M"
-54,"Paul","Edelman",62,"VMST","1288-034R8",3495,NA,"M"
-55,"Dan","Meek",62,"UC16","168P-02AGD",3480,NA,"M"
-56,"Mike","Taber",61,"PBM","5086-01MDG",3415,NA,"M"
-57,"Robert","Hopkins",62,"BUMS","048K-09BRA",3410,NA,"M"
-58,"Sergio","Silva",62,"TAM","388U-03JXM",3405,NA,"M"
-59,"Paul","Speaker",63,"NICK","0481-0813C",3350,NA,"M"
-60,"Bart","Hunter",62,"OREG","378H-0A543",3340,NA,"M"
-60,"Michael","Malaney",64,"NICK","0484-06EXU",3325,NA,"M"
-62,"Michael","Carlson",60,"SKY","418F-074PB",3325,NA,"M"
-63,"Mark","Angelos",64,"LTOH","1789-0ATJ8",3305,NA,"M"
-64,"Thomas","Grubb",63,"INDY","168F-084G7",3290,NA,"M"
-65,"Robert","Dyer",62,"NEM","028K-035MU",3245,NA,"M"
-66,"George","Alexandre",60,"NEM","028R-0ATWH",3175,NA,"M"
-67,"Martin","Nadeau",62,"MICH","198M-0A98X",3150,NA,"M"
-67,"Kevin","Hart",62,"UC12","128P-0B69U",3125,NA,"M"
-69,"Michael","Joyce",62,"TAM","388U-03NRU",3125,NA,"M"
-70,"Lou","Hill",60,NA,NA,3115,NA,"M"
-71,"Doug","Irminger",64,"MARY","098W-091XZ",3110,NA,"M"
-72,"Gary","Swenor",64,"DAM","388P-03F8N",3100,NA,"M"
-72,"Tom","Shroyer",60,"DMST","408G-0A1DM",3085,NA,"M"
-74,"Walter","Carter",63,"OREG","378J-05XRU",3085,NA,"M"
-75,"John","Ryker",60,"TULS","278Z-0B4H9",3050,NA,"M"
-76,"Tom","Sterk",64,"SCYM","078C-0B53J",3035,NA,"M"
-77,"Michael","Pelfini",60,"TAM","388M-0A510",3005,NA,"M"
-78,"Johnny","Alderman",60,"INDY","1682-09N2X",3000,NA,"M"
-79,"Steve","Green",64,"INDY","1683-08693",2850,NA,"M"
-80,"Rupert","Seals",61,"FINS","088Y-0224D",2785,NA,"M"
-81,"John","Jameson",64,"INDY","1685-02A9B",2700,NA,"M"
-82,"Alan","Hess",60,"PBM","508W-0AAEV",2625,NA,"M"
-83,"Steven","Snitzer",63,"NEM","028F-0B7Y4",2515,NA,"M"
-84,"Mark","Bolyen",63,"MICH","198N-0B7G5",2380,NA,"M"
-85,"Michael","Boorstein",62,"TAM","388J-03KHZ",2160,NA,"M"
-1,"Larry","Krauser",65,"SCM","358S-01MXU",4730,NA,"M"
-2,"William","Reeves",65,"SALT","348N-0310P",4725,NA,"M"
-3,"Jim","Clemmons",68,"SAWS","598U-03F93",4710,NA,"M"
-4,"Edward","Borsuk",65,"O*H*","1881-082CM",4595,NA,"M"
-5,"Gordon","Bell",66,"WCM","3889-03K0J",4525,NA,"M"
-6,"Bob","Upshaw",69,"WCM","3889-B0BUP",4240,NA,"M"
-7,"Rick","Wery",66,"BSMS","2481-01P6N",4220,NA,"M"
-8,"David","Bright",65,"NEM","028A-033Y9",4190,NA,"M"
-9,"Michael","Stephenson",66,"OREG","3785-026ZM",4185,NA,"M"
-10,"Bruce","Gianniny",67,"ROCH","048N-01X2U",4180,NA,"M"
-10,"Tom","Phipps",65,"OREG","378Z-075TR",4180,NA,"M"
-12,"Jack","Martin",67,"1776","088B-0220V",4125,NA,"M"
-13,"Bill","Ryan",68,"NEM","028B-06JH3",4120,NA,"M"
-14,"Kermit","Yensen",65,"OREG","378K-025Y1",4025,NA,"M"
-15,"Thomas","Perrin",68,"INDY","168T-02AA4",4020,NA,"M"
-16,"Scott","Cochrane",66,"HOLY","028Z-07CFN",3975,NA,"M"
-17,"Allen","Larson",65,"OREG","3786-05VZ3",3930,NA,"M"
-18,"Phillip","Bly",65,"INDY","168R-02BBS",3875,NA,"M"
-19,"Mark","Anderson",65,"IM","218D-02UAV",3805,NA,"M"
-20,"Mark","Woerner",67,"DAM","3887-05GHM",3775,NA,"M"
-20,"James","Tull",65,"TAM","388M-03HT5",3775,NA,"M"
-22,"John","Foote",68,"TAM","388G-03F8V",3765,NA,"M"
-23,"Robert","Durell",67,"ALB","388W-0804F",3710,NA,"M"
-24,"John","Olander",68,"NEM","028Z-035MD",3695,NA,"M"
-25,"Paul","Dow",65,"NEM","028H-0633Z",3680,NA,"M"
-26,"Tom","Taylor",66,"BSMS","2485-07ZXY",3660,NA,"M"
-27,"David","Lewis",67,"INDY","168P-02A9S",3650,NA,"M"
-28,"Marshall","Kane",69,"ARIZ","4880-06XT6",3590,NA,"M"
-29,"Robert","Huck",67,"ARIZ","488J-09T5F",3555,NA,"M"
-30,"David","Gaines",65,"TSTT","338N-09102",3550,NA,"M"
-31,"Mark","Rafferty",66,"NEM","028N-0A7NX",3515,NA,"M"
-32,"Philip","Jonckheer",66,"TAM","388T-03K5W",3475,NA,"M"
-33,"Robert","Lantz",67,"DAM","388D-03U42",3445,NA,"M"
-34,"Paul","Krasnow",67,"NBPB","028F-0472H",3425,NA,"M"
-34,"Michael","Garr",65,"NEM","028A-033VR",3425,NA,"M"
-36,"Bruce","Schroeder",66,"SUSA","348F-088HG",3400,NA,"M"
-36,"Perry","Heath",68,"INDY","168V-02A92",3400,NA,"M"
-38,"Douglas","Smith",67,"NEM","028E-0472G",3360,NA,"M"
-39,"Steve","Jordan",66,"FREM","388V-09GN1",3315,NA,"M"
-40,"Walter","Woolley",69,"SFTL","508J-028N2",3300,NA,"M"
-40,"Ron","Hansen",69,"PSM","3680-02MF6",3300,NA,"M"
-42,"Gregory","Stoner",66,"DAM","388P-03GX8",3250,NA,"M"
-43,"Philip","Houck",69,"GTX","438D-02R9Z",3225,NA,"M"
-44,"Douglas","Soltis",65,"GSC","148U-02SS7",3220,NA,"M"
-45,"Jack","Weinstein",68,"SFGG","388C-05GKA",3150,NA,"M"
-46,"Timothy","Meyer",66,"INDY","1688-02BMS",3135,NA,"M"
-47,"Michael","Carew",69,"OREG","378U-025XU",3125,NA,"M"
-48,"Arthur","Russo",69,"PMST","5487-01HXB",3050,NA,"M"
-49,"Allen","Kossoy",65,"MOVY","288P-01NRW",3045,NA,"M"
-50,"Masao","Miyasaka",68,NA,NA,3040,NA,"M"
-51,"Bart","Grimes",65,"NEM","028U-09P8B",3025,NA,"M"
-52,"Robert","Emahiser",65,"ARIZ","488Y-0B701",2970,NA,"M"
-53,"Thomas","Bidwell",65,"ROCH","048M-01X6F",2950,NA,"M"
-53,"John","Kersten",66,"PMST","548A-01HXE",2950,NA,"M"
-55,"William","Wheeler",68,"DAM","388C-04ZA2",2900,NA,"M"
-56,"Peter","Flanagan",69,"NEM","028C-03452",2875,NA,"M"
-57,"John","Anderson",68,"IM","218V-02UCY",2850,NA,"M"
-58,"Carlton","Sundbeck",69,"MOST","438K-09ZNJ",2815,NA,"M"
-59,"Michael","Kaufman",67,"PACM","248F-0B5WN",2785,NA,"M"
-60,"David","Slagle",66,"WRCM","388V-091HW",2670,NA,"M"
-61,"Jeffrey","Robertson",67,"NBPB","028Z-0771W",2565,NA,"M"
-62,"Michael","Hauty",67,"OREG","3780-06MK9",2505,NA,"M"
-63,"Kevin","Porter",66,"TAM","388T-03PTW",1715,NA,"M"
-64,"Kenneth","Rausch",69,"UC03","5469-0617K",1325,NA,"M"
-3,"Hugh","Wilder",71,"ARIZ","488W-01GWW",4285,NA,"M"
-4,"Carl","Selles",71,"SPM","148M-030YY",4250,NA,"M"
-5,"Bob","Bruce",70,"OREG","378F-025YX",4205,NA,"M"
-6,"Steve","Johnson",70,"OREG","378X-0264Y",4115,NA,"M"
-7,"Steve","Peterson",72,"PSM","368Z-02KVC",4070,NA,"M"
-8,"Pat","Marzulli",70,"SPM","148J-02RMY",4015,NA,"M"
-9,"Daniel","Rogacki",71,"NEM","028P-033XF",3930,NA,"M"
-10,"Donn","Livoni",72,"BSMT","3183-025UR",3895,NA,"M"
-11,"Gary","Parlapiano",71,"TAM","388Z-03H4R",3860,NA,"M"
-12,"Gregory","Clarke",71,"COLE","168V-078RR",3825,NA,"M"
-13,"Robert","Lesuer",70,"NEM","0289-0A90C",3670,NA,"M"
-14,"James","Stambolis",71,"TAM","3887-03FUB",3640,NA,"M"
-15,"George","McNee",70,"SCA","338R-0AJEG",3575,NA,"M"
-16,"David","Putnam",74,"PBM","508N-076J4",3515,NA,"M"
-17,"Jon","Rosenberg",70,"LNRS","388S-0A4X8",3490,NA,"M"
-18,"Emilio","Sovero",70,"SCA","338M-TECHR",3450,NA,"M"
-19,"Ed","Hunter",73,"SWOM","178W-0A47M",3400,NA,"M"
-20,"Richard","Sutton",70,"LMAO","298J-01JC7",3380,NA,"M"
-21,"Thomas","Spence",74,"O*H*","1883-01PFX",3375,NA,"M"
-22,"David","Schumann",72,"TNAQ","158P-06554",3360,NA,"M"
-23,"Rusty","Dague",70,"UC31","3181-0AUWW",3335,NA,"M"
-24,"Michael","Kelber",71,"OREG","3787-07343",3300,NA,"M"
-25,"Kenneth","Rugh",70,"MOST","4384-0A0PH",3110,NA,"M"
-26,"Hans","Van Meeteren",74,"NCMS","138P-023NH",3105,NA,"M"
-27,"Jim","Terry",74,"NEM","028W-0352D",3100,NA,"M"
-28,"Rick","Meyerhoff",71,"TAM","3886-03N8M",3080,NA,"M"
-29,"John","Foges",74,"OREG","378E-026R3",3050,NA,"M"
-30,"Glenn","Johnson",70,"NEM","028W-09JCH",3040,NA,"M"
-31,"Terry","Farmer",70,"NCMS","138V-0B9B2",3025,NA,"M"
-32,"Brad","Tomlinson",74,"NEM","028F-033ZG",3015,NA,"M"
-33,"Lee","Lovitz",73,"NEM","0283-033RW",2995,NA,"M"
-34,"Rob","Broderick",72,"LPM","158E-03F10",2960,NA,"M"
-35,"Russ","Burnette",71,"WRCM","3887-08765",2900,NA,"M"
-36,"Tom","Martens",73,"DAM","3884-03M72",2750,NA,"M"
-37,"George","Powch",71,"SCYM","078M-062NT",2650,NA,"M"
-38,"James","Murphy",72,"NBPB","028P-0A4Z8",2635,NA,"M"
-39,"Ernst","Schaefer",73,"NEM","028N-034G2",2600,NA,"M"
-40,"Alden","Cockburn",71,"NMMS","428P-06KY1",2500,NA,"M"
-41,"Alan","Fortier",70,"UC24","2481-0B80T",2475,NA,"M"
-42,"Richard","Lubin",74,"TAOS","4289-09T6Y",2300,NA,"M"
-43,"Maurice","O'Connell",72,"LPM","158P-0ARUB",1775,NA,"M"
-44,"Kenneth","Ravioli",73,"SFTL","508A-0A6EC",900,NA,"M"
-1,"Richard","Burns",75,"TAM","388M-BURNS",4105,NA,"M"
-2,"Bill","Dawson",76,"MELO","388R-03HJW",3880,NA,"M"
-3,"Ralph","Mohr",77,"OREG","378C-0261C",3715,NA,"M"
-4,"Larry","Raffaelli",75,"VCM","338R-03B35",3670,NA,"M"
-5,"Thomas","Manfredi",75,"NEM","028M-033DH",3550,NA,"M"
-6,"Dave","Casebolt",77,"IM","218N-02UGS",3425,NA,"M"
-7,"Tom","Tulenko",76,"1776","088H-0229G",3345,NA,"M"
-8,"Richard","Hahn",76,"GTX","438J-03357",3310,NA,"M"
-9,"James","Pope",76,"NEM","028P-01UJZ",3290,NA,"M"
-10,"Santiago","Tapia Perez",79,"NEM","0284-0APME",3200,NA,"M"
-11,"John","Spence",77,"OREG","378Z-06KMM",3000,NA,"M"
-12,"Glenn","Wangdahl",76,"MARY","098T-01VWD",2955,NA,"M"
-13,"Patrick","Cannan",78,"PBM","5081-07KE4",2935,NA,"M"
-14,"Rodger","Bivens",77,"ARIZ","488Z-02FYC",2880,NA,"M"
-14,"John","Woodsmall",75,"UC14","148M-0B512",2880,NA,"M"
-16,"Nicholas","Ribush",77,"NEM","028P-07TUB",2855,NA,"M"
-17,"Jon","Nelson",79,"CRUZ","388H-03FH2",2810,NA,"M"
-18,"George","Coupe",78,"NEM","028X-C0UPE",2805,NA,"M"
-19,"Paul","Templet",78,"TAOS","4281-01T80",2800,NA,"M"
-19,"Jack","Fife",78,"INDY","168K-02AKK",2800,NA,"M"
-21,"Michael","Manes",75,"1776","088P-0B7AG",2780,NA,"M"
-22,"Bob","Ellis",75,"PACM","248K-0ARMY",2775,NA,"M"
-23,"John","Warnke",75,"SUSA","348P-09TFG",2675,NA,"M"
-24,"Bill","Mellow",77,"OREG","378Z-0265Y",2545,NA,"M"
-25,"John","Roccabello",75,"NEM","0285-07N4D",2335,NA,"M"
-26,"Michael","Hatchette",77,"NEM","0289-0304K",2075,NA,"M"
-27,"William","Ragan",76,"FMM","1480-FMMWR",950,NA,"M"
-1,"David","Radcliff",84,"OREG","378E-025V8",3845,NA,"M"
-2,"Barry","Fasbender",81,"OREG","378Z-BARRY",3350,NA,"M"
-3,"Charles","Mackall",83,"WFAC","128S-0364V",3150,NA,"M"
-4,"Robert","Norris",80,"DAM","388W-03GE4",3045,NA,"M"
-5,"Robert","Fewster",80,"UC38","388S-03K6Z",2950,NA,"M"
-6,"Pete","Palmer",83,"LOCO","558X-01GXS",2925,NA,"M"
-7,"Jerry","Marchbanks",83,"PBM","5082-02NH0",2875,NA,"M"
-8,"James","Browne",80,"SYSM","1482-02RD2",2750,NA,"M"
-9,"David","Gilmer",81,"DAM","388W-03GYM",2505,NA,"M"
-10,"Mel","Goldstein",80,"INDY","168Z-1NDY1",2500,NA,"M"
-11,"George","Thayer",82,"OREG","3785-025X2",2295,NA,"M"
-12,"Joseph","O'Flaherty",84,"DAM","3886-040H0",1750,NA,"M"
-13,"Ken","Fligsten",80,"MARY","0985-065VD",1735,NA,"M"
-14,"Marcelo","Barreiro",84,"BUMS","048D-01X2M",1490,NA,"M"
-15,"Louis","Schairer",84,"IM","218U-09V70",1300,NA,"M"
-16,"Joseph","Lestingi",83,"LPM","1581-0AC5G",1140,NA,"M"
-17,"Jim","Flora",84,"UC34","348J-07S7D",935,NA,"M"
-1,"Glenn","Tewksbury",85,"ARIZ","4889-070K8",3050,NA,"M"
-2,"Robert","Beach",88,"SPM","148P-02REM",2940,NA,"M"
-3,"Paul","Kiell",88,"SCYM","0784-01Y25",2775,NA,"M"
-4,"Itamar","Kutai",85,"NEM","028W-0336M",2305,NA,"M"
-5,"Tom","Wilson",88,"NEM","0282-046J5",1910,NA,"M"
-6,"Thomas","Weber",88,"NIAG","0489-01X8P",1890,NA,"M"
-1,"John","Collings",91,"MARY","0987-01V2W",1525,NA,"M"
-1,"Willard","Lamb",96,"OREG","378D-026V7",2830,NA,"M"
-1,"Madeline","Bruce",24,"IM","218U-09DA1",4925,NA,"F"
-2,"Danielle","Miller",22,"OREG","3789-0B228",4535,NA,"F"
-3,"Tiffany","Chen",24,"NEM","028W-09VGD",4345,NA,"F"
-4,"Caitlin","Gagnon",24,"PCY","1780-0ANR8",4265,NA,"F"
-5,"Grace","Ronca",21,"UC08","0888-0AZCG",4135,NA,"F"
-6,"Rachel","Kappeler",22,"INDY","168X-0B2ZN",4075,NA,"F"
-7,"Ellie","Prinster",24,"MOST","438U-0AV50",4070,NA,"F"
-8,"Danielle","Dattilio",24,"INDY","168V-0B193",3800,NA,"F"
-8,"Jenna","Magnan",22,"SFGG","388U-0B6HW",3800,NA,"F"
-10,"Selene","San-Felice",23,"MARY","0987-0B5NG",3400,NA,"F"
-11,"Elisabeth","Rexroth",21,"COLE","168E-0APFM",3275,NA,"F"
-12,"Allison","Johnston",23,"PMST","548S-0ABZR",3075,NA,"F"
-13,"Dakota","DeCaire",19,"OREG","378G-0B965",2375,NA,"F"
-1,"Lauren","Matevish",27,"NASH","1585-0AGKF",5040,NA,"F"
-2,"Kate","Stephensen",29,"VMST","128G-06ZS2",4860,NA,"F"
-3,"Heather","Iwasaki",28,"UHM","398W-091KW",4800,NA,"F"
-4,"Lindsay","Gaudinier",29,"WCM","3882-06NAP",4775,NA,"F"
-5,"Valerie","Thorp",27,"CRUZ","388J-0793E",4725,NA,"F"
-6,"Kaitlin","Wilcoxen",27,"NEM","028W-0B27Y",4675,NA,"F"
-7,"Cailee","Caldwell",29,"OREG","378F-080SJ",4650,NA,"F"
-7,"Sarah","Schaefer",28,"NICK","0487-0B3J2",4650,NA,"F"
-9,"Alana","Aubin",28,"NEM","028E-07TSR",4630,NA,"F"
-10,"Madeline","Gilbert",26,"NEM","0288-08A8G",4510,NA,"F"
-11,"Ryan","Streicker",29,"IM","2183-0A5F4",4430,NA,"F"
-12,"Kristina","Miller",28,"AKMS","5684-0AG4S",4300,NA,"F"
-13,"Lara","Gruden",28,"DDSA","488Z-05YCG",4220,NA,"F"
-14,"Kathryn","Happe",27,"VACA","388E-HAPPE",4150,NA,"F"
-15,"Laura","Richards",29,"PBM","5089-0AK3M",3885,NA,"F"
-16,"Kay","Mynatt",29,"INDY","168F-0B0JF",3800,NA,"F"
-16,"Haley","Arnold",29,"COLE","168W-076WC",3800,NA,"F"
-18,"Guro","Lindgren",26,"BOZE","318N-0ABK4",3745,NA,"F"
-19,"Lindsay","Day",28,"NEM","0281-0A3V3",3715,NA,"F"
-20,"Lia","Sacks",29,"CMYM","0982-07Z2U",3700,NA,"F"
-21,"Victoria","Kirkman",26,"SPM","1486-09CC9",3625,NA,"F"
-22,"Tricia","Baldwin",28,"SKY","418G-06XAE",3390,NA,"F"
-23,"Natalie","Potts",28,"WWM","358H-09TA1",3315,NA,"F"
-24,"Andrea","Morato",28,"GTX","4387-0AZXC",3040,NA,"F"
-25,"Catherine","Brown",26,"INDY","168S-0B30W",3000,NA,"F"
-26,"Lauren","Sager",29,"NBPB","028T-0AU57",2605,NA,"F"
-1,"Emily","Parker",33,"SDSM","448E-05W50",4930,NA,"F"
-2,"Annie","Ferguson",32,"PCY","178U-0626M",4890,NA,"F"
-3,"Kendra","Hogg",31,"VMST","128B-09RSH",4820,NA,"F"
-4,"Sarah","Dombrowski",30,"NEM","028S-0824W",4650,NA,"F"
-5,"Loriann","Emory",32,"SCA","3389-05W8K",4600,NA,"F"
-6,"Amanda","Olsen",30,"TNAQ","158V-06NZU",4455,NA,"F"
-7,"Christina","Yeoman",30,"SKY","418W-05HRS",4415,NA,"F"
-7,"Molly","Brown",32,"BUMS","0488-088F6",4415,NA,"F"
-9,"Megan","Tosh",33,"OREG","3789-09JSX",4410,NA,"F"
-10,"Jing","Li",30,"SMM","388P-J1NG6",4300,NA,"F"
-10,"Maki","Moore",33,"BWAQ","368D-087U0",4300,NA,"F"
-12,"Jenny","Rood",33,"NEM","028C-06HVF",4285,NA,"F"
-13,"Regina","Novak",34,"SPM","148J-05J01",4270,NA,"F"
-14,"Kathleen","Pelczynski",33,"NCMS","138M-06W4X",4220,NA,"F"
-15,"Lindsey","Curley",30,"DAM","388M-06YTD",4215,NA,"F"
-16,"Amy","Charley",33,"VMST","128J-061BG",4210,NA,"F"
-17,"Sara","DiNardo",32,"NEM","0288-093K4",4200,NA,"F"
-18,"Nicole","Bott",33,"MOST","438V-08EEJ",4090,NA,"F"
-19,"Alexandra","Thomas",31,"PBM","5085-02U3G",4015,NA,"F"
-20,"Nikki","Moore",32,"DAM","388V-09KX6",3975,NA,"F"
-20,"Lisa","Rauschert",31,"NEM","028G-084B8",3975,NA,"F"
-22,"Uliana","Long",33,"MERR","098N-0AVUV",3935,NA,"F"
-22,"Hannah","Plimpton",33,"1776","0882-05XZT",3935,NA,"F"
-24,"Keira","McElligott",32,"SFGG","388K-09ZE4",3850,NA,"F"
-24,"Sarah","Swoch",33,"SPM","148U-02TVT",3850,NA,"F"
-26,"Jennifer","Lake",34,"GTX","4383-0AWAA",3840,NA,"F"
-27,"Victoria","Bolf",33,"IM","218U-06TMW",3825,NA,"F"
-28,"Leah","Harris",33,"OREG","378A-0B4PW",3760,NA,"F"
-29,"Jennifer","Passafiume",33,"NEM","028A-0A8XV",3750,NA,"F"
-30,"Grace","Ogawa",31,"OREG","3789-0AREY",3700,NA,"F"
-30,"Erika","Sutton",31,"INDY","168M-09ZWF",3700,NA,"F"
-32,"Margot","McKirdy",32,"OREG","378N-0ASKC",3660,NA,"F"
-33,"Christine","Mellen",32,"NEM","0280-083RE",3545,NA,"F"
-34,"Beth","Fehr",34,"NEM","0287-0ARJY",3270,NA,"F"
-35,"Maggie","Matthews",31,"UC15","158Y-0ATNC",3150,NA,"F"
-36,"Edith","Hannigan",31,"DAM","3884-07TXP",3100,NA,"F"
-37,"Sarah","Johnson",30,"SYSM","1485-0APJ3",3050,NA,"F"
-38,"Eva","Horne",33,"UC32","3289-0A714",2900,NA,"F"
-1,"Ashley","Whitney",39,"NASH","158B-021RZ",5215,NA,"F"
-2,"Sandra","Frimerman Bergquist",35,"HOPK","308B-04TAE",4945,NA,"F"
-3,"Heather","Frees",35,"NCMS","138A-05P9Y",4800,NA,"F"
-3,"Joni","Williamson",37,"INDY","1686-02AUW",4800,NA,"F"
-5,"Kellie","McCaffery",37,"ROCH","0484-0719J",4765,NA,"F"
-6,"Megan","Peterson",35,"PMST","548R-046CK",4615,NA,"F"
-7,"Robyn","Glaser",37,"SCYM","0783-0A3TE",4555,NA,"F"
-8,"Melinda","Williams",37,"NEM","0282-035DF",4520,NA,"F"
-9,"Maggie","Trujillo",35,"OREG","378P-0B562",4485,NA,"F"
-10,"Diane","Leith Doucett",36,"NEM","0281-06M9Z",4480,NA,"F"
-11,"Allison","Ware",38,"NASH","158F-0650C",4350,NA,"F"
-12,"Heather","Raley",37,"MERR","098G-0B3W8",4270,NA,"F"
-13,"Shizuka","Schwartz",35,"RIPT","3388-0B4DN",4240,NA,"F"
-14,"Jillian","Beveridge",38,"NEM","028F-0A20A",4125,NA,"F"
-15,"Jessica","Hargis",39,"NCMS","138P-09UWR",4070,NA,"F"
-16,"Meredith","Haas",35,"NEM","028D-0AUN5",3905,NA,"F"
-17,"Rebecca","Latimer",36,"VMST","128P-023UP",3900,NA,"F"
-18,"Courtney","Carlson",39,"MARY","098U-04TG8",3865,NA,"F"
-19,"Katherine","Bradley",39,"NEM","0281-09RZP",3830,NA,"F"
-20,"Amanda","Callahan",36,"OREG","378R-06JB5",3825,NA,"F"
-21,"Marianne","Teixeira",35,"NEM","028Y-07J6S",3795,NA,"F"
-22,"Tralee","Thorn",36,"OREG","3789-0A9ED",3765,NA,"F"
-23,"Kelly","Riedinger",39,"NASH","1584-02HHH",3750,NA,"F"
-24,"Cari","Talbot",37,"SWS","028V-0B5F4",3710,NA,"F"
-25,"Rebecca","Gardiner",37,"SMM","388G-0B638",3690,NA,"F"
-26,"Amanda","Shannon",35,"GTX","438N-0B6TD",3670,NA,"F"
-27,"Serafina","Sumargo",38,"CONN","0586-0AN12",3635,NA,"F"
-28,"Sara","Chapman",37,"IM","218W-08BZK",3620,NA,"F"
-29,"Kendra","Oehlerich",36,"NCMS","138N-07B6Z",3585,NA,"F"
-30,"Sabrina","Herrera",39,"ALB","3884-0AUD8",3575,NA,"F"
-31,"Erin","Tyler",39,"BWAQ","368W-05GXR",3550,NA,"F"
-32,"Jenny","Weaver",38,"INDY","168U-02B0T",3500,NA,"F"
-33,"Christina","Hitchcock",36,"SFTL","508Z-061JZ",3480,NA,"F"
-34,"Alicia","Beebe",37,"MOVY","2880-0B95F",3415,NA,"F"
-35,"Shelley","Leymaster",37,"OREG","378B-0AMW2",3305,NA,"F"
-36,"Esther","Rincon",37,"DAM","388V-09VUB",3300,NA,"F"
-37,"Tanya","Baxter",39,"OREG","378S-0AGK1",3250,NA,"F"
-38,"Genny","White",35,"GSC","1489-0726B",3220,NA,"F"
-39,"Laura","Huebner",38,"UC02","0287-0B42J",3185,NA,"F"
-40,"Anne","Clinton",36,"INDY","168Z-08AJX",3150,NA,"F"
-41,"Annie","Muske Dukes Driggs",35,"OREG","3781-071YT",3145,NA,"F"
-42,"Heather","Meadors",36,"THT","168Z-08DRE",3075,NA,"F"
-43,"Krystal","Seibert",36,"MICH","198E-0B7R8",2970,NA,"F"
-44,"Rachel","Foote",36,"TAM","388D-01MWD",2825,NA,"F"
-45,"Laura","Lirette",39,"OREG","378A-0B417",2750,NA,"F"
-46,"Amy","Hill",36,"THOR","328J-0AP55",2650,NA,"F"
-46,"Erin","Flater",39,"DMST","408Y-0B814",2650,NA,"F"
-48,"Melody","Harris",39,"MOST","4382-0B62S",2440,NA,"F"
-49,"Molly","Jackson",36,"INDY","168Z-08DSG",2300,NA,"F"
-1,"Tesla","Profumo",41,"CRUZ","388S-068K7",4890,NA,"F"
-2,"Kysa","Crusco",42,"NEM","028E-07Z08",4800,NA,"F"
-3,"Stacey","Bruce",44,"PALM","558M-01HAD",4775,NA,"F"
-4,"Stacy","Sweetser",43,"NEM","0285-036UY",4660,NA,"F"
-5,"Michelle","McRae",43,"PSM","3685-04FBZ",4575,NA,"F"
-6,"Kate","Elliott",42,"DMST","4086-097X9",4530,NA,"F"
-7,"Kristina","Maroudis",43,"SDSM","448T-06PM8",4510,NA,"F"
-8,"Wendy","Peterson",44,"MINN","308X-0256V",4500,NA,"F"
-9,"Eileen","Epley",43,"UAR","1782-07CG9",4425,NA,"F"
-10,"Sarah","Landrum",40,"PSM","368V-099B2",4395,NA,"F"
-11,"Veronica","Flanagan",41,"CRUZ","388T-03JCM",4295,NA,"F"
-12,"Amanda","Cross",42,"OREG","3786-0APBU",4240,NA,"F"
-13,"Mina","Whitmer",40,"BSMS","2487-D0C13",4225,NA,"F"
-14,"Stacey","Ostrin",41,"OREG","378A-085N6",4195,NA,"F"
-15,"Paola","Morchio",42,"SCYM","078X-06JNF",4175,NA,"F"
-16,"Jessica","Lehman",42,"UC13","1382-0A523",4165,NA,"F"
-17,"Mary","Colby",40,"NICK","048G-06CBF",4085,NA,"F"
-18,"Marrie Argentine","Chen",40,"DAM","3881-03ZX9",4000,NA,"F"
-19,"Rachel","Rivera",40,"UC16","168K-RAE78",3990,NA,"F"
-20,"Kate","Ufford",43,"PBM","5086-09ES7",3985,NA,"F"
-21,"Ellen","Ryan",44,"SCYM","078G-0A35Z",3825,NA,"F"
-22,"Jennifer","Jones",42,"MOST","4385-096DK",3790,NA,"F"
-23,"Melissa","Mcintosh",43,"SCA","338J-03ATH",3635,NA,"F"
-24,"Shane","Baker",40,"IM","218V-083P3",3625,NA,"F"
-24,"Dara","Ono",40,"OREG","378W-0927F",3625,NA,"F"
-26,"Marlis","Sidletsky",43,"PALM","558S-05P2K",3590,NA,"F"
-27,"Nicole","Bassett",41,"OREG","378J-061PN",3585,NA,"F"
-28,"Jennifer","Macri",43,"PBM","508N-0B58G",3565,NA,"F"
-29,"Emily","Stone",40,"NEM","028S-0925E",3550,NA,"F"
-30,"Melinda","Sulewski",41,"RCA","1282-01Y76",3530,NA,"F"
-31,"Lauren","Diemar",40,"SCYM","078R-0AMM6",3525,NA,"F"
-32,"Kathryn","Barbee",42,"INDY","168R-02B96",3450,NA,"F"
-32,"Elizabeth","Warren",42,"INDY","168N-02AAT",3450,NA,"F"
-32,"Juliet","Port",43,"INDY","168P-02B1Z",3450,NA,"F"
-32,"Megan","Stolarski",40,"SCYM","078R-0AD0T",3450,NA,"F"
-32,"Elizabeth","Kelsey",42,"NEM","028H-04SBG",3450,NA,"F"
-37,"Ann-Michelle","Michelle",44,"WCM","388J-MB511",3445,NA,"F"
-38,"Patricia","Cummings",42,"MERR","098R-01VZJ",3440,NA,"F"
-39,"Hillary","Morris",43,"PBM","5085-095WK",3435,NA,"F"
-40,"Shelly","Jones",43,"OREG","378S-09PF6",3375,NA,"F"
-41,"Karen","Horiszny",43,"INDY","1684-0B5CV",3350,NA,"F"
-42,"Victoria","King",42,"NCMS","138S-0AUNZ",3335,NA,"F"
-43,"Megan","Gordon",40,"DAM","388A-03V2C",3285,NA,"F"
-44,"Catherine","Brunell",42,"NEM","028X-0A84K",3275,NA,"F"
-45,"Jennifer","Stewart",42,"NEM","028M-0A8F7",3200,NA,"F"
-46,"Jody","Shoup",42,"SKY","4188-093XY",3195,NA,"F"
-47,"Jen","Morin",44,"NEM","028J-07X2P",3175,NA,"F"
-48,"Susan","Harrison",44,"UC12","1283-074EZ",3120,NA,"F"
-49,"Annika","Graveline",41,"TCAM","388S-0A3FX",3030,NA,"F"
-50,"Michie","Anderson",41,"TCAM","388M-07ZCZ",3020,NA,"F"
-51,"Kara","Baxter",44,"PBM","508D-09XJC",3000,NA,"F"
-52,"Cassie","Schermbeck",42,"GTX","438R-0B1MV",2860,NA,"F"
-53,"Eryn","Kehe",44,"OREG","378Y-0APGH",2775,NA,"F"
-54,"Dana","McKenna",42,"MOST","438Z-09MC8",2760,NA,"F"
-55,"Jennifer","Groskin",42,"NBPB","0287-0B7YC",2750,NA,"F"
-56,"Natalia","Vaganova",43,"IM","2181-SMART",2700,NA,"F"
-56,"Christie","Petersen",40,"INDY","168W-09G8H",2700,NA,"F"
-58,"Stephanie","Tsao",44,"SFGG","388R-0A3P4",2520,NA,"F"
-59,"Meg","Augustine",40,"UC21","218D-0AHAD",2400,NA,"F"
-1,"Dana","Gianniny",49,"ROCH","0481-01X7C",5010,NA,"F"
-2,"Jayna","Tomac",46,"OREG","378H-05EJN",4770,NA,"F"
-3,"Anne","Cappola",49,"1776","088N-022E0",4690,NA,"F"
-4,"Cynthia","Hertzer",49,"CRUZ","3883-CHSWM",4595,NA,"F"
-5,"Jill","Lancaster",45,"NEM","028U-080ZP",4580,NA,"F"
-6,"Alexandra","Nieto",46,"SKY","4186-01WFC",4575,NA,"F"
-7,"Merin","Troutman",45,"UC05","058J-01SAF",4550,NA,"F"
-8,"Paula","Texel",48,"SPM","148C-0625D",4545,NA,"F"
-9,"Hannah","Borgeson",46,"TNYA","0687-02Z4P",4465,NA,"F"
-10,"Kristin","Wilkes White",47,"NEM","028P-033SB",4420,NA,"F"
-11,"Tamara","Koppelberger",46,"PSM","368P-09UES",4415,NA,"F"
-12,"Dale","LeClair",49,"HAFL","5089-02D6N",4350,NA,"F"
-13,"Tracy","Knight",46,"INDY","168E-02AKX",4205,NA,"F"
-14,"Martha","Towers",47,"MOST","438A-005M6",4200,NA,"F"
-15,"Marci","Herron",45,"NCMS","138G-0B7BJ",4150,NA,"F"
-16,"Melinda","Wight",47,"MOST","438M-09MYN",4115,NA,"F"
-17,"Linda","Robinson",48,"AAAA","438N-0B0CP",4075,NA,"F"
-18,"Cheryl","Morgen",49,"OREG","378B-026FA",4065,NA,"F"
-18,"Heather","Lugassy",48,"TAM","3885-03K63",4065,NA,"F"
-20,"Catharine","Cebrowski",48,"MOST","438H-06P0P",4040,NA,"F"
-21,"Meredith","Dooley",49,"NASH","158E-0ATJE",4000,NA,"F"
-21,"Lynne","Bir",47,"INDY","1687-02BBZ",4000,NA,"F"
-21,"Michelle","Harter",48,"INDY","168Y-02AHR",4000,NA,"F"
-24,"Aileene","Palm",46,"NEM","028H-033F7",3980,NA,"F"
-25,"Robin","Evans Kremer",48,"DDSA","488F-082MX",3975,NA,"F"
-26,"Bori","Mazzag",45,"HUMM","3882-0056A",3960,NA,"F"
-27,"Linda","Marvin",45,"INDY","1689-02BHP",3950,NA,"F"
-27,"Tia","Tolk",47,"PMST","548C-0B5JY",3950,NA,"F"
-29,"Sharon","Byun",49,"GSC","148J-081Z3",3850,NA,"F"
-30,"Barbara","Kerby",46,"BSMS","2487-BETTY",3825,NA,"F"
-31,"Tracy","Williams",46,"PBM","508Y-09DRD",3820,NA,"F"
-32,"Kathy","Pelletier",48,"INDY","168X-07J6V",3800,NA,"F"
-33,"Jessica","Rapp",49,"NEM","0285-0478X",3775,NA,"F"
-34,"Jennifer","Banning",47,"O*H*","188H-01PJN",3700,NA,"F"
-34,"Laura","DeVito",46,"SCYM","078V-0B1S9",3700,NA,"F"
-36,"Kathy","Farrell Guizar",46,"WWM","358R-07HUJ",3625,NA,"F"
-37,"Julie","Smith",45,"NEM","0289-085M1",3610,NA,"F"
-38,"Jodi","Ready",47,"OREG","378J-06HZY",3595,NA,"F"
-39,"Carin","Zinter",45,"HOLY","0287-03419",3575,NA,"F"
-40,"Jane","Urban",49,"UC02","028T-0A60N",3550,NA,"F"
-41,"Maryann","Collins",46,"MARY","098F-01VE0",3540,NA,"F"
-42,"Monica","Cohen",45,"UC02","028K-0ATTJ",3525,NA,"F"
-42,"Julie","Vandenbark",47,"INDY","1682-02AGY",3525,NA,"F"
-42,"Jeraine","Ketchem",45,"PBM","5089-07P93",3525,NA,"F"
-45,"Ingrid","Bon",48,"PBM","5086-07ZM1",3500,NA,"F"
-45,"Sarah","Early",47,"THOR","328T-07ADE",3500,NA,"F"
-47,"Jennifer","Scott",46,"CMYM","098E-0909Y",3490,NA,"F"
-48,"Barbara","Miltner",47,"DAM","388D-07SXH",3435,NA,"F"
-49,"Jennifer","Thuillier",49,"SCA","338P-05J4G",3425,NA,"F"
-49,"Cynthia","Lindeman",49,"INDY","168R-0A61V",3425,NA,"F"
-51,"Windy","Tuttle",46,"UC36","368M-0A7XE",3400,NA,"F"
-52,"Jennifer","Graham",47,"BSMS","2480-0B4V4",3395,NA,"F"
-53,"Kelly","Wire",49,"INDY","168V-0APH5",3320,NA,"F"
-54,"Lynette","Kenney",48,"NBPB","0286-0ARD8",3310,NA,"F"
-55,"Lucrecia","Ceruti",48,"DAM","388C-0854A",3290,NA,"F"
-56,"Gretchan","Jackson",46,"OREG","3787-0ANSU",3275,NA,"F"
-57,"Stefanie","Carter",46,"NEM","0284-034EK",3160,NA,"F"
-58,"Stephanie","Cotsonas",48,"NEM","0280-061XN",3150,NA,"F"
-58,"Judy","Porter",47,"INDY","1689-063EY",3150,NA,"F"
-58,"Shirlene","Gonzalez",49,"OREG","3788-07ZJ5",3150,NA,"F"
-61,"Kimberly","Trager Bohley",45,"INDY","1687-07VPE",3125,NA,"F"
-62,"May","Barton",49,"SKY","418J-0B12M",3115,NA,"F"
-63,"Jessica","Graff",45,"SCYM","0784-07HH7",3065,NA,"F"
-64,"Tiffany","McQueen",46,"UC43","4389-0830W",3060,NA,"F"
-64,"Eva","Dopico Serantes",46,"DAM","388B-03N4P",3060,NA,"F"
-66,"Jeanne","Littlefield",47,"NEM","028Z-0ASB7",3050,NA,"F"
-66,"Karen","LoGiudice",49,"NEM","0281-09RAG",3050,NA,"F"
-68,"Laura","Smoot",49,"DAM","388P-0AY4A",3040,NA,"F"
-69,"Meg","Alberts",45,"INDY","168D-02AZ8",3000,NA,"F"
-69,"Christa","Sumwalt",45,"NCMS","138V-0960A",3000,NA,"F"
-71,"Muffin","Camp",49,"MOST","438A-05F0Z",2990,NA,"F"
-72,"Jennifer","Guirl",48,"MOST","438J-04KSA",2960,NA,"F"
-73,"Sara","Marcellino",47,"ALB","388N-09N3J",2925,NA,"F"
-74,"Stephanie","Debner",45,"OREG","3780-0AHGD",2850,NA,"F"
-75,"Nazanin","Kobari Ghotbi",48,"DDSA","4887-068DP",2700,NA,"F"
-75,"Amy","Lathrop",45,"INDY","1686-080NP",2700,NA,"F"
-75,"Iulia","Cole",49,"SCYM","078T-0A642",2700,NA,"F"
-78,"Allison","Espinosa",47,"MOST","4382-076UV",2690,NA,"F"
-79,"Lilian","Otterbach",49,"MOST","438G-0AW5T",2620,NA,"F"
-80,"Yumei","Guo",48,"SCYM","078X-0AR1B",2550,NA,"F"
-81,"Stephanie","Vore Apple",49,"SWS","0280-0A66X",2295,NA,"F"
-1,"Laurie","Hug",53,"1776","088G-0226X",5040,NA,"F"
-2,"Victoria","Rian",52,"NAST","168S-02AD8",4890,NA,"F"
-3,"Charlotte","Brynn",52,"NEM","028E-034BA",4645,NA,"F"
-4,"Mary","Walton",52,"NEM","028M-08471",4625,NA,"F"
-5,"Deena","Esparza",53,"SCA","3382-08F15",4625,NA,"F"
-6,"Susie","Shuck",53,"INDY","1682-02AMJ",4600,NA,"F"
-7,"Carrie","Kirk",50,"INDY","168K-04R2S",4545,NA,"F"
-8,"Charlotte","Petersen",54,"SPM","148K-02RF8",4525,NA,"F"
-9,"Leslie","Biegler Ciaccio",51,"IM","2187-0A2JC",4510,NA,"F"
-10,"Cecilia","Emblidge",54,"NEM","0281-062W3",4460,NA,"F"
-11,"Gillian","Langton",51,"NEM","0282-0078P",4350,NA,"F"
-12,"Stephanie","Adcock",52,"NASH","158U-081T9",4350,NA,"F"
-13,"Cheryl","Kupan",54,"SPM","148R-01SAD",4345,NA,"F"
-14,"Jayette","Pettit",51,"UC37","3780-0A8HS",4345,NA,"F"
-15,"Pia","Walsh",54,"AAAA","438N-0A04E",4300,NA,"F"
-16,"Elizabeth","Lucco",52,"PSM","368X-02KK5",4275,NA,"F"
-17,"Donna","Neuendorf",50,"NEM","028Z-0359H",4275,NA,"F"
-18,"Detra","Cleven",50,"KAC","1586-SW1M8",4275,NA,"F"
-19,"Marcia","Cleveland",54,"IM","218N-MC944",4260,NA,"F"
-20,"Paula","Pardy",50,"PMST","5483-PKP27",4235,NA,"F"
-21,"Dawn","Clark",54,"SPM","148M-05VRX",4210,NA,"F"
-22,"Toni","Hecksel",52,"OREG","378G-0261S",4195,NA,"F"
-23,"Marta","Bechhoefer",51,"CRUZ","388S-03PWF",4195,NA,"F"
-24,"Cathy","Gainor",51,"ANCM","108R-037TJ",4190,NA,"F"
-25,"Emma","Garforth",50,"DAM","3884-06SFT",4180,NA,"F"
-26,"Livia","Zien",52,"SPM","148C-02RN5",4165,NA,"F"
-27,"Rachel","Stutsman",52,"INDY","168Z-09SYW",4150,NA,"F"
-28,"Jessie","Mock",50,"INDY","168D-033PP",4150,NA,"F"
-29,"Brenda","McLuskie",52,"NCMS","138W-00600",4150,NA,"F"
-30,"Elizabeth","Lowe",53,"TAM","388X-03PVT",4130,NA,"F"
-31,"Karen","Westerman",51,"SPM","148G-02RX6",4075,NA,"F"
-32,"Karen","Simontacchi Brisson",50,"TAM","3889-03H68",4070,NA,"F"
-33,"Tiitta","Elias",51,"MOST","438K-02PPN",3985,NA,"F"
-34,"Carolyn","Kiely Kilpatrick",54,"NEM","0281-072DN",3975,NA,"F"
-35,"Lynne","Czech",51,"NEM","028G-005K7",3915,NA,"F"
-36,"Jennifer","Phalen",54,"DAM","388A-JENNY",3860,NA,"F"
-37,"Anne Marie","Gladding",50,"MICH","198P-0AP03",3815,NA,"F"
-38,"Avery","Dickins deGiron",50,"NASH","1587-09HGB",3775,NA,"F"
-39,"Barbara","Lincoln",53,"MOST","438G-0A8RY",3710,NA,"F"
-40,"Suzanne","Towne",53,"NEM","028X-08279",3710,NA,"F"
-41,"JoEllen","DeCamp",53,"COLE","168Z-0B6TA",3670,NA,"F"
-42,"Jennifer","Barlow",52,"NEM","028D-06F3A",3660,NA,"F"
-43,"Jill","Swavely",52,"1776","088W-085DV",3650,NA,"F"
-44,"Julie","Hall",54,"OREG","3780-0B7SG",3640,NA,"F"
-45,"Leigh-Ann","Hirschman",50,"INDY","168F-09YBB",3625,NA,"F"
-46,"Jonell","Smith",50,"NASH","1583-07C7G",3600,NA,"F"
-47,"Kathy","Magovern",50,"NEM","028B-08FKU",3600,NA,"F"
-48,"Elisa","D'Andrea",54,"NEM","028Y-083S9",3595,NA,"F"
-49,"Rhonda","Bershok",54,"ALEX","1089-06NNC",3585,NA,"F"
-50,"Polly","Volski",54,"PCY","1787-0B0DA",3560,NA,"F"
-51,"Yumiko","Luke",53,"SAWS","598F-09XTD",3530,NA,"F"
-52,"Gillian","Salton",50,"OREG","378J-05G96",3530,NA,"F"
-53,"Kay","Yoong",54,"SMM","388M-084DC",3525,NA,"F"
-54,"Sybille","Rex",50,"NEM","0283-0ABEK",3500,NA,"F"
-55,"Rebecca","Perry",50,"NEM","0281-02FH6",3490,NA,"F"
-56,"Amanda","Spellman",52,"NBPB","028V-0472E",3475,NA,"F"
-57,"Angela","Fadlovich",52,"OREG","378N-0731V",3460,NA,"F"
-58,"Daphne","Elliott",50,"SYSM","148D-096KB",3450,NA,"F"
-59,"Lisa","Jones",54,"PALM","558J-09880",3450,NA,"F"
-60,"Julie","Disilvestro",53,"NEM","028T-06M6B",3425,NA,"F"
-61,"Anne","Hurley",51,"INDY","168Z-0B4RU",3400,NA,"F"
-62,"Kathleen","Heapy",53,"OLD1","1580-0A65N",3400,NA,"F"
-63,"Cheryl","Mehringer",51,"INDY","1689-072JK",3375,NA,"F"
-64,"Cathy","Goodwin",53,"PBM","508M-08CWV",3355,NA,"F"
-65,"Mary","Kutcher",52,"NEM","028R-0A5MW",3320,NA,"F"
-66,"Laura","Evans",54,"UC12","1286-033N5",3285,NA,"F"
-67,"Maria","Delton",53,"IM","2181-0AKMA",3275,NA,"F"
-68,"Jane","Hutzol",54,"DKTA","528P-06G41",3250,NA,"F"
-69,"Kristine","Hoag",54,"NEM","028G-07NEU",3250,NA,"F"
-70,"Theresa","Allison",50,"DDSA","488P-06M8H",3235,NA,"F"
-71,"Mathilda","Ravine",52,"OLD1","1583-09N8W",3235,NA,"F"
-72,"Denise","Lavin",51,"O*H*","188T-07720",3230,NA,"F"
-73,"Christina","Halioris",50,"SKY","418D-0B5AF",3225,NA,"F"
-74,"Jane","Schwechheimer",52,"NEM","028S-0AVCD",3210,NA,"F"
-75,"Sarah","Camp",50,"SKY","4185-09KV9",3205,NA,"F"
-76,"Colleen","Toumayan",52,"TSTT","338E-08DSU",3200,NA,"F"
-77,"Alicia","Geth",51,"PBM","508J-089UX",3175,NA,"F"
-78,"Sue","Langley",53,"SAWS","598W-0B8DP",3150,NA,"F"
-79,"Yeonjoo","Lee",52,"OREG","378H-0B6NP",3150,NA,"F"
-80,"Flavia","Medlin",51,"O*H*","188J-02RHK",3130,NA,"F"
-81,"Marilyn","Soraghan",52,"NEM","0286-04718",3120,NA,"F"
-82,"Christi","Garcia",52,"INDY","168P-04R26",3110,NA,"F"
-83,"Amy","Jones",53,"SAWS","5988-0AZ30",3100,NA,"F"
-84,"Susan","Smith",54,"PBM","508H-0A55G",3075,NA,"F"
-85,"Wendy","Gannett",52,"HOLY","028M-0B5AN",3005,NA,"F"
-86,"Laura","Hays",54,"INDY","1683-04R16",3000,NA,"F"
-87,"Deborah","Pearson",52,"NMMS","428U-098DA",2980,NA,"F"
-88,"Kimberly","Raymond",52,"NEM","028W-08214",2960,NA,"F"
-89,"Susan","Schroeder",50,"BSMS","2481-0ASHR",2900,NA,"F"
-90,"Julie","Rogers",51,"RPM","388A-077AX",2860,NA,"F"
-91,"Amy","Winn",53,"CTS","4386-0B3YS",2850,NA,"F"
-92,"Denise","O'Grady",51,"TAOS","428T-09NRU",2850,NA,"F"
-93,"Staci","Ostendorf",50,"INDY","168G-08872",2840,NA,"F"
-94,"Traci","Ostendorf",50,"INDY","1689-0A8WC",2840,NA,"F"
-95,"Heidi","Bettendorf",54,"PBM","508V-0B0PC",2820,NA,"F"
-96,"Junko","Altman",54,"PBM","508A-09XJ9",2815,NA,"F"
-97,"Cindy","Cotter",51,"NIAG","0488-0ABY5",2805,NA,"F"
-98,"Roberta","Varela-Hein",54,"MOST","4381-02NGX",2795,NA,"F"
-99,"Alice","Caroompas",54,"BUMS","048G-0A6HE",2650,NA,"F"
-100,"Stefanie","Cronin",50,"NEM","028W-0B77U",2635,NA,"F"
-101,"Lori","Anthony",52,"PCY","178P-09UAR",2625,NA,"F"
-102,"Donel","Hakes",50,"INDY","168Y-07J7B",2600,NA,"F"
-103,"Martha","MacNabb",53,"SCYM","078V-0916R",2485,NA,"F"
-104,"Cheryl","Muckerheide",52,"NEM","028E-047B8",2485,NA,"F"
-105,"Diana","Van Skyock",51,"INDY","1685-082GZ",2400,NA,"F"
-106,"Sonia","Schuemann",54,"OREG","3780-026P6",2170,NA,"F"
-107,"Janet","Wittenbraker",52,"DDSA","4884-0B6FD",1900,NA,"F"
-108,"Helga","Ivanova",51,"NICK","0487-0B1DD",1890,NA,"F"
-1,"Kimberly","Elsbach",55,"DAM","388Z-D0NUT",4740,NA,"F"
-2,"Stephanie","Saucy",55,"1776","088S-07VRM",4555,NA,"F"
-3,"Mary","Dore",55,"NCMS","138A-023CF",4540,NA,"F"
-4,"Denise","Brown",59,"MICH","198G-01U86",4530,NA,"F"
-5,"Denise","Landers",56,"WFAC","128S-0073S",4525,NA,"F"
-6,"Catheryne","Biggs DiPrete",55,"TAM","3887-004KX",4510,NA,"F"
-7,"Stephanie","Martin",59,"OREG","378Z-01P7F",4445,NA,"F"
-8,"Linda","Irish Bostic",55,"PBM","508Y-06BTX",4420,NA,"F"
-9,"Jennifer","Carango",56,"SCA","338T-07GYW",4380,NA,"F"
-9,"Wendy","Pratt",58,"DAM","3889-03GXG",4380,NA,"F"
-11,"Leslie","Craven",59,"NEM","028W-004WN",4375,NA,"F"
-12,"Martha","Joyce",58,"TAM","388S-03NAZ",4290,NA,"F"
-13,"Lisa","Zedonis",57,"INDY","1684-02BHH",4275,NA,"F"
-14,"Dianne","Powers",57,"INDY","1683-0A7V4",4185,NA,"F"
-15,"Laura","Delorey",56,"NEM","0282-06HKC",4150,NA,"F"
-16,"Heidi","Kafka",56,"IM","218N-02X7X",4140,NA,"F"
-17,"Sharon","Blaha",58,"DAM","3888-DAM82",4125,NA,"F"
-18,"Jane","Russell",55,"DAM","3884-074TS",4120,NA,"F"
-19,"Melissa","Harasz",58,"SPM","148F-05H1D",4110,NA,"F"
-20,"Jeanne","Danford",55,"PBM","508G-028BV",4070,NA,"F"
-21,"Mel","Latt",55,"CVMM","338F-SW1MY",4055,NA,"F"
-22,"Kathy","Murray",59,"NCMS","138U-0680P",4050,NA,"F"
-22,"Lisa","Galane",55,"SAWS","5981-07RNE",4050,NA,"F"
-24,"Kelley","Ryan Warner",55,"TAM","3883-03JEB",4030,NA,"F"
-25,"Brigid","Bunch",55,"ARIZ","488T-02F0M",4010,NA,"F"
-26,"Kathy","Godfrey",58,"SCYM","078A-05GRH",3975,NA,"F"
-27,"Gladney","McKay",58,"MARY","098A-01VAS",3960,NA,"F"
-28,"Pamela","Ronald",57,"DAM","388Z-03GZ2",3900,NA,"F"
-29,"Nancy","Speer",56,"VMST","128U-05XR8",3875,NA,"F"
-30,"Mary","Gentry",57,"NEM","028G-033PZ",3870,NA,"F"
-31,"Celia","Morse",57,"NASH","158D-08AHS",3850,NA,"F"
-31,"Celia","Morse",57,"NASH","158D-08AHS",3850,NA,"F"
-33,"Karen","Rokich",59,"AnBM","178H-01UB5",3825,NA,"F"
-34,"Ann","Goodman",59,"OREG","3788-0263B",3800,NA,"F"
-34,"Leslie","Anchor",56,"ANCM","108Z-05NX1",3800,NA,"F"
-36,"Robyn","Schaffer",56,"MARY","098G-01V5H",3780,NA,"F"
-37,"Liz","Elder",58,"PCY","178P-094FH",3775,NA,"F"
-37,"Joanne","Colvin",56,"MERR","0981-030FG",3775,NA,"F"
-39,"Susan","Ingraham",59,"MOST","438K-SUSAN",3770,NA,"F"
-40,"Lisa","Woodring",56,"SCYM","0782-0ACKF",3750,NA,"F"
-41,"Julie","Langston",56,"DAM","3880-03GYT",3735,NA,"F"
-41,"Patricia","Nardozzi",59,"SPM","148F-02RG2",3735,NA,"F"
-43,"Caitlin","McVarish",58,"TAM","3882-01SCF",3660,NA,"F"
-44,"Sarah","Jamieson",58,"MARY","098U-01VBX",3645,NA,"F"
-45,"Emily","Shepard",57,"ALB","388N-03PKU",3625,NA,"F"
-45,"Midge","Thomas",59,"SCA","338X-06NBH",3625,NA,"F"
-47,"Mary Ann","Stich",57,"TAM","3883-03SAF",3605,NA,"F"
-48,"CJ","Dickson",55,"NEM","028M-05UCX",3600,NA,"F"
-48,"Elizabeth","Davidge",57,"SFGG","3889-07S8S",3600,NA,"F"
-50,"Felicia","Adler",56,"WCM","3886-03F4N",3585,NA,"F"
-51,"Carroll","Pierce",55,"NEM","028C-076DC",3530,NA,"F"
-52,"Nancy","Wright",58,"PBM","508Y-09WDK",3515,NA,"F"
-53,"Susan","Underwood",58,"1776","088Y-02FD8",3475,NA,"F"
-53,"Theresa","Ferreira",59,"NEM","0284-0833E",3475,NA,"F"
-55,"Christine","Oliver",55,"TCAM","3884-03M5H",3470,NA,"F"
-56,"Betsy","Knox",56,"NEM","028Y-0A7XV",3465,NA,"F"
-57,"Judy","Beckman",59,"NEM","028X-033X8",3460,NA,"F"
-58,"Katherine","Meyer",55,"CMYM","098E-037E5",3425,NA,"F"
-59,"Carrie","Butler",59,"UC16","168W-02AF7",3420,NA,"F"
-60,"Beth","Rodewig",56,"NEM","028N-061KY",3390,NA,"F"
-61,"Maria","Beconi",55,"NEM","028E-0891F",3350,NA,"F"
-62,"Tamara","Nist",57,"BUMS","048E-0AFZT",3325,NA,"F"
-63,"Shelly","Geer",55,"GS","558D-0AYYA",3300,NA,"F"
-63,"Catherine","Taylor",55,"WCM","388B-081Y6",3300,NA,"F"
-65,"Ann","Schnieders",58,"INDY","168D-02AGT",3280,NA,"F"
-65,"Kris","Bowen",56,"INDY","168U-077WZ",3280,NA,"F"
-67,"Jean","Lively",58,"BSMS","248Y-0AREX",3240,NA,"F"
-68,"Susan","Hannel",55,"NEM","028R-05GYM",3235,NA,"F"
-69,"Allison","Travers",59,"MARY","098M-08F4F",3180,NA,"F"
-70,"Susan","Gershenhorn",56,"MOST","4388-02R0H",3160,NA,"F"
-71,"Antoinette","Townley",58,"CMS","328D-06T2M",3150,NA,"F"
-72,"Diana","Pi",56,"O*H*","188T-01R3C",3140,NA,"F"
-73,"Dana","Scruggs",59,"INDY","168K-02B9T",3120,NA,"F"
-74,"Jeanne","Stokoe",57,"THOR","328E-032Y1",3100,NA,"F"
-75,"Karin","Stokes",57,"NEM","028J-ST0KD",3085,NA,"F"
-76,"Melanie","Bowden",55,"DAM","3882-03FZX",3075,NA,"F"
-77,"Leah","Carroll",57,"ALB","388A-09H3C",3055,NA,"F"
-78,"Kristina","Fayyad",56,"SMM","3881-0B5XV",3050,NA,"F"
-79,"Edie","Mueller",58,"PMST","5482-01HX6",3040,NA,"F"
-80,"Marcia","Bernet",56,"NEM","0281-0A35E",3030,NA,"F"
-81,"Julie","Arevalo",57,"RIPT","338W-03BFV",3025,NA,"F"
-81,"Julie","Swack",55,"SKY","4185-0ARSJ",3025,NA,"F"
-83,"Janine","Serell",57,"PALM","558D-07H27",3020,NA,"F"
-84,"Jacqueline","Gattoni",55,"SCYM","0785-0A549",3010,NA,"F"
-84,"Tammy","Duhaime",56,"MOST","438W-05NXR",3010,NA,"F"
-86,"Lori","Muller",55,"NEM","028T-06V6K",3000,NA,"F"
-86,"Leah","Turner",59,"INDY","1685-0848N",3000,NA,"F"
-86,"Tari","Hancock",58,"INDY","168Z-02AKR",3000,NA,"F"
-86,"Sheryl","Scott",56,"NEM","028C-SC0TY",3000,NA,"F"
-90,"Sharon","Quinan",55,"NEM","0283-07FT6",2975,NA,"F"
-91,"Pamela","Ameen",57,"NEM","028M-09M9M",2955,NA,"F"
-92,"Carolyn","Snyder",57,"UC02","028M-0AHWV",2945,NA,"F"
-93,"Jennifer","Neumann",55,"NEM","028N-03FHU",2930,NA,"F"
-94,"Shawn","Sabo",59,"GTX","4384-04KWY",2900,NA,"F"
-94,"Ellen","Hart",57,"UC12","128G-0A8H5",2900,NA,"F"
-96,"Liz","Reichman",56,"MOST","438K-04KK5",2895,NA,"F"
-97,"Elyse","Rudner",57,"NEM","028X-06KH0",2870,NA,"F"
-98,"Vicki","Roe",56,"OREG","378G-0B8WB",2750,NA,"F"
-98,"Annell","Becker",57,"SKY","418E-0ARXH",2750,NA,"F"
-98,"Ann","Walsh",59,"NEM","028C-033WA",2750,NA,"F"
-98,"Susan","O'brien",57,"MOST","4383-0AVNN",2750,NA,"F"
-102,"Debbie","Fung",58,"DAM","388W-0B3KY",2740,NA,"F"
-103,"Jenny","Van Blaricom",59,"TCAM","388T-041PD",2715,NA,"F"
-104,"Laurie","Birch",57,"SCYM","078D-0B53K",2700,NA,"F"
-105,"Sharon","Friedman",59,"PBM","508A-06BNV",2680,NA,"F"
-106,"Kelley","Spencer",59,"GTX","4387-05X5H",2675,NA,"F"
-107,"Candace","McDonald",57,"TCAM","388U-03PG1",2670,NA,"F"
-108,"Bobi","Commer",57,"SCYM","078N-0A3JR",2655,NA,"F"
-109,"Lin","Zhang",57,"NEM","028W-07543",2640,NA,"F"
-110,"Melissa","Ledoux",58,"UC02","0281-0B74C",2575,NA,"F"
-111,"Anne","Reynolds",57,"NEM","028T-07NJN",2560,NA,"F"
-112,"Carla","Maxson",58,"NASH","158E-0A9UP",2550,NA,"F"
-113,"Kairon","Mullins",55,"SCYM","078P-0A501",2540,NA,"F"
-114,"Rita","Hansen",56,"NEM","028F-06G8G",2520,NA,"F"
-115,"Marie","DeGennaro",58,"MOST","4385-02PWB",2505,NA,"F"
-116,"Patricia","Baranski",55,"INDY","1681-0AR9H",2500,NA,"F"
-117,"Deb","Rateri",58,"SKY","4189-06X4A",2470,NA,"F"
-118,"Lauren","Drummond",58,"BSMS","2485-0B520",2390,NA,"F"
-119,"Audris","Griffith",58,"TAOS","428B-0AYBK",2345,NA,"F"
-120,"Patti","Williams",56,"DAM","3886-09ADV",2285,NA,"F"
-121,"Deirdre","Flicker",59,"NEM","028B-081K7",2250,NA,"F"
-121,"Andrea","Meyerhoff",59,"UC10","108R-06FF1",2250,NA,"F"
-123,"Brenda","Lloyd",57,"DDSA","488N-0B5XT",2220,NA,"F"
-124,"Lynnette","Dow",57,"NEM","0281-0AT9Z",2170,NA,"F"
-125,"Allison","LaField",55,"MOST","438R-06MXY",2150,NA,"F"
-126,"Gigi","Madrid",55,"NCMS","138B-0B99J",2140,NA,"F"
-127,"Beth","Sullivan",58,"INDY","168U-02BE7",2100,NA,"F"
-128,"Susan","Cornwall",55,"NEM","028Z-0ATFW",1750,NA,"F"
-129,"Pamela","Bland",58,"TAOS","428R-0AWEW",1550,NA,"F"
-2,"Karen","Einsidler",62,"AGUA","068B-01S73",4680,NA,"F"
-3,"Tracy","Grilli",61,"NEM","028A-RDS0X",4550,NA,"F"
-4,"Colette","Crabbe",62,"OREG","378N-02645",4535,NA,"F"
-5,"Lorraine","Sommers",62,"ECAM","388M-03EXD",4410,NA,"F"
-6,"Barbara","Wheeler",61,"TAM","388Y-03J0K",4340,NA,"F"
-7,"Niki","Stokols",61,"CVMM","338A-03A2E",4275,NA,"F"
-8,"Darcy","LaFountain",63,"PBM","508C-0212Z",4175,NA,"F"
-9,"Judy","Eisenman",64,"TAM","388F-03K2U",4105,NA,"F"
-10,"Margaret","Haskins",60,"NEM","028S-05UC8",4090,NA,"F"
-11,"Debbie","Wilson",64,"NCMS","138U-02318",4085,NA,"F"
-12,"Cindi","Burrows",61,"CVM","388B-03G6V",4055,NA,"F"
-13,"Tricia","Calvert",61,"SKY","418M-01W4G",4040,NA,"F"
-14,"Jeanna","Summers",64,"OREG","378R-000PT",4015,NA,"F"
-15,"Cheryl","Gettelfinger",61,"INDY","168G-02A8X",4000,NA,"F"
-16,"Tamara","Burton",60,"PBM","5085-099CG",3975,NA,"F"
-17,"Sue","Watts",64,"1776","088V-05TSF",3970,NA,"F"
-18,"Jeanne","Garr",64,"NEM","0289-033VP",3955,NA,"F"
-19,"Mimi","Ward",60,"SKY","418F-01WAH",3950,NA,"F"
-20,"Stephanie","Hevenor",60,"NEM","028M-06NB3",3940,NA,"F"
-21,"Anne","Claman",61,"TAM","388X-03HVG",3910,NA,"F"
-22,"Marlys","Cappaert",60,"OREG","378U-025XB",3900,NA,"F"
-23,"Cindy","Gilmore",63,"SUSA","3484-05J4V",3875,NA,"F"
-24,"Phyllis","Quinn",63,"TOC","388C-03F7Y",3870,NA,"F"
-25,"Janice","Kregor",62,"SKY","418Z-01W54",3860,NA,"F"
-26,"Wanda","Bolerjack",61,"PSM","368C-09P4F",3840,NA,"F"
-27,"Patricia","Saint Aubin",60,"NEM","028X-046F9",3825,NA,"F"
-28,"Karina","Horton",60,NA,NA,3770,NA,"F"
-29,"Jan","Hildebrandt",61,"OREG","3780-09TBG",3760,NA,"F"
-30,"Sue","Harrington",61,"OREG","378B-026MZ",3745,NA,"F"
-31,"Carol","Wildman",64,"TAOS","4282-068J1",3700,NA,"F"
-32,"Mary","Phelan",62,"NEM","0286-0620Y",3670,NA,"F"
-33,"Kathy","Goulding",60,"GTX","438K-008RH",3660,NA,"F"
-34,"Valerie","Romberg",62,"INDY","168X-0A1W3",3650,NA,"F"
-34,"Paula","Moores",61,"SAWS","5987-01J0E",3650,NA,"F"
-36,"Jessica","Jakobi",60,"TAM","3887-03FM5",3625,NA,"F"
-37,"Susan","Taylor",60,"MARY","0988-01VKZ",3600,NA,"F"
-38,"Laura","Schob",60,"OREG","378R-026DX",3575,NA,"F"
-38,"Kathy","Lewis",64,"NEM","0280-0732S",3575,NA,"F"
-40,"Jill","Johnson",63,"SLAM","2289-04851",3535,NA,"F"
-41,"Janet","Siniscalchi",62,"PBM","5085-079VZ",3530,NA,"F"
-42,"Blair","Brockman",63,"TULS","2780-080YC",3500,NA,"F"
-43,"Kathy","Berger",64,"INDY","168C-02A80",3475,NA,"F"
-44,"Ramona","Chavez",61,"TAOS","428E-068HX",3450,NA,"F"
-44,"Jo Ann","Berry",62,"PBM","508N-027YV",3450,NA,"F"
-46,"Christine","Brotherton Pleiss",60,"UHM","3987-095YC",3435,NA,"F"
-47,"Pat","Barnes",61,"INDY","1688-07V4E",3415,NA,"F"
-48,"Laurie","Brenner",63,"NEM","0288-094RR",3410,NA,"F"
-48,"Charlotte","Kramer",64,"BUMS","048B-0926U",3410,NA,"F"
-50,"Meredith","Hawkins",62,"SAWS","598W-076K8",3400,NA,"F"
-51,"Cheryl","McElroy",61,"NEM","0286-034C3",3370,NA,"F"
-52,"Jill","Anderson",62,"ARIZ","488U-03ANG",3350,NA,"F"
-53,"Deanna","Johnson",62,"DAM","388N-041KE",3340,NA,"F"
-53,"Karen","Olson",63,"DAM","388D-03GXM",3340,NA,"F"
-55,"Sue","Gray",61,"NEM","0281-080MF",3320,NA,"F"
-56,"Debby","Eisinger",60,"SFTL","508H-095ZS",3300,NA,"F"
-57,"Patsy","Bunn",61,"WRCM","3883-08761",3290,NA,"F"
-58,"Norah","Kute",61,"SKY","418H-08C9Z",3240,NA,"F"
-59,"Donna","Taylor",60,"HUMM","3884-026TZ",3235,NA,"F"
-60,"Cynthia","Henley",60,"SFTL","508S-07SFD",3225,NA,"F"
-60,"Liz","Fox",64,"NEM","028J-063V4",3225,NA,"F"
-62,"Deborah","Pederson",61,"MOST","438V-09U2V",3200,NA,"F"
-63,"Kathryn","Hemness",62,"DAM","3885-03FCD",3190,NA,"F"
-64,"Jeri","Jensen",63,"CRUZ","388E-037VX",3185,NA,"F"
-65,"Shelley","Probber",61,"MOST","438F-04KPK",3150,NA,"F"
-66,"Shelley","Polette",63,"GTX","438U-0AMG2",3135,NA,"F"
-67,"Claire","Cayot",61,"NBPB","028J-06XZG",3100,NA,"F"
-68,"Katie","Croft Walsh",62,"MOST","438F-KAT1E",3080,NA,"F"
-69,"Elizabeth","Broos",62,"SCYM","0782-06PCB",3075,NA,"F"
-70,"Royce","Marion",61,"DDSA","4884-0753X",3070,NA,"F"
-71,"Diane","Roston",63,"NEM","028K-065GS",3065,NA,"F"
-72,"Sarah","Carter",62,"NEM","028S-093GS",3060,NA,"F"
-73,"Karen","Lewin",62,"PBM","508T-06124",3055,NA,"F"
-74,"Nancy","Kiernan",64,"SPM","148E-02RN7",3045,NA,"F"
-75,"Jane","Hook",64,"TAM","3883-03NAJ",3030,NA,"F"
-76,"Kathy","Gill",64,"DAM","388B-03GY3",3025,NA,"F"
-77,"Gail","Musk",61,"SFTL","508J-07W6S",3025,NA,"F"
-78,"Kathleen","Gorman",62,"NEM","0288-07K98",3025,NA,"F"
-79,"Kathryn","Cronin",60,"PBM","508A-033U1",3010,NA,"F"
-80,"Nanci","Sirois",60,"NEM","028Z-005NU",3000,NA,"F"
-81,"Anne","Galliher",61,"NEM","028E-01S81",3000,NA,"F"
-82,"Mary","Weerts",61,"INDY","168Y-02AB0",3000,NA,"F"
-83,"Susan","Mowery",60,"INDY","1684-02A9V",3000,NA,"F"
-84,"Sharleen","Goguen",61,"NEM","028B-033S4",3000,NA,"F"
-85,"Suzanne","Klein",64,"SCYM","078R-0A8YX",2990,NA,"F"
-86,"Alana","Watts",62,"PBM","5084-0AGRM",2980,NA,"F"
-87,"Cary","Craig",61,"DAM","3886-05GST",2970,NA,"F"
-88,"Maura","Twomey",62,"NEM","028R-047BV",2950,NA,"F"
-89,"Mommy Beth","Tango",60,"UC06","0688-0B6WF",2940,NA,"F"
-90,"Ann","Lowry",63,"ARIZ","488P-0AS3B",2935,NA,"F"
-91,"Kate","Mehler",61,"ALB","388D-085A2",2930,NA,"F"
-92,"Marci","Grady",60,"SFTL","5088-05HJC",2925,NA,"F"
-93,"Jill","Kaplan",61,"NICK","048Z-0B2DZ",2900,NA,"F"
-94,"Christine","Clayton",60,"DDSA","488X-0A3UY",2900,NA,"F"
-95,"Lynn","Cabana",62,"UC02","0282-07EDV",2880,NA,"F"
-96,"Mary","Val Palumbo",64,"NEM","028W-034B7",2840,NA,"F"
-97,"Martha","Piemonte",60,"NEM","0285-0AUFP",2825,NA,"F"
-98,"Laura","Richardson",63,"LOCO","5587-01HA2",2780,NA,"F"
-99,"Barbara","Cocci",60,"NEM","0283-086X4",2775,NA,"F"
-100,"Jacquin","Gallagher",64,"INDY","168E-0B20V",2700,NA,"F"
-101,"Taylor","Reed",62,"DDSA","488Y-0B658",2685,NA,"F"
-102,"Margaret","Johns",64,"TCAS","3588-PUGZZ",2670,NA,"F"
-103,"Suzzette","Seril",60,"SPM","148H-02RFA",2625,NA,"F"
-104,"Lorraine","Miller Horton",64,"NEM","0283-0ASEN",2570,NA,"F"
-105,"Althea","John",60,"TSTT","338G-07SGG",2550,NA,"F"
-106,"Paula","Shea",61,"SPM","148P-0B3TA",2520,NA,"F"
-107,"Nancy","Munro",60,"PBM","508Z-06D1M",2495,NA,"F"
-108,"Colleen","Brown",61,"BUMS","048U-0AM6X",2485,NA,"F"
-109,"Anne","Wehry",61,"NEM","028U-07H0P",2480,NA,"F"
-110,"Linda","Barrington",61,"NEM","028V-09N9C",2465,NA,"F"
-111,"Barbara","Bauman",64,"NEM","028N-07AVV",2420,NA,"F"
-112,"Valerie","Andersen",62,"NEM","028G-0832J",2415,NA,"F"
-113,"Sally","Warnick",60,"TAOS","4280-09J6X",2400,NA,"F"
-114,"Caryl","Schiavon",60,"OREG","378Z-07KY0",2400,NA,"F"
-115,"Susan","Reid",61,"NEM","028D-07TA7",2350,NA,"F"
-116,"Kirby","Richards",64,"OREG","3782-0APGU",2315,NA,"F"
-117,"Peggy","Dold",61,"LPM","158M-0A6PU",1870,NA,"F"
-1,"Catherine","Rust",65,"PBM","5082-06WNH",4345,NA,"F"
-2,"Tracy","Clarkson",69,"1776","0889-09NEX",4055,NA,"F"
-3,"Joan","Craffey",65,"UC06","068P-06MBR",4045,NA,"F"
-4,"Fran","Hare",68,"PBM","508Y-02XHG",4000,NA,"F"
-5,"Elizabeth","Kassen",66,"PSM","368R-04F98",3945,NA,"F"
-6,"Shirley","Loftus Charley",67,"VMST","128H-WATER",3870,NA,"F"
-7,"Meredith","Moore",69,"SYSM","1487-01S4X",3840,NA,"F"
-8,"Emily","White",65,"NEM","0289-034AM",3725,NA,"F"
-9,"Jennifer","Fiden",68,"UAR","178Z-01UC9",3700,NA,"F"
-10,"Susan","Korsedal",68,"LOCO","558M-09KFA",3635,NA,"F"
-11,"Judith","Kennedy",67,"INDY","168V-04R1G",3625,NA,"F"
-12,"Barbara","Boslego",67,"VMST","1284-02HV9",3600,NA,"F"
-13,"Jill","Wright",67,"SAWS","598W-01J02",3590,NA,"F"
-14,"Pam","Geiger",66,"SPM","148C-02REZ",3515,NA,"F"
-15,"Peggy","Stringer",67,"BSMT","318M-01JR7",3490,NA,"F"
-16,"Linda","Callaway",65,"MOST","438N-02NEV",3460,NA,"F"
-17,"Bonnie","Johnston",66,"PBM","5087-01V5J",3450,NA,"F"
-18,"Betsy","Whittemore",65,"SKY","4188-01W6P",3410,NA,"F"
-19,"Carol","Mitchell",69,"SYSM","148Y-033GG",3405,NA,"F"
-20,"Susan","Collins",66,"WWM","3583-006T7",3370,NA,"F"
-21,"Barbara","Hummel",66,"NEM","028G-0348H",3315,NA,"F"
-22,"Susan","Collins",69,"WCM","3884-03NKB",3310,NA,"F"
-23,"Mary","Dickson",66,"NEM","028T-0837D",3280,NA,"F"
-24,"Sue","Tendy",69,"NEM","028D-033T8",3220,NA,"F"
-25,"Katy","Lantz",65,"DAM","388P-040UN",3215,NA,"F"
-26,"Martha","Erickson",67,"NASH","1588-GG0F3",3200,NA,"F"
-27,"Paula","Dougher",67,"CMYM","098S-08DBK",3175,NA,"F"
-28,"Cynthia","Gardner",67,"NEM","028H-07KBA",3165,NA,"F"
-29,"Nancy","Farley",67,"DAM","388K-03KXT",3090,NA,"F"
-30,"Chris","Mayhew",65,"MOST","438X-CHR1S",3085,NA,"F"
-31,"Connie","Lindsey",66,"MOST","438W-C0NNE",3040,NA,"F"
-32,"Maureen","Fitzpatrick",67,"PBM","508G-081KH",3025,NA,"F"
-33,"Christine","Foote",65,"TAM","388Z-03F8W",3010,NA,"F"
-34,"Kat","Duff",66,"TAOS","428A-0A11M",2950,NA,"F"
-35,"Christine","King",66,"CRUZ","3881-04050",2930,NA,"F"
-36,"Jane","Wright",69,"SAWS","598Y-077FJ",2925,NA,"F"
-37,"Kathy","Selles",66,"SPM","1486-06P54",2875,NA,"F"
-38,"Martha","Buthmann",66,"TCAM","388G-0A8H1",2845,NA,"F"
-39,"Tricia","Kules",67,"NEM","028C-034B8",2840,NA,"F"
-40,"Joan","Myers",67,"CMS","3280-0322T",2800,NA,"F"
-41,"Lyra","Halprin",67,"DAM","3885-03G0F",2795,NA,"F"
-42,"Lucy","Fleming",69,"BUMS","048M-0A4X5",2770,NA,"F"
-43,"Starr","Campbell",66,"ARKM","238U-06TBK",2760,NA,"F"
-44,"Patricia","McGovern",69,"UC06","0682-02Y3H",2730,NA,"F"
-45,"Marilyn","Slagle",65,"WRCM","388E-091HY",2720,NA,"F"
-46,"Laraine","Smith",67,"ARIZ","488K-097ZU",2700,NA,"F"
-46,"Patricia","Newman",67,"DAM","388K-03MDT",2700,NA,"F"
-46,"Anne","Kendrick",67,"NASH","158K-0ARK6",2700,NA,"F"
-49,"Mary Alice","Tully",67,"NBPB","028H-076JW",2675,NA,"F"
-50,"Sedley","Josserand",65,"BSMS","248Y-01TGN",2660,NA,"F"
-51,"Marjorie","Safran",69,"NEM","028X-08301",2640,NA,"F"
-52,"Nancy","Fields",67,"MOST","438S-02RC5",2635,NA,"F"
-53,"Nina","Clarkson",66,"MOST","438S-093N8",2620,NA,"F"
-54,"Joan","Collins",65,"BSMS","248J-0APDU",2570,NA,"F"
-55,"Lynn","Narlesky",66,"DAM","388F-03HHA",2540,NA,"F"
-56,"Capri","Djatiasmoro",67,"CIB","078E-02Z3J",2500,NA,"F"
-57,"Melanie","Sellers",66,"OLD1","1581-01ZSR",2400,NA,"F"
-58,"Nancy","Wood",67,"MOST","438P-02P50",2375,NA,"F"
-59,"Monica","Brogan",66,"TMAS","128C-0A84Y",2355,NA,"F"
-59,"Mary","Stein",68,"FMM","148U-061WR",2355,NA,"F"
-61,"Linda","West",66,"UC44","448H-02C3M",2350,NA,"F"
-61,"L. Renee","Solomon",65,"NEM","028D-09P4T",2350,NA,"F"
-63,"Carolyn","Lavadie",66,"TAOS","4285-09UAD",2300,NA,"F"
-64,"Tina","Hahn",68,"TAOS","428A-088TH",2250,NA,"F"
-65,"Deborah","Higdon",66,"LPM","158C-08ECF",2230,NA,"F"
-66,"Patricia","Kotylo",65,"INDY","168V-02A9K",2225,NA,"F"
-67,"Gayle","Barlow",65,"TAOS","428W-073AT",2150,NA,"F"
-68,"Susan","Stowell",66,"DAM","3886-06KST",2110,NA,"F"
-69,"Laurie","Casselman",65,"DDSA","4884-09UKV",2100,NA,"F"
-70,"Tracy","Willett",68,"OREG","378D-09Y1F",2060,NA,"F"
-71,"Leslie","Kurywchak",66,"ARIZ","4889-0AVYB",1750,NA,"F"
-72,"Joan","Sampson",69,"LPM","158R-0ATSR",1710,NA,"F"
-73,"Melanie","Mociun",66,"TAM","3881-03HUN",1600,NA,"F"
-2,"Sally","Dillon",72,"PSM","368E-02KJU",3595,NA,"F"
-3,"June","Carson",70,"SYSM","1485-04BSY",3580,NA,"F"
-4,"Barbara","West",70,"NEM","028B-BWEST",3550,NA,"F"
-5,"Linda","Shoenberger",71,"TAM","388S-03F82",3500,NA,"F"
-6,"Stephanie","Scott",71,"WCM","3884-03K0Y",3490,NA,"F"
-7,"Janet","Jastremski",70,"1776","088A-0226H",3440,NA,"F"
-8,"Sally","Hasbrook",70,"INDY","168X-02AKT",3400,NA,"F"
-9,"Rebecca","Kay",72,"OREG","378D-05FV1",3390,NA,"F"
-10,"Daniela","Barnea",74,"STAN","388G-03JTU",3335,NA,"F"
-11,"Suzanne","Mitchell",70,"PBM","508K-08CXY",3325,NA,"F"
-12,"Ann","Vitt",72,"MOST","438N-02R7K",3320,NA,"F"
-13,"Geri","Mathewson",70,"OREG","378X-025Z9",3235,NA,"F"
-14,"Susan","Paris",72,"O*H*","188G-01WC8",3085,NA,"F"
-15,"Babs","Larsen",71,"MINN","3084-02A9M",3015,NA,"F"
-16,"Kate","Wilson",70,"OREG","378E-0B4NE",3000,NA,"F"
-17,"Greta","Van Meeteren",71,"NCMS","138A-0232R",2935,NA,"F"
-18,"Alida","Canale",73,"CRUZ","388N-03HDU",2930,NA,"F"
-19,"Anne","Stoddard",72,"TNYA","0688-02Y4R",2930,NA,"F"
-20,"Lori","Viti",70,"TAM","3887-07UBS",2825,NA,"F"
-21,"Susan","Newman",71,"UC12","1283-0A900",2765,NA,"F"
-22,"Diane","Lardelli",74,"DAM","388P-06HC9",2745,NA,"F"
-23,"Jeanne","Ensign",72,"BSMT","318J-02KGK",2725,NA,"F"
-24,"Cynthia","Needham",70,"NEM","028K-071D8",2720,NA,"F"
-25,"Peggy","Reedy",72,"DAM","388Y-0B5J9",2715,NA,"F"
-26,"Susan","Pollard",74,"INDY","168D-02AD7",2700,NA,"F"
-27,"Mizuho","Iwamoto",70,"DAM","3880-082HE",2675,NA,"F"
-28,"Sue","Cosper",70,"INDY","168X-02AC3",2650,NA,"F"
-29,"Candace","Cross Drew",72,"DAM","388B-03HB0",2580,NA,"F"
-30,"Elizabeth","Stengel",72,"NEM","0282-09PRZ",2550,NA,"F"
-31,"Karin","Bivens",74,"ARIZ","488Y-02F9S",2495,NA,"F"
-32,"Gini","Fellows",72,"BSMS","2482-0B8U3",2395,NA,"F"
-33,"Sharon","Pearson",73,"NEM","0287-09PT6",2375,NA,"F"
-34,"Louise","Case",71,"NEM","028Z-0471V",2350,NA,"F"
-35,"Margaret","Welch",72,"ARIZ","4880-09SY2",2275,NA,"F"
-36,"Ginny","Saywell",72,"ARIZ","488V-0B0P0",2250,NA,"F"
-37,"Karen","Warner",74,"ARIZ","488E-0AB89",2250,NA,"F"
-38,"Lynn","Dusenbury",70,"MOST","438B-099VK",2205,NA,"F"
-39,"Sara","Wright",71,"INDY","168P-08DH1",2125,NA,"F"
-40,"Patricia","Pollard",74,"TAOS","4286-06T3N",2050,NA,"F"
-41,"Lynn","Francis",74,"MOST","438G-02NGK",1900,NA,"F"
-42,"Jennifer","Johnston",71,"L4S","1083-039KC",1845,NA,"F"
-43,"Erin","McGinnis",72,"DDSA","488G-0AGC1",1525,NA,"F"
-1,"Susan","Meyers",76,"SYSM","148U-02ACV",3350,NA,"F"
-2,"A. Jane","Nichols",77,"OREG","3787-003EP",3060,NA,"F"
-3,"Leslie","Westergaard",75,"DAM","388J-03GEZ",3005,NA,"F"
-3,"Louise","Wise",76,"CMS","328U-030NC",3005,NA,"F"
-5,"Carolynn","Foley",75,"PBM","508U-01W0J",2980,NA,"F"
-6,"Glenda","Carroll",75,"TAM","3884-03JEC",2960,NA,"F"
-7,"Jill","Fritz",78,"ARIZ","488F-02NCX",2800,NA,"F"
-8,"Kacky","Elliott",79,"GS","558V-095PR",2665,NA,"F"
-9,"Jennifer","Parks",75,"MLAM","198U-JPSWM",2605,NA,"F"
-10,"Meredith","Pechoultres",75,"TAM","388J-040N4",2580,NA,"F"
-11,"Betty","Dugan",77,"DAM","388H-03GFH",2545,NA,"F"
-12,"Barbara","Paulson",75,"DAM","388T-03G0A",2535,NA,"F"
-13,"Susan","Mann",75,"DAM","388H-03HWB",2325,NA,"F"
-14,"Jeanne","Magmer",78,"OREG","378W-07T8R",2215,NA,"F"
-14,"Roswita","Norris",76,"DAM","388B-03GE3",2215,NA,"F"
-16,"Polly","Kegler",75,"UC34","348N-0ARMA",2000,NA,"F"
-17,"Christine","Bruhn",76,"DAM","388N-03HB8",1970,NA,"F"
-18,"Beverly","Schulz",76,"ARIZ","488C-08843",1750,NA,"F"
-19,"Margie","Hutinger",78,"FMM","148E-02RCY",1720,NA,"F"
-20,"Julie","Lockhart",77,"NEM","0283-035J4",1625,NA,"F"
-2,"Susan","Munn",80,"DAM","388Y-03FZM",3050,NA,"F"
-3,"Miek","McCubbin",83,"SMM","3889-03HJM",2925,NA,"F"
-4,"Mary","Alexandre",83,"TAM","388N-03HEB",2835,NA,"F"
-5,"Joan","Griffin",81,"PBM","508N-02ZVH",2770,NA,"F"
-6,"Sumner","Foster",80,"LPM","158C-00B1Y",2760,NA,"F"
-7,"Martha","Henderson",82,"FACT","1488-02RS4",2660,NA,"F"
-8,"Ruth","Stavis",81,"NEM","0280-033F0",2495,NA,"F"
-9,"Ruth","Sluder",82,"SUSA","3482-05ERG",2185,NA,"F"
-10,"Bonnie","Speer",84,"OREG","378K-0692S",2065,NA,"F"
-11,"Doris","Prokopi",83,"FMM","148F-02RDG",1935,NA,"F"
-12,"Dorothy","Kennedy",82,"SUSA","348D-09699",1900,NA,"F"
-1,"Jeanne","Meredith",90,"VMST","1285-02HT9",2105,NA,"F"
-1,"Maurine","Kornfeld",97,"ROSE","3387-03AD6",2100,NA,"F"
-2,"Charlotte","Sanddal",96,"BSMT","318E-01JR1",1495,NA,"F"
+"Place","Name","Age","Club","Distance","USMS_ID","Gender","Year","National_Record"
+1,"Dan Kirkland",70,"PSM",4765,"368R-069B3","M",2018,"Y"
+2,"Fred Schlicher",70,"NEM",4565,"028G-033W5","M",2018,"Y"
+1,"Suzanne Heim Bowen",60,"WCM",4955,"388Y-03F3T","W",2018,"Y"
+1,"Christie Hayes",70,"NEM",4145,"028U-01S5E","W",2018,"Y"
+1,"Patricia Bond",80,"SYSM",3275,"1483-02RDM","W",2018,"Y"
+1,"Kyle Hendricks",22,"PACK",5250,"258J-0AVGT","M",2018,NA
+2,"Andrew Brower",24,"DKTA",5050,"528C-0A8BF","M",2018,NA
+3,"Jonathan Jones",22,"MOST",4775,"4385-09SC1","M",2018,NA
+4,"Daniel Pearson",23,"DDSA",4765,"488K-0A8S2","M",2018,NA
+5,"Alexander Claman",23,"TAM",4730,"388Z-09BZE","M",2018,NA
+6,"Gregory Willett",21,"SKY",3995,"418N-0B0T8","M",2018,NA
+7,"William Kolb",23,"SKY",3880,"4181-089R8","M",2018,NA
+1,"Bruce Deakyne",29,"UC32",5745,"3289-BRUCE","M",2018,NA
+2,"John Sarikas",25,"DDSA",5470,"488D-0APBG","M",2018,NA
+3,"Andrew Wrist",26,"MVM",5465,"388K-0AGWJ","M",2018,NA
+4,"James Lamb",25,"CRUZ",5180,"388V-08D6P","M",2018,NA
+5,"Andrew Jensen",25,"UC25",5150,"258C-09BJG","M",2018,NA
+6,"Michael Heavilon",25,"INDY",5050,"168U-0A4PE","M",2018,NA
+7,"Adam Walker",28,"CMYM",5010,"0982-09AAA","M",2018,NA
+8,"Alex Snyder",29,"INDY",5005,"168U-07Y0A","M",2018,NA
+9,"Eric Burtchell",27,"NEM",4595,"028Y-097JG","M",2018,NA
+10,"Andrew Magazine",28,"PBM",4540,"508F-0A0JW","M",2018,NA
+11,"Michael Fehser",28,"DDSA",4505,"488S-0B6V3","M",2018,NA
+12,"Cameron Wasko",25,"PBM",4455,"508K-0A7W2","M",2018,NA
+13,"Patrick Mccloskey",28,"MOST",4425,"438P-09SBX","M",2018,NA
+14,"Michael Thomas",26,"TAM",4405,"388S-07X03","M",2018,NA
+15,"Samuel Crowley",26,"OREG",4370,"378D-0B98C","M",2018,NA
+16,"David Stiles",28,"SPM",4330,"148X-06GFT","M",2018,NA
+17,"Michael Pratt",25,"UC25",4100,"258R-0B9DK","M",2018,NA
+18,"Joe Tarasevich",27,"NEM",4000,"0285-0ASJB","M",2018,NA
+19,"Sean Maynard",27,"NCMS",3840,"1385-0729X","M",2018,NA
+20,"Jacob Bubalo",25,"KAC",3775,"158Y-0B8GA","M",2018,NA
+21,"Alan Hsieh",25,"NEM",3750,"028R-0A43C","M",2018,NA
+22,"Clayton Ellis",26,"INDY",3700,"168K-0AMU9","M",2018,NA
+1,"Adam Ritter",33,"CSMT",5490,"178U-07B49","M",2018,NA
+2,"Anthony Wallace",31,"UC45",5100,"458J-0AUSE","M",2018,NA
+3,"James Hoke",32,"DMST",4785,"408M-09X8Z","M",2018,NA
+4,"Satori Iwamoto",32,"DAM",4775,"388C-071VM","M",2018,NA
+5,"Connor Wallace",32,"NEM",4610,"028D-09KV0","M",2018,NA
+6,"Lawrence Bonzer",33,"DKTA",4575,"528W-0B1X6","M",2018,NA
+7,"Sebastian Cuellar",34,"SFTL",4490,"5086-09K5H","M",2018,NA
+8,"Dan Perkey",32,"IM",4400,"218B-09NP2","M",2018,NA
+9,"Todd Wilson",33,"PBM",4350,"508Z-04PPW","M",2018,NA
+10,"Luis Galvan Sarabia",33,"INDY",4000,"168B-04PM1","M",2018,NA
+11,"Nicholas Normandin",33,"NEM",3925,"028K-0471R","M",2018,NA
+12,"Matland Peterson",34,"PMST",3770,"5482-07JN6","M",2018,NA
+13,"Ryan Armpriester",33,"PAQM",3750,"5087-0A3P2","M",2018,NA
+14,"Michael Cowen",33,"IM",3625,"2182-064YZ","M",2018,NA
+15,"Ryan Brogan",30,"INDY",3585,"168G-05VX1","M",2018,NA
+16,"Alexander Sennhenn",33,"TAM",3340,"388T-0B4T5","M",2018,NA
+1,"Stephen Rouch",38,"INDY",5480,"168S-R0UCH","M",2018,NA
+2,"Zebron Lemke",38,"AAM",5280,"388S-03S8A","M",2018,NA
+3,"John Batchelder",37,"CMS",5240,"328F-086NY","M",2018,NA
+4,"Andrew Schaefer",35,"BUMS",5025,"0488-06Z6S","M",2018,NA
+5,"Matthew Hanlon",38,"CTS",4980,"438D-0ASC8","M",2018,NA
+6,"Matt Roper",37,"DAM",4895,"388X-03TFC","M",2018,NA
+7,"Johnny Van Velthuyzen",39,"PSM",4740,"368B-06TTA","M",2018,NA
+8,"Brian Glenn",39,"SCYM",4700,"0780-05Z0J","M",2018,NA
+9,"Scott Loder",37,"PBM",4555,"508H-0A4E9","M",2018,NA
+10,"Daniel Wion",39,"NAM",4525,"178U-0B8US","M",2018,NA
+11,"Patrick Billingsley",38,"PBM",4520,"5082-06G1T","M",2018,NA
+12,"Michael Oxendine",36,"OREG",4400,"378C-0AZHZ","M",2018,NA
+13,"Daniel Judd",36,"DAM",4215,"388M-0B4AX","M",2018,NA
+14,"Blair Martin",39,"TAM",4040,"388F-03XP2","M",2018,NA
+15,"David Houck",36,"GTX",4025,"4384-07SBW","M",2018,NA
+15,"Matthew Leonard",39,"UC04",4025,"048X-0AR8P","M",2018,NA
+17,"Kevin Waterson",39,"DAM",4010,"388W-08CRR","M",2018,NA
+18,"Daniel O'Kane",38,"MINN",4005,"3087-05TNN","M",2018,NA
+19,"David Schacht",39,"INDY",4000,"168J-09NCA","M",2018,NA
+19,"Bentley Walker",37,"INDY",4000,"168K-01WWU","M",2018,NA
+21,"Christopher Veilleux",38,"NEM",3970,"028J-0AXEM","M",2018,NA
+22,"Seann Mulcahy",36,"NEM",3925,"0285-0922H","M",2018,NA
+23,"Jason Marietta",38,"DDSA",3895,"4889-099AS","M",2018,NA
+24,"Jonathan Smith",36,"TNYA",3795,"068A-08CVR","M",2018,NA
+25,"David Doucett",37,"NEM",3410,"028S-07MUD","M",2018,NA
+26,"Daniel Rasch",37,"INDY",3250,"168J-0B62J","M",2018,NA
+27,"Juan Gomez",35,"GSC",3215,"148Y-0AYKJ","M",2018,NA
+28,"Mehdi Nourbakhsh",35,"RPM",3155,"388U-0AUHR","M",2018,NA
+29,"Paul Philley",36,"DAM",3050,"388S-08FAV","M",2018,NA
+30,"Hai Wang",39,"ALB",2040,"388R-0B7N2","M",2018,NA
+1,"Matt Miller",41,"OREG",5260,"3787-1500F","M",2018,NA
+2,"Ryan Warren",44,"INDY",5050,"168F-002DE","M",2018,NA
+3,"Jim Svoboda",40,"CFSC",4920,"258M-06M0U","M",2018,NA
+4,"Christopher Scharver",42,"VMST",4720,"128X-001F1","M",2018,NA
+5,"Robert Starkey",44,"NEM",4670,"0288-028UE","M",2018,NA
+6,"Brian Delisle",44,"SKY",4665,"418S-05WGW","M",2018,NA
+7,"Eric Hatch",44,"SNM",4635,"388W-02WHA","M",2018,NA
+8,"Will Clark",41,"OREG",4620,"378V-04225","M",2018,NA
+9,"Brian Bibler",41,"NICK",4575,"048Z-01X42","M",2018,NA
+10,"Joseph Gardner",43,"WLOO",4500,"438Z-AHPA1","M",2018,NA
+10,"Andrew Deck",40,"WMSP",4500,"0882-DAD04","M",2018,NA
+12,"Chris Donnermeyer",42,"OREG",4475,"3786-06UPX","M",2018,NA
+12,"Neil Cowan",41,"MICH",4475,"198H-SWT24","M",2018,NA
+14,"Rob Hathaway",43,"ROCH",4450,"0482-06X52","M",2018,NA
+15,"Todd Lantry",43,"OREG",4290,"3789-02619","M",2018,NA
+16,"Harry Alexander",41,"SAWS",4260,"5982-0B423","M",2018,NA
+17,"Aaron Jasper",41,"SCA",4255,"338D-09WY0","M",2018,NA
+18,"Eric Tucker",43,"RIPT",4250,"3388-0B6MU","M",2018,NA
+19,"Ryan Rager",44,"SPM",4225,"148U-07PNC","M",2018,NA
+20,"David Dovell",43,"PBM",4175,"508D-0289F","M",2018,NA
+21,"Edward Parsons",44,"NEM",4085,"028R-06DD8","M",2018,NA
+22,"Jason Murray",43,"SKY",4075,"4182-084ND","M",2018,NA
+23,"Andrew Anderson",41,"PBM",4010,"5089-094US","M",2018,NA
+24,"Jeremy Forst",40,"INDY",4000,"168D-08B6M","M",2018,NA
+24,"Michael Leake",40,"NEM",4000,"0285-SAVED","M",2018,NA
+26,"Colin Goldsmith",41,"PBM",3960,"508R-09MSZ","M",2018,NA
+27,"Richard Sweetman",40,"NEM",3950,"028B-0AAM2","M",2018,NA
+28,"Joseph Lassen",40,"NASH",3925,"1585-0AGT4","M",2018,NA
+29,"Daniel Spurling",41,"NBPB",3915,"0280-09J0A","M",2018,NA
+30,"Kyle McIntosh",43,"SCA",3890,"338R-068Z6","M",2018,NA
+31,"Brendan Banovic",44,"NBPB",3875,"028Y-0A323","M",2018,NA
+32,"Martin Paukert",44,"MOST",3785,"438M-0AA7U","M",2018,NA
+33,"Matthew Pattterson",43,"CFSC",3770,"258C-0B4A0","M",2018,NA
+34,"Rhett Paul",41,"AQST",3750,"5280-09RT2","M",2018,NA
+34,"Edmund Hipp",42,"LOCO",3750,"558V-08D80","M",2018,NA
+36,"Josh Nelson",42,"MLAM",3715,"1983-0ARZK","M",2018,NA
+37,"Stefano Profumo",40,"CRUZ",3695,"388B-08627","M",2018,NA
+38,"Graham Balch",44,"TAM",3650,"3880-09KFD","M",2018,NA
+39,"Brett Johnson",43,"OREG",3555,"378K-06BDH","M",2018,NA
+41,"Jeff Berebitsky",43,"SBRM",3400,"168Y-026XN","M",2018,NA
+42,"Daniel Seibert",40,"MICH",3395,"198F-0ATFZ","M",2018,NA
+43,"Jose Miguel Ponciano",43,"GSC",3215,"148W-09P08","M",2018,NA
+44,"Thomas Diemar",40,"SCYM",3170,"0784-0B7DJ","M",2018,NA
+45,"Ido Zukerman",42,"DAM",3100,"388Z-0B45B","M",2018,NA
+46,"Bill Pine",43,"GSC",3000,"1481-0A0Y1","M",2018,NA
+46,"Doug Kast",42,"TAOS",3000,"428X-0AYF6","M",2018,NA
+48,"Domenick Macri",42,"PBM",2725,"508S-0B6D0","M",2018,NA
+49,"Charles Schmitt",43,"MERR",2550,"098D-093M4","M",2018,NA
+1,"David Mikels",49,"TFAM",5040,"268K-07TXC","M",2018,NA
+2,"Christopher Beach",49,"PBM",4930,"508K-049NK","M",2018,NA
+3,"Mark Rubacky",49,"NCMS",4925,"1381-070MN","M",2018,NA
+4,"Sergei Nemirovsky",46,"NEM",4820,"028Y-06MTR","M",2018,NA
+5,"Sean Gerrard",45,"SPM",4805,"148G-0A4TF","M",2018,NA
+6,"Phillip Luebke",47,"BOZE",4775,"318S-07P4M","M",2018,NA
+6,"Albert Garcia",48,"NEM",4775,"028W-0738T","M",2018,NA
+8,"Ernie Hoftyzer",49,"DAM",4685,"388N-03HAR","M",2018,NA
+9,"Sean Bateman",49,"MINN",4675,"308H-0B47K","M",2018,NA
+10,"Kaan Duru",48,"NEM",4590,"0282-06GNG","M",2018,NA
+11,"Kit Koenig",49,"SFTL",4585,"508C-027FM","M",2018,NA
+12,"George Lathrop",45,"INDY",4575,"168V-005BS","M",2018,NA
+13,"Eric King",47,"NCMS",4550,"138R-0AUP0","M",2018,NA
+14,"Erik Hanssen",47,"PBM",4535,"508J-003ZH","M",2018,NA
+15,"Peter Kiss",49,"SCYM",4525,"078V-0B5JH","M",2018,NA
+16,"Eric Herman",47,"SPM",4520,"148M-02TPA","M",2018,NA
+17,"Andrew Shaar",46,"INDY",4500,"168F-02674","M",2018,NA
+18,"Thomas Bell",49,"WMSP",4495,"088U-07Y6W","M",2018,NA
+19,"Michael Guirl",47,"MOST",4475,"4388-02PWZ","M",2018,NA
+20,"Douglas Gawriljuk",46,"PBM",4450,"508X-0A421","M",2018,NA
+20,"Kevin Joubert",46,"MERR",4450,"098G-01VD7","M",2018,NA
+22,"Adam Laats",49,"BUMS",4435,"048Z-08EXG","M",2018,NA
+23,"Lennart Lindahl",48,"PBM",4400,"5087-0A42Z","M",2018,NA
+24,"Victor Seeley",45,"SFGG",4375,"3886-09JM9","M",2018,NA
+25,"John Leonard",48,"MOST",4325,"438T-02NWN","M",2018,NA
+26,"Henry Pelish",45,"UC02",4315,"028S-0B8CJ","M",2018,NA
+27,"Eddie Ames",49,"PBM",4310,"5080-027CN","M",2018,NA
+28,"Macy Foree",47,"SKY",4300,"418V-084XH","M",2018,NA
+29,"Brian Steighner",47,"PBM",4290,"508E-0A6WX","M",2018,NA
+30,"David Dreith",49,"UC17",4235,"178S-05UXJ","M",2018,NA
+31,"Geoffrey Hammond",49,"RIPT",4210,"3381-0962Z","M",2018,NA
+32,"Jeffrey Rose",49,"INDY",4150,"168Z-09MUX","M",2018,NA
+33,"Kenneth Frost",46,"TAM",4115,"388D-03JK9","M",2018,NA
+34,"Andreas Ladas",48,"NEM",4095,"028A-06M66","M",2018,NA
+35,"Joseph Graham",47,"BSMS",4050,"248W-0B4Z4","M",2018,NA
+36,"Douglas Webb",48,"O*H*",4030,"188X-01PG5","M",2018,NA
+37,"Steve Hartsock",45,"INDY",4000,"1686-02ASA","M",2018,NA
+37,"David Forsee",49,"INDY",4000,"1686-02AN7","M",2018,NA
+37,"John Mulloy",47,"INDY",4000,"1682-082DT","M",2018,NA
+40,"Antonio Navarro",48,"INDY",3975,"168F-06J1A","M",2018,NA
+41,"James Chicoski",45,"NEM",3950,"028B-0AP78","M",2018,NA
+41,"Lucas Pantaleon",45,"SKY",3950,"418R-080ZU","M",2018,NA
+41,"Geoffrey Bartlett",48,"NICK",3950,"048C-0AHPB","M",2018,NA
+44,"Jim Porter",49,"NEM",3930,"028D-07PK2","M",2018,NA
+45,"Ryan Huddlestun",46,"IM",3805,"218D-0A532","M",2018,NA
+46,"Matthew Burrell",46,"INDY",3800,"1687-06ZNT","M",2018,NA
+47,"Drew Alexander",47,"INDY",3775,"168M-0923K","M",2018,NA
+48,"Randall Chamberlain",49,"TNYA",3550,"0688-02ZPS","M",2018,NA
+49,"Dennis Quelch",46,"NEM",3480,"0286-0B6CA","M",2018,NA
+50,"Timothy Downs",45,"NBPB",3400,"028X-0A7VA","M",2018,NA
+50,"Matthew Wilhoit",47,"DAM",3400,"3886-0AXN0","M",2018,NA
+50,"Douglas Berebitsky",49,"SBRM",3400,"1684-02BDC","M",2018,NA
+53,"Jason Movsessian",48,"NEM",3300,"028N-0ATTZ","M",2018,NA
+54,"Sean McClean",49,"YCFM",3250,"148D-05VZX","M",2018,NA
+55,"Caesar Bernardo",47,"OREG",3200,"378P-0A0J2","M",2018,NA
+56,"Michael Moon",47,"INDY",3100,"1682-0AWNA","M",2018,NA
+57,"Tyler Bergmeier",47,"NEM",3010,"028V-09NTC","M",2018,NA
+58,"Craig Siepser",46,"NEM",3000,"0288-098BR","M",2018,NA
+59,"Hirbod Khalaj Hedayati",48,"GWSC",2990,"338V-09FYX","M",2018,NA
+60,"Alex Guo",45,"FREM",2850,"388K-0AURM","M",2018,NA
+61,"Scott Linnborn",48,"WLOO",2800,"4386-06M29","M",2018,NA
+62,"Milind Mahajan",45,"SCA",2670,"3386-076N5","M",2018,NA
+1,"Jeff Erwin",54,"SAWS",5460,"5983-01J0A","M",2018,NA
+2,"Kurt Dickson",51,"GRA",5370,"3387-02EM5","M",2018,NA
+3,"Mike Shaffer",53,"VCM",5300,"3386-03B3B","M",2018,NA
+4,"Eilhard Lussier",53,"OREG",5265,"3782-025VX","M",2018,NA
+5,"Robbie Allen",53,"NEM",5180,"028G-01W9S","M",2018,NA
+6,"Randy Eickhoff",53,"SCA",5165,"3386-03BC3","M",2018,NA
+7,"Todd Arris",53,"TOC",5100,"388Z-03H46","M",2018,NA
+8,"Robert Perkins",52,"SCYM",4870,"078K-0AA34","M",2018,NA
+9,"Kurt Baron",54,"SAWS",4855,"598S-03BBC","M",2018,NA
+10,"Matthew Gilson",51,"NEM",4740,"028J-033F6","M",2018,NA
+11,"Joshua Smith",50,"SPM",4725,"148B-064F4","M",2018,NA
+12,"Mark Frost",51,"OREG",4665,"3781-07KU4","M",2018,NA
+13,"Hudson Slay",51,"UHM",4655,"3989-04SYS","M",2018,NA
+14,"David Loeffler",54,"ARIZ",4620,"488J-02FYU","M",2018,NA
+15,"Vaughn Mansmann",52,"MOST",4560,"438G-07RZK","M",2018,NA
+16,"Thomas MacNabb",53,"SCYM",4500,"0783-033N3","M",2018,NA
+17,"Trent Theroux",51,"NEM",4490,"028B-05J76","M",2018,NA
+18,"Matt Kowta",52,"DAM",4450,"388N-03SC1","M",2018,NA
+19,"Andy Fischer",51,"SFTL",4425,"508E-0356H","M",2018,NA
+20,"Michael Jacobson",50,"CMYM",4395,"098A-01V74","M",2018,NA
+21,"Keith McCain",53,"DAMM",4370,"268U-01TD1","M",2018,NA
+22,"Christopher Spearing",53,"UC05",4350,"058C-085HN","M",2018,NA
+23,"Pete Champlin",50,"TAM",4330,"3883-031ZU","M",2018,NA
+24,"Jess Dillavou",51,"PMST",4260,"548P-01HXP","M",2018,NA
+25,"John Mull",54,"ARIZ",4250,"488H-0AWZ8","M",2018,NA
+25,"Bruce Novis",53,"NEM",4250,"028N-076DK","M",2018,NA
+27,"Jonathan Ruckdeschel",50,"CMYM",4225,"098A-087TG","M",2018,NA
+28,"William Finch",53,"CSI",4200,"168E-02BFS","M",2018,NA
+29,"Tim Polack",50,"INDY",4150,"1685-006UE","M",2018,NA
+30,"Jon Haveman",54,"TAM",4145,"3884-03SAG","M",2018,NA
+31,"Chris Doppke",52,"NEM",4120,"028F-090V5","M",2018,NA
+32,"Gary McClellan",51,"PBM",4100,"508A-08496","M",2018,NA
+33,"Thomas Jones",54,"PBM",4085,"508S-02JJH","M",2018,NA
+34,"Stephen Imbusch",50,"NEM",4080,"0288-07HJ3","M",2018,NA
+35,"Thomas Spino",51,"PBM",4070,"508W-008AD","M",2018,NA
+36,"Roger Drury",51,"NEM",3965,"028W-093SX","M",2018,NA
+37,"David Martin",51,"INDY",3950,"168S-0A1KG","M",2018,NA
+38,"Daniel Messinger",54,"GRSC",3905,"508D-0281S","M",2018,NA
+39,"Clint Bogard",51,"OREG",3825,"378G-07KMP","M",2018,NA
+40,"Ray Bruce",53,"MOST",3780,"438S-0AF1A","M",2018,NA
+41,"Christopher Molnar",53,"UC14",3775,"1482-0AN77","M",2018,NA
+42,"Fredrik Wallenberg",51,"OREG",3770,"3788-06ZX2","M",2018,NA
+43,"Brian Sweenor",52,"NEM",3765,"0280-097ZM","M",2018,NA
+44,"Mark Heuchert",50,"TFAM",3700,"268B-0AHBY","M",2018,NA
+44,"Marc Mansour",54,"NEM",3700,"028K-03504","M",2018,NA
+46,"Jonathan Jensen",53,"DAM",3665,"3883-041T4","M",2018,NA
+47,"Brian Schmitt",50,"NICK",3660,"0484-0B7NY","M",2018,NA
+48,"Chris Rhim",53,"UC02",3645,"028S-0A8CH","M",2018,NA
+49,"Paul Seymour",52,"TAM",3640,"388F-0AV6C","M",2018,NA
+50,"Robert Carr",53,"NEM",3600,"028N-02YER","M",2018,NA
+50,"William Haddock",52,"UC02",3600,"0287-070DD","M",2018,NA
+52,"Douglas Everett",54,"ARIZ",3580,"488H-02EWU","M",2018,NA
+53,"Jerry Rivera",54,"BSMS",3550,"248Z-0AR10","M",2018,NA
+54,"Konrad Juethner",50,"NEM",3535,"028Z-09RA9","M",2018,NA
+55,"Mark Perrecone",50,"PALM",3525,"558A-0B5VX","M",2018,NA
+56,"Al Prescott",50,"NEM",3515,"028Z-033JX","M",2018,NA
+57,"Dan Wheeler",53,"PBM",3500,"508A-0818S","M",2018,NA
+57,"Jaime Bahamon",53,"SRVM",3500,"388E-0AYF2","M",2018,NA
+59,"Franklin Duck",52,"INDY",3375,"1680-04PXF","M",2018,NA
+60,"Donald Sorterup",51,"NEM",3350,"0284-06ZGF","M",2018,NA
+61,"Denis Pelletier",54,"NEM",3300,"028F-035M3","M",2018,NA
+61,"Steve Mentz",52,"UC05",3300,"0588-07DT0","M",2018,NA
+63,"Bruce Levine",51,"NICK",3250,"048X-06EXZ","M",2018,NA
+63,"Mark Gramelspacher",54,"INDY",3250,"168B-0B3UH","M",2018,NA
+65,"Stefano Mignardi",54,"NCMS",3145,"138X-070RH","M",2018,NA
+66,"Michael Ansel",53,"1776",3125,"0880-042H2","M",2018,NA
+67,"Vance Stillman",52,"NCMS",3075,"138K-07368","M",2018,NA
+68,"Ernie Friend",51,"UC02",3070,"0288-0ATYU","M",2018,NA
+69,"Jack Defandorf",54,"NEM",3045,"028R-034WX","M",2018,NA
+70,"Herman Arrivillaga",53,"NAST",3035,"168A-04R1Y","M",2018,NA
+71,"John Dickson",54,"PALM",3030,"558G-09J2J","M",2018,NA
+72,"Troy Frisz",51,"UC16",3000,"1682-02B31","M",2018,NA
+72,"Greg Hillman",54,"INDY",3000,"1684-0AB0T","M",2018,NA
+72,"Erik Stukenberg",52,"INDY",3000,"168F-0AMJC","M",2018,NA
+75,"Patrick McDermot",53,"NEM",2950,"028Z-07MXT","M",2018,NA
+76,"Brandon Luce",51,"ALB",2875,"388M-0B7UU","M",2018,NA
+77,"William Buttriss",53,"NASH",2750,"158U-0B8GZ","M",2018,NA
+1,"Kirk Richards",57,"SMM",5125,"3881-0AYKT","M",2018,NA
+2,"Chris Tainty",58,"CRUZ",4925,"388N-03JCS","M",2018,NA
+3,"James Biles",57,"WMAC",4850,"208M-SWMMR","M",2018,NA
+4,"David Hathaway",58,"OREG",4730,"378X-0270T","M",2018,NA
+5,"Chris French",56,"NEM",4725,"028H-034EP","M",2018,NA
+6,"James Byers",57,"ROCH",4720,"048M-01X2V","M",2018,NA
+7,"Daniel Newhaller",59,"SPM",4650,"148Z-02TD6","M",2018,NA
+7,"Chuck Beatty",59,"O*H*",4650,"188V-085KM","M",2018,NA
+9,"William Sullivan",57,"BERK",4600,"078Z-01Y18","M",2018,NA
+10,"Chip Green",58,"PBM",4595,"5088-06SX1","M",2018,NA
+11,"Robert McAdam",56,"GS",4575,"558F-007PG","M",2018,NA
+12,"Robert Cole",57,"NCMS",4555,"138Z-053KS","M",2018,NA
+13,"Christopher Burke",56,"SPM",4500,"1482-02RPB","M",2018,NA
+14,"Fritz Bedford",55,"NEM",4470,"028G-06131","M",2018,NA
+15,"John Dickmann",59,"NEM",4410,"028K-05W22","M",2018,NA
+16,"Vincent Brockman",55,"SPM",4390,"148M-08DHS","M",2018,NA
+16,"Richard Risso",59,"CRUZ",4390,"388D-03NN7","M",2018,NA
+18,"Robert Bonsall",55,"1776",4375,"088A-042GW","M",2018,NA
+19,"Ken Filar",59,"BAC",4360,"3889-03M9V","M",2018,NA
+20,"Steven Gruenwald",57,"MINN",4350,"3080-07RTR","M",2018,NA
+21,"Christopher Stevens",57,"MARY",4225,"0984-01VWK","M",2018,NA
+22,"Todd Estabrook",59,"NEM",4200,"028P-046HM","M",2018,NA
+23,"Lyle McCarty",58,"DAM",4170,"388P-04183","M",2018,NA
+24,"David Winkler",56,"NEM",4155,"0288-075XT","M",2018,NA
+25,"Samuel Seletas",56,"UC15",4150,"158Z-0B90T","M",2018,NA
+25,"William Ritter",58,"NEM",4150,"028U-06N3N","M",2018,NA
+27,"Paul McNamara",55,"OREG",4100,"378H-0601J","M",2018,NA
+28,"Russell Forman",57,"NEM",4095,"0286-033X3","M",2018,NA
+29,"Clark Robinson",57,"UC43",4065,"438K-0ARPA","M",2018,NA
+30,"Tom Toomey",57,"CMS",4050,"328U-080B5","M",2018,NA
+31,"Daniel Force",57,"NEM",4035,"0281-0AU15","M",2018,NA
+32,"Utley Noble",55,"UC15",4025,"158N-02100","M",2018,NA
+33,"Patrice Calmels",58,"OREG",4020,"378N-07SWJ","M",2018,NA
+34,"Matthew Ezell",59,"AKMS",4010,"5687-0ASYC","M",2018,NA
+35,"Michael Dignan",59,"NEM",4000,"0281-046VW","M",2018,NA
+35,"Jonathan Chatinover",57,"NEM",4000,"028T-07MX0","M",2018,NA
+35,"Brian Cummings",59,"INDY",4000,"1681-02AN2","M",2018,NA
+38,"Robert Ballou",58,"NEM",3965,"0281-035MP","M",2018,NA
+39,"Chris Paolini",55,"CSMT",3950,"178S-01UGK","M",2018,NA
+40,"Alan Rook",56,"SPM",3830,"1487-07KB0","M",2018,NA
+41,"Rob Torgerson",56,"NEM",3815,"028B-034NJ","M",2018,NA
+42,"Timothy Rodden",57,"SFGG",3795,"388Z-0928F","M",2018,NA
+43,"Chris Layton",59,"IM",3750,"2181-02VAE","M",2018,NA
+43,"Charles Grant",59,"NEM",3750,"028S-07HCP","M",2018,NA
+45,"Brent Anderson",56,"MOST",3735,"4384-02PXA","M",2018,NA
+46,"Matt Freeman",58,"O*H*",3685,"188S-01PY9","M",2018,NA
+47,"Karl Lincoln",55,"MOST",3665,"438K-0A8RV","M",2018,NA
+48,"Richard Lucio",59,"DDSA",3645,"4880-0B5V4","M",2018,NA
+49,"Timothy Gore",56,"NEM",3605,"028Y-035ME","M",2018,NA
+50,"John Weiss",57,"INDY",3600,"168A-02BBH","M",2018,NA
+50,"Chris Jensen",56,"UC29",3600,"2982-0AE5A","M",2018,NA
+50,"Russell Roberts",55,"NASH",3600,"158U-09MFY","M",2018,NA
+53,"Timothy Hall",56,"OREG",3590,"3782-0B7SJ","M",2018,NA
+54,"Craig Lucker",56,"PBM",3540,"508T-0B0W3","M",2018,NA
+55,"Simon Thornton",59,"MOST",3500,"438P-WST24","M",2018,NA
+56,"Ken Gersbach",58,"SPM",3450,"148X-065N7","M",2018,NA
+56,"Paul Arsenault",57,"NEM",3450,"028D-05HAY","M",2018,NA
+58,"Robin Bragg",58,"OREG",3440,"378U-0269R","M",2018,NA
+59,"Alon Harris",59,"INDY",3400,"1680-0B5WR","M",2018,NA
+60,"Carl Hefflefinger",58,"NEM",3385,"028D-035ZB","M",2018,NA
+61,"Thomas Ryde",59,"NEM",3375,"028A-0B8BV","M",2018,NA
+62,"Paul Wilmer",56,"CTS",3350,"4388-0B80U","M",2018,NA
+62,"Terrence Keller",59,"UC38",3350,"388E-0ASB1","M",2018,NA
+64,"Matt Marshall",57,"GTX",3345,"438V-0AF2R","M",2018,NA
+65,"William Benko",59,"SAWS",3300,"598K-01J1Y","M",2018,NA
+66,"Mark Kiely",55,"UC02",3280,"0285-4MK2S","M",2018,NA
+67,"Dave Shula",59,"SFTL",3200,"508H-08826","M",2018,NA
+68,"John Myers",57,"TAM",3185,"388G-05FWF","M",2018,NA
+69,"Scott Allison",55,"DAM",3170,"388E-08BTA","M",2018,NA
+70,"Mark Williamson",55,"UC02",3090,"0281-0AR9F","M",2018,NA
+70,"Rex Noble",58,"PBM",3090,"508J-07UM6","M",2018,NA
+72,"Carl Hinebaugh",58,"NEM",3000,"028T-01S5F","M",2018,NA
+73,"David Champagne",58,"TAM",2905,"3885-03JUT","M",2018,NA
+74,"David Riese",56,"NEM",2865,"028E-09PN9","M",2018,NA
+75,"Brian DeCamp",55,"COLE",2825,"168D-0B6XK","M",2018,NA
+76,"Bob Olson",58,"NBPB",2700,"028A-072SS","M",2018,NA
+76,"Mark Stewart",57,"O*H*",2700,"188U-01R3B","M",2018,NA
+78,"James Piper",58,"NEM",2525,"028W-082Y1","M",2018,NA
+79,"Brian Van Skyock",58,"INDY",2400,"1684-082GY","M",2018,NA
+80,"Michael Cook",57,"DDSA",2380,"4886-0B6FF","M",2018,NA
+81,"Warren Angell",55,"NEM",2240,"028B-0A7R8","M",2018,NA
+82,"Michael Scott",58,"NEM",2200,"0282-0A5DP","M",2018,NA
+83,"Peter Zhang",55,"SCYM",2175,"0783-0B7FJ","M",2018,NA
+84,"Mark King",55,"INDY",2100,"1685-0A0M7","M",2018,NA
+85,"John Brosius",59,"PBM",1450,"508B-007N8","M",2018,NA
+1,"Sandy MacDonald",63,"SMST",5205,"388E-03H4C","M",2018,NA
+2,"James Ritter",62,"CSMT",5020,"178N-01UB1","M",2018,NA
+3,"Kern Davis",64,"SPM",5010,"1486-02RET","M",2018,NA
+4,"Rick Heltzel",61,"UHM",4925,"398B-02001","M",2018,NA
+5,"Neil Wasserman",63,"PCY",4680,"178N-01UG5","M",2018,NA
+6,"Mark Evans",60,"DAM",4675,"388C-03J7X","M",2018,NA
+7,"Jamie Hemmerle",63,"1776",4670,"0888-0227Z","M",2018,NA
+8,"Michael Fitzgerald",60,"PSM",4655,"368E-0084N","M",2018,NA
+9,"Timothy Kennedy",62,"SPM",4530,"148D-02RF0","M",2018,NA
+10,"Peter Oliver",60,"TCAM",4495,"3888-06AGX","M",2018,NA
+11,"Stefan Reinke",60,"UHM",4455,"3983-02082","M",2018,NA
+12,"Phil Sidenberg",62,"SCA",4440,"338M-03AYK","M",2018,NA
+13,"Fred Bartlett",62,"NEM",4370,"0282-033J5","M",2018,NA
+14,"Robert Voll",61,"OREG",4365,"378Z-003WP","M",2018,NA
+15,"Jefferson Vaughan",63,"DKTA",4350,"528C-01HUA","M",2018,NA
+16,"Donald Uhlir",61,"OREG",4315,"378U-0059P","M",2018,NA
+17,"Bradley Vear",63,"NEM",4275,"028D-03441","M",2018,NA
+18,"Joe Aumiller",61,"MICH",4225,"198S-029JT","M",2018,NA
+19,"Donald Cooper",60,"NASH",4150,"158H-021NT","M",2018,NA
+20,"Mark Schwartz",60,"DAM",4125,"3886-03GDY","M",2018,NA
+20,"Marc Israel",60,"SCYM",4125,"0780-06Y5B","M",2018,NA
+22,"David Woodruff",62,"DAM",4115,"388R-03HFT","M",2018,NA
+23,"Edward Goracy",62,"SCYM",4095,"0786-01Y5V","M",2018,NA
+23,"Kenneth Nichols",60,"PBM",4095,"5088-01YE8","M",2018,NA
+23,"Bob Blattner",63,"DAM",4095,"388S-03YTP","M",2018,NA
+26,"David Carchedi",64,"NEM",4030,"028Z-0354D","M",2018,NA
+27,"Daniel Moore",63,"DDSA",4020,"488W-06ECK","M",2018,NA
+27,"David Schloerb",63,"NEM",4020,"028Z-033HV","M",2018,NA
+29,"Bruce Young",61,"INDY",4000,"168Y-07ZNU","M",2018,NA
+30,"Uwe Britsch",62,"OREG",3980,"378K-02735","M",2018,NA
+31,"Brian Franco",60,"NEM",3950,"0289-0B2DG","M",2018,NA
+32,"Thomas Riegelman",64,"UC32",3945,"328W-02UKD","M",2018,NA
+33,"Douglas Shemin",63,"NEM",3915,"028H-06J6M","M",2018,NA
+34,"Jim Supple",60,"NEM",3850,"028F-JDSJR","M",2018,NA
+35,"Thomas Gelinne",61,"TNYA",3770,"0686-02XR9","M",2018,NA
+35,"Mark Randall",61,"ARIZ",3770,"488G-0B5Z0","M",2018,NA
+37,"Christopher Long",60,"INDY",3750,"1685-077U4","M",2018,NA
+38,"Scott Eichhorn",64,"SCYM",3725,"0787-0AK3Z","M",2018,NA
+39,"Chuck Burr",61,"RIDG",3680,"2682-02G66","M",2018,NA
+40,"Andy Mascheroni",61,"TAM",3650,"388U-03SM3","M",2018,NA
+41,"Franklin Johnson",62,"NEM",3605,"028H-FDJJR","M",2018,NA
+42,"Michael Dilts",62,"INDY",3600,"168M-05GHY","M",2018,NA
+43,"Steven Erickson",61,"MICH",3585,"1984-028VP","M",2018,NA
+44,"Spencer Purinton",61,"NEM",3575,"0286-07M0Y","M",2018,NA
+45,"Thomas Kinnier",63,"MAAC",3560,"388K-0679N","M",2018,NA
+46,"Steve Reynolds",60,"DAM",3550,"3881-07KEV","M",2018,NA
+46,"Nicholas Solomon",61,"IM",3550,"218G-09PB4","M",2018,NA
+48,"Steve Kolis",63,"NEM",3545,"0283-01M7A","M",2018,NA
+49,"Carlos Glender",64,"NCMS",3540,"138E-083KG","M",2018,NA
+49,"Donald Tucker",64,"NICK",3540,"048G-01X74","M",2018,NA
+51,"Don Slovenkai",62,"NEM",3525,"028A-0346G","M",2018,NA
+52,"Bill Sweeney",61,"SFGG",3505,"388W-03VAR","M",2018,NA
+53,"Michael Quinn",62,"PVMA",3500,"388N-03G0X","M",2018,NA
+54,"Paul Edelman",62,"VMST",3495,"1288-034R8","M",2018,NA
+55,"Dan Meek",62,"UC16",3480,"168P-02AGD","M",2018,NA
+56,"Mike Taber",61,"PBM",3415,"5086-01MDG","M",2018,NA
+57,"Robert Hopkins",62,"BUMS",3410,"048K-09BRA","M",2018,NA
+58,"Sergio Silva",62,"TAM",3405,"388U-03JXM","M",2018,NA
+59,"Paul Speaker",63,"NICK",3350,"0481-0813C","M",2018,NA
+60,"Bart Hunter",62,"OREG",3340,"378H-0A543","M",2018,NA
+60,"Michael Malaney",64,"NICK",3325,"0484-06EXU","M",2018,NA
+62,"Michael Carlson",60,"SKY",3325,"418F-074PB","M",2018,NA
+63,"Mark Angelos",64,"LTOH",3305,"1789-0ATJ8","M",2018,NA
+64,"Thomas Grubb",63,"INDY",3290,"168F-084G7","M",2018,NA
+65,"Robert Dyer",62,"NEM",3245,"028K-035MU","M",2018,NA
+66,"George Alexandre",60,"NEM",3175,"028R-0ATWH","M",2018,NA
+67,"Martin Nadeau",62,"MICH",3150,"198M-0A98X","M",2018,NA
+67,"Kevin Hart",62,"UC12",3125,"128P-0B69U","M",2018,NA
+69,"Michael Joyce",62,"TAM",3125,"388U-03NRU","M",2018,NA
+70,"Lou Hill",60,NA,3115,NA,"M",2018,NA
+71,"Doug Irminger",64,"MARY",3110,"098W-091XZ","M",2018,NA
+72,"Gary Swenor",64,"DAM",3100,"388P-03F8N","M",2018,NA
+72,"Tom Shroyer",60,"DMST",3085,"408G-0A1DM","M",2018,NA
+74,"Walter Carter",63,"OREG",3085,"378J-05XRU","M",2018,NA
+75,"John Ryker",60,"TULS",3050,"278Z-0B4H9","M",2018,NA
+76,"Tom Sterk",64,"SCYM",3035,"078C-0B53J","M",2018,NA
+77,"Michael Pelfini",60,"TAM",3005,"388M-0A510","M",2018,NA
+78,"Johnny Alderman",60,"INDY",3000,"1682-09N2X","M",2018,NA
+79,"Steve Green",64,"INDY",2850,"1683-08693","M",2018,NA
+80,"Rupert Seals",61,"FINS",2785,"088Y-0224D","M",2018,NA
+81,"John Jameson",64,"INDY",2700,"1685-02A9B","M",2018,NA
+82,"Alan Hess",60,"PBM",2625,"508W-0AAEV","M",2018,NA
+83,"Steven Snitzer",63,"NEM",2515,"028F-0B7Y4","M",2018,NA
+84,"Mark Bolyen",63,"MICH",2380,"198N-0B7G5","M",2018,NA
+85,"Michael Boorstein",62,"TAM",2160,"388J-03KHZ","M",2018,NA
+1,"Larry Krauser",65,"SCM",4730,"358S-01MXU","M",2018,NA
+2,"William Reeves",65,"SALT",4725,"348N-0310P","M",2018,NA
+3,"Jim Clemmons",68,"SAWS",4710,"598U-03F93","M",2018,NA
+4,"Edward Borsuk",65,"O*H*",4595,"1881-082CM","M",2018,NA
+5,"Gordon Bell",66,"WCM",4525,"3889-03K0J","M",2018,NA
+6,"Bob Upshaw",69,"WCM",4240,"3889-B0BUP","M",2018,NA
+7,"Rick Wery",66,"BSMS",4220,"2481-01P6N","M",2018,NA
+8,"David Bright",65,"NEM",4190,"028A-033Y9","M",2018,NA
+9,"Michael Stephenson",66,"OREG",4185,"3785-026ZM","M",2018,NA
+10,"Bruce Gianniny",67,"ROCH",4180,"048N-01X2U","M",2018,NA
+10,"Tom Phipps",65,"OREG",4180,"378Z-075TR","M",2018,NA
+12,"Jack Martin",67,"1776",4125,"088B-0220V","M",2018,NA
+13,"Bill Ryan",68,"NEM",4120,"028B-06JH3","M",2018,NA
+14,"Kermit Yensen",65,"OREG",4025,"378K-025Y1","M",2018,NA
+15,"Thomas Perrin",68,"INDY",4020,"168T-02AA4","M",2018,NA
+16,"Scott Cochrane",66,"HOLY",3975,"028Z-07CFN","M",2018,NA
+17,"Allen Larson",65,"OREG",3930,"3786-05VZ3","M",2018,NA
+18,"Phillip Bly",65,"INDY",3875,"168R-02BBS","M",2018,NA
+19,"Mark Anderson",65,"IM",3805,"218D-02UAV","M",2018,NA
+20,"Mark Woerner",67,"DAM",3775,"3887-05GHM","M",2018,NA
+20,"James Tull",65,"TAM",3775,"388M-03HT5","M",2018,NA
+22,"John Foote",68,"TAM",3765,"388G-03F8V","M",2018,NA
+23,"Robert Durell",67,"ALB",3710,"388W-0804F","M",2018,NA
+24,"John Olander",68,"NEM",3695,"028Z-035MD","M",2018,NA
+25,"Paul Dow",65,"NEM",3680,"028H-0633Z","M",2018,NA
+26,"Tom Taylor",66,"BSMS",3660,"2485-07ZXY","M",2018,NA
+27,"David Lewis",67,"INDY",3650,"168P-02A9S","M",2018,NA
+28,"Marshall Kane",69,"ARIZ",3590,"4880-06XT6","M",2018,NA
+29,"Robert Huck",67,"ARIZ",3555,"488J-09T5F","M",2018,NA
+30,"David Gaines",65,"TSTT",3550,"338N-09102","M",2018,NA
+31,"Mark Rafferty",66,"NEM",3515,"028N-0A7NX","M",2018,NA
+32,"Philip Jonckheer",66,"TAM",3475,"388T-03K5W","M",2018,NA
+33,"Robert Lantz",67,"DAM",3445,"388D-03U42","M",2018,NA
+34,"Paul Krasnow",67,"NBPB",3425,"028F-0472H","M",2018,NA
+34,"Michael Garr",65,"NEM",3425,"028A-033VR","M",2018,NA
+36,"Bruce Schroeder",66,"SUSA",3400,"348F-088HG","M",2018,NA
+36,"Perry Heath",68,"INDY",3400,"168V-02A92","M",2018,NA
+38,"Douglas Smith",67,"NEM",3360,"028E-0472G","M",2018,NA
+39,"Steve Jordan",66,"FREM",3315,"388V-09GN1","M",2018,NA
+40,"Walter Woolley",69,"SFTL",3300,"508J-028N2","M",2018,NA
+40,"Ron Hansen",69,"PSM",3300,"3680-02MF6","M",2018,NA
+42,"Gregory Stoner",66,"DAM",3250,"388P-03GX8","M",2018,NA
+43,"Philip Houck",69,"GTX",3225,"438D-02R9Z","M",2018,NA
+44,"Douglas Soltis",65,"GSC",3220,"148U-02SS7","M",2018,NA
+45,"Jack Weinstein",68,"SFGG",3150,"388C-05GKA","M",2018,NA
+46,"Timothy Meyer",66,"INDY",3135,"1688-02BMS","M",2018,NA
+47,"Michael Carew",69,"OREG",3125,"378U-025XU","M",2018,NA
+48,"Arthur Russo",69,"PMST",3050,"5487-01HXB","M",2018,NA
+49,"Allen Kossoy",65,"MOVY",3045,"288P-01NRW","M",2018,NA
+50,"Masao Miyasaka",68,NA,3040,NA,"M",2018,NA
+51,"Bart Grimes",65,"NEM",3025,"028U-09P8B","M",2018,NA
+52,"Robert Emahiser",65,"ARIZ",2970,"488Y-0B701","M",2018,NA
+53,"Thomas Bidwell",65,"ROCH",2950,"048M-01X6F","M",2018,NA
+53,"John Kersten",66,"PMST",2950,"548A-01HXE","M",2018,NA
+55,"William Wheeler",68,"DAM",2900,"388C-04ZA2","M",2018,NA
+56,"Peter Flanagan",69,"NEM",2875,"028C-03452","M",2018,NA
+57,"John Anderson",68,"IM",2850,"218V-02UCY","M",2018,NA
+58,"Carlton Sundbeck",69,"MOST",2815,"438K-09ZNJ","M",2018,NA
+59,"Michael Kaufman",67,"PACM",2785,"248F-0B5WN","M",2018,NA
+60,"David Slagle",66,"WRCM",2670,"388V-091HW","M",2018,NA
+61,"Jeffrey Robertson",67,"NBPB",2565,"028Z-0771W","M",2018,NA
+62,"Michael Hauty",67,"OREG",2505,"3780-06MK9","M",2018,NA
+63,"Kevin Porter",66,"TAM",1715,"388T-03PTW","M",2018,NA
+64,"Kenneth Rausch",69,"UC03",1325,"5469-0617K","M",2018,NA
+3,"Hugh Wilder",71,"ARIZ",4285,"488W-01GWW","M",2018,NA
+4,"Carl Selles",71,"SPM",4250,"148M-030YY","M",2018,NA
+5,"Bob Bruce",70,"OREG",4205,"378F-025YX","M",2018,NA
+6,"Steve Johnson",70,"OREG",4115,"378X-0264Y","M",2018,NA
+7,"Steve Peterson",72,"PSM",4070,"368Z-02KVC","M",2018,NA
+8,"Pat Marzulli",70,"SPM",4015,"148J-02RMY","M",2018,NA
+9,"Daniel Rogacki",71,"NEM",3930,"028P-033XF","M",2018,NA
+10,"Donn Livoni",72,"BSMT",3895,"3183-025UR","M",2018,NA
+11,"Gary Parlapiano",71,"TAM",3860,"388Z-03H4R","M",2018,NA
+12,"Gregory Clarke",71,"COLE",3825,"168V-078RR","M",2018,NA
+13,"Robert Lesuer",70,"NEM",3670,"0289-0A90C","M",2018,NA
+14,"James Stambolis",71,"TAM",3640,"3887-03FUB","M",2018,NA
+15,"George McNee",70,"SCA",3575,"338R-0AJEG","M",2018,NA
+16,"David Putnam",74,"PBM",3515,"508N-076J4","M",2018,NA
+17,"Jon Rosenberg",70,"LNRS",3490,"388S-0A4X8","M",2018,NA
+18,"Emilio Sovero",70,"SCA",3450,"338M-TECHR","M",2018,NA
+19,"Ed Hunter",73,"SWOM",3400,"178W-0A47M","M",2018,NA
+20,"Richard Sutton",70,"LMAO",3380,"298J-01JC7","M",2018,NA
+21,"Thomas Spence",74,"O*H*",3375,"1883-01PFX","M",2018,NA
+22,"David Schumann",72,"TNAQ",3360,"158P-06554","M",2018,NA
+23,"Rusty Dague",70,"UC31",3335,"3181-0AUWW","M",2018,NA
+24,"Michael Kelber",71,"OREG",3300,"3787-07343","M",2018,NA
+25,"Kenneth Rugh",70,"MOST",3110,"4384-0A0PH","M",2018,NA
+26,"Hans Van Meeteren",74,"NCMS",3105,"138P-023NH","M",2018,NA
+27,"Jim Terry",74,"NEM",3100,"028W-0352D","M",2018,NA
+28,"Rick Meyerhoff",71,"TAM",3080,"3886-03N8M","M",2018,NA
+29,"John Foges",74,"OREG",3050,"378E-026R3","M",2018,NA
+30,"Glenn Johnson",70,"NEM",3040,"028W-09JCH","M",2018,NA
+31,"Terry Farmer",70,"NCMS",3025,"138V-0B9B2","M",2018,NA
+32,"Brad Tomlinson",74,"NEM",3015,"028F-033ZG","M",2018,NA
+33,"Lee Lovitz",73,"NEM",2995,"0283-033RW","M",2018,NA
+34,"Rob Broderick",72,"LPM",2960,"158E-03F10","M",2018,NA
+35,"Russ Burnette",71,"WRCM",2900,"3887-08765","M",2018,NA
+36,"Tom Martens",73,"DAM",2750,"3884-03M72","M",2018,NA
+37,"George Powch",71,"SCYM",2650,"078M-062NT","M",2018,NA
+38,"James Murphy",72,"NBPB",2635,"028P-0A4Z8","M",2018,NA
+39,"Ernst Schaefer",73,"NEM",2600,"028N-034G2","M",2018,NA
+40,"Alden Cockburn",71,"NMMS",2500,"428P-06KY1","M",2018,NA
+41,"Alan Fortier",70,"UC24",2475,"2481-0B80T","M",2018,NA
+42,"Richard Lubin",74,"TAOS",2300,"4289-09T6Y","M",2018,NA
+43,"Maurice O'Connell",72,"LPM",1775,"158P-0ARUB","M",2018,NA
+44,"Kenneth Ravioli",73,"SFTL",900,"508A-0A6EC","M",2018,NA
+1,"Richard Burns",75,"TAM",4105,"388M-BURNS","M",2018,NA
+2,"Bill Dawson",76,"MELO",3880,"388R-03HJW","M",2018,NA
+3,"Ralph Mohr",77,"OREG",3715,"378C-0261C","M",2018,NA
+4,"Larry Raffaelli",75,"VCM",3670,"338R-03B35","M",2018,NA
+5,"Thomas Manfredi",75,"NEM",3550,"028M-033DH","M",2018,NA
+6,"Dave Casebolt",77,"IM",3425,"218N-02UGS","M",2018,NA
+7,"Tom Tulenko",76,"1776",3345,"088H-0229G","M",2018,NA
+8,"Richard Hahn",76,"GTX",3310,"438J-03357","M",2018,NA
+9,"James Pope",76,"NEM",3290,"028P-01UJZ","M",2018,NA
+10,"Santiago Tapia Perez",79,"NEM",3200,"0284-0APME","M",2018,NA
+11,"John Spence",77,"OREG",3000,"378Z-06KMM","M",2018,NA
+12,"Glenn Wangdahl",76,"MARY",2955,"098T-01VWD","M",2018,NA
+13,"Patrick Cannan",78,"PBM",2935,"5081-07KE4","M",2018,NA
+14,"Rodger Bivens",77,"ARIZ",2880,"488Z-02FYC","M",2018,NA
+14,"John Woodsmall",75,"UC14",2880,"148M-0B512","M",2018,NA
+16,"Nicholas Ribush",77,"NEM",2855,"028P-07TUB","M",2018,NA
+17,"Jon Nelson",79,"CRUZ",2810,"388H-03FH2","M",2018,NA
+18,"George Coupe",78,"NEM",2805,"028X-C0UPE","M",2018,NA
+19,"Paul Templet",78,"TAOS",2800,"4281-01T80","M",2018,NA
+19,"Jack Fife",78,"INDY",2800,"168K-02AKK","M",2018,NA
+21,"Michael Manes",75,"1776",2780,"088P-0B7AG","M",2018,NA
+22,"Bob Ellis",75,"PACM",2775,"248K-0ARMY","M",2018,NA
+23,"John Warnke",75,"SUSA",2675,"348P-09TFG","M",2018,NA
+24,"Bill Mellow",77,"OREG",2545,"378Z-0265Y","M",2018,NA
+25,"John Roccabello",75,"NEM",2335,"0285-07N4D","M",2018,NA
+26,"Michael Hatchette",77,"NEM",2075,"0289-0304K","M",2018,NA
+27,"William Ragan",76,"FMM",950,"1480-FMMWR","M",2018,NA
+1,"David Radcliff",84,"OREG",3845,"378E-025V8","M",2018,NA
+2,"Barry Fasbender",81,"OREG",3350,"378Z-BARRY","M",2018,NA
+3,"Charles Mackall",83,"WFAC",3150,"128S-0364V","M",2018,NA
+4,"Robert Norris",80,"DAM",3045,"388W-03GE4","M",2018,NA
+5,"Robert Fewster",80,"UC38",2950,"388S-03K6Z","M",2018,NA
+6,"Pete Palmer",83,"LOCO",2925,"558X-01GXS","M",2018,NA
+7,"Jerry Marchbanks",83,"PBM",2875,"5082-02NH0","M",2018,NA
+8,"James Browne",80,"SYSM",2750,"1482-02RD2","M",2018,NA
+9,"David Gilmer",81,"DAM",2505,"388W-03GYM","M",2018,NA
+10,"Mel Goldstein",80,"INDY",2500,"168Z-1NDY1","M",2018,NA
+11,"George Thayer",82,"OREG",2295,"3785-025X2","M",2018,NA
+12,"Joseph O'Flaherty",84,"DAM",1750,"3886-040H0","M",2018,NA
+13,"Ken Fligsten",80,"MARY",1735,"0985-065VD","M",2018,NA
+14,"Marcelo Barreiro",84,"BUMS",1490,"048D-01X2M","M",2018,NA
+15,"Louis Schairer",84,"IM",1300,"218U-09V70","M",2018,NA
+16,"Joseph Lestingi",83,"LPM",1140,"1581-0AC5G","M",2018,NA
+17,"Jim Flora",84,"UC34",935,"348J-07S7D","M",2018,NA
+1,"Glenn Tewksbury",85,"ARIZ",3050,"4889-070K8","M",2018,NA
+2,"Robert Beach",88,"SPM",2940,"148P-02REM","M",2018,NA
+3,"Paul Kiell",88,"SCYM",2775,"0784-01Y25","M",2018,NA
+4,"Itamar Kutai",85,"NEM",2305,"028W-0336M","M",2018,NA
+5,"Tom Wilson",88,"NEM",1910,"0282-046J5","M",2018,NA
+6,"Thomas Weber",88,"NIAG",1890,"0489-01X8P","M",2018,NA
+1,"John Collings",91,"MARY",1525,"0987-01V2W","M",2018,NA
+1,"Willard Lamb",96,"OREG",2830,"378D-026V7","M",2018,NA
+1,"Madeline Bruce",24,"IM",4925,"218U-09DA1","W",2018,NA
+2,"Danielle Miller",22,"OREG",4535,"3789-0B228","W",2018,NA
+3,"Tiffany Chen",24,"NEM",4345,"028W-09VGD","W",2018,NA
+4,"Caitlin Gagnon",24,"PCY",4265,"1780-0ANR8","W",2018,NA
+5,"Grace Ronca",21,"UC08",4135,"0888-0AZCG","W",2018,NA
+6,"Rachel Kappeler",22,"INDY",4075,"168X-0B2ZN","W",2018,NA
+7,"Ellie Prinster",24,"MOST",4070,"438U-0AV50","W",2018,NA
+8,"Danielle Dattilio",24,"INDY",3800,"168V-0B193","W",2018,NA
+8,"Jenna Magnan",22,"SFGG",3800,"388U-0B6HW","W",2018,NA
+10,"Selene San-Felice",23,"MARY",3400,"0987-0B5NG","W",2018,NA
+11,"Elisabeth Rexroth",21,"COLE",3275,"168E-0APFM","W",2018,NA
+12,"Allison Johnston",23,"PMST",3075,"548S-0ABZR","W",2018,NA
+13,"Dakota DeCaire",19,"OREG",2375,"378G-0B965","W",2018,NA
+1,"Lauren Matevish",27,"NASH",5040,"1585-0AGKF","W",2018,NA
+2,"Kate Stephensen",29,"VMST",4860,"128G-06ZS2","W",2018,NA
+3,"Heather Iwasaki",28,"UHM",4800,"398W-091KW","W",2018,NA
+4,"Lindsay Gaudinier",29,"WCM",4775,"3882-06NAP","W",2018,NA
+5,"Valerie Thorp",27,"CRUZ",4725,"388J-0793E","W",2018,NA
+6,"Kaitlin Wilcoxen",27,"NEM",4675,"028W-0B27Y","W",2018,NA
+7,"Cailee Caldwell",29,"OREG",4650,"378F-080SJ","W",2018,NA
+7,"Sarah Schaefer",28,"NICK",4650,"0487-0B3J2","W",2018,NA
+9,"Alana Aubin",28,"NEM",4630,"028E-07TSR","W",2018,NA
+10,"Madeline Gilbert",26,"NEM",4510,"0288-08A8G","W",2018,NA
+11,"Ryan Streicker",29,"IM",4430,"2183-0A5F4","W",2018,NA
+12,"Kristina Miller",28,"AKMS",4300,"5684-0AG4S","W",2018,NA
+13,"Lara Gruden",28,"DDSA",4220,"488Z-05YCG","W",2018,NA
+14,"Kathryn Happe",27,"VACA",4150,"388E-HAPPE","W",2018,NA
+15,"Laura Richards",29,"PBM",3885,"5089-0AK3M","W",2018,NA
+16,"Kay Mynatt",29,"INDY",3800,"168F-0B0JF","W",2018,NA
+16,"Haley Arnold",29,"COLE",3800,"168W-076WC","W",2018,NA
+18,"Guro Lindgren",26,"BOZE",3745,"318N-0ABK4","W",2018,NA
+19,"Lindsay Day",28,"NEM",3715,"0281-0A3V3","W",2018,NA
+20,"Lia Sacks",29,"CMYM",3700,"0982-07Z2U","W",2018,NA
+21,"Victoria Kirkman",26,"SPM",3625,"1486-09CC9","W",2018,NA
+22,"Tricia Baldwin",28,"SKY",3390,"418G-06XAE","W",2018,NA
+23,"Natalie Potts",28,"WWM",3315,"358H-09TA1","W",2018,NA
+24,"Andrea Morato",28,"GTX",3040,"4387-0AZXC","W",2018,NA
+25,"Catherine Brown",26,"INDY",3000,"168S-0B30W","W",2018,NA
+26,"Lauren Sager",29,"NBPB",2605,"028T-0AU57","W",2018,NA
+1,"Emily Parker",33,"SDSM",4930,"448E-05W50","W",2018,NA
+2,"Annie Ferguson",32,"PCY",4890,"178U-0626M","W",2018,NA
+3,"Kendra Hogg",31,"VMST",4820,"128B-09RSH","W",2018,NA
+4,"Sarah Dombrowski",30,"NEM",4650,"028S-0824W","W",2018,NA
+5,"Loriann Emory",32,"SCA",4600,"3389-05W8K","W",2018,NA
+6,"Amanda Olsen",30,"TNAQ",4455,"158V-06NZU","W",2018,NA
+7,"Christina Yeoman",30,"SKY",4415,"418W-05HRS","W",2018,NA
+7,"Molly Brown",32,"BUMS",4415,"0488-088F6","W",2018,NA
+9,"Megan Tosh",33,"OREG",4410,"3789-09JSX","W",2018,NA
+10,"Jing Li",30,"SMM",4300,"388P-J1NG6","W",2018,NA
+10,"Maki Moore",33,"BWAQ",4300,"368D-087U0","W",2018,NA
+12,"Jenny Rood",33,"NEM",4285,"028C-06HVF","W",2018,NA
+13,"Regina Novak",34,"SPM",4270,"148J-05J01","W",2018,NA
+14,"Kathleen Pelczynski",33,"NCMS",4220,"138M-06W4X","W",2018,NA
+15,"Lindsey Curley",30,"DAM",4215,"388M-06YTD","W",2018,NA
+16,"Amy Charley",33,"VMST",4210,"128J-061BG","W",2018,NA
+17,"Sara DiNardo",32,"NEM",4200,"0288-093K4","W",2018,NA
+18,"Nicole Bott",33,"MOST",4090,"438V-08EEJ","W",2018,NA
+19,"Alexandra Thomas",31,"PBM",4015,"5085-02U3G","W",2018,NA
+20,"Nikki Moore",32,"DAM",3975,"388V-09KX6","W",2018,NA
+20,"Lisa Rauschert",31,"NEM",3975,"028G-084B8","W",2018,NA
+22,"Uliana Long",33,"MERR",3935,"098N-0AVUV","W",2018,NA
+22,"Hannah Plimpton",33,"1776",3935,"0882-05XZT","W",2018,NA
+24,"Keira McElligott",32,"SFGG",3850,"388K-09ZE4","W",2018,NA
+24,"Sarah Swoch",33,"SPM",3850,"148U-02TVT","W",2018,NA
+26,"Jennifer Lake",34,"GTX",3840,"4383-0AWAA","W",2018,NA
+27,"Victoria Bolf",33,"IM",3825,"218U-06TMW","W",2018,NA
+28,"Leah Harris",33,"OREG",3760,"378A-0B4PW","W",2018,NA
+29,"Jennifer Passafiume",33,"NEM",3750,"028A-0A8XV","W",2018,NA
+30,"Grace Ogawa",31,"OREG",3700,"3789-0AREY","W",2018,NA
+30,"Erika Sutton",31,"INDY",3700,"168M-09ZWF","W",2018,NA
+32,"Margot McKirdy",32,"OREG",3660,"378N-0ASKC","W",2018,NA
+33,"Christine Mellen",32,"NEM",3545,"0280-083RE","W",2018,NA
+34,"Beth Fehr",34,"NEM",3270,"0287-0ARJY","W",2018,NA
+35,"Maggie Matthews",31,"UC15",3150,"158Y-0ATNC","W",2018,NA
+36,"Edith Hannigan",31,"DAM",3100,"3884-07TXP","W",2018,NA
+37,"Sarah Johnson",30,"SYSM",3050,"1485-0APJ3","W",2018,NA
+38,"Eva Horne",33,"UC32",2900,"3289-0A714","W",2018,NA
+1,"Ashley Whitney",39,"NASH",5215,"158B-021RZ","W",2018,NA
+2,"Sandra Frimerman Bergquist",35,"HOPK",4945,"308B-04TAE","W",2018,NA
+3,"Heather Frees",35,"NCMS",4800,"138A-05P9Y","W",2018,NA
+3,"Joni Williamson",37,"INDY",4800,"1686-02AUW","W",2018,NA
+5,"Kellie McCaffery",37,"ROCH",4765,"0484-0719J","W",2018,NA
+6,"Megan Peterson",35,"PMST",4615,"548R-046CK","W",2018,NA
+7,"Robyn Glaser",37,"SCYM",4555,"0783-0A3TE","W",2018,NA
+8,"Melinda Williams",37,"NEM",4520,"0282-035DF","W",2018,NA
+9,"Maggie Trujillo",35,"OREG",4485,"378P-0B562","W",2018,NA
+10,"Diane Leith Doucett",36,"NEM",4480,"0281-06M9Z","W",2018,NA
+11,"Allison Ware",38,"NASH",4350,"158F-0650C","W",2018,NA
+12,"Heather Raley",37,"MERR",4270,"098G-0B3W8","W",2018,NA
+13,"Shizuka Schwartz",35,"RIPT",4240,"3388-0B4DN","W",2018,NA
+14,"Jillian Beveridge",38,"NEM",4125,"028F-0A20A","W",2018,NA
+15,"Jessica Hargis",39,"NCMS",4070,"138P-09UWR","W",2018,NA
+16,"Meredith Haas",35,"NEM",3905,"028D-0AUN5","W",2018,NA
+17,"Rebecca Latimer",36,"VMST",3900,"128P-023UP","W",2018,NA
+18,"Courtney Carlson",39,"MARY",3865,"098U-04TG8","W",2018,NA
+19,"Katherine Bradley",39,"NEM",3830,"0281-09RZP","W",2018,NA
+20,"Amanda Callahan",36,"OREG",3825,"378R-06JB5","W",2018,NA
+21,"Marianne Teixeira",35,"NEM",3795,"028Y-07J6S","W",2018,NA
+22,"Tralee Thorn",36,"OREG",3765,"3789-0A9ED","W",2018,NA
+23,"Kelly Riedinger",39,"NASH",3750,"1584-02HHH","W",2018,NA
+24,"Cari Talbot",37,"SWS",3710,"028V-0B5F4","W",2018,NA
+25,"Rebecca Gardiner",37,"SMM",3690,"388G-0B638","W",2018,NA
+26,"Amanda Shannon",35,"GTX",3670,"438N-0B6TD","W",2018,NA
+27,"Serafina Sumargo",38,"CONN",3635,"0586-0AN12","W",2018,NA
+28,"Sara Chapman",37,"IM",3620,"218W-08BZK","W",2018,NA
+29,"Kendra Oehlerich",36,"NCMS",3585,"138N-07B6Z","W",2018,NA
+30,"Sabrina Herrera",39,"ALB",3575,"3884-0AUD8","W",2018,NA
+31,"Erin Tyler",39,"BWAQ",3550,"368W-05GXR","W",2018,NA
+32,"Jenny Weaver",38,"INDY",3500,"168U-02B0T","W",2018,NA
+33,"Christina Hitchcock",36,"SFTL",3480,"508Z-061JZ","W",2018,NA
+34,"Alicia Beebe",37,"MOVY",3415,"2880-0B95F","W",2018,NA
+35,"Shelley Leymaster",37,"OREG",3305,"378B-0AMW2","W",2018,NA
+36,"Esther Rincon",37,"DAM",3300,"388V-09VUB","W",2018,NA
+37,"Tanya Baxter",39,"OREG",3250,"378S-0AGK1","W",2018,NA
+38,"Genny White",35,"GSC",3220,"1489-0726B","W",2018,NA
+39,"Laura Huebner",38,"UC02",3185,"0287-0B42J","W",2018,NA
+40,"Anne Clinton",36,"INDY",3150,"168Z-08AJX","W",2018,NA
+41,"Annie Muske Dukes Driggs",35,"OREG",3145,"3781-071YT","W",2018,NA
+42,"Heather Meadors",36,"THT",3075,"168Z-08DRE","W",2018,NA
+43,"Krystal Seibert",36,"MICH",2970,"198E-0B7R8","W",2018,NA
+44,"Rachel Foote",36,"TAM",2825,"388D-01MWD","W",2018,NA
+45,"Laura Lirette",39,"OREG",2750,"378A-0B417","W",2018,NA
+46,"Amy Hill",36,"THOR",2650,"328J-0AP55","W",2018,NA
+46,"Erin Flater",39,"DMST",2650,"408Y-0B814","W",2018,NA
+48,"Melody Harris",39,"MOST",2440,"4382-0B62S","W",2018,NA
+49,"Molly Jackson",36,"INDY",2300,"168Z-08DSG","W",2018,NA
+1,"Tesla Profumo",41,"CRUZ",4890,"388S-068K7","W",2018,NA
+2,"Kysa Crusco",42,"NEM",4800,"028E-07Z08","W",2018,NA
+3,"Stacey Bruce",44,"PALM",4775,"558M-01HAD","W",2018,NA
+4,"Stacy Sweetser",43,"NEM",4660,"0285-036UY","W",2018,NA
+5,"Michelle McRae",43,"PSM",4575,"3685-04FBZ","W",2018,NA
+6,"Kate Elliott",42,"DMST",4530,"4086-097X9","W",2018,NA
+7,"Kristina Maroudis",43,"SDSM",4510,"448T-06PM8","W",2018,NA
+8,"Wendy Peterson",44,"MINN",4500,"308X-0256V","W",2018,NA
+9,"Eileen Epley",43,"UAR",4425,"1782-07CG9","W",2018,NA
+10,"Sarah Landrum",40,"PSM",4395,"368V-099B2","W",2018,NA
+11,"Veronica Flanagan",41,"CRUZ",4295,"388T-03JCM","W",2018,NA
+12,"Amanda Cross",42,"OREG",4240,"3786-0APBU","W",2018,NA
+13,"Mina Whitmer",40,"BSMS",4225,"2487-D0C13","W",2018,NA
+14,"Stacey Ostrin",41,"OREG",4195,"378A-085N6","W",2018,NA
+15,"Paola Morchio",42,"SCYM",4175,"078X-06JNF","W",2018,NA
+16,"Jessica Lehman",42,"UC13",4165,"1382-0A523","W",2018,NA
+17,"Mary Colby",40,"NICK",4085,"048G-06CBF","W",2018,NA
+18,"Marrie Argentine Chen",40,"DAM",4000,"3881-03ZX9","W",2018,NA
+19,"Rachel Rivera",40,"UC16",3990,"168K-RAE78","W",2018,NA
+20,"Kate Ufford",43,"PBM",3985,"5086-09ES7","W",2018,NA
+21,"Ellen Ryan",44,"SCYM",3825,"078G-0A35Z","W",2018,NA
+22,"Jennifer Jones",42,"MOST",3790,"4385-096DK","W",2018,NA
+23,"Melissa Mcintosh",43,"SCA",3635,"338J-03ATH","W",2018,NA
+24,"Shane Baker",40,"IM",3625,"218V-083P3","W",2018,NA
+24,"Dara Ono",40,"OREG",3625,"378W-0927F","W",2018,NA
+26,"Marlis Sidletsky",43,"PALM",3590,"558S-05P2K","W",2018,NA
+27,"Nicole Bassett",41,"OREG",3585,"378J-061PN","W",2018,NA
+28,"Jennifer Macri",43,"PBM",3565,"508N-0B58G","W",2018,NA
+29,"Emily Stone",40,"NEM",3550,"028S-0925E","W",2018,NA
+30,"Melinda Sulewski",41,"RCA",3530,"1282-01Y76","W",2018,NA
+31,"Lauren Diemar",40,"SCYM",3525,"078R-0AMM6","W",2018,NA
+32,"Kathryn Barbee",42,"INDY",3450,"168R-02B96","W",2018,NA
+32,"Elizabeth Warren",42,"INDY",3450,"168N-02AAT","W",2018,NA
+32,"Juliet Port",43,"INDY",3450,"168P-02B1Z","W",2018,NA
+32,"Megan Stolarski",40,"SCYM",3450,"078R-0AD0T","W",2018,NA
+32,"Elizabeth Kelsey",42,"NEM",3450,"028H-04SBG","W",2018,NA
+37,"Ann-Michelle Michelle",44,"WCM",3445,"388J-MB511","W",2018,NA
+38,"Patricia Cummings",42,"MERR",3440,"098R-01VZJ","W",2018,NA
+39,"Hillary Morris",43,"PBM",3435,"5085-095WK","W",2018,NA
+40,"Shelly Jones",43,"OREG",3375,"378S-09PF6","W",2018,NA
+41,"Karen Horiszny",43,"INDY",3350,"1684-0B5CV","W",2018,NA
+42,"Victoria King",42,"NCMS",3335,"138S-0AUNZ","W",2018,NA
+43,"Megan Gordon",40,"DAM",3285,"388A-03V2C","W",2018,NA
+44,"Catherine Brunell",42,"NEM",3275,"028X-0A84K","W",2018,NA
+45,"Jennifer Stewart",42,"NEM",3200,"028M-0A8F7","W",2018,NA
+46,"Jody Shoup",42,"SKY",3195,"4188-093XY","W",2018,NA
+47,"Jen Morin",44,"NEM",3175,"028J-07X2P","W",2018,NA
+48,"Susan Harrison",44,"UC12",3120,"1283-074EZ","W",2018,NA
+49,"Annika Graveline",41,"TCAM",3030,"388S-0A3FX","W",2018,NA
+50,"Michie Anderson",41,"TCAM",3020,"388M-07ZCZ","W",2018,NA
+51,"Kara Baxter",44,"PBM",3000,"508D-09XJC","W",2018,NA
+52,"Cassie Schermbeck",42,"GTX",2860,"438R-0B1MV","W",2018,NA
+53,"Eryn Kehe",44,"OREG",2775,"378Y-0APGH","W",2018,NA
+54,"Dana McKenna",42,"MOST",2760,"438Z-09MC8","W",2018,NA
+55,"Jennifer Groskin",42,"NBPB",2750,"0287-0B7YC","W",2018,NA
+56,"Natalia Vaganova",43,"IM",2700,"2181-SMART","W",2018,NA
+56,"Christie Petersen",40,"INDY",2700,"168W-09G8H","W",2018,NA
+58,"Stephanie Tsao",44,"SFGG",2520,"388R-0A3P4","W",2018,NA
+59,"Meg Augustine",40,"UC21",2400,"218D-0AHAD","W",2018,NA
+1,"Dana Gianniny",49,"ROCH",5010,"0481-01X7C","W",2018,NA
+2,"Jayna Tomac",46,"OREG",4770,"378H-05EJN","W",2018,NA
+3,"Anne Cappola",49,"1776",4690,"088N-022E0","W",2018,NA
+4,"Cynthia Hertzer",49,"CRUZ",4595,"3883-CHSWM","W",2018,NA
+5,"Jill Lancaster",45,"NEM",4580,"028U-080ZP","W",2018,NA
+6,"Alexandra Nieto",46,"SKY",4575,"4186-01WFC","W",2018,NA
+7,"Merin Troutman",45,"UC05",4550,"058J-01SAF","W",2018,NA
+8,"Paula Texel",48,"SPM",4545,"148C-0625D","W",2018,NA
+9,"Hannah Borgeson",46,"TNYA",4465,"0687-02Z4P","W",2018,NA
+10,"Kristin Wilkes White",47,"NEM",4420,"028P-033SB","W",2018,NA
+11,"Tamara Koppelberger",46,"PSM",4415,"368P-09UES","W",2018,NA
+12,"Dale LeClair",49,"HAFL",4350,"5089-02D6N","W",2018,NA
+13,"Tracy Knight",46,"INDY",4205,"168E-02AKX","W",2018,NA
+14,"Martha Towers",47,"MOST",4200,"438A-005M6","W",2018,NA
+15,"Marci Herron",45,"NCMS",4150,"138G-0B7BJ","W",2018,NA
+16,"Melinda Wight",47,"MOST",4115,"438M-09MYN","W",2018,NA
+17,"Linda Robinson",48,"AAAA",4075,"438N-0B0CP","W",2018,NA
+18,"Cheryl Morgen",49,"OREG",4065,"378B-026FA","W",2018,NA
+18,"Heather Lugassy",48,"TAM",4065,"3885-03K63","W",2018,NA
+20,"Catharine Cebrowski",48,"MOST",4040,"438H-06P0P","W",2018,NA
+21,"Meredith Dooley",49,"NASH",4000,"158E-0ATJE","W",2018,NA
+21,"Lynne Bir",47,"INDY",4000,"1687-02BBZ","W",2018,NA
+21,"Michelle Harter",48,"INDY",4000,"168Y-02AHR","W",2018,NA
+24,"Aileene Palm",46,"NEM",3980,"028H-033F7","W",2018,NA
+25,"Robin Evans Kremer",48,"DDSA",3975,"488F-082MX","W",2018,NA
+26,"Bori Mazzag",45,"HUMM",3960,"3882-0056A","W",2018,NA
+27,"Linda Marvin",45,"INDY",3950,"1689-02BHP","W",2018,NA
+27,"Tia Tolk",47,"PMST",3950,"548C-0B5JY","W",2018,NA
+29,"Sharon Byun",49,"GSC",3850,"148J-081Z3","W",2018,NA
+30,"Barbara Kerby",46,"BSMS",3825,"2487-BETTY","W",2018,NA
+31,"Tracy Williams",46,"PBM",3820,"508Y-09DRD","W",2018,NA
+32,"Kathy Pelletier",48,"INDY",3800,"168X-07J6V","W",2018,NA
+33,"Jessica Rapp",49,"NEM",3775,"0285-0478X","W",2018,NA
+34,"Jennifer Banning",47,"O*H*",3700,"188H-01PJN","W",2018,NA
+34,"Laura DeVito",46,"SCYM",3700,"078V-0B1S9","W",2018,NA
+36,"Kathy Farrell Guizar",46,"WWM",3625,"358R-07HUJ","W",2018,NA
+37,"Julie Smith",45,"NEM",3610,"0289-085M1","W",2018,NA
+38,"Jodi Ready",47,"OREG",3595,"378J-06HZY","W",2018,NA
+39,"Carin Zinter",45,"HOLY",3575,"0287-03419","W",2018,NA
+40,"Jane Urban",49,"UC02",3550,"028T-0A60N","W",2018,NA
+41,"Maryann Collins",46,"MARY",3540,"098F-01VE0","W",2018,NA
+42,"Monica Cohen",45,"UC02",3525,"028K-0ATTJ","W",2018,NA
+42,"Julie Vandenbark",47,"INDY",3525,"1682-02AGY","W",2018,NA
+42,"Jeraine Ketchem",45,"PBM",3525,"5089-07P93","W",2018,NA
+45,"Ingrid Bon",48,"PBM",3500,"5086-07ZM1","W",2018,NA
+45,"Sarah Early",47,"THOR",3500,"328T-07ADE","W",2018,NA
+47,"Jennifer Scott",46,"CMYM",3490,"098E-0909Y","W",2018,NA
+48,"Barbara Miltner",47,"DAM",3435,"388D-07SXH","W",2018,NA
+49,"Jennifer Thuillier",49,"SCA",3425,"338P-05J4G","W",2018,NA
+49,"Cynthia Lindeman",49,"INDY",3425,"168R-0A61V","W",2018,NA
+51,"Windy Tuttle",46,"UC36",3400,"368M-0A7XE","W",2018,NA
+52,"Jennifer Graham",47,"BSMS",3395,"2480-0B4V4","W",2018,NA
+53,"Kelly Wire",49,"INDY",3320,"168V-0APH5","W",2018,NA
+54,"Lynette Kenney",48,"NBPB",3310,"0286-0ARD8","W",2018,NA
+55,"Lucrecia Ceruti",48,"DAM",3290,"388C-0854A","W",2018,NA
+56,"Gretchan Jackson",46,"OREG",3275,"3787-0ANSU","W",2018,NA
+57,"Stefanie Carter",46,"NEM",3160,"0284-034EK","W",2018,NA
+58,"Stephanie Cotsonas",48,"NEM",3150,"0280-061XN","W",2018,NA
+58,"Judy Porter",47,"INDY",3150,"1689-063EY","W",2018,NA
+58,"Shirlene Gonzalez",49,"OREG",3150,"3788-07ZJ5","W",2018,NA
+61,"Kimberly Trager Bohley",45,"INDY",3125,"1687-07VPE","W",2018,NA
+62,"May Barton",49,"SKY",3115,"418J-0B12M","W",2018,NA
+63,"Jessica Graff",45,"SCYM",3065,"0784-07HH7","W",2018,NA
+64,"Tiffany McQueen",46,"UC43",3060,"4389-0830W","W",2018,NA
+64,"Eva Dopico Serantes",46,"DAM",3060,"388B-03N4P","W",2018,NA
+66,"Jeanne Littlefield",47,"NEM",3050,"028Z-0ASB7","W",2018,NA
+66,"Karen LoGiudice",49,"NEM",3050,"0281-09RAG","W",2018,NA
+68,"Laura Smoot",49,"DAM",3040,"388P-0AY4A","W",2018,NA
+69,"Meg Alberts",45,"INDY",3000,"168D-02AZ8","W",2018,NA
+69,"Christa Sumwalt",45,"NCMS",3000,"138V-0960A","W",2018,NA
+71,"Muffin Camp",49,"MOST",2990,"438A-05F0Z","W",2018,NA
+72,"Jennifer Guirl",48,"MOST",2960,"438J-04KSA","W",2018,NA
+73,"Sara Marcellino",47,"ALB",2925,"388N-09N3J","W",2018,NA
+74,"Stephanie Debner",45,"OREG",2850,"3780-0AHGD","W",2018,NA
+75,"Nazanin Kobari Ghotbi",48,"DDSA",2700,"4887-068DP","W",2018,NA
+75,"Amy Lathrop",45,"INDY",2700,"1686-080NP","W",2018,NA
+75,"Iulia Cole",49,"SCYM",2700,"078T-0A642","W",2018,NA
+78,"Allison Espinosa",47,"MOST",2690,"4382-076UV","W",2018,NA
+79,"Lilian Otterbach",49,"MOST",2620,"438G-0AW5T","W",2018,NA
+80,"Yumei Guo",48,"SCYM",2550,"078X-0AR1B","W",2018,NA
+81,"Stephanie Vore Apple",49,"SWS",2295,"0280-0A66X","W",2018,NA
+1,"Laurie Hug",53,"1776",5040,"088G-0226X","W",2018,NA
+2,"Victoria Rian",52,"NAST",4890,"168S-02AD8","W",2018,NA
+3,"Charlotte Brynn",52,"NEM",4645,"028E-034BA","W",2018,NA
+4,"Mary Walton",52,"NEM",4625,"028M-08471","W",2018,NA
+5,"Deena Esparza",53,"SCA",4625,"3382-08F15","W",2018,NA
+6,"Susie Shuck",53,"INDY",4600,"1682-02AMJ","W",2018,NA
+7,"Carrie Kirk",50,"INDY",4545,"168K-04R2S","W",2018,NA
+8,"Charlotte Petersen",54,"SPM",4525,"148K-02RF8","W",2018,NA
+9,"Leslie Biegler Ciaccio",51,"IM",4510,"2187-0A2JC","W",2018,NA
+10,"Cecilia Emblidge",54,"NEM",4460,"0281-062W3","W",2018,NA
+11,"Gillian Langton",51,"NEM",4350,"0282-0078P","W",2018,NA
+12,"Stephanie Adcock",52,"NASH",4350,"158U-081T9","W",2018,NA
+13,"Cheryl Kupan",54,"SPM",4345,"148R-01SAD","W",2018,NA
+14,"Jayette Pettit",51,"UC37",4345,"3780-0A8HS","W",2018,NA
+15,"Pia Walsh",54,"AAAA",4300,"438N-0A04E","W",2018,NA
+16,"Elizabeth Lucco",52,"PSM",4275,"368X-02KK5","W",2018,NA
+17,"Donna Neuendorf",50,"NEM",4275,"028Z-0359H","W",2018,NA
+18,"Detra Cleven",50,"KAC",4275,"1586-SW1M8","W",2018,NA
+19,"Marcia Cleveland",54,"IM",4260,"218N-MC944","W",2018,NA
+20,"Paula Pardy",50,"PMST",4235,"5483-PKP27","W",2018,NA
+21,"Dawn Clark",54,"SPM",4210,"148M-05VRX","W",2018,NA
+22,"Toni Hecksel",52,"OREG",4195,"378G-0261S","W",2018,NA
+23,"Marta Bechhoefer",51,"CRUZ",4195,"388S-03PWF","W",2018,NA
+24,"Cathy Gainor",51,"ANCM",4190,"108R-037TJ","W",2018,NA
+25,"Emma Garforth",50,"DAM",4180,"3884-06SFT","W",2018,NA
+26,"Livia Zien",52,"SPM",4165,"148C-02RN5","W",2018,NA
+27,"Rachel Stutsman",52,"INDY",4150,"168Z-09SYW","W",2018,NA
+28,"Jessie Mock",50,"INDY",4150,"168D-033PP","W",2018,NA
+29,"Brenda McLuskie",52,"NCMS",4150,"138W-00600","W",2018,NA
+30,"Elizabeth Lowe",53,"TAM",4130,"388X-03PVT","W",2018,NA
+31,"Karen Westerman",51,"SPM",4075,"148G-02RX6","W",2018,NA
+32,"Karen Simontacchi Brisson",50,"TAM",4070,"3889-03H68","W",2018,NA
+33,"Tiitta Elias",51,"MOST",3985,"438K-02PPN","W",2018,NA
+34,"Carolyn Kiely Kilpatrick",54,"NEM",3975,"0281-072DN","W",2018,NA
+35,"Lynne Czech",51,"NEM",3915,"028G-005K7","W",2018,NA
+36,"Jennifer Phalen",54,"DAM",3860,"388A-JENNY","W",2018,NA
+37,"Anne Marie Gladding",50,"MICH",3815,"198P-0AP03","W",2018,NA
+38,"Avery Dickins deGiron",50,"NASH",3775,"1587-09HGB","W",2018,NA
+39,"Barbara Lincoln",53,"MOST",3710,"438G-0A8RY","W",2018,NA
+40,"Suzanne Towne",53,"NEM",3710,"028X-08279","W",2018,NA
+41,"JoEllen DeCamp",53,"COLE",3670,"168Z-0B6TA","W",2018,NA
+42,"Jennifer Barlow",52,"NEM",3660,"028D-06F3A","W",2018,NA
+43,"Jill Swavely",52,"1776",3650,"088W-085DV","W",2018,NA
+44,"Julie Hall",54,"OREG",3640,"3780-0B7SG","W",2018,NA
+45,"Leigh-Ann Hirschman",50,"INDY",3625,"168F-09YBB","W",2018,NA
+46,"Jonell Smith",50,"NASH",3600,"1583-07C7G","W",2018,NA
+47,"Kathy Magovern",50,"NEM",3600,"028B-08FKU","W",2018,NA
+48,"Elisa D'Andrea",54,"NEM",3595,"028Y-083S9","W",2018,NA
+49,"Rhonda Bershok",54,"ALEX",3585,"1089-06NNC","W",2018,NA
+50,"Polly Volski",54,"PCY",3560,"1787-0B0DA","W",2018,NA
+51,"Yumiko Luke",53,"SAWS",3530,"598F-09XTD","W",2018,NA
+52,"Gillian Salton",50,"OREG",3530,"378J-05G96","W",2018,NA
+53,"Kay Yoong",54,"SMM",3525,"388M-084DC","W",2018,NA
+54,"Sybille Rex",50,"NEM",3500,"0283-0ABEK","W",2018,NA
+55,"Rebecca Perry",50,"NEM",3490,"0281-02FH6","W",2018,NA
+56,"Amanda Spellman",52,"NBPB",3475,"028V-0472E","W",2018,NA
+57,"Angela Fadlovich",52,"OREG",3460,"378N-0731V","W",2018,NA
+58,"Daphne Elliott",50,"SYSM",3450,"148D-096KB","W",2018,NA
+59,"Lisa Jones",54,"PALM",3450,"558J-09880","W",2018,NA
+60,"Julie Disilvestro",53,"NEM",3425,"028T-06M6B","W",2018,NA
+61,"Anne Hurley",51,"INDY",3400,"168Z-0B4RU","W",2018,NA
+62,"Kathleen Heapy",53,"OLD1",3400,"1580-0A65N","W",2018,NA
+63,"Cheryl Mehringer",51,"INDY",3375,"1689-072JK","W",2018,NA
+64,"Cathy Goodwin",53,"PBM",3355,"508M-08CWV","W",2018,NA
+65,"Mary Kutcher",52,"NEM",3320,"028R-0A5MW","W",2018,NA
+66,"Laura Evans",54,"UC12",3285,"1286-033N5","W",2018,NA
+67,"Maria Delton",53,"IM",3275,"2181-0AKMA","W",2018,NA
+68,"Jane Hutzol",54,"DKTA",3250,"528P-06G41","W",2018,NA
+69,"Kristine Hoag",54,"NEM",3250,"028G-07NEU","W",2018,NA
+70,"Theresa Allison",50,"DDSA",3235,"488P-06M8H","W",2018,NA
+71,"Mathilda Ravine",52,"OLD1",3235,"1583-09N8W","W",2018,NA
+72,"Denise Lavin",51,"O*H*",3230,"188T-07720","W",2018,NA
+73,"Christina Halioris",50,"SKY",3225,"418D-0B5AF","W",2018,NA
+74,"Jane Schwechheimer",52,"NEM",3210,"028S-0AVCD","W",2018,NA
+75,"Sarah Camp",50,"SKY",3205,"4185-09KV9","W",2018,NA
+76,"Colleen Toumayan",52,"TSTT",3200,"338E-08DSU","W",2018,NA
+77,"Alicia Geth",51,"PBM",3175,"508J-089UX","W",2018,NA
+78,"Sue Langley",53,"SAWS",3150,"598W-0B8DP","W",2018,NA
+79,"Yeonjoo Lee",52,"OREG",3150,"378H-0B6NP","W",2018,NA
+80,"Flavia Medlin",51,"O*H*",3130,"188J-02RHK","W",2018,NA
+81,"Marilyn Soraghan",52,"NEM",3120,"0286-04718","W",2018,NA
+82,"Christi Garcia",52,"INDY",3110,"168P-04R26","W",2018,NA
+83,"Amy Jones",53,"SAWS",3100,"5988-0AZ30","W",2018,NA
+84,"Susan Smith",54,"PBM",3075,"508H-0A55G","W",2018,NA
+85,"Wendy Gannett",52,"HOLY",3005,"028M-0B5AN","W",2018,NA
+86,"Laura Hays",54,"INDY",3000,"1683-04R16","W",2018,NA
+87,"Deborah Pearson",52,"NMMS",2980,"428U-098DA","W",2018,NA
+88,"Kimberly Raymond",52,"NEM",2960,"028W-08214","W",2018,NA
+89,"Susan Schroeder",50,"BSMS",2900,"2481-0ASHR","W",2018,NA
+90,"Julie Rogers",51,"RPM",2860,"388A-077AX","W",2018,NA
+91,"Amy Winn",53,"CTS",2850,"4386-0B3YS","W",2018,NA
+92,"Denise O'Grady",51,"TAOS",2850,"428T-09NRU","W",2018,NA
+93,"Staci Ostendorf",50,"INDY",2840,"168G-08872","W",2018,NA
+94,"Traci Ostendorf",50,"INDY",2840,"1689-0A8WC","W",2018,NA
+95,"Heidi Bettendorf",54,"PBM",2820,"508V-0B0PC","W",2018,NA
+96,"Junko Altman",54,"PBM",2815,"508A-09XJ9","W",2018,NA
+97,"Cindy Cotter",51,"NIAG",2805,"0488-0ABY5","W",2018,NA
+98,"Roberta Varela-Hein",54,"MOST",2795,"4381-02NGX","W",2018,NA
+99,"Alice Caroompas",54,"BUMS",2650,"048G-0A6HE","W",2018,NA
+100,"Stefanie Cronin",50,"NEM",2635,"028W-0B77U","W",2018,NA
+101,"Lori Anthony",52,"PCY",2625,"178P-09UAR","W",2018,NA
+102,"Donel Hakes",50,"INDY",2600,"168Y-07J7B","W",2018,NA
+103,"Martha MacNabb",53,"SCYM",2485,"078V-0916R","W",2018,NA
+104,"Cheryl Muckerheide",52,"NEM",2485,"028E-047B8","W",2018,NA
+105,"Diana Van Skyock",51,"INDY",2400,"1685-082GZ","W",2018,NA
+106,"Sonia Schuemann",54,"OREG",2170,"3780-026P6","W",2018,NA
+107,"Janet Wittenbraker",52,"DDSA",1900,"4884-0B6FD","W",2018,NA
+108,"Helga Ivanova",51,"NICK",1890,"0487-0B1DD","W",2018,NA
+1,"Kimberly Elsbach",55,"DAM",4740,"388Z-D0NUT","W",2018,NA
+2,"Stephanie Saucy",55,"1776",4555,"088S-07VRM","W",2018,NA
+3,"Mary Dore",55,"NCMS",4540,"138A-023CF","W",2018,NA
+4,"Denise Brown",59,"MICH",4530,"198G-01U86","W",2018,NA
+5,"Denise Landers",56,"WFAC",4525,"128S-0073S","W",2018,NA
+6,"Catheryne Biggs DiPrete",55,"TAM",4510,"3887-004KX","W",2018,NA
+7,"Stephanie Martin",59,"OREG",4445,"378Z-01P7F","W",2018,NA
+8,"Linda Irish Bostic",55,"PBM",4420,"508Y-06BTX","W",2018,NA
+9,"Jennifer Carango",56,"SCA",4380,"338T-07GYW","W",2018,NA
+9,"Wendy Pratt",58,"DAM",4380,"3889-03GXG","W",2018,NA
+11,"Leslie Craven",59,"NEM",4375,"028W-004WN","W",2018,NA
+12,"Martha Joyce",58,"TAM",4290,"388S-03NAZ","W",2018,NA
+13,"Lisa Zedonis",57,"INDY",4275,"1684-02BHH","W",2018,NA
+14,"Dianne Powers",57,"INDY",4185,"1683-0A7V4","W",2018,NA
+15,"Laura Delorey",56,"NEM",4150,"0282-06HKC","W",2018,NA
+16,"Heidi Kafka",56,"IM",4140,"218N-02X7X","W",2018,NA
+17,"Sharon Blaha",58,"DAM",4125,"3888-DAM82","W",2018,NA
+18,"Jane Russell",55,"DAM",4120,"3884-074TS","W",2018,NA
+19,"Melissa Harasz",58,"SPM",4110,"148F-05H1D","W",2018,NA
+20,"Jeanne Danford",55,"PBM",4070,"508G-028BV","W",2018,NA
+21,"Mel Latt",55,"CVMM",4055,"338F-SW1MY","W",2018,NA
+22,"Kathy Murray",59,"NCMS",4050,"138U-0680P","W",2018,NA
+22,"Lisa Galane",55,"SAWS",4050,"5981-07RNE","W",2018,NA
+24,"Kelley Ryan Warner",55,"TAM",4030,"3883-03JEB","W",2018,NA
+25,"Brigid Bunch",55,"ARIZ",4010,"488T-02F0M","W",2018,NA
+26,"Kathy Godfrey",58,"SCYM",3975,"078A-05GRH","W",2018,NA
+27,"Gladney McKay",58,"MARY",3960,"098A-01VAS","W",2018,NA
+28,"Pamela Ronald",57,"DAM",3900,"388Z-03GZ2","W",2018,NA
+29,"Nancy Speer",56,"VMST",3875,"128U-05XR8","W",2018,NA
+30,"Mary Gentry",57,"NEM",3870,"028G-033PZ","W",2018,NA
+31,"Celia Morse",57,"NASH",3850,"158D-08AHS","W",2018,NA
+31,"Celia Morse",57,"NASH",3850,"158D-08AHS","W",2018,NA
+33,"Karen Rokich",59,"AnBM",3825,"178H-01UB5","W",2018,NA
+34,"Ann Goodman",59,"OREG",3800,"3788-0263B","W",2018,NA
+34,"Leslie Anchor",56,"ANCM",3800,"108Z-05NX1","W",2018,NA
+36,"Robyn Schaffer",56,"MARY",3780,"098G-01V5H","W",2018,NA
+37,"Liz Elder",58,"PCY",3775,"178P-094FH","W",2018,NA
+37,"Joanne Colvin",56,"MERR",3775,"0981-030FG","W",2018,NA
+39,"Susan Ingraham",59,"MOST",3770,"438K-SUSAN","W",2018,NA
+40,"Lisa Woodring",56,"SCYM",3750,"0782-0ACKF","W",2018,NA
+41,"Julie Langston",56,"DAM",3735,"3880-03GYT","W",2018,NA
+41,"Patricia Nardozzi",59,"SPM",3735,"148F-02RG2","W",2018,NA
+43,"Caitlin McVarish",58,"TAM",3660,"3882-01SCF","W",2018,NA
+44,"Sarah Jamieson",58,"MARY",3645,"098U-01VBX","W",2018,NA
+45,"Emily Shepard",57,"ALB",3625,"388N-03PKU","W",2018,NA
+45,"Midge Thomas",59,"SCA",3625,"338X-06NBH","W",2018,NA
+47,"Mary Ann Stich",57,"TAM",3605,"3883-03SAF","W",2018,NA
+48,"CJ Dickson",55,"NEM",3600,"028M-05UCX","W",2018,NA
+48,"Elizabeth Davidge",57,"SFGG",3600,"3889-07S8S","W",2018,NA
+50,"Felicia Adler",56,"WCM",3585,"3886-03F4N","W",2018,NA
+51,"Carroll Pierce",55,"NEM",3530,"028C-076DC","W",2018,NA
+52,"Nancy Wright",58,"PBM",3515,"508Y-09WDK","W",2018,NA
+53,"Susan Underwood",58,"1776",3475,"088Y-02FD8","W",2018,NA
+53,"Theresa Ferreira",59,"NEM",3475,"0284-0833E","W",2018,NA
+55,"Christine Oliver",55,"TCAM",3470,"3884-03M5H","W",2018,NA
+56,"Betsy Knox",56,"NEM",3465,"028Y-0A7XV","W",2018,NA
+57,"Judy Beckman",59,"NEM",3460,"028X-033X8","W",2018,NA
+58,"Katherine Meyer",55,"CMYM",3425,"098E-037E5","W",2018,NA
+59,"Carrie Butler",59,"UC16",3420,"168W-02AF7","W",2018,NA
+60,"Beth Rodewig",56,"NEM",3390,"028N-061KY","W",2018,NA
+61,"Maria Beconi",55,"NEM",3350,"028E-0891F","W",2018,NA
+62,"Tamara Nist",57,"BUMS",3325,"048E-0AFZT","W",2018,NA
+63,"Shelly Geer",55,"GS",3300,"558D-0AYYA","W",2018,NA
+63,"Catherine Taylor",55,"WCM",3300,"388B-081Y6","W",2018,NA
+65,"Ann Schnieders",58,"INDY",3280,"168D-02AGT","W",2018,NA
+65,"Kris Bowen",56,"INDY",3280,"168U-077WZ","W",2018,NA
+67,"Jean Lively",58,"BSMS",3240,"248Y-0AREX","W",2018,NA
+68,"Susan Hannel",55,"NEM",3235,"028R-05GYM","W",2018,NA
+69,"Allison Travers",59,"MARY",3180,"098M-08F4F","W",2018,NA
+70,"Susan Gershenhorn",56,"MOST",3160,"4388-02R0H","W",2018,NA
+71,"Antoinette Townley",58,"CMS",3150,"328D-06T2M","W",2018,NA
+72,"Diana Pi",56,"O*H*",3140,"188T-01R3C","W",2018,NA
+73,"Dana Scruggs",59,"INDY",3120,"168K-02B9T","W",2018,NA
+74,"Jeanne Stokoe",57,"THOR",3100,"328E-032Y1","W",2018,NA
+75,"Karin Stokes",57,"NEM",3085,"028J-ST0KD","W",2018,NA
+76,"Melanie Bowden",55,"DAM",3075,"3882-03FZX","W",2018,NA
+77,"Leah Carroll",57,"ALB",3055,"388A-09H3C","W",2018,NA
+78,"Kristina Fayyad",56,"SMM",3050,"3881-0B5XV","W",2018,NA
+79,"Edie Mueller",58,"PMST",3040,"5482-01HX6","W",2018,NA
+80,"Marcia Bernet",56,"NEM",3030,"0281-0A35E","W",2018,NA
+81,"Julie Arevalo",57,"RIPT",3025,"338W-03BFV","W",2018,NA
+81,"Julie Swack",55,"SKY",3025,"4185-0ARSJ","W",2018,NA
+83,"Janine Serell",57,"PALM",3020,"558D-07H27","W",2018,NA
+84,"Jacqueline Gattoni",55,"SCYM",3010,"0785-0A549","W",2018,NA
+84,"Tammy Duhaime",56,"MOST",3010,"438W-05NXR","W",2018,NA
+86,"Lori Muller",55,"NEM",3000,"028T-06V6K","W",2018,NA
+86,"Leah Turner",59,"INDY",3000,"1685-0848N","W",2018,NA
+86,"Tari Hancock",58,"INDY",3000,"168Z-02AKR","W",2018,NA
+86,"Sheryl Scott",56,"NEM",3000,"028C-SC0TY","W",2018,NA
+90,"Sharon Quinan",55,"NEM",2975,"0283-07FT6","W",2018,NA
+91,"Pamela Ameen",57,"NEM",2955,"028M-09M9M","W",2018,NA
+92,"Carolyn Snyder",57,"UC02",2945,"028M-0AHWV","W",2018,NA
+93,"Jennifer Neumann",55,"NEM",2930,"028N-03FHU","W",2018,NA
+94,"Shawn Sabo",59,"GTX",2900,"4384-04KWY","W",2018,NA
+94,"Ellen Hart",57,"UC12",2900,"128G-0A8H5","W",2018,NA
+96,"Liz Reichman",56,"MOST",2895,"438K-04KK5","W",2018,NA
+97,"Elyse Rudner",57,"NEM",2870,"028X-06KH0","W",2018,NA
+98,"Vicki Roe",56,"OREG",2750,"378G-0B8WB","W",2018,NA
+98,"Annell Becker",57,"SKY",2750,"418E-0ARXH","W",2018,NA
+98,"Ann Walsh",59,"NEM",2750,"028C-033WA","W",2018,NA
+98,"Susan O'brien",57,"MOST",2750,"4383-0AVNN","W",2018,NA
+102,"Debbie Fung",58,"DAM",2740,"388W-0B3KY","W",2018,NA
+103,"Jenny Van Blaricom",59,"TCAM",2715,"388T-041PD","W",2018,NA
+104,"Laurie Birch",57,"SCYM",2700,"078D-0B53K","W",2018,NA
+105,"Sharon Friedman",59,"PBM",2680,"508A-06BNV","W",2018,NA
+106,"Kelley Spencer",59,"GTX",2675,"4387-05X5H","W",2018,NA
+107,"Candace McDonald",57,"TCAM",2670,"388U-03PG1","W",2018,NA
+108,"Bobi Commer",57,"SCYM",2655,"078N-0A3JR","W",2018,NA
+109,"Lin Zhang",57,"NEM",2640,"028W-07543","W",2018,NA
+110,"Melissa Ledoux",58,"UC02",2575,"0281-0B74C","W",2018,NA
+111,"Anne Reynolds",57,"NEM",2560,"028T-07NJN","W",2018,NA
+112,"Carla Maxson",58,"NASH",2550,"158E-0A9UP","W",2018,NA
+113,"Kairon Mullins",55,"SCYM",2540,"078P-0A501","W",2018,NA
+114,"Rita Hansen",56,"NEM",2520,"028F-06G8G","W",2018,NA
+115,"Marie DeGennaro",58,"MOST",2505,"4385-02PWB","W",2018,NA
+116,"Patricia Baranski",55,"INDY",2500,"1681-0AR9H","W",2018,NA
+117,"Deb Rateri",58,"SKY",2470,"4189-06X4A","W",2018,NA
+118,"Lauren Drummond",58,"BSMS",2390,"2485-0B520","W",2018,NA
+119,"Audris Griffith",58,"TAOS",2345,"428B-0AYBK","W",2018,NA
+120,"Patti Williams",56,"DAM",2285,"3886-09ADV","W",2018,NA
+121,"Deirdre Flicker",59,"NEM",2250,"028B-081K7","W",2018,NA
+121,"Andrea Meyerhoff",59,"UC10",2250,"108R-06FF1","W",2018,NA
+123,"Brenda Lloyd",57,"DDSA",2220,"488N-0B5XT","W",2018,NA
+124,"Lynnette Dow",57,"NEM",2170,"0281-0AT9Z","W",2018,NA
+125,"Allison LaField",55,"MOST",2150,"438R-06MXY","W",2018,NA
+126,"Gigi Madrid",55,"NCMS",2140,"138B-0B99J","W",2018,NA
+127,"Beth Sullivan",58,"INDY",2100,"168U-02BE7","W",2018,NA
+128,"Susan Cornwall",55,"NEM",1750,"028Z-0ATFW","W",2018,NA
+129,"Pamela Bland",58,"TAOS",1550,"428R-0AWEW","W",2018,NA
+2,"Karen Einsidler",62,"AGUA",4680,"068B-01S73","W",2018,NA
+3,"Tracy Grilli",61,"NEM",4550,"028A-RDS0X","W",2018,NA
+4,"Colette Crabbe",62,"OREG",4535,"378N-02645","W",2018,NA
+5,"Lorraine Sommers",62,"ECAM",4410,"388M-03EXD","W",2018,NA
+6,"Barbara Wheeler",61,"TAM",4340,"388Y-03J0K","W",2018,NA
+7,"Niki Stokols",61,"CVMM",4275,"338A-03A2E","W",2018,NA
+8,"Darcy LaFountain",63,"PBM",4175,"508C-0212Z","W",2018,NA
+9,"Judy Eisenman",64,"TAM",4105,"388F-03K2U","W",2018,NA
+10,"Margaret Haskins",60,"NEM",4090,"028S-05UC8","W",2018,NA
+11,"Debbie Wilson",64,"NCMS",4085,"138U-02318","W",2018,NA
+12,"Cindi Burrows",61,"CVM",4055,"388B-03G6V","W",2018,NA
+13,"Tricia Calvert",61,"SKY",4040,"418M-01W4G","W",2018,NA
+14,"Jeanna Summers",64,"OREG",4015,"378R-000PT","W",2018,NA
+15,"Cheryl Gettelfinger",61,"INDY",4000,"168G-02A8X","W",2018,NA
+16,"Tamara Burton",60,"PBM",3975,"5085-099CG","W",2018,NA
+17,"Sue Watts",64,"1776",3970,"088V-05TSF","W",2018,NA
+18,"Jeanne Garr",64,"NEM",3955,"0289-033VP","W",2018,NA
+19,"Mimi Ward",60,"SKY",3950,"418F-01WAH","W",2018,NA
+20,"Stephanie Hevenor",60,"NEM",3940,"028M-06NB3","W",2018,NA
+21,"Anne Claman",61,"TAM",3910,"388X-03HVG","W",2018,NA
+22,"Marlys Cappaert",60,"OREG",3900,"378U-025XB","W",2018,NA
+23,"Cindy Gilmore",63,"SUSA",3875,"3484-05J4V","W",2018,NA
+24,"Phyllis Quinn",63,"TOC",3870,"388C-03F7Y","W",2018,NA
+25,"Janice Kregor",62,"SKY",3860,"418Z-01W54","W",2018,NA
+26,"Wanda Bolerjack",61,"PSM",3840,"368C-09P4F","W",2018,NA
+27,"Patricia Saint Aubin",60,"NEM",3825,"028X-046F9","W",2018,NA
+28,"Karina Horton",60,NA,3770,NA,"W",2018,NA
+29,"Jan Hildebrandt",61,"OREG",3760,"3780-09TBG","W",2018,NA
+30,"Sue Harrington",61,"OREG",3745,"378B-026MZ","W",2018,NA
+31,"Carol Wildman",64,"TAOS",3700,"4282-068J1","W",2018,NA
+32,"Mary Phelan",62,"NEM",3670,"0286-0620Y","W",2018,NA
+33,"Kathy Goulding",60,"GTX",3660,"438K-008RH","W",2018,NA
+34,"Valerie Romberg",62,"INDY",3650,"168X-0A1W3","W",2018,NA
+34,"Paula Moores",61,"SAWS",3650,"5987-01J0E","W",2018,NA
+36,"Jessica Jakobi",60,"TAM",3625,"3887-03FM5","W",2018,NA
+37,"Susan Taylor",60,"MARY",3600,"0988-01VKZ","W",2018,NA
+38,"Laura Schob",60,"OREG",3575,"378R-026DX","W",2018,NA
+38,"Kathy Lewis",64,"NEM",3575,"0280-0732S","W",2018,NA
+40,"Jill Johnson",63,"SLAM",3535,"2289-04851","W",2018,NA
+41,"Janet Siniscalchi",62,"PBM",3530,"5085-079VZ","W",2018,NA
+42,"Blair Brockman",63,"TULS",3500,"2780-080YC","W",2018,NA
+43,"Kathy Berger",64,"INDY",3475,"168C-02A80","W",2018,NA
+44,"Ramona Chavez",61,"TAOS",3450,"428E-068HX","W",2018,NA
+44,"Jo Ann Berry",62,"PBM",3450,"508N-027YV","W",2018,NA
+46,"Christine Brotherton Pleiss",60,"UHM",3435,"3987-095YC","W",2018,NA
+47,"Pat Barnes",61,"INDY",3415,"1688-07V4E","W",2018,NA
+48,"Laurie Brenner",63,"NEM",3410,"0288-094RR","W",2018,NA
+48,"Charlotte Kramer",64,"BUMS",3410,"048B-0926U","W",2018,NA
+50,"Meredith Hawkins",62,"SAWS",3400,"598W-076K8","W",2018,NA
+51,"Cheryl McElroy",61,"NEM",3370,"0286-034C3","W",2018,NA
+52,"Jill Anderson",62,"ARIZ",3350,"488U-03ANG","W",2018,NA
+53,"Deanna Johnson",62,"DAM",3340,"388N-041KE","W",2018,NA
+53,"Karen Olson",63,"DAM",3340,"388D-03GXM","W",2018,NA
+55,"Sue Gray",61,"NEM",3320,"0281-080MF","W",2018,NA
+56,"Debby Eisinger",60,"SFTL",3300,"508H-095ZS","W",2018,NA
+57,"Patsy Bunn",61,"WRCM",3290,"3883-08761","W",2018,NA
+58,"Norah Kute",61,"SKY",3240,"418H-08C9Z","W",2018,NA
+59,"Donna Taylor",60,"HUMM",3235,"3884-026TZ","W",2018,NA
+60,"Cynthia Henley",60,"SFTL",3225,"508S-07SFD","W",2018,NA
+60,"Liz Fox",64,"NEM",3225,"028J-063V4","W",2018,NA
+62,"Deborah Pederson",61,"MOST",3200,"438V-09U2V","W",2018,NA
+63,"Kathryn Hemness",62,"DAM",3190,"3885-03FCD","W",2018,NA
+64,"Jeri Jensen",63,"CRUZ",3185,"388E-037VX","W",2018,NA
+65,"Shelley Probber",61,"MOST",3150,"438F-04KPK","W",2018,NA
+66,"Shelley Polette",63,"GTX",3135,"438U-0AMG2","W",2018,NA
+67,"Claire Cayot",61,"NBPB",3100,"028J-06XZG","W",2018,NA
+68,"Katie Croft Walsh",62,"MOST",3080,"438F-KAT1E","W",2018,NA
+69,"Elizabeth Broos",62,"SCYM",3075,"0782-06PCB","W",2018,NA
+70,"Royce Marion",61,"DDSA",3070,"4884-0753X","W",2018,NA
+71,"Diane Roston",63,"NEM",3065,"028K-065GS","W",2018,NA
+72,"Sarah Carter",62,"NEM",3060,"028S-093GS","W",2018,NA
+73,"Karen Lewin",62,"PBM",3055,"508T-06124","W",2018,NA
+74,"Nancy Kiernan",64,"SPM",3045,"148E-02RN7","W",2018,NA
+75,"Jane Hook",64,"TAM",3030,"3883-03NAJ","W",2018,NA
+76,"Kathy Gill",64,"DAM",3025,"388B-03GY3","W",2018,NA
+77,"Gail Musk",61,"SFTL",3025,"508J-07W6S","W",2018,NA
+78,"Kathleen Gorman",62,"NEM",3025,"0288-07K98","W",2018,NA
+79,"Kathryn Cronin",60,"PBM",3010,"508A-033U1","W",2018,NA
+80,"Nanci Sirois",60,"NEM",3000,"028Z-005NU","W",2018,NA
+81,"Anne Galliher",61,"NEM",3000,"028E-01S81","W",2018,NA
+82,"Mary Weerts",61,"INDY",3000,"168Y-02AB0","W",2018,NA
+83,"Susan Mowery",60,"INDY",3000,"1684-02A9V","W",2018,NA
+84,"Sharleen Goguen",61,"NEM",3000,"028B-033S4","W",2018,NA
+85,"Suzanne Klein",64,"SCYM",2990,"078R-0A8YX","W",2018,NA
+86,"Alana Watts",62,"PBM",2980,"5084-0AGRM","W",2018,NA
+87,"Cary Craig",61,"DAM",2970,"3886-05GST","W",2018,NA
+88,"Maura Twomey",62,"NEM",2950,"028R-047BV","W",2018,NA
+89,"Mommy Beth Tango",60,"UC06",2940,"0688-0B6WF","W",2018,NA
+90,"Ann Lowry",63,"ARIZ",2935,"488P-0AS3B","W",2018,NA
+91,"Kate Mehler",61,"ALB",2930,"388D-085A2","W",2018,NA
+92,"Marci Grady",60,"SFTL",2925,"5088-05HJC","W",2018,NA
+93,"Jill Kaplan",61,"NICK",2900,"048Z-0B2DZ","W",2018,NA
+94,"Christine Clayton",60,"DDSA",2900,"488X-0A3UY","W",2018,NA
+95,"Lynn Cabana",62,"UC02",2880,"0282-07EDV","W",2018,NA
+96,"Mary Val Palumbo",64,"NEM",2840,"028W-034B7","W",2018,NA
+97,"Martha Piemonte",60,"NEM",2825,"0285-0AUFP","W",2018,NA
+98,"Laura Richardson",63,"LOCO",2780,"5587-01HA2","W",2018,NA
+99,"Barbara Cocci",60,"NEM",2775,"0283-086X4","W",2018,NA
+100,"Jacquin Gallagher",64,"INDY",2700,"168E-0B20V","W",2018,NA
+101,"Taylor Reed",62,"DDSA",2685,"488Y-0B658","W",2018,NA
+102,"Margaret Johns",64,"TCAS",2670,"3588-PUGZZ","W",2018,NA
+103,"Suzzette Seril",60,"SPM",2625,"148H-02RFA","W",2018,NA
+104,"Lorraine Miller Horton",64,"NEM",2570,"0283-0ASEN","W",2018,NA
+105,"Althea John",60,"TSTT",2550,"338G-07SGG","W",2018,NA
+106,"Paula Shea",61,"SPM",2520,"148P-0B3TA","W",2018,NA
+107,"Nancy Munro",60,"PBM",2495,"508Z-06D1M","W",2018,NA
+108,"Colleen Brown",61,"BUMS",2485,"048U-0AM6X","W",2018,NA
+109,"Anne Wehry",61,"NEM",2480,"028U-07H0P","W",2018,NA
+110,"Linda Barrington",61,"NEM",2465,"028V-09N9C","W",2018,NA
+111,"Barbara Bauman",64,"NEM",2420,"028N-07AVV","W",2018,NA
+112,"Valerie Andersen",62,"NEM",2415,"028G-0832J","W",2018,NA
+113,"Sally Warnick",60,"TAOS",2400,"4280-09J6X","W",2018,NA
+114,"Caryl Schiavon",60,"OREG",2400,"378Z-07KY0","W",2018,NA
+115,"Susan Reid",61,"NEM",2350,"028D-07TA7","W",2018,NA
+116,"Kirby Richards",64,"OREG",2315,"3782-0APGU","W",2018,NA
+117,"Peggy Dold",61,"LPM",1870,"158M-0A6PU","W",2018,NA
+1,"Catherine Rust",65,"PBM",4345,"5082-06WNH","W",2018,NA
+2,"Tracy Clarkson",69,"1776",4055,"0889-09NEX","W",2018,NA
+3,"Joan Craffey",65,"UC06",4045,"068P-06MBR","W",2018,NA
+4,"Fran Hare",68,"PBM",4000,"508Y-02XHG","W",2018,NA
+5,"Elizabeth Kassen",66,"PSM",3945,"368R-04F98","W",2018,NA
+6,"Shirley Loftus Charley",67,"VMST",3870,"128H-WATER","W",2018,NA
+7,"Meredith Moore",69,"SYSM",3840,"1487-01S4X","W",2018,NA
+8,"Emily White",65,"NEM",3725,"0289-034AM","W",2018,NA
+9,"Jennifer Fiden",68,"UAR",3700,"178Z-01UC9","W",2018,NA
+10,"Susan Korsedal",68,"LOCO",3635,"558M-09KFA","W",2018,NA
+11,"Judith Kennedy",67,"INDY",3625,"168V-04R1G","W",2018,NA
+12,"Barbara Boslego",67,"VMST",3600,"1284-02HV9","W",2018,NA
+13,"Jill Wright",67,"SAWS",3590,"598W-01J02","W",2018,NA
+14,"Pam Geiger",66,"SPM",3515,"148C-02REZ","W",2018,NA
+15,"Peggy Stringer",67,"BSMT",3490,"318M-01JR7","W",2018,NA
+16,"Linda Callaway",65,"MOST",3460,"438N-02NEV","W",2018,NA
+17,"Bonnie Johnston",66,"PBM",3450,"5087-01V5J","W",2018,NA
+18,"Betsy Whittemore",65,"SKY",3410,"4188-01W6P","W",2018,NA
+19,"Carol Mitchell",69,"SYSM",3405,"148Y-033GG","W",2018,NA
+20,"Susan Collins",66,"WWM",3370,"3583-006T7","W",2018,NA
+21,"Barbara Hummel",66,"NEM",3315,"028G-0348H","W",2018,NA
+22,"Susan Collins",69,"WCM",3310,"3884-03NKB","W",2018,NA
+23,"Mary Dickson",66,"NEM",3280,"028T-0837D","W",2018,NA
+24,"Sue Tendy",69,"NEM",3220,"028D-033T8","W",2018,NA
+25,"Katy Lantz",65,"DAM",3215,"388P-040UN","W",2018,NA
+26,"Martha Erickson",67,"NASH",3200,"1588-GG0F3","W",2018,NA
+27,"Paula Dougher",67,"CMYM",3175,"098S-08DBK","W",2018,NA
+28,"Cynthia Gardner",67,"NEM",3165,"028H-07KBA","W",2018,NA
+29,"Nancy Farley",67,"DAM",3090,"388K-03KXT","W",2018,NA
+30,"Chris Mayhew",65,"MOST",3085,"438X-CHR1S","W",2018,NA
+31,"Connie Lindsey",66,"MOST",3040,"438W-C0NNE","W",2018,NA
+32,"Maureen Fitzpatrick",67,"PBM",3025,"508G-081KH","W",2018,NA
+33,"Christine Foote",65,"TAM",3010,"388Z-03F8W","W",2018,NA
+34,"Kat Duff",66,"TAOS",2950,"428A-0A11M","W",2018,NA
+35,"Christine King",66,"CRUZ",2930,"3881-04050","W",2018,NA
+36,"Jane Wright",69,"SAWS",2925,"598Y-077FJ","W",2018,NA
+37,"Kathy Selles",66,"SPM",2875,"1486-06P54","W",2018,NA
+38,"Martha Buthmann",66,"TCAM",2845,"388G-0A8H1","W",2018,NA
+39,"Tricia Kules",67,"NEM",2840,"028C-034B8","W",2018,NA
+40,"Joan Myers",67,"CMS",2800,"3280-0322T","W",2018,NA
+41,"Lyra Halprin",67,"DAM",2795,"3885-03G0F","W",2018,NA
+42,"Lucy Fleming",69,"BUMS",2770,"048M-0A4X5","W",2018,NA
+43,"Starr Campbell",66,"ARKM",2760,"238U-06TBK","W",2018,NA
+44,"Patricia McGovern",69,"UC06",2730,"0682-02Y3H","W",2018,NA
+45,"Marilyn Slagle",65,"WRCM",2720,"388E-091HY","W",2018,NA
+46,"Laraine Smith",67,"ARIZ",2700,"488K-097ZU","W",2018,NA
+46,"Patricia Newman",67,"DAM",2700,"388K-03MDT","W",2018,NA
+46,"Anne Kendrick",67,"NASH",2700,"158K-0ARK6","W",2018,NA
+49,"Mary Alice Tully",67,"NBPB",2675,"028H-076JW","W",2018,NA
+50,"Sedley Josserand",65,"BSMS",2660,"248Y-01TGN","W",2018,NA
+51,"Marjorie Safran",69,"NEM",2640,"028X-08301","W",2018,NA
+52,"Nancy Fields",67,"MOST",2635,"438S-02RC5","W",2018,NA
+53,"Nina Clarkson",66,"MOST",2620,"438S-093N8","W",2018,NA
+54,"Joan Collins",65,"BSMS",2570,"248J-0APDU","W",2018,NA
+55,"Lynn Narlesky",66,"DAM",2540,"388F-03HHA","W",2018,NA
+56,"Capri Djatiasmoro",67,"CIB",2500,"078E-02Z3J","W",2018,NA
+57,"Melanie Sellers",66,"OLD1",2400,"1581-01ZSR","W",2018,NA
+58,"Nancy Wood",67,"MOST",2375,"438P-02P50","W",2018,NA
+59,"Monica Brogan",66,"TMAS",2355,"128C-0A84Y","W",2018,NA
+59,"Mary Stein",68,"FMM",2355,"148U-061WR","W",2018,NA
+61,"Linda West",66,"UC44",2350,"448H-02C3M","W",2018,NA
+61,"L. Renee Solomon",65,"NEM",2350,"028D-09P4T","W",2018,NA
+63,"Carolyn Lavadie",66,"TAOS",2300,"4285-09UAD","W",2018,NA
+64,"Tina Hahn",68,"TAOS",2250,"428A-088TH","W",2018,NA
+65,"Deborah Higdon",66,"LPM",2230,"158C-08ECF","W",2018,NA
+66,"Patricia Kotylo",65,"INDY",2225,"168V-02A9K","W",2018,NA
+67,"Gayle Barlow",65,"TAOS",2150,"428W-073AT","W",2018,NA
+68,"Susan Stowell",66,"DAM",2110,"3886-06KST","W",2018,NA
+69,"Laurie Casselman",65,"DDSA",2100,"4884-09UKV","W",2018,NA
+70,"Tracy Willett",68,"OREG",2060,"378D-09Y1F","W",2018,NA
+71,"Leslie Kurywchak",66,"ARIZ",1750,"4889-0AVYB","W",2018,NA
+72,"Joan Sampson",69,"LPM",1710,"158R-0ATSR","W",2018,NA
+73,"Melanie Mociun",66,"TAM",1600,"3881-03HUN","W",2018,NA
+2,"Sally Dillon",72,"PSM",3595,"368E-02KJU","W",2018,NA
+3,"June Carson",70,"SYSM",3580,"1485-04BSY","W",2018,NA
+4,"Barbara West",70,"NEM",3550,"028B-BWEST","W",2018,NA
+5,"Linda Shoenberger",71,"TAM",3500,"388S-03F82","W",2018,NA
+6,"Stephanie Scott",71,"WCM",3490,"3884-03K0Y","W",2018,NA
+7,"Janet Jastremski",70,"1776",3440,"088A-0226H","W",2018,NA
+8,"Sally Hasbrook",70,"INDY",3400,"168X-02AKT","W",2018,NA
+9,"Rebecca Kay",72,"OREG",3390,"378D-05FV1","W",2018,NA
+10,"Daniela Barnea",74,"STAN",3335,"388G-03JTU","W",2018,NA
+11,"Suzanne Mitchell",70,"PBM",3325,"508K-08CXY","W",2018,NA
+12,"Ann Vitt",72,"MOST",3320,"438N-02R7K","W",2018,NA
+13,"Geri Mathewson",70,"OREG",3235,"378X-025Z9","W",2018,NA
+14,"Susan Paris",72,"O*H*",3085,"188G-01WC8","W",2018,NA
+15,"Babs Larsen",71,"MINN",3015,"3084-02A9M","W",2018,NA
+16,"Kate Wilson",70,"OREG",3000,"378E-0B4NE","W",2018,NA
+17,"Greta Van Meeteren",71,"NCMS",2935,"138A-0232R","W",2018,NA
+18,"Alida Canale",73,"CRUZ",2930,"388N-03HDU","W",2018,NA
+19,"Anne Stoddard",72,"TNYA",2930,"0688-02Y4R","W",2018,NA
+20,"Lori Viti",70,"TAM",2825,"3887-07UBS","W",2018,NA
+21,"Susan Newman",71,"UC12",2765,"1283-0A900","W",2018,NA
+22,"Diane Lardelli",74,"DAM",2745,"388P-06HC9","W",2018,NA
+23,"Jeanne Ensign",72,"BSMT",2725,"318J-02KGK","W",2018,NA
+24,"Cynthia Needham",70,"NEM",2720,"028K-071D8","W",2018,NA
+25,"Peggy Reedy",72,"DAM",2715,"388Y-0B5J9","W",2018,NA
+26,"Susan Pollard",74,"INDY",2700,"168D-02AD7","W",2018,NA
+27,"Mizuho Iwamoto",70,"DAM",2675,"3880-082HE","W",2018,NA
+28,"Sue Cosper",70,"INDY",2650,"168X-02AC3","W",2018,NA
+29,"Candace Cross Drew",72,"DAM",2580,"388B-03HB0","W",2018,NA
+30,"Elizabeth Stengel",72,"NEM",2550,"0282-09PRZ","W",2018,NA
+31,"Karin Bivens",74,"ARIZ",2495,"488Y-02F9S","W",2018,NA
+32,"Gini Fellows",72,"BSMS",2395,"2482-0B8U3","W",2018,NA
+33,"Sharon Pearson",73,"NEM",2375,"0287-09PT6","W",2018,NA
+34,"Louise Case",71,"NEM",2350,"028Z-0471V","W",2018,NA
+35,"Margaret Welch",72,"ARIZ",2275,"4880-09SY2","W",2018,NA
+36,"Ginny Saywell",72,"ARIZ",2250,"488V-0B0P0","W",2018,NA
+37,"Karen Warner",74,"ARIZ",2250,"488E-0AB89","W",2018,NA
+38,"Lynn Dusenbury",70,"MOST",2205,"438B-099VK","W",2018,NA
+39,"Sara Wright",71,"INDY",2125,"168P-08DH1","W",2018,NA
+40,"Patricia Pollard",74,"TAOS",2050,"4286-06T3N","W",2018,NA
+41,"Lynn Francis",74,"MOST",1900,"438G-02NGK","W",2018,NA
+42,"Jennifer Johnston",71,"L4S",1845,"1083-039KC","W",2018,NA
+43,"Erin McGinnis",72,"DDSA",1525,"488G-0AGC1","W",2018,NA
+1,"Susan Meyers",76,"SYSM",3350,"148U-02ACV","W",2018,NA
+2,"A. Jane Nichols",77,"OREG",3060,"3787-003EP","W",2018,NA
+3,"Leslie Westergaard",75,"DAM",3005,"388J-03GEZ","W",2018,NA
+3,"Louise Wise",76,"CMS",3005,"328U-030NC","W",2018,NA
+5,"Carolynn Foley",75,"PBM",2980,"508U-01W0J","W",2018,NA
+6,"Glenda Carroll",75,"TAM",2960,"3884-03JEC","W",2018,NA
+7,"Jill Fritz",78,"ARIZ",2800,"488F-02NCX","W",2018,NA
+8,"Kacky Elliott",79,"GS",2665,"558V-095PR","W",2018,NA
+9,"Jennifer Parks",75,"MLAM",2605,"198U-JPSWM","W",2018,NA
+10,"Meredith Pechoultres",75,"TAM",2580,"388J-040N4","W",2018,NA
+11,"Betty Dugan",77,"DAM",2545,"388H-03GFH","W",2018,NA
+12,"Barbara Paulson",75,"DAM",2535,"388T-03G0A","W",2018,NA
+13,"Susan Mann",75,"DAM",2325,"388H-03HWB","W",2018,NA
+14,"Jeanne Magmer",78,"OREG",2215,"378W-07T8R","W",2018,NA
+14,"Roswita Norris",76,"DAM",2215,"388B-03GE3","W",2018,NA
+16,"Polly Kegler",75,"UC34",2000,"348N-0ARMA","W",2018,NA
+17,"Christine Bruhn",76,"DAM",1970,"388N-03HB8","W",2018,NA
+18,"Beverly Schulz",76,"ARIZ",1750,"488C-08843","W",2018,NA
+19,"Margie Hutinger",78,"FMM",1720,"148E-02RCY","W",2018,NA
+20,"Julie Lockhart",77,"NEM",1625,"0283-035J4","W",2018,NA
+2,"Susan Munn",80,"DAM",3050,"388Y-03FZM","W",2018,NA
+3,"Miek McCubbin",83,"SMM",2925,"3889-03HJM","W",2018,NA
+4,"Mary Alexandre",83,"TAM",2835,"388N-03HEB","W",2018,NA
+5,"Joan Griffin",81,"PBM",2770,"508N-02ZVH","W",2018,NA
+6,"Sumner Foster",80,"LPM",2760,"158C-00B1Y","W",2018,NA
+7,"Martha Henderson",82,"FACT",2660,"1488-02RS4","W",2018,NA
+8,"Ruth Stavis",81,"NEM",2495,"0280-033F0","W",2018,NA
+9,"Ruth Sluder",82,"SUSA",2185,"3482-05ERG","W",2018,NA
+10,"Bonnie Speer",84,"OREG",2065,"378K-0692S","W",2018,NA
+11,"Doris Prokopi",83,"FMM",1935,"148F-02RDG","W",2018,NA
+12,"Dorothy Kennedy",82,"SUSA",1900,"348D-09699","W",2018,NA
+1,"Jeanne Meredith",90,"VMST",2105,"1285-02HT9","W",2018,NA
+1,"Maurine Kornfeld",97,"ROSE",2100,"3387-03AD6","W",2018,NA
+2,"Charlotte Sanddal",96,"BSMT",1495,"318E-01JR1","W",2018,NA
