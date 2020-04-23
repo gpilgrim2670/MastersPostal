@@ -217,7 +217,11 @@ Postals_Processed <- data.table::rbindlist(Postals_Processed, fill = TRUE)
 
 Postals_Processed <- Postals_Processed %>% 
   mutate(Name = str_replace_all(Name, "\\.", ""),
-         Name = str_to_title(Name))
+         Name = str_to_title(Name)) %>% 
+  arrange(desc(Year))
 
-write.csv(Postals_Processed, file = "Postal_All.csv")
+write.csv(Postals_Processed, file = "Postal_All.csv", row.names = FALSE)
+
+Postals[23]$`inst/extdata/cleaned_data/Postal_2020.csv` %>% 
+  write.csv(file = "Postal_2020.csv", row.names = FALSE)
 
