@@ -214,5 +214,10 @@ Postalize <- function(x){
 
 Postals_Processed <- map(Postals, Postalize)
 Postals_Processed <- data.table::rbindlist(Postals_Processed, fill = TRUE)
+
+Postals_Processed <- Postals_Processed %>% 
+  mutate(Name = str_replace_all(Name, "\\.", ""),
+         Name = str_to_title(Name))
+
 write.csv(Postals_Processed, file = "Postal_All.csv")
 
