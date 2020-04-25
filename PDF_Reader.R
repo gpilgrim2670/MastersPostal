@@ -1,12 +1,6 @@
 library(pdftools)
 library(tidyverse)
 
-Mens <-
-  pdf_text("inst/extdata/2020 OHEP Mens Preliminary Results.pdf")
-Womens <-
-  pdf_text("inst/extdata/2020 OHEP Womens Preliminary Results.pdf")
-
-
 ePostal_Reader <- function(file_path) {
   Year <- stringr::str_extract(file_path, "\\d{4}")
   
@@ -18,7 +12,7 @@ ePostal_Reader <- function(file_path) {
   row_numbs <- seq(1, length(as_lines_list_2), 1)
   as_lines_list_2 <- paste(as_lines_list_2, row_numbs, sep = "  ")
   
-  Gender = ifelse(any(stringr::str_detect(as_lines_list_2, "Men")), "M", "F")
+  Gender = ifelse(any(stringr::str_detect(as_lines_list_2, "Men")), "M", "W")
   
   data_1 <- as_lines_list_2 %>%
     stringr::str_extract_all("\n\\s*\\d{1,3}.*") %>%
@@ -57,7 +51,7 @@ ePostal_Reader <- function(file_path) {
         Last_Name = V4,
         Age = V5,
         Club = V6,
-        ID = V7,
+        USMS_ID = V7,
         Distance = V8,
         National_Record = V9,
         Row_Numb = V10
@@ -70,7 +64,7 @@ ePostal_Reader <- function(file_path) {
       Last_Name = character(),
       Age = character(),
       Club = character(),
-      ID = character(),
+      USMS_ID = character(),
       Distance = character(),
       National_Record = character(),
       Row_Numb = character(),
@@ -90,7 +84,7 @@ ePostal_Reader <- function(file_path) {
         Last_Name = V4,
         Age = V5,
         Club = V6,
-        ID = V7,
+        USMS_ID = V7,
         Distance = V8,
         Row_Numb = V9
       )
@@ -103,7 +97,7 @@ ePostal_Reader <- function(file_path) {
       Last_Name = character(),
       Age = character(),
       Club = character(),
-      ID = character(),
+      USMS_ID = character(),
       Distance = character(),
       National_Record = character(),
       Row_Numb = character(),
@@ -122,7 +116,7 @@ ePostal_Reader <- function(file_path) {
         Last_Name = V3,
         Age = V4,
         Club = V5,
-        ID = V6,
+        USMS_ID = V6,
         Distance = V7,
         Row_Numb = V8
       )
@@ -135,7 +129,7 @@ ePostal_Reader <- function(file_path) {
       Last_Name = character(),
       Age = character(),
       Club = character(),
-      ID = character(),
+      USMS_ID = character(),
       Distance = character(),
       National_Record = character(),
       Row_Numb = character(),
@@ -150,7 +144,7 @@ ePostal_Reader <- function(file_path) {
                     stringsAsFactors = FALSE) %>%
       dplyr::mutate(
         Club = stringr::str_split_fixed(V5, " ", n = 2)[, 1],
-        ID = stringr::str_split_fixed(V5, " ", n = 2)[, 2]
+        USMS_ID = stringr::str_split_fixed(V5, " ", n = 2)[, 2]
       ) %>%
       dplyr::select(
         Place = V1,
@@ -158,7 +152,7 @@ ePostal_Reader <- function(file_path) {
         Last_Name = V3,
         Age = V4,
         Club,
-        ID,
+        USMS_ID,
         Distance = V6,
         Row_Numb = V7
       )
@@ -171,7 +165,7 @@ ePostal_Reader <- function(file_path) {
       Last_Name = character(),
       Age = character(),
       Club = character(),
-      ID = character(),
+      USMS_ID = character(),
       Distance = character(),
       National_Record = character(),
       Row_Numb = character(),
@@ -195,7 +189,7 @@ ePostal_Reader <- function(file_path) {
       Last_Name = character(),
       Age = character(),
       Club = character(),
-      ID = character(),
+      USMS_ID = character(),
       Distance = character(),
       National_Record = character(),
       Row_Numb = character(),
@@ -209,10 +203,10 @@ ePostal_Reader <- function(file_path) {
     dplyr::mutate(Row_Numb = as.numeric(Row_Numb)) %>%
     dplyr::arrange(Row_Numb) %>%
     dplyr::mutate(
-      ID = dplyr::case_when(
-        stringr::str_detect(ID, "-") == FALSE &
-          stringr::str_detect(ID, "[:lower:]") == FALSE ~ paste(df_2$ID_Cut, ID, sep = ""),
-        TRUE ~ ID
+      USMS_ID = dplyr::case_when(
+        stringr::str_detect(USMS_ID, "-") == FALSE &
+          stringr::str_detect(USMS_ID, "[:lower:]") == FALSE ~ paste(df_2$ID_Cut, USMS_ID, sep = ""),
+        TRUE ~ USMS_ID
       )
     ) %>%
     tidyr::fill(Age_Group, .direction = "down") %>%
@@ -231,8 +225,12 @@ ePostal_Reader <- function(file_path) {
   return(data)
 }
 
-Mens_2020 <- ePostal_Reader("inst/extdata/2020 OHEP Mens Preliminary Results.pdf")
-Womens_2020 <- ePostal_Reader("inst/extdata/2020 OHEP Womens Preliminary Results.pdf")
+Mens_2020 <- ePostal_Reader("inst/extdata/raw_data/2020 OHEP Mens Final Results.pdf")
+Womens_2020 <- ePostal_Reader("inst/extdata/raw_data/2020 OHEP Womens Final Results.pdf")
 
-df_2020 <- bind_rows(Mens_2020, Womens_2020)
+df_2020 <- bind_rows(Mens_2020, Womens_2020) %>% 
+  mutate(Name = paste(First_Name, Last_Name, sep = " ")) %>% 
+  select(Place, Name, Age, Club, Distance, USMS_ID, Gender, Year, National_Record)
+
+
 write.csv(df_2020, row.names = FALSE, "Postal_2020.csv")
