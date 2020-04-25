@@ -6,43 +6,43 @@ postal_files <- fs::dir_ls(data_dir, regexp = "\\.csv$")
 
 Postals <- map(postal_files, read_csv)
 
-Postal_1998 <- read_csv("inst/extdata/cleaned_data/Postal_1998.csv")
-Postal_1999 <- read_csv("inst/extdata/cleaned_data/Postal_1999.csv")
-Postal_2000 <- read_csv("inst/extdata/cleaned_data/Postal_2000.csv")
-Postal_2001 <- read_csv("inst/extdata/cleaned_data/Postal_2001.csv")
-Postal_2002 <- read_csv("inst/extdata/cleaned_data/Postal_2002.csv")
-Postal_2003 <- read_csv("inst/extdata/cleaned_data/Postal_2003.csv")
-Postal_2004 <- read_csv("inst/extdata/cleaned_data/Postal_2004.csv")
-Postal_2005 <- read_csv("inst/extdata/cleaned_data/Postal_2005.csv")
-Postal_2006 <- read_csv("inst/extdata/cleaned_data/Postal_2006.csv")
-Postal_2007 <- read_csv("inst/extdata/cleaned_data/Postal_2007.csv")
-Postal_2008 <- read_csv("inst/extdata/cleaned_data/Postal_2008.csv")
-Postal_2009 <- read_csv("inst/extdata/cleaned_data/Postal_2009.csv")
-Postal_2010 <- read_csv("inst/extdata/cleaned_data/Postal_2010.csv")
-Postal_2011 <- read_csv("inst/extdata/cleaned_data/Postal_2011.csv")
-Postal_2012 <- read_csv("inst/extdata/cleaned_data/Postal_2012.csv")
-Postal_2013 <- read_csv("inst/extdata/cleaned_data/Postal_2013.csv")
-Postal_2014 <- read_csv("inst/extdata/cleaned_data/Postal_2014.csv")
-Postal_2015 <- read_csv("inst/extdata/cleaned_data/Postal_2015.csv")
-Postal_2016 <- read_csv("inst/extdata/cleaned_data/Postal_2016.csv")
-Postal_2017 <- read_csv("inst/extdata/cleaned_data/Postal_2017.csv")
-Postal_2018 <- read_csv("inst/extdata/cleaned_data/Postal_2018.csv")
-Postal_2019 <- read_csv("inst/extdata/cleaned_data/Postal_2019.csv")
-Postal_2020 <- read_csv("inst/extdata/cleaned_data/Postal_2020.csv")
-
-Postals <-
-  list(
-    Postal_2011,
-    Postal_2012,
-    Postal_2013,
-    Postal_2014,
-    Postal_2015,
-    Postal_2016,
-    Postal_2017,
-    Postal_2018,
-    Postal_2019,
-    Postal_2020
-  )
+# Postal_1998 <- read_csv("inst/extdata/cleaned_data/Postal_1998.csv")
+# Postal_1999 <- read_csv("inst/extdata/cleaned_data/Postal_1999.csv")
+# Postal_2000 <- read_csv("inst/extdata/cleaned_data/Postal_2000.csv")
+# Postal_2001 <- read_csv("inst/extdata/cleaned_data/Postal_2001.csv")
+# Postal_2002 <- read_csv("inst/extdata/cleaned_data/Postal_2002.csv")
+# Postal_2003 <- read_csv("inst/extdata/cleaned_data/Postal_2003.csv")
+# Postal_2004 <- read_csv("inst/extdata/cleaned_data/Postal_2004.csv")
+# Postal_2005 <- read_csv("inst/extdata/cleaned_data/Postal_2005.csv")
+# Postal_2006 <- read_csv("inst/extdata/cleaned_data/Postal_2006.csv")
+# Postal_2007 <- read_csv("inst/extdata/cleaned_data/Postal_2007.csv")
+# Postal_2008 <- read_csv("inst/extdata/cleaned_data/Postal_2008.csv")
+# Postal_2009 <- read_csv("inst/extdata/cleaned_data/Postal_2009.csv")
+# Postal_2010 <- read_csv("inst/extdata/cleaned_data/Postal_2010.csv")
+# Postal_2011 <- read_csv("inst/extdata/cleaned_data/Postal_2011.csv")
+# Postal_2012 <- read_csv("inst/extdata/cleaned_data/Postal_2012.csv")
+# Postal_2013 <- read_csv("inst/extdata/cleaned_data/Postal_2013.csv")
+# Postal_2014 <- read_csv("inst/extdata/cleaned_data/Postal_2014.csv")
+# Postal_2015 <- read_csv("inst/extdata/cleaned_data/Postal_2015.csv")
+# Postal_2016 <- read_csv("inst/extdata/cleaned_data/Postal_2016.csv")
+# Postal_2017 <- read_csv("inst/extdata/cleaned_data/Postal_2017.csv")
+# Postal_2018 <- read_csv("inst/extdata/cleaned_data/Postal_2018.csv")
+# Postal_2019 <- read_csv("inst/extdata/cleaned_data/Postal_2019.csv")
+# Postal_2020 <- read_csv("inst/extdata/cleaned_data/Postal_2020.csv")
+# 
+# Postals <-
+#   list(
+#     Postal_2011,
+#     Postal_2012,
+#     Postal_2013,
+#     Postal_2014,
+#     Postal_2015,
+#     Postal_2016,
+#     Postal_2017,
+#     Postal_2018,
+#     Postal_2019,
+#     Postal_2020
+#   )
 
 Postalize <- function(x){
   # DFName <- as.character(substitute(x))
@@ -92,11 +92,11 @@ Postalize <- function(x){
   
   x <- x %>%
     group_by(Club) %>%
-    mutate(Club_Count_Male = sum(Gender == "M"))
+    mutate(Club_Count_Male = sum(Gender == "M", na.rm = TRUE))
   
   x <- x %>%
     group_by(Club) %>%
-    mutate(Club_Count_Female = sum(Gender == "W"))
+    mutate(Club_Count_Female = sum(Gender == "W", na.rm = TRUE))
   
   
   x <- x %>%
@@ -122,34 +122,36 @@ Postalize <- function(x){
       Club_Count_Female <= 100 ~ "L",
       TRUE ~ "XL"
     ))
+
+  x$Distance[x$Distance == 0] <- NA
+    
+  x <- x %>%
+    group_by(Club) %>%
+    mutate(Total_Distance_Combined = sum(Distance, na.rm = TRUE))
   
   x <- x %>%
     group_by(Club) %>%
-    mutate(Total_Distance_Combined = sum(Distance))
+    mutate(Total_Distance_Male = sum(Distance[Gender == "M"], na.rm = TRUE))
   
   x <- x %>%
     group_by(Club) %>%
-    mutate(Total_Distance_Male = sum(Distance[Gender == "M"]))
+    mutate(Total_Distance_Female = sum(Distance[Gender == "W"], na.rm = TRUE))
   
   x <- x %>%
     group_by(Club) %>%
-    mutate(Total_Distance_Female = sum(Distance[Gender == "W"]))
-  
-  x <- x %>%
-    group_by(Club) %>%
-    mutate(Avg_Age_Club = mean(Age))
+    mutate(Avg_Age_Club = mean(Age, na.rm = TRUE))
   x$Avg_Age_Club <- format(round(x$Avg_Age_Club, 2), nsmall = 2)
   x$Avg_Age_Club <- as.numeric(x$Avg_Age_Club)
   
   x <- x %>%
     group_by(Club) %>%
-    mutate(Avg_Age_Club_Male = mean(Age[Gender == "M"]))
+    mutate(Avg_Age_Club_Male = mean(Age[Gender == "M"], na.rm = TRUE))
   x$Avg_Age_Club_Male <- format(round(x$Avg_Age_Club_Male, 2), nsmall = 2)
   x$Avg_Age_Club_Male <- as.numeric(x$Avg_Age_Club_Male)
   
   x <- x %>%
     group_by(Club) %>%
-    mutate(Avg_Age_Club_Female = mean(Age[Gender == "W"]))
+    mutate(Avg_Age_Club_Female = mean(Age[Gender == "W"], na.rm = TRUE))
   x$Avg_Age_Club_Female <- format(round(x$Avg_Age_Club_Female, 2), nsmall = 2)
   x$Avg_Age_Club_Female <- as.numeric(x$Avg_Age_Club_Female)
   
