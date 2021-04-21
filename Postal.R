@@ -1,5 +1,7 @@
 library(readxl)
-library(tidyverse)
+library(dplyr)
+library(stringr)
+library(purrr)
 
 data_dir <- "inst/extdata/cleaned_data"
 postal_files <- fs::dir_ls(data_dir, regexp = "\\.csv$")
@@ -29,6 +31,7 @@ Postals <- map(postal_files, read_csv)
 # Postal_2018 <- read_csv("inst/extdata/cleaned_data/Postal_2018.csv")
 # Postal_2019 <- read_csv("inst/extdata/cleaned_data/Postal_2019.csv")
 # Postal_2020 <- read_csv("inst/extdata/cleaned_data/Postal_2020.csv")
+# Postal_2021 <- read_csv("inst/extdata/cleaned_data/Postal_2021.csv")
 # 
 # Postals <-
 #   list(
@@ -224,6 +227,6 @@ Postals_Processed <- Postals_Processed %>%
 
 write.csv(Postals_Processed, file = "Postal_All.csv", row.names = FALSE)
 
-Postals[23]$`inst/extdata/cleaned_data/Postal_2020.csv` %>% 
-  write.csv(file = "Postal_2020.csv", row.names = FALSE)
+# Postals[23]$`inst/extdata/cleaned_data/Postal_2020.csv` %>% 
+#   write.csv(file = "Postal_2020.csv", row.names = FALSE)
 

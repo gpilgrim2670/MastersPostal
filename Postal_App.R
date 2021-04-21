@@ -5,7 +5,7 @@ library(DT)
 library(ggrepel)
 library(shinycssloaders)
 
-Postal <- read.csv("Postal_2.csv")
+Postal <- read.csv("Postal_All.csv")
 
 BreakScale <- function(x) sprintf("%.0f", x)
 BreakScaleTwo <- function(x) sprintf("%.2f", x)
