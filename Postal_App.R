@@ -5,7 +5,7 @@ library(DT)
 library(ggrepel)
 library(shinycssloaders)
 
-Postal <- read.csv("Postal_All.csv")
+Postal <- read.csv("Postal_All.csv", stringsAsFactors = TRUE)
 
 BreakScale <- function(x) sprintf("%.0f", x)
 BreakScaleTwo <- function(x) sprintf("%.2f", x)
@@ -20,12 +20,17 @@ ui <- fluidPage(
                       titlePanel("Individual Results Comparison"),
                       fluidRow(column(5,
                                       # Select which Athletes(s) to plot
-                                      selectizeInput(inputId = "Athlete",
+                                      # selectizeInput(inputId = "Athlete",
+                                      #                label = "Select Athlete(s):",
+                                      #                choices = levels(Postal$Name),
+                                      #                multiple = TRUE,
+                                      #                options = list(maxItems = 8, placeholder = 'Enter Athlete Last Name',
+                                      #                               onInitialize = I('function() { this.setValue(""); }')))
+                                      selectizeInput(inputId = "Athlete", choices = NULL,                                       
                                                      label = "Select Athlete(s):",
-                                                     choices = levels(Postal$Name),
-                                                     multiple = TRUE,
-                                                     options = list(maxItems = 8, placeholder = 'Enter Athlete Last Name',
-                                                                    onInitialize = I('function() { this.setValue(""); }')))
+                                                                     multiple = TRUE,
+                                                                     options = list(maxItems = 8, placeholder = 'Enter Athlete Name',
+                                                                                    onInitialize = I('function() { this.setValue(""); }')))
                                       #helpText("Tip: Enter athlete last name")
                       ),
                       column(5,
@@ -90,7 +95,7 @@ ui <- fluidPage(
                                                            label = "Select Year:",
                                                            choices = levels(as.factor(Postal$Year)),
                                                            multiple = FALSE,    
-                                                           selected = "2020"),
+                                                           selected = "2021"),
                       hr(),
 
                                     
@@ -206,6 +211,11 @@ server <- function(input, output) {
       filter(Year %in% input$Year)
       
   }) 
+  
+  updateSelectizeInput(inputId = "Athlete",
+                 choices = levels(Postal$Name),
+                 server = TRUE,
+)
   
   
   Postal_Club <- reactive({
