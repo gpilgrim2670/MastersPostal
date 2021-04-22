@@ -24,7 +24,7 @@ BreakScaleTwo <- function(x) sprintf("%.2f", x)
 ui <- fluidPage(
    
   # Application title
-  navbarPage("Postal",
+  navbarPage("USMS ePostal",
              tabPanel("Individual Results Comparison", fluid = TRUE,
                       titlePanel("Individual Results Comparison"),
                       fluidRow(column(5,
@@ -203,6 +203,8 @@ ui <- fluidPage(
                                br(),
                                h5(p("I write about R and Swimming reguarly ", a("here", href = "https://pilgrim.netlify.app/"))),
                                br(),
+                               h5(p("Sourcecode for this project is available on ", a("Github", href = "https://github.com/gpilgrim2670/MastersPostal"))),
+                               br(),
                                h5(p("Any comments or questions are welcome at gpilgrim2607@gmail.com")),
                                hr(),
                                h5("Sources:"),
@@ -230,6 +232,8 @@ ui <- fluidPage(
                       )
              ),
              tabPanel("Data",
+                      # contains key for column values in Postal
+                      # allows download of entire Postal dataset
                       br(),
                       downloadButton(outputId = "DownloadPostal",
                                      label = "Download"),
@@ -249,8 +253,8 @@ ui <- fluidPage(
                       h5(p(strong("Age_Group:"), "USMS age categories.  Competion is within age group and gender")),
                       h5(p(strong("Avg_Split_50:"), "Average time to swim 50 yards, in seconds")),
                       h5(p(strong("Relative_Place:"), "Athlete's place within their gender and age group for a given year.  E.g. '4 of 23'.")),
-                      h5(p(strong("USMS_ID:"), "An athlete's United States Masters Swimming identification number for a given year.  Changes year to year, not present in earlier years.")),
-                      h5(p(strong("Perm_ID:"), "The permanant portion of an athlete's USMS_ID.  Used to identify athletes across years in the event of name changes.")),
+                      h5(p(strong("USMS_ID:"), "An athlete's United States Masters Swimming identification number for a given year.  Changes year to year, not present prior to 2011.")),
+                      h5(p(strong("Perm_ID:"), "A 5 character alphanumeric string that is the permanant portion of an athlete's USMS_ID.  Used to identify athletes across years in the event of name changes.  If no USMS_ID is present a randomly generated 6 character alphabetic string is used instead.")),
                       h5(p(strong("National_Record:"), "Did the athlete set a national record for their age group and gender with this particular swim?  Either (Y)es or (N)o.")),
                       hr(),
                       h4(p("The following values refer to the Club listed in 'Club'")),
