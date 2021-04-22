@@ -118,7 +118,7 @@ ui <- fluidPage(
                                                      label = "Select Year:",
                                                      choices = levels(as.factor(Postal$Year)),
                                                      multiple = FALSE,    
-                                                     selected = "2020")
+                                                     selected = "2021")
                       ),
                       
                       column(6, offset = 2,
@@ -169,6 +169,8 @@ ui <- fluidPage(
                                br(),
                                h5(p("I began this project as an attempt to combine my interest in swimming with a need to practice R, a programming language used primarily for analyzing and reporting data.  It has two components.  The first is this app, which queries a dataset to return information in the form of plots, data tables etc.  The second is the dataset itself, the seed of which I collected from USMS as sourced below.")),
                                br(),
+                               h5(p("I write about R and Swimming reguarly ", a("here", href = "https://pilgrim.netlify.app/"))),
+                               br(),
                                h5(p("Any comments or questions are welcome at gpilgrim2607@gmail.com")),
                                hr(),
                                h5("Sources:"),
@@ -185,11 +187,13 @@ ui <- fluidPage(
                         ,
                         column(6,
                                br(),
+                               h4(p("About the Author")),
                                HTML('<img src="GregPicCrop.png", height="110px"    
           style="float:right"/>','<p style="color:black"></p>'),
-                               h4(p("About the Author")),
+                               # h4(p("About the Author")),
                                h5(p("Greg is a former collegiate swimmer.  After completing his undergrad degree he joined USMS, earned a PhD in chemistry, and began officiating swimming at the high school and NCAA level.  He now swims with his local USMS team while also working as a scientist.")
-                               ))
+                               ),
+                               hr())
                         
                         
                       )
@@ -264,7 +268,7 @@ server <- function(input, output) {
       theme_minimal() +
       labs(x = NULL, y = NULL) +
       guides(color = FALSE) +
-      scale_x_continuous(breaks = c(2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020)) +
+      scale_x_continuous(breaks = c(2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021)) +
       if (length(Postal_Athlete()) == 1) {
         scale_y_continuous(labels = BreakScaleTwo)
       } else {
@@ -293,8 +297,8 @@ server <- function(input, output) {
    })
    
    output$ResultsTable<-DT::renderDataTable({
-     DT::datatable(Postal_subset()[,c("Relative_Place", "Age_Group", "Name", "Club", "Distance", "Avg_Speed_50", "Age")], 
-                   colnames = c("Place" = "Relative_Place", "Age Group" = "Age_Group", "Average 50 Time" = "Avg_Speed_50"),
+     DT::datatable(Postal_subset()[,c("Relative_Place", "Age_Group", "Name", "Club", "Distance", "Avg_Split_50", "Age")], 
+                   colnames = c("Place" = "Relative_Place", "Age Group" = "Age_Group", "Average 50 Time" = "Avg_Split_50"),
                    rownames = FALSE,
                    options = list(order = list(4, 'desc'),
                                   columnDefs = list(list(className = 'dt-center', targets = 0:6))
@@ -304,23 +308,23 @@ server <- function(input, output) {
    
    output$ClubTable<-DT::renderDataTable({
      if(input$GenderClub == "W"){
-     DT::datatable(unique(Postal_Club()[,c("Female_Rank", "Club", "Total_Distance_Female", "Club_Count_Female", "Avg_Distance_Female", "Avg_Speed_50_Club_Female", "Avg_Age_Club_Female", "Club_Size_Female")]), 
-                   colnames = c("Ranking"= "Female_Rank", "Total Distance" = "Total_Distance_Female", "No. of Athletes" = "Club_Count_Female", "Average Distance Per Athlete" = "Avg_Distance_Female", "Club Average 50 Pace" = "Avg_Speed_50_Club_Female", "Club Average Age" = "Avg_Age_Club_Female", "Club Size" = "Club_Size_Female"),
+     DT::datatable(unique(Postal_Club()[,c("Female_Rank", "Club", "Total_Distance_Female", "Club_Count_Female", "Avg_Distance_Female", "Avg_Split_50_Club_Female", "Avg_Age_Club_Female", "Club_Size_Female")]), 
+                   colnames = c("Ranking"= "Female_Rank", "Total Distance" = "Total_Distance_Female", "No. of Athletes" = "Club_Count_Female", "Average Distance Per Athlete" = "Avg_Distance_Female", "Club Average 50 Pace" = "Avg_Split_50_Club_Female", "Club Average Age" = "Avg_Age_Club_Female", "Club Size" = "Club_Size_Female"),
                    rownames = FALSE,
                    options = list(order = list(0, 'asc'),
                                   columnDefs = list(list(className = 'dt-center', targets = 0:7)))
      )
        }
      else if(input$GenderClub == "M"){
-       DT::datatable(unique(Postal_Club()[,c("Male_Rank", "Club", "Total_Distance_Male", "Club_Count_Male", "Avg_Distance_Male", "Avg_Speed_50_Club_Male", "Avg_Age_Club_Male", "Club_Size_Male")]),
-                     colnames = c("Ranking"= "Male_Rank", "Total Distance" = "Total_Distance_Male", "No. of Athletes" = "Club_Count_Male", "Average Distance Per Athlete" = "Avg_Distance_Male", "Club Average 50 Pace" = "Avg_Speed_50_Club_Male", "Club Average Age" = "Avg_Age_Club_Male", "Club Size" = "Club_Size_Male"),
+       DT::datatable(unique(Postal_Club()[,c("Male_Rank", "Club", "Total_Distance_Male", "Club_Count_Male", "Avg_Distance_Male", "Avg_Split_50_Club_Male", "Avg_Age_Club_Male", "Club_Size_Male")]),
+                     colnames = c("Ranking"= "Male_Rank", "Total Distance" = "Total_Distance_Male", "No. of Athletes" = "Club_Count_Male", "Average Distance Per Athlete" = "Avg_Distance_Male", "Club Average 50 Pace" = "Avg_Split_50_Club_Male", "Club Average Age" = "Avg_Age_Club_Male", "Club Size" = "Club_Size_Male"),
                      rownames = FALSE,
                      options = list(order = list(0, 'asc'),
                                     columnDefs = list(list(className = 'dt-center', targets = 0:7)))
        )}
      else{
-       DT::datatable(unique(Postal_Club()[,c("Combined_Rank", "Club", "Total_Distance_Combined", "Club_Count", "Avg_Distance_Combined", "Avg_Speed_50_Club_Combined", "Avg_Age_Club", "Club_Size_Combined")]),
-                     colnames = c("Ranking"= "Combined_Rank", "Total Distance" = "Total_Distance_Combined", "No. of Athletes" = "Club_Count", "Average Distance Per Athlete" = "Avg_Distance_Combined", "Club Average 50 Pace" = "Avg_Speed_50_Club_Combined", "Club Average Age" = "Avg_Age_Club", "Club Size" = "Club_Size_Combined"),
+       DT::datatable(unique(Postal_Club()[,c("Combined_Rank", "Club", "Total_Distance_Combined", "Club_Count", "Avg_Distance_Combined", "Avg_Split_50_Club_Combined", "Avg_Age_Club", "Club_Size_Combined")]),
+                     colnames = c("Ranking"= "Combined_Rank", "Total Distance" = "Total_Distance_Combined", "No. of Athletes" = "Club_Count", "Average Distance Per Athlete" = "Avg_Distance_Combined", "Club Average 50 Pace" = "Avg_Split_50_Club_Combined", "Club Average Age" = "Avg_Age_Club", "Club Size" = "Club_Size_Combined"),
                      rownames = FALSE,
                      options = list(order = list(0, 'asc'),
                                     columnDefs = list(list(className = 'dt-center', targets = 0:7)))
@@ -328,8 +332,8 @@ server <- function(input, output) {
    })
    
    output$AthleteTable<-DT::renderDataTable({
-     DT::datatable(Postal_Athlete()[,c("Name", "Club", "Year", "Distance", "Avg_Speed_50", "Relative_Place", "Gender", "Age", "Age_Group")], 
-                   colnames = c("Age Group"= "Age_Group", "Relative Place" = "Relative_Place",  "Average 50 Time" = "Avg_Speed_50"),
+     DT::datatable(Postal_Athlete()[,c("Name", "Club", "Year", "Distance", "Avg_Split_50", "Relative_Place", "Gender", "Age", "Age_Group")], 
+                   colnames = c("Age Group"= "Age_Group", "Relative Place" = "Relative_Place",  "Average 50 Time" = "Avg_Split_50"),
                    rownames = FALSE,
                    options = list(order = list(3, 'desc'),
                                   columnDefs = list(list(className = 'dt-center', targets = 1:7))
@@ -338,8 +342,8 @@ server <- function(input, output) {
    })
    
    output$RecordTable<-DT::renderDataTable({
-     DT::datatable(Postal_Record()[,c("Name", "Club", "Distance", "Avg_Speed_50", "Relative_Place", "Gender", "Age", "Age_Group", "National_Record")], 
-                   colnames = c("Age Group"= "Age_Group", "Relative Place" = "Relative_Place",  "Average 50 Time" = "Avg_Speed_50", "National Record" = "National_Record"),
+     DT::datatable(Postal_Record()[,c("Name", "Club", "Distance", "Avg_Split_50", "Relative_Place", "Gender", "Age", "Age_Group", "National_Record")], 
+                   colnames = c("Age Group"= "Age_Group", "Relative Place" = "Relative_Place",  "Average 50 Time" = "Avg_Split_50", "National Record" = "National_Record"),
                    rownames = FALSE,
                    options = list(order = list(2, 'desc'),
                                   columnDefs = list(list(className = 'dt-center', targets = 1:8))
