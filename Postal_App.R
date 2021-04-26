@@ -330,7 +330,6 @@ server <- function(input, output) {
       theme_minimal() +
       labs(x = NULL, y = NULL) +
       guides(color = FALSE) +
-      scale_x_continuous(breaks = seq(Club_Size_Min, Club_Size_Max, 1)) +
       if (length(Postal_Athlete()) == 1) {
         scale_y_continuous(labels = BreakScaleTwo)
       } else {
