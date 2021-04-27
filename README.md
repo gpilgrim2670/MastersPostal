@@ -12,6 +12,7 @@ There are several articles on the blog [Swimming + Data Science](https://pilgrim
 
 1. [The USMS ePostal Over the Last 20+ Years](https://pilgrim.netlify.app/post/the-usms-epostal-over-the-last-20-years/)
 2. [Analyzing the US Masters 2020 1-Hour ePostal Results](https://pilgrim.netlify.app/post/analyzing-the-us-masters-2020-epostal-results/)
+3. [The 2021 USMS ePostal Championship Results, Working Up Data for a Shiny App](https://pilgrim.netlify.app/post/2021-04-21-the-2021-usms-epostal-championship-results/) addresses this project directly
 
 ## Raw Results
 
