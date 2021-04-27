@@ -1,4 +1,4 @@
-# Masters Postal
+# USMS ePostal
 
 This project deals with the [United States Masters Swimming (USMS) ePostal championships](https://www.usms.org/events/national-championships/epostal-national-championships).  Held every year, ePostal competitors swim for one hour, aiming to travel the furthest distance.  Results are ranked by age group and gender.
 
