@@ -8,9 +8,11 @@ As reported results since 1998 are [available as a .csv file](https://github.com
 
 ## Value Added Results
 
-Results with [additional calculated statistics](https://github.com/gpilgrim2670/MastersPostal/blob/master/Postal_All.csv) (split times, athlete and club ranking etc.) are also available in this repo.  Column definitions are as follows:
+Results with [additional calculated statistics](https://github.com/gpilgrim2670/MastersPostal/blob/master/Postal_All.csv) (split times, athlete and club ranking etc.) are also available in this repo.
 
-### The following values refer to the athlete listed in 'Name'
+### Glossary of Column Values
+
+#### The following values refer to the athlete listed in 'Name'
 
 **Place:** Order of finish for an athlete in a given age group, gender and year
 
@@ -38,7 +40,7 @@ Results with [additional calculated statistics](https://github.com/gpilgrim2670/
 
 **National_Record:** Did the athlete set a national record for their age group and gender with this particular swim?  Either (Y)es or (N)o.
 
-### The following values refer to the Club listed in 'Club'
+#### The following values refer to the Club listed in 'Club'
 
 **Club_Count:** Number of athletes in Club
 
